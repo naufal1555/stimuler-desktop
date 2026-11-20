@@ -1,0 +1,853 @@
+{
+  "status": "completed",
+  "display_mode": "normal",
+  "entity": {
+    "attempt_type": "conversation",
+    "id": "123"
+  },
+  "scores": {
+    "overall": {
+      "text": "85%",
+      "heading_text": "Score",
+      "fill_fraction": 0.85,
+      "axis_labels": [
+        "0",
+        "20",
+        "40",
+        "60",
+        "80",
+        "100"
+      ],
+      "callout": {
+        "text": "Awesome! You did well.",
+        "highlights": [
+          {
+            "start_index": 0,
+            "end_index": 8,
+            "color": "#F9A834"
+          },
+          {
+            "start_index": 9,
+            "end_index": 22,
+            "color": "#B3B3B3",
+            "underline": true
+          }
+        ]
+      }
+    }
+  },
+  "labels": {
+    "screens": {
+      "main": {
+        "title": "Hobbies",
+        "report_heading": "See Report",
+        "recordings_tab": {
+          "target": "recording",
+          "text": "Your Recordings"
+        }
+      },
+      "overview": {
+        "correction_feedback": {
+          "prompt": "Was this correct?",
+          "thanks_text": "Thanks for the feedback",
+          "reasons": [
+            "Wrong Suggestions",
+            "Not Helpful",
+            "This is not what I said!",
+            "Other Issue"
+          ],
+          "sheet_reasons_title": "Can you tell us more? Why you didn't like the feedback",
+          "sheet_text_title": "Please tell us more about why the feedback was not helpful?",
+          "sheet_hint": "Feedback/Reason",
+          "sheet_submit_label": "Submit"
+        },
+        "accuracy_feedback": {
+          "prompt": "How accurate was the transcript?",
+          "positive_label": "Perfect Match",
+          "negative_label": "Has some errors",
+          "thanks_text": "Thanks for your feedback!",
+          "sheet_title": "Sorry we heard you wrong. Could you please type what you meant?",
+          "sheet_edit_label": "Edit the transcript",
+          "sheet_hint": "Enter your feedback",
+          "sheet_submit_label": "Submit your response"
+        },
+        "section_feedback": {
+          "thanks_positive": "Thanks for the response!",
+          "thanks_negative": "Thanks for the response!\nWe will make sure to fix it soon!",
+          "reasons_title": "Can you tell us more? Why you didn't like the feedback",
+          "reasons": [
+            "Wrong Suggestion",
+            "Not Helpful",
+            "Facing Bugs",
+            "Other Issues"
+          ]
+        }
+      }
+    }
+  },
+  "tabs": [
+    {
+      "key": "recording",
+      "name": "Your Recordings",
+      "score": 85,
+      "score_display": {
+        "text": "85%",
+        "fill_fraction": 0.85
+      },
+      "sentiment": "good",
+      "cta_text": "See Detailed Feedback",
+      "show_on_main": false,
+      "target": "recording",
+      "collapsed": null,
+      "expanded": null
+    },
+    {
+      "key": "grammar",
+      "name": "Grammar",
+      "score": 91,
+      "score_display": {
+        "text": "91%",
+        "fill_fraction": 0.91
+      },
+      "sentiment": "good",
+      "cta_text": "See Detailed Feedback",
+      "target": "grammar",
+      "callout": {
+        "text": "Your Grammar was almost perfect! See Why?",
+        "highlights": [
+          {
+            "start_index": 0,
+            "end_index": 33,
+            "color": "#3BBE8F"
+          },
+          {
+            "start_index": 33,
+            "end_index": 41,
+            "color": "#B3B3B3",
+            "underline": true
+          }
+        ]
+      },
+      "collapsed": {
+        "text": "Good! see detailed feedback",
+        "highlights": []
+      },
+      "expanded": {
+        "text": "Review your grammar corrections",
+        "highlights": []
+      }
+    },
+    {
+      "key": "fluency",
+      "name": "Fluency",
+      "sentiment": "neutral",
+      "cta_text": "See Detailed Feedback",
+      "target": "fluency",
+      "callout": {
+        "text": "We couldn't score fluency this time.",
+        "highlights": []
+      },
+      "collapsed": {
+        "text": "We couldn't score fluency this time.",
+        "highlights": []
+      },
+      "expanded": {
+        "text": "See what happened",
+        "highlights": []
+      }
+    },
+    {
+      "key": "pronunciation",
+      "name": "Pronunciation",
+      "score": 74,
+      "score_display": {
+        "text": "74%",
+        "fill_fraction": 0.74
+      },
+      "sentiment": "neutral",
+      "cta_text": "See Detailed Feedback",
+      "target": "pronunciation",
+      "callout": {
+        "text": "Your Pronunciation score is good! See Details.",
+        "highlights": [
+          {
+            "start_index": 0,
+            "end_index": 34,
+            "color": "#F9A834"
+          },
+          {
+            "start_index": 34,
+            "end_index": 46,
+            "color": "#B3B3B3",
+            "underline": true
+          }
+        ]
+      },
+      "collapsed": {
+        "text": "Practice 4 words to improve score by 30%",
+        "highlights": [
+          {
+            "start_index": 37,
+            "end_index": 40,
+            "color": "#FBBF24"
+          }
+        ]
+      },
+      "expanded": {
+        "text": "Practice these mispronounced words",
+        "highlights": []
+      }
+    },
+    {
+      "key": "vocabulary",
+      "name": "Vocabulary",
+      "score": 84,
+      "score_display": {
+        "text": "84%",
+        "fill_fraction": 0.84
+      },
+      "sentiment": "good",
+      "cta_text": "See Detailed Feedback",
+      "target": "vocabulary",
+      "callout": {
+        "text": "Your Vocabulary score is good! See Details.",
+        "highlights": [
+          {
+            "start_index": 0,
+            "end_index": 31,
+            "color": "#F9A834"
+          },
+          {
+            "start_index": 31,
+            "end_index": 43,
+            "color": "#B3B3B3",
+            "underline": true
+          }
+        ]
+      },
+      "collapsed": {
+        "text": "Great word choice! see detailed feedback",
+        "highlights": []
+      },
+      "expanded": {
+        "text": "See better word suggestions",
+        "highlights": []
+      }
+    }
+  ],
+  "recording": {
+    "states": [
+      {
+        "key": "section",
+        "status": "success"
+      }
+    ],
+    "recordings": [
+      {
+        "message_id": "019f6b4c-2d06-7d22-899e-78614a1f2b13",
+        "title": "Recording 1",
+        "bot_transcript": "Cool, may I know where are you from?",
+        "audio_url": "https://storage.googleapis.com/stimuler-53977-prod-2/users/JPeh57ZTalYHHight1ZilYqHlrH3/users_conversation_v3/1rFjXId86CFLEk8MLyig/eW3jln3p1C2g5nJQQw9G_20260617_084719.wav",
+        "duration_ms": 2000,
+        "transcript": {
+          "text": "I am from Maharashtra.",
+          "highlights": [
+            {
+              "start_index": 0,
+              "end_index": 1,
+              "start_ms": 0,
+              "end_ms": 500,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 2,
+              "end_index": 4,
+              "start_ms": 500,
+              "end_ms": 1000,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 5,
+              "end_index": 9,
+              "start_ms": 1000,
+              "end_ms": 1500,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 10,
+              "end_index": 22,
+              "start_ms": 1500,
+              "end_ms": 2000,
+              "color": "#64B5F6"
+            }
+          ]
+        }
+      },
+      {
+        "message_id": "019f6b4c-2d06-7d22-899e-78614a1f2c88",
+        "title": "Recording 2",
+        "bot_transcript": "Nice! Maharashtra is a beautiful place. How is your day going so far?",
+        "audio_url": "https://storage.googleapis.com/stimuler-53977-prod-2/users/JPeh57ZTalYHHight1ZilYqHlrH3/users_conversation_v3/1rFjXId86CFLEk8MLyig/eW3jln3p1C2g5nJQQw9G_20260617_084719.wav",
+        "duration_ms": 8000,
+        "transcript": {
+          "text": "It was quite good. It was a bit hectic because of work, but overall it's great.",
+          "highlights": [
+            {
+              "start_index": 0,
+              "end_index": 2,
+              "start_ms": 0,
+              "end_ms": 500,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 3,
+              "end_index": 6,
+              "start_ms": 500,
+              "end_ms": 1000,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 7,
+              "end_index": 12,
+              "start_ms": 1000,
+              "end_ms": 1500,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 13,
+              "end_index": 18,
+              "start_ms": 1500,
+              "end_ms": 2000,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 19,
+              "end_index": 21,
+              "start_ms": 2000,
+              "end_ms": 2500,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 22,
+              "end_index": 25,
+              "start_ms": 2500,
+              "end_ms": 3000,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 26,
+              "end_index": 27,
+              "start_ms": 3000,
+              "end_ms": 3500,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 28,
+              "end_index": 31,
+              "start_ms": 3500,
+              "end_ms": 4000,
+              "color": "#64B5F6"
+            }
+          ]
+        }
+      },
+      {
+        "message_id": "019f6b4c-2d06-7d22-899e-78614a1f2d01",
+        "title": "Recording 3 (transcript + state_text)",
+        "bot_transcript": "Tell me about your favourite hobby.",
+        "audio_url": "https://storage.googleapis.com/stimuler-53977-prod-2/users/JPeh57ZTalYHHight1ZilYqHlrH3/users_conversation_v3/1rFjXId86CFLEk8MLyig/eW3jln3p1C2g5nJQQw9G_20260617_084719.wav",
+        "duration_ms": 3000,
+        "state": "partial",
+        "state_text": "You spoke a bit too fast for us to follow the whole answer.",
+        "transcript": {
+          "text": "I really enjoy playing cricket on weekends.",
+          "highlights": [
+            {
+              "start_index": 0,
+              "end_index": 1,
+              "start_ms": 0,
+              "end_ms": 750,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 2,
+              "end_index": 8,
+              "start_ms": 750,
+              "end_ms": 1500,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 9,
+              "end_index": 14,
+              "start_ms": 1500,
+              "end_ms": 2250,
+              "color": "#64B5F6"
+            },
+            {
+              "start_index": 15,
+              "end_index": 22,
+              "start_ms": 2250,
+              "end_ms": 3000,
+              "color": "#64B5F6"
+            }
+          ]
+        }
+      },
+      {
+        "message_id": "019f6b4c-2d06-7d22-899e-78614a1f2e02",
+        "title": "Recording 4 (state_text only, no transcript)",
+        "bot_transcript": "What did you do last weekend?",
+        "audio_url": "https://storage.googleapis.com/stimuler-53977-prod-2/users/JPeh57ZTalYHHight1ZilYqHlrH3/users_conversation_v3/1rFjXId86CFLEk8MLyig/eW3jln3p1C2g5nJQQw9G_20260617_084719.wav",
+        "duration_ms": 2000,
+        "state": "couldnt_hear",
+        "state_text": "We couldn't hear you clearly on this one — try recording in a quieter spot.",
+        "transcript": {
+          "text": "",
+          "highlights": []
+        }
+      },
+      {
+        "message_id": "019f6b4c-2d06-7d22-899e-78614a1f2f03",
+        "title": "Recording 5 (neither — fallback)",
+        "bot_transcript": "How was your commute today?",
+        "audio_url": "https://storage.googleapis.com/stimuler-53977-prod-2/users/JPeh57ZTalYHHight1ZilYqHlrH3/users_conversation_v3/1rFjXId86CFLEk8MLyig/eW3jln3p1C2g5nJQQw9G_20260617_084719.wav",
+        "duration_ms": 2000,
+        "state": "couldnt_grade",
+        "transcript": {
+          "text": "",
+          "highlights": []
+        }
+      }
+    ]
+  },
+  "grammar": {
+    "states": [
+      {
+        "key": "section",
+        "status": "success"
+      },
+      {
+        "key": "grammatical",
+        "status": "success"
+      },
+      {
+        "key": "stats",
+        "status": "success"
+      },
+      {
+        "key": "fillers",
+        "status": "no_mistakes",
+        "title": "No filler words",
+        "message": {
+          "text": "Clean delivery — you didn't lean on any filler words.",
+          "highlights": []
+        }
+      }
+    ],
+    "feedback_prompt": "How did you like the feedback on grammar?",
+    "mistakes": {
+      "header": {
+        "text": "Correcting these can increase your score by 2.0%",
+        "highlights": [
+          {
+            "start_index": 0,
+            "end_index": 16,
+            "underline": true
+          },
+          {
+            "start_index": 44,
+            "end_index": 48,
+            "color": "#00CB6B"
+          }
+        ]
+      },
+      "fillers_header": {
+        "text": "Filler Words",
+        "highlights": []
+      },
+      "corrections": {
+        "fillers": [],
+        "grammatical": [
+          {
+            "id": "gc_1",
+            "title": "Error #1",
+            "type": "Prepositions",
+            "reason": "Use 'at' after 'good' when talking about a skill",
+            "original": {
+              "text": "She is good in maths",
+              "highlights": [
+                {
+                  "start_index": 12,
+                  "end_index": 14,
+                  "color": "#F35252"
+                }
+              ]
+            },
+            "corrected": {
+              "text": "She is good in at maths",
+              "highlights": [
+                {
+                  "start_index": 12,
+                  "end_index": 14,
+                  "color": "#F35252",
+                  "strikethrough": true
+                },
+                {
+                  "start_index": 15,
+                  "end_index": 17,
+                  "color": "#1A8B56"
+                }
+              ]
+            },
+            "done_tooltip": "Tap if learnt"
+          },
+          {
+            "id": "gc_2",
+            "title": "Error #2",
+            "type": "CONTRACTIONS",
+            "reason": "Use 'at the office' to refer to the workplace location.",
+            "original": {
+              "text": "In office, I often speak in English with my colleagues.",
+              "highlights": [
+                {
+                  "start_index": 0,
+                  "end_index": 9,
+                  "color": "#F35252"
+                }
+              ]
+            },
+            "corrected": {
+              "text": "At the office, I often speak in English with my colleagues.",
+              "highlights": [
+                {
+                  "start_index": 0,
+                  "end_index": 13,
+                  "color": "#1A8B56"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "stats": {
+      "title": {
+        "text": "Number of errors",
+        "highlights": []
+      },
+      "items": [
+        {
+          "label": "Grammatical Errors",
+          "value": 2
+        },
+        {
+          "label": "Filler Words",
+          "value": 0
+        }
+      ]
+    }
+  },
+  "fluency": {
+    "states": [
+      {
+        "key": "section",
+        "status": "success"
+      },
+      {
+        "key": "speeches",
+        "status": "success"
+      },
+      {
+        "key": "pace_regions",
+        "status": "success"
+      },
+      {
+        "key": "stats",
+        "status": "success"
+      }
+    ],
+    "feedback_prompt": "How did you like the feedback on fluency?",
+    "user_speech_label": "Your Speech",
+    "improved_speech_label": "Improved Speech",
+    "listen_label": "Listen to improved speech",
+    "header": {
+      "text": "Use Improved Speech to Increase Your Score by 0.5%",
+      "highlights": [
+        {
+          "start_index": 4,
+          "end_index": 18,
+          "underline": true
+        },
+        {
+          "start_index": 46,
+          "end_index": 50,
+          "color": "#00CB6B"
+        }
+      ]
+    },
+    "pace_regions": [],
+    "speeches": [
+      {
+        "speech_id": "fs_1_0",
+        "original": "I went to the market and then I umm bought some vegetables",
+        "improved": "I went to the market and then bought some vegetables",
+        "pace_points": [
+          {
+            "seconds": 0,
+            "pace": 118
+          },
+          {
+            "seconds": 5,
+            "pace": 96
+          }
+        ],
+        "pauses": [
+          {
+            "start_index": 20,
+            "duration_ms": 850,
+            "color": "#EA5363"
+          },
+          {
+            "start_index": 35,
+            "duration_ms": 10000,
+            "color": "#EA5363"
+          }
+        ],
+        "pause_summary": {
+          "text": "2 Awkward Pauses in this speech",
+          "highlights": [
+            {
+              "start_index": 0,
+              "end_index": 31,
+              "color": "#F43E51"
+            }
+          ]
+        }
+      },
+      {
+        "speech_id": "fs_2_0",
+        "original": "Hi Sarah. My day is going great. How are you?",
+        "improved": "Hi Sarah. My day is going great. How are you?",
+        "pace_points": [
+          {
+            "seconds": 0,
+            "pace": 163
+          }
+        ],
+        "pauses": [],
+        "pause_summary": {
+          "text": "Great! No Awkward Pauses Here",
+          "highlights": [
+            {
+              "start_index": 0,
+              "end_index": 29,
+              "color": "#5CF2AB"
+            }
+          ]
+        }
+      }
+    ],
+    "stats": {
+      "title": {
+        "text": "Your speed of speaking was good",
+        "highlights": [
+          {
+            "start_index": 23,
+            "end_index": 31,
+            "color": "#00CB6B"
+          }
+        ]
+      },
+      "items": [
+        {
+          "label": "Words per minute",
+          "value": 163
+        },
+        {
+          "label": "Syllables per minute",
+          "value": 202
+        }
+      ]
+    }
+  },
+  "pronunciation": {
+    "states": [
+      {
+        "key": "section",
+        "status": "success"
+      },
+      {
+        "key": "speeches",
+        "status": "success"
+      },
+      {
+        "key": "practice_words",
+        "status": "success"
+      }
+    ],
+    "feedback_prompt": "How did you like the feedback on pronunciation?",
+    "mistakes": {
+      "bot_avatar_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/conversation%2Favatars%2Fsarah_pointing.png?alt=media&token=72829a57-e098-43bf-9392-4082756213bd",
+      "header": {
+        "text": "Your Pronunciation Errors:",
+        "highlights": []
+      },
+      "practice_header": {
+        "text": "Practice these words",
+        "highlights": []
+      },
+      "practice_words": [
+        {
+          "id": "pw_1",
+          "title": "Word #1",
+          "word": "contagious",
+          "word_display": {
+            "text": "Contagious",
+            "highlights": [
+              {
+                "start_index": 3,
+                "end_index": 6,
+                "color": "#FAA936"
+              }
+            ]
+          },
+          "phonetic": "kənˈteɪdʒəs",
+          "phonetic_display": {
+            "text": "kuhn•tay•juhs",
+            "highlights": [
+              {
+                "start_index": 5,
+                "end_index": 8,
+                "color": "#FAA936"
+              }
+            ]
+          },
+          "score": 52,
+          "state": "hard",
+          "is_locked": false,
+          "error_speech_id": "ps_1",
+          "user_audio_position": {
+            "from_ms": 1200,
+            "to_ms": 1850
+          }
+        }
+      ],
+      "speeches": [
+        {
+          "id": "ps_1",
+          "title": "Speech #1",
+          "audio_url": "https://cdn.stimuler.ai/mock/speech_1.mp3",
+          "transcript": {
+            "text": "I want to learn English for my work.",
+            "highlights": [
+              {
+                "start_index": 15,
+                "end_index": 22,
+                "color": "#FAA936"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ps_2",
+          "title": "Speech #2",
+          "audio_url": "https://cdn.stimuler.ai/mock/speech_2.mp3",
+          "transcript": {
+            "text": "I am really enjoying my photography hobby after work.",
+            "highlights": [
+              {
+                "start_index": 12,
+                "end_index": 20,
+                "color": "#FAA936"
+              },
+              {
+                "start_index": 24,
+                "end_index": 35,
+                "color": "#FAA936"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ps_3",
+          "title": "Speech #3",
+          "audio_url": "https://cdn.stimuler.ai/mock/speech_3.mp3",
+          "transcript": {
+            "text": "In office, I often speak in English with my colleagues.",
+            "highlights": [
+              {
+                "start_index": 29,
+                "end_index": 36,
+                "color": "#FAA936"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "states": [
+      {
+        "key": "section",
+        "status": "success"
+      },
+      {
+        "key": "cefr",
+        "status": "success"
+      },
+      {
+        "key": "vocabulary",
+        "status": "no_mistakes",
+        "title": "Strong word choice",
+        "message": {
+          "text": "No stronger alternatives to suggest this time.",
+          "highlights": []
+        }
+      }
+    ],
+    "feedback_prompt": "How did you like the feedback on vocabulary?",
+    "stats": {
+      "title": {
+        "text": "Your Word Difficulty Level:",
+        "highlights": []
+      },
+      "tip": "TIP: Learn more B2/C1/C2 Words to Increase your Score",
+      "items": [
+        {
+          "level": "A1",
+          "percentage": 23.4
+        },
+        {
+          "level": "A2",
+          "percentage": 12.8
+        },
+        {
+          "level": "B1",
+          "percentage": 46.8
+        },
+        {
+          "level": "B2",
+          "percentage": 10.6
+        },
+        {
+          "level": "C1",
+          "percentage": 4.3
+        },
+        {
+          "level": "C2",
+          "percentage": 2.1
+        }
+      ]
+    },
+    "mistakes": {
+      "header": {
+        "text": "Better word suggestions",
+        "highlights": []
+      },
+      "corrections": {
+        "vocabulary": []
+      }
+    }
+  }
+}

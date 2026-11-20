@@ -1,0 +1,1720 @@
+{
+  "onBoarding": {
+    "helpYouPractice": "¡Hola! Soy Sarah. Estoy aquí para ayudarte a practicar y mejorar tu inglés a través de conversaciones amigables.",
+    "togetherWeWillWork": "Juntos, trabajaremos en tus habilidades de conversación de manera cómoda y relajada.",
+    "whetherYouAreJustStarting": "Aunque que estés comenzando o que ya te sientas cómodo con el inglés, haremos este viaje de aprendizaje juntos, a tu propio ritmo.",
+    "whatShouldICallYou": "Entonces, ¿cómo quieres que te llame?",
+    "thatsImpressiveMentoredJob": "¡Eso es impresionante! He ayudado a más de un millón de personas a conseguir su trabajo soñado al ayudarles a destacar en sus entrevistas.",
+    "thatsImpressiveMentoredSocializing": "¡Genial! Podemos tener conversaciones divertidas y atractivas. Esto te ayudará a dominar la comunicación para las tareas cotidianas.",
+    "thatsImpressiveMentoredSubPurpose": "¡Qué bien! He orientado a más de un millón de profesionales a mejorar su desarrollo profesional practicando con ellos conversaciones del mundo real.",
+    "seeDetailedResults": "Ver informe detallado  ",
+    "selectYourLanguagePreferance": "Por favor selecciona tu preferencia de idioma",
+    "hiIAmPersonalEnglishSpeakingPartner": "¡Hola! Soy tu Compañera Personal para Practicar Inglés",
+    "callMeSarahWhatsYourName": "Llámame Sarah. ¿Cuál es tu nombre?",
+    "thatsVeryCoolName": "¡Qué nombre tan genial! ¡Vamos a divertirnos mucho practicando inglés!",
+    "toEnsureYouGetLatestLessons": "Para estar segura de que recibas las últimas lecciones y consejos personalizados, ¿podrías darme tu número de teléfono?",
+    "amazingWhereDidHearAboutStimuler": "¡Gracias! ¿Podrías decirme dónde escuchaste sobre nosotros?",
+    "noProblemWhereDidYouHearAboutUs": "¡No hay problema! ¿Podrías decirme dónde escuchaste sobre nosotros?",
+    "iAmGladWeMet": "¡Qué gusto conocerte!",
+    "enterReferralCode": "Ingresa el código de referencia que tienes",
+    "letsCreateAPlanForJustYou": "¡Vamos a crear un plan especial para ti para que puedas lograr tus objetivos más rápido! Dime, ¿por qué estás aprendiendo inglés?",
+    "thatsImpressiveMentoredIels": "¡Qué impresionante! He guiado a más de un millón de candidatos de todo el mundo para lograr su puntuación soñada",
+    "whatTypeOfSituationsDoYouWant": "¿En qué tipo de situaciones te gustaría desenvolverte mejor?",
+    "thatsImpressiveMentoredTravel": "¡Excelente! Ya sea un viaje de negocios o que trabajes en el extranjero, cubriremos todas las situaciones.",
+    "thatsImpressiveMentoredEducation": "¡Perfecto! ¿Sabes qué? He ayudado a más de un millón de personas a hablar inglés con fluidez y confianza",
+    "greatMentoredOthers": "¡Qué impresionante! He ayudado a más de un millón de personas a hablar inglés con fluidez y confianza",
+    "thatsImpressiveMentoredBusiness": "¡Qué impresionante! He sido mentora de más de un millón de profesionales que han mejorado sus carreras practicando conversaciones del mundo real conmigo",
+    "lookWhatLearnersHaveToSay": "Mira lo que dicen estos estudiantes exitosos:",
+    "thesePeoplePracticedDaily": "¡Estas personas practicaron diariamente para lograr un gran progreso y las ayudé a mantenerse en el camino correcto!",
+    "iWillRemindYouToo": "Yo también te recordaré, para que no te pierdas ninguna práctica. Solo activa tus notificaciones",
+    "thanksForThatTogether": "¡Gracias por eso! Juntos hagamos del inglés un hábito de aprendizaje diario",
+    "noIssuesIWill": "¡No hay problema! Te preguntaré en otro momento.",
+    "awesomeThousandsOfEnglishLearners": "¡Impresionante! Miles de estudiantes de inglés a los que enseño comienzan su viaje como principiantes y los convierto en hablantes de inglés con fluidez.",
+    "whatIsCurrentEnglishLevel": "¿Cuál dirías que es tu nivel actual de inglés?",
+    "reviewSarahFeedbackOnVocab": "Los comentarios de Sara sobre el vocabulario son impresionantes... le debo mi calificación de 8.0 en la banda a Stimuler",
+    "reviewSarahFeedbackOnVocabIELTS": "Los comentarios de Sara sobre el vocabulario son impresionantes... le debo mi calificación de 8.0 en la banda a Stimuler",
+    "reviewCommunityActive": "Los miembros de la comunidad pro de Stimuler siempre están activos, lo que me mantiene motivado",
+    "reviewSpendingTwentyMinutes": "Pasar 20 minutos todas los días con Sarah me ha ayudado a mejorar mi fluidez drásticamente",
+    "reviewBoostedMyConfidenceIELTS": "Las conversaciones con Sarah mejoraron mi inglés, aumentaron mi confianza para mi examen de IELTS",
+    "reviewBoostedMyConfidence": "Las conversaciones con Sarah mejoraron mi inglés, aumentaron mi confianza para mi examen",
+    "reviewBoostedConfidenceOffice": "Las conversaciones con Sarah mejoraron mi inglés, aumentaron mi confianza en mi oficina",
+    "reviewAppIsAGoldenEgg": "Esta aplicación es un huevo de oro. Te ayuda a hablar mejor. Increíble, le daría 10/5",
+    "reviewAppIsAGoldenEggIELTS": "Esta aplicación es un huevo de oro para IELTS. Te ayuda a hablar mejor. Increíble, le daría 10/5",
+    "perfectEvenWithJustAFewWords": "¡Perfecto! Con solo unas pocas palabras, estás listo para comenzar. Te guiaré hacia conversaciones seguras paso a paso",
+    "awesomeAlreadyHalfwayThere": "¡Excelente! Ya estás a la mitad del camino. ¡Un poco más de práctica conmigo y harás maravillas!",
+    "awesomeSkysTheLimit": "¡Excelente! El cielo es el límite. Enfrentaremos desafíos difíciles y alcanzaremos alturas más grandes.",
+    "almostDoneAnswerAQuestionBeginner": "¡Ya casi terminamos! Como último paso, me gustaría que leyeras el siguiente texto",
+    "almostDoneAnswerAQuestion": "¡Ya casi terminamos! Como último paso, me gustaría que respondieras una pregunta",
+    "dontKnowWhatToSpeak": "¿No sabes qué decir? ¡No hay problema, puedes leer la pista de abajo!",
+    "didNotSpeakAlot": "Parece que no hablaste mucho",
+    "letsTrySomethingElse": "Intentemos algo diferente, ¿te parece?",
+    "greatReasonExperienceBestAiApp": "¡Eso estuvo genial! Ahora es momento de que experimentes la razón por la cual ganamos el premio a la Mejor App de IA 2023 de Google.",
+    "reasonExperienceBestAiApp": "Ahora es momento de que experimentes la razón por la cual ganamos el premio a la Mejor App de IA 2023 de Google.",
+    "tapOnButtonBelow": "Toca el botón de abajo para ver tus errores de pronunciación, pausas incómodas y otras sugerencias de nuestra parte",
+    "curiousHowWellYou": "¿Tienes curiosidad de qué tan bien hablaste? ¡Toca para ver cómo te fue!",
+    "canIknowYourName": "Estoy muy emocionada, ¿puedo saber cuál es tu nombre?",
+    "letsGetToKnowEachOther": "¡Conozcámonos!",
+    "whatsYourNativeLanguage": "¿Cuál es tu idioma nativo?",
+    "gotItWillUseTheLanguageToExplainEnglish": "¡Perfecto! Usaremos tu idioma para explicar inglés dentro de la aplicación",
+    "wantToChangeAppLanguageTo": "¿Quieres cambiar el idioma de la aplicación a tu idioma nativo?",
+    "youWillLearnEnglishThrough": "Aprenderás inglés a través de $language",
+    "weUseEnglishAsTheAppsLanguage": "Usamos inglés como idioma de la aplicación",
+    "awesomeCanIKnowYourName": "¡Genial! ¿Puedo saber tu nombre?",
+    "soWhatsYourNativeLanguage": "Entonces, ¿cuál es tu idioma nativo? Esto me ayuda a apoyarte mejor.",
+    "niceToMeetYouGetLatestLessons": "¡Mucho gusto! Para estar segura de que recibas las últimas lecciones, ¿podrías darme tu número de teléfono?",
+    "whichAgeGroupAreYouIn": "¿Cuál es tu rango de edad?",
+    "ageGroup": {
+      "under18": "Menor de 18",
+      "age18to24": "18-24",
+      "age25to34": "25-34",
+      "age35to44": "35-44",
+      "age45plus": "45+"
+    },
+    "whatIsYourGender": "¿Cuál es tu género?",
+    "gender": {
+      "male": "Hombre",
+      "female": "Mujer",
+      "nonBinary": "No binario"
+    },
+    "dailyPracticeHelpsAchieveGoals": "Practicar a diario te ayudará a lograr tus objetivos más rápido",
+    "whatBestDescribesYourSituation": "¿Qué describe mejor tu situación actual?",
+    "imGladWeMetWhatsYourGoal": "Me da gusto conocerte. ¿Cuál es tu objetivo principal al aprender inglés?",
+    "mainGoal": {
+      "ielts": "Prepararme para un examen de inglés",
+      "growInMyCareer": "Crecer en mi carrera",
+      "personalGrowth": "Crecimiento personal",
+      "travelConfidently": "Viajar con confianza",
+      "excelAtMySchool": "Destacar en mis estudios",
+      "other": "Otro objetivo"
+    },
+    "typeYourGoalHint": "Escribe tu objetivo aquí",
+    "examType": {
+      "ielts": "IELTS",
+      "toefl": "TOEFL",
+      "pte": "PTE",
+      "toeic": "TOEIC",
+      "other": "Otros"
+    },
+    "currentSituation": {
+      "student": "Estudiante",
+      "workingProfessional": "Profesional",
+      "freelancer": "Freelance",
+      "businessOwner": "Negocio propio",
+      "homeMaker": "Labores del hogar",
+      "careerBreak": "Pausa laboral",
+      "lookingForWork": "Buscando trabajo"
+    },
+    "purpose": {
+      "ielts": "IELTS (examen de inglés)",
+      "talkToColleaguesClients": "Conversar con colegas/clientes",
+      "clearJobInterview": "Tener éxito en entrevistas laborales",
+      "everydayConvo": "Conversación cotidiana",
+      "excelAtSchool": "Destacar en mis estudios",
+      "travel": "Viajar",
+      "anyOtherGoal": "Otro objetivo",
+      "improveMyCareer": "Mejorar mi carrera profesional"
+    },
+    "workplaceSubPurpose": {
+      "jobInterview": "Entrevistas de trabajo",
+      "teamMeeting": "Reuniones de equipo",
+      "presentations": "Presentaciones",
+      "networking": "Networking",
+      "smallTalk": "Conversaciones casuales con amigos"
+    },
+    "HowDidUserHearAboutApp": {
+      "tiktok": "TikTok",
+      "instagram": "Instagram Reel",
+      "googleAds": "Google Ads",
+      "friend": "Amigos",
+      "facebook": "Facebook",
+      "youtube": "YouTube",
+      "haveAReferralCode": "¿Tienes un código de referencia?",
+      "other": {
+        "playStore": "Busqué en Play Store",
+        "appStore": "Busqué en App Store"
+      },
+      "twitterX": "Twitter/X"
+    },
+    "levelDescription": {
+      "beginner": "Sé algunas palabras básicas, pero no puedo hacer oraciones",
+      "intermediate": "Puedo hacer oraciones sencillas sobre cosas simples",
+      "advance": "Puedo mantener conversaciones cortas y entender a otros"
+    },
+    "ieltsModule": {
+      "academic": "Académico",
+      "general": "General",
+      "notSure": "No estoy seguro"
+    },
+    "examTime": {
+      "thisMonth": "Presentaré el IELTS este mes",
+      "nextMonth": "Presentaré el IELTS el próximo mes",
+      "moreThanTwo": "Tengo más de dos meses para prepararme",
+      "after": "Después de {month}"
+    },
+    "moveTheSliderToPickYourScore": "Mueve el control para elegir tu puntuación",
+    "bandScore": "Band Score",
+    "skill": {
+      "reading": "Lectura",
+      "writing": "Escritura",
+      "speaking": "Expresión oral",
+      "listening": "Comprensión auditiva"
+    },
+    "journeyGraph": {
+      "yourJourney": "Tu viaje",
+      "toAceIeltsStarts": "para dominar el IELTS comienza",
+      "curatingContent": "Preparando contenido",
+      "forYourIeltsJourney": "para tu viaje IELTS",
+      "aPlanForYouToReach": "Un plan para alcanzar",
+      "yourGoal4xFaster": "tu meta 4 veces más rápido",
+      "planForYou": "PLAN PARA TI",
+      "practice20MinsPerDay": "Practica 20min/día",
+      "oneMockTestPerDay": "Un simulacro/día",
+      "ieltsConversationPerDay": "Conversación IELTS/día",
+      "weeklyReviews": "Repasos semanales",
+      "youTookThe": "DISTE EL",
+      "firstStep": "Primer paso",
+      "inOneMonth": "EN 1 MES",
+      "inTwoMonths": "EN 2 MESES",
+      "inMoreThanTwoMonths": "EN 2+ MESES"
+    },
+    "hintPlayback": {
+      "youDidGreatFirstStep": "¡Lo hiciste genial en tu primer paso!",
+      "improvePronunciation": "Mejoremos la pronunciación"
+    }
+  },
+  "day1McqExercise": {
+    "questionsRight": "preguntas correctas en",
+    "q2AnswerExplanation": "\"Me\" es correcto porque recibe el tiempo extra.",
+    "others": {
+      "q1AnswerExplanation": "\"I\" es correcto porque es la persona que hace la acción de ordenar.",
+      "q7AnswerExplanation": "\"Them\" es correcto porque reciben el plato.",
+      "q10AnswerExplanation": "\"Everyone\" es correcto porque se refiere a todas las personas en la mesa.",
+      "q9AnswerExplanation": "\"Themselves\" es correcto porque muestra que lo hicieron sin ayuda externa.",
+      "q2AnswerExplanation": "\"Me\" es correcto porque es quien recibe la comida.",
+      "q5AnswerExplanation": "\"Either\" es correcto porque significa que cualquiera de las dos opciones es aceptable.",
+      "q4AnswerExplanation": "\"Himself\" es correcto porque él cocinó solo sin ayuda.",
+      "q3AnswerExplanation": "\"Our\" es correcto porque muestra que la mesa nos pertenece.",
+      "q8AnswerExplanation": "\"Ours\" es correcto porque muestra que la mesa nos pertenece.",
+      "q6AnswerExplanation": "\"We\" es correcto porque son las personas que hacen la solicitud."
+    },
+    "q5AnswerExplanation": "\"Either\" es correcto porque significa que cualquiera de las dos opciones está bien.",
+    "mistakeIn": "error en",
+    "q3AnswerExplanation": "\"Our\" es correcto porque muestra que el equipo nos pertenece.",
+    "possPronMeaning": "Los pronombres posesivos (his, her, your) se usan para mostrar posesión.",
+    "youAnswered": "Has respondido",
+    "q8AnswerExplanation": "\"Ours\" es correcto porque muestra que el plazo nos pertenece.",
+    "q6AnswerExplanation": "\"We\" es correcto porque son las personas que hacen la propuesta.",
+    "q1AnswerExplanation": "\"I\" es correcto porque es la persona que realiza la acción.",
+    "reflexivePronMeaning": "Los pronombres reflexivos (él mismo, ella misma, tú mismo) se usan cuando el sujeto y el objeto son iguales.",
+    "youMade": "Has cometido",
+    "q7AnswerExplanation": "\"Them\" es correcto porque están recibiendo el horario.",
+    "q10AnswerExplanation": "\"Everyone\" es correcto porque se refiere a todas las personas de la oficina.",
+    "q9AnswerExplanation": "\"Ourselves\" es correcto porque muestra que lo hicimos sin ayuda externa.",
+    "q4AnswerExplanation": "\"Herself\" es correcto porque ella lo hizo sola sin ayuda.",
+    "objPronMeaning": "Los pronombres objeto (lo, la, te) se usan cuando alguien recibe una acción.",
+    "subjPronMeaning": "Los pronombres sujeto (él, ella, tú) se usan cuando alguien está realizando una acción.",
+    "indefPronMeaning": "Los pronombres indefinidos (cualquiera, todos, alguien) se usan cuando el sujeto no es específico."
+  },
+  "day3": {
+    "exercise2": {
+      "q3AnswerExplanation": "Un action item es una tarea específica asignada a alguien con una fecha límite.",
+      "q5OptionCRight": "Eva está proporcionando un update - información sobre el progreso reciente o cambios en un proyecto.",
+      "q5OptionAWrong": "Eva no está asignando tareas específicas (action item).",
+      "q1OptionCRight": "Está presentando la lista organizada de temas de la reunión (agenda).",
+      "q5OptionARight": "Está informando sobre el progreso reciente (update)",
+      "q1OptionBWrong": "Joe no está compartiendo una idea o sugerencia (contribución).",
+      "q2OptionAWrong": "Carlos no creó una lista de temas (agenda).",
+      "q5OptionBWrong": "Eva no está presentando una lista de temas para discutir (agenda).",
+      "q3OptionCRight": "Sarah recibió un action item: una tarea específica asignada a alguien con una fecha límite.",
+      "q1OptionARight": "Joe está compartiendo una agenda: una lista de temas que se discutirán durante la reunión.",
+      "q1OptionBRight": "Está mostrando la lista de temas de la reunión (agenda).",
+      "q1AnswerExplanation": "Una agenda es una lista de temas que se discutirán durante una reunión.",
+      "q4OptionBWrong": "No están simplemente compartiendo información (updating).",
+      "q3OptionBRight": "Le dieron una tarea concreta con fecha límite (action item).",
+      "q2OptionCWrong": "Carlos no asignó una tarea específica (action item).",
+      "q4OptionBRight": "Están uniendo fuerzas para trabajar juntos (collaborating).",
+      "q3OptionARight": "Recibió una tarea específica para completar (action item).",
+      "q3OptionBWrong": "Sarah no recibió una idea o sugerencia (contribution).",
+      "q4AnswerExplanation": "Collaborating significa trabajar juntos para lograr un objetivo común.",
+      "q2OptionARight": "Proporcionó una solución al proyecto (contribution).",
+      "q2OptionCRight": "Compartió una idea útil (aporte).",
+      "q4OptionCRight": "Están colaborando - trabajando juntos con otros para lograr un objetivo común.",
+      "q2AnswerExplanation": "Un aporte es una idea o contribución valiosa compartida durante una discusión.",
+      "q5AnswerExplanation": "Una actualización es información sobre progreso o cambios recientes.",
+      "q3OptionAWrong": "Sarah no recibió información sobre el progreso (actualización)",
+      "q5OptionBRight": "Está compartiendo información sobre desarrollos recientes (actualización).",
+      "q4OptionARight": "Están trabajando juntos hacia un objetivo común (colaborando).",
+      "q1OptionCWrong": "Joe no está haciendo una oferta.",
+      "q2OptionBRight": "Carlos hizo una contribución - una idea o aporte valioso compartido durante una discusión.",
+      "q4OptionAWrong": "No están solo hablando."
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "\"He\" es el pronombre sujeto correcto para reemplazar \"Harry\" como la persona que realiza la acción.",
+      "q4AnswerExplanation": "\"His\" es el pronombre posesivo correcto que muestra que la varita rota pertenece a Ron.",
+      "q2AnswerExplanation": "\"Herself\" es el pronombre objeto reflexivo correcto porque la Profesora McGonagall está realizando y recibiendo la acción de transformarse.",
+      "q5AnswerExplanation": "\"Himself\" es el pronombre reflexivo correcto cuando Harry está realizando y recibiendo la acción.",
+      "q3AnswerExplanation": "\"His\" es el pronombre posesivo correcto que muestra que la boca pertenece a Harry."
+    },
+    "version12": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Can you clarify\" solicita explicación cuando algo no está claro. Solo \"clarify\" funciona en esta estructura de solicitud.",
+        "q5AnswerExplanation": "Después de \"I have an idea,\" \"I suggest we...\" introduce una nueva propuesta. \"Agree\" y \"clarify\" no encajan al proponer nuevas ideas.",
+        "q3AnswerExplanation": "\"I suggest we...\" propone una acción específica. \"Agree\" requiere una idea previa; \"clarify\" explica, no propone.",
+        "q1AnswerExplanation": "\"I agree with pam\" expresa apoyo a la idea de Pam. Las otras opciones no encajan en esta estructura.",
+        "q4AnswerExplanation": "\"I agree with [person]\" muestra alineamiento con la opinión de otra persona. Solo \"agree\" funciona con \"with Diana.\""
+      }
+    }
+  },
+  "day9": {
+    "exercise2": {
+      "es": {
+        "q3AnswerExplanation": "\"Aclaración\" en el lugar de trabajo significa pedir una explicación más clara para evitar malentendidos.",
+        "q1AnswerExplanation": "\"Un favor\" en el lugar de trabajo es cuando le pides ayuda a alguien con algo que está fuera de sus deberes habituales.",
+        "q4AnswerExplanation": "\"Asistencia\" en el trabajo significa ayuda directa de alguien para completar una tarea o resolver un problema.",
+        "q2AnswerExplanation": "\"Un recurso\" en una oficina es cualquier herramienta, material o información que ayuda a los empleados a hacer su trabajo.",
+        "q5AnswerExplanation": "\"Orientación\" en un entorno profesional significa recibir consejos o dirección para mejorar habilidades o la toma de decisiones."
+      },
+      "q5OptionBRight": "Lisa está determinando qué tareas son más importantes (priorizando).",
+      "q4OptionARight": "Alex está experimentando agotamiento: fatiga por estrés prolongado.",
+      "ielts": {
+        "q1AnswerExplanation": "Sostenible se refiere a prácticas que pueden continuar sin agotar los recursos",
+        "q2AnswerExplanation": "Biodiversidad se refiere a la variedad de especies en un hábitat",
+        "q5AnswerExplanation": "Los puntos críticos de biodiversidad son áreas con diversidad de especies inusualmente alta, a menudo en peligro",
+        "q4AnswerExplanation": "Conservación se refiere a proteger recursos para prevenir su agotamiento",
+        "q3AnswerExplanation": "Deforestación se refiere a la tala de bosques a gran escala"
+      },
+      "q2OptionCRight": "John está asignando una tarea a otra persona (delegando).",
+      "q1OptionCWrong": "Organizado significa tener todo dispuesto de manera estructurada.",
+      "q4OptionCRight": "Alex está experimentando agotamiento: fatiga causada por estrés prolongado.",
+      "q4OptionAWrong": "Progreso significa avance positivo en el trabajo o la carrera.",
+      "q3AnswerExplanation": "Tomar la iniciativa significa identificar y resolver problemas sin que te lo pidan.",
+      "q5OptionCRight": "Lisa está priorizando: manejando tareas por orden de importancia.",
+      "q5OptionAWrong": "Delegar es asignar tareas a otros.",
+      "q3OptionCWrong": "El agotamiento es fatiga por estrés crónico.",
+      "q1OptionCRight": "María se siente abrumada por tener demasiadas tareas.",
+      "q5OptionARight": "Lisa está organizando su trabajo por orden de importancia (priorizando).",
+      "q5OptionBWrong": "Tomar la iniciativa significa actuar sin que te lo pidan.",
+      "q3OptionCRight": "Sarah mostró compromiso positivo tomando acción (iniciativa).",
+      "q2OptionBRight": "Juan está delegando: asignando una tarea a otra persona.",
+      "q1OptionARight": "María se siente abrumada por demasiadas tareas.",
+      "q1AnswerExplanation": "Estar abrumado significa tener demasiadas tareas para manejar cómodamente.",
+      "q4OptionBWrong": "Delegar es asignar tareas a otros.",
+      "q3OptionBRight": "Sarah resolvió proactivamente un problema ella misma (iniciativa).",
+      "q4OptionBRight": "Alex está sufriendo de fatiga prolongada (agotamiento).",
+      "q3OptionBWrong": "Delegar es asignar tareas a otros.",
+      "q4AnswerExplanation": "El agotamiento es el cansancio causado por estrés prolongado.",
+      "q1OptionAWrong": "Motivado significa sentirse entusiasta o con ganas de trabajar.",
+      "q2OptionARight": "Juan está asignando trabajo a otros (delegando).",
+      "q2OptionAWrong": "Tomar la iniciativa significa actuar sin que te lo pidan.",
+      "q2OptionCWrong": "Priorizar significa clasificar las tareas por importancia.",
+      "q2AnswerExplanation": "Delegar significa asignar tareas a otra persona.",
+      "q3OptionARight": "Sarah mostró iniciativa: resolvió un problema sin que se lo pidieran.",
+      "q5AnswerExplanation": "Priorizar significa manejar las tareas en orden de importancia."
+    },
+    "exercise3": {
+      "es": {
+        "q1AnswerExplanation": "Regla de adjetivos superlativos: Usa \"el/la más + adjetivo\" para adjetivos de 3+ sílabas (ej. peligroso → el más peligroso) al comparar tres o más cosas (todos los volcanes de la Tierra Media).",
+        "q2AnswerExplanation": "Regla de adjetivos comparativos: Usa \"-er than\" para adjetivos cortos (ej., sharp → sharper than) al comparar dos cosas (Black Widow vs. Hawkeye).",
+        "q5AnswerExplanation": "Regla de adjetivos superlativos: Usa \"the + -est\" para adjetivos cortos (wise → the wisest) al comparar tres o más cosas (todos los Jedi).",
+        "q4AnswerExplanation": "Regla de adjetivos comparativos: Usa \"-er than\" para adjetivos cortos (strong → stronger than) al comparar dos relaciones (amistad con Rocket vs. otras).",
+        "q3AnswerExplanation": "Regla de adjetivos descriptivos: Usa la forma base (ej., unique) al describir una cosa (vibranium) sin comparación."
+      }
+    }
+  },
+  "day3_2": {
+    "version12": {
+      "vocabularyExercise": "Ejercicio de vocabulario",
+      "readAloud": "Lee en voz alta",
+      "ieltsPart2": "IELTS Parte 2",
+      "describeTheImage": "Describe la imagen",
+      "tryReadingThisSentence": "¡Intenta leer esta oración!",
+      "q5AnswerExplanation2_3": "Lisa no necesita un aperitivo, que es un plato de entrada, ya que ha terminado de comer.",
+      "letTestYourMeetingVocabulary": "Probemos tu vocabulario de reuniones",
+      "practiceThisPoliteRequest": "¡Practica esta solicitud educada!",
+      "haveFunWhileTestingYourImagination": "Diviértete mientras pones a prueba tu imaginación y habilidades para estructurar oraciones con esta imagen",
+      "task3": "Tarea 3",
+      "q4AnswerExplanation2_3": "\"Ordered\" describe la acción de pedir comida, no cómo sabe.",
+      "task2": "Tarea 2",
+      "repeatAfterMe": "Repite después de mí",
+      "summarizeLecture": "Resumir conferencia",
+      "introductionSpeakingTest": "Introducción: Examen oral",
+      "letJumpIntoRealLifeConversationToday": "Vamos a practicar una conversación de la vida real hoy, también trabajaremos vocabulario",
+      "q3AnswerExplanation": "Los aperitivos son platillos pequeños que se sirven antes del plato principal.",
+      "q3AnswerExplanation2_3": "María no pidió un menú, que enumera las opciones de comida.",
+      "weGetBackReadingToday": "Hoy regresamos a la lectura, aunque un poco más avanzada esta vez.",
+      "funWithVocabulary": "¡Diversión con vocabulario!",
+      "readingWithStressModerate": "Lectura con estrés: Moderado",
+      "q1AnswerExplanation2_2": "Sarah no está mirando la cuenta, que muestra cuánto hay que pagar después de comer.",
+      "q2AnswerExplanation2": "John hizo un pedido - le dijo al mesero qué comida y bebidas quiere.",
+      "readTheParagraphLoudlyStressingTheHighlightedWords": "Lee el párrafo en voz alta enfatizando las palabras resaltadas",
+      "q1AnswerExplanation2": "Sarah está leyendo un menú - una lista de alimentos y bebidas disponibles en el restaurante.",
+      "q1AnswerExplanation": "Un menú es una lista de alimentos y bebidas disponibles en un restaurante.",
+      "readingAtHighPaceAdvanced": "Lectura a ritmo acelerado: Avanzado",
+      "funWithTongueTwister": "Diversión con trabalenguas",
+      "letPracticeSomeGrammar": "Practiquemos gramática",
+      "q1AnswerExplanation2_3": "Sarah no está mirando un aperitivo, que es un plato pequeño de comida.",
+      "pronunciationExercise": "Ejercicio de pronunciación",
+      "q5AnswerExplanation2": "Lisa debe pedir la cuenta - el documento que muestra cuánto necesita pagar por su comida.",
+      "practiceQuestions": "Preguntas de práctica",
+      "task4": "Tarea 4",
+      "readThisSentenceOutLoud": "¡Lee esta oración en voz alta!",
+      "q4AnswerExplanation": "Delicioso significa comida que sabe extremadamente bien.",
+      "task1": "Tarea 1",
+      "testYourPronounKnowledgeMagicalHarryPotterScenarios": "¡Pon a prueba tu conocimiento de pronombres con estos escenarios mágicos de Harry Potter!",
+      "speaking": "Expresión oral",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "Habla sobre una ocasión en que disfrutaste trabajar con tu equipo. ¿Qué la hizo especial?",
+      "q4AnswerExplanation2": "Carlos describió su pasta como deliciosa, lo que significa que la comida sabe extremadamente bien.",
+      "q5AnswerExplanation2_2": "Lisa no necesita un menú, que muestra opciones de comida, ya que terminó de comer.",
+      "letStartYourRoadmap": "Comencemos tu Roadmap",
+      "masteringPronouns": "Dominando los pronombres",
+      "q4AnswerExplanation2_2": "\"Ordered\" describe la acción de seleccionar comida, no cómo sabe.",
+      "day1Revision": "Día 1: Repaso",
+      "q2AnswerExplanation2_3": "John no pidió específicamente un aperitivo.",
+      "q3AnswerExplanation2": "Maria pidió aperitivos - platos pequeños que se sirven antes del plato principal.",
+      "vocabularyLesson": "Lección de vocabulario",
+      "q2AnswerExplanation": "Hacer un pedido significa decirle al mesero qué comida y bebidas deseas.",
+      "q5AnswerExplanation": "La cuenta muestra cuánto necesitas pagar por tu comida en un restaurante.",
+      "q2AnswerExplanation2_2": "John no pidió la cuenta, que se solicita después de terminar la comida.",
+      "readWithEnthusiasm": "¡Lee con entusiasmo!",
+      "q3AnswerExplanation2_2": "Maria no pidió la cuenta, que se solicita después de comer.",
+      "orderingFood": "Pedir comida"
+    }
+  },
+  "roadmapDaysLocalization": {
+    "workplace": {
+      "day3": {
+        "vocabularyLesson": "Lección de vocabulario",
+        "wordQuiz": "Prueba de palabras",
+        "descriptiveSpeaking": "Habla descriptiva",
+        "meetingVocabulary": "Vocabulario de reuniones",
+        "pronounRevision": "Revisión de pronombres",
+        "negotiatingDeadlines": "Negociación de plazos"
+      },
+      "day18": {
+        "summarizingMeetings": "Resumen de reuniones",
+        "wordQuiz": "Prueba de palabras",
+        "descriptiveSpeaking": "Expresión descriptiva"
+      },
+      "day8": {
+        "adjectivePractice": "Práctica de adjetivos",
+        "wordQuiz": "Prueba de palabras",
+        "masteringAdjectives": "Dominando adjetivos",
+        "descriptiveSpeaking": "Expresión descriptiva",
+        "roleplayRevision": "Revisión de simulacros"
+      },
+      "day12": {
+        "questionAnswering": "Preguntas y respuestas",
+        "talkingToClients": "Conversación con clientes",
+        "tongueTwister": "Trabalenguas"
+      },
+      "day5": {
+        "masteringVerbs": "Dominando verbos",
+        "teamMeetingReview": "Revisión de reunión de equipo",
+        "questionAnswering": "Preguntas y respuestas",
+        "grammarPractice": "Práctica de gramática",
+        "verbBuilder": "Constructor de verbos"
+      },
+      "day9": {
+        "givingPresentation": "Dar una presentación",
+        "askingForHelp": "Pedir ayuda",
+        "tongueTwister": "Trabalenguas",
+        "grammarPractice": "Práctica de gramática",
+        "adjectiveReview": "Repaso de adjetivos"
+      },
+      "day7": {
+        "smallTalkPractice": "Práctica de conversación informal",
+        "tongueTwister": "Trabalenguas",
+        "vocabRevision": "Revisión de vocabulario",
+        "teamMeeting": "Reunión de equipo",
+        "smallTalkWithColleagues": "Charla informal con colegas",
+        "readAloud": "Lectura en voz alta"
+      },
+      "day4": {
+        "meetingVocabularyPractice": "Práctica de vocabulario de reuniones",
+        "vocabularyRevision": "Revisión de vocabulario",
+        "teamMeeting": "Reunión de equipo",
+        "negotiatingDeadlines": "Negociación de plazos",
+        "grammarPractice": "Práctica de gramática",
+        "readingFast": "Lectura rápida",
+        "workplaceMeetingRoleplay": "Simulacro de reunión laboral",
+        "meetingPractice": "Práctica de reuniones",
+        "teamMeetingPractice": "Práctica de reunión de equipo",
+        "restaurantRoleplay": "Juego de rol en restaurante"
+      },
+      "day1": {
+        "grammarBuilder": "Constructor de gramática",
+        "intro": "Introducción",
+        "readingExercise": "Ejercicio de lectura"
+      },
+      "day10": {
+        "readAloud": "Lectura en voz alta",
+        "howToAskForHelp": "Cómo pedir ayuda",
+        "givingPresentation": "Dar una presentación",
+        "day9Revision": "Día 9: Revisión"
+      },
+      "day16": {
+        "planningYourTasks": "Planificar tus tareas",
+        "stressTest": "Prueba de estrés",
+        "advancedReading": "Lectura avanzada"
+      },
+      "day2": {
+        "masteringPronoun": "Dominando los pronombres",
+        "tongueTwister": "Trabalenguas",
+        "pronounPractice": "Práctica de pronombres",
+        "grammarLesson": "Lección de gramática",
+        "sentenceStructurePractice": "Práctica de estructura de oraciones",
+        "day1Revision": "Día 1: Revisión"
+      },
+      "day20": {
+        "artciles": "Artículos",
+        "grammarPractice": "Práctica de gramática",
+        "poem": "Poema"
+      },
+      "day15": {
+        "wordQuiz": "Prueba de palabras",
+        "grammarPractice": "Práctica de gramática",
+        "planningYourTasks": "Planificación de tareas"
+      },
+      "day14": {
+        "sentenceStructure": "Estructura de la oración",
+        "poem": "Poema",
+        "tongueTwister": "Trabalenguas"
+      },
+      "day19": {
+        "tongueTwister": "Trabalenguas",
+        "summarizingMeetingsMinutes": "Resumen de actas de reunión",
+        "questionAnswering": "Preguntas y respuestas"
+      },
+      "day11": {
+        "masteringAdverbs": "Dominando los adverbios",
+        "grammarPractice": "Práctica de gramática",
+        "readingPoemExercise": "Ejercicio de lectura de poemas"
+      },
+      "day17": {
+        "preposition": "Preposición",
+        "questionAnswering": "Preguntas y respuestas",
+        "tongueTwister": "Trabalenguas"
+      },
+      "day6": {
+        "smallTalkVocab": "Vocabulario de conversación informal",
+        "vocabularyPractice": "Práctica de vocabulario",
+        "teamMeeting": "Reunión de equipo",
+        "pacedReading": "Lectura con ritmo",
+        "verbsReview": "Revisión de verbos",
+        "stressTest": "Prueba de entonación"
+      },
+      "day13": {
+        "stressTest": "Prueba de entonación",
+        "wordQuiz": "Prueba de palabras",
+        "talkingToClients": "Conversando con clientes"
+      }
+    },
+    "socialising": {
+      "day5": {
+        "orderingFood": "Pedir comida",
+        "roleplayMCQ": "Juego de roles - Opción múltiple"
+      },
+      "day1": {
+        "grammarBuilder": "Constructor de gramática",
+        "intro": "Introducción",
+        "readingExercise": "Ejercicio de lectura"
+      },
+      "day4": {
+        "restaurantVocabulary": "Vocabulario de restaurante",
+        "orderingFood": "Ordenar comida",
+        "restaurantVocabularyPractice": "Práctica de vocabulario de restaurante"
+      },
+      "day2": {
+        "masteringPronoun": "Dominando los pronombres",
+        "conversationPractice": "Práctica de conversación",
+        "pronounciationReview": "Revisión de pronunciación",
+        "readingExercise": "Ejercicio de lectura"
+      },
+      "day3": {
+        "pronounsVideoLesson": "Lección en video de pronombres",
+        "restaurantVocabulary": "Vocabulario de restaurante",
+        "learnOrderingFood": "Aprende a pedir comida",
+        "pronounRevision": "Revisión de pronombres"
+      }
+    }
+  },
+  "day4": {
+    "version8": {
+      "exercise2": {
+        "id": {
+          "q2OptionBRight": "La oración requiere un verbo como \"help\" para describir lo que Carlos hará.",
+          "q3AnswerExplanation": "Good' es el único adjetivo que describe lógicamente un momento adecuado.",
+          "q2OptionBWrong": "Team' es un sustantivo, no un verbo.",
+          "q5OptionCRight": "Summary' describe apropiadamente el documento que se ofrece.",
+          "q3OptionCWrong": "\"Calendar\" no encaja gramaticalmente ni lógicamente en este contexto.",
+          "q1OptionCRight": "Necesitas un verbo como \"finish\" para describir la acción de completar los diseños.",
+          "q5OptionARight": "\"Summary\" es el único sustantivo que describe un documento que muestra resultados.",
+          "q1OptionBWrong": "\"Deadline\" no funciona gramaticalmente en esta oración.",
+          "q5OptionBWrong": "\"I can create a discussion\" no tiene sentido en este contexto.",
+          "q3OptionCRight": "\"Good\" describe apropiadamente que el momento es adecuado.",
+          "q1OptionARight": "\"Finish\" es el único verbo que encaja gramaticalmente para completar una tarea.",
+          "q1OptionBRight": "Necesitas un verbo como \"finish\" para describir completar los diseños.",
+          "q1AnswerExplanation": "\"Finish\" es el único verbo que encaja gramaticalmente para completar una tarea.",
+          "q4OptionBWrong": "\"We'll be presentation\" es gramaticalmente incorrecto.",
+          "q3OptionBRight": "Se necesita un adjetivo como \"good\" para evaluar la conveniencia del momento.",
+          "q2OptionCWrong": "\"Schedule\" no encaja en el contexto de brindar asistencia.",
+          "q4OptionBRight": "\"Prepared\" describe correctamente el estado de estar listo.",
+          "q3OptionARight": "\"Good\" es el único adjetivo que describe lógicamente un momento adecuado.",
+          "q4OptionCWrong": "\"We'll be feedback\" no tiene sentido gramaticalmente ni contextualmente.",
+          "q3OptionBWrong": "\"Minutes\" no tiene sentido al describir si un horario funciona.",
+          "q4AnswerExplanation": "\"Prepared\" es la única palabra que expresa estar listo.",
+          "q2OptionARight": "\"Help\" es el único verbo apropiado que describe asistencia.",
+          "q2OptionCRight": "\"Help\" describe correctamente la asistencia necesaria con gráficos.",
+          "q5OptionCWrong": "\"I can create a meeting\" no encaja como respuesta sobre preparar materiales.",
+          "q4OptionCRight": "\"Prepared\" indica correctamente estar listo para la reunión.",
+          "q2AnswerExplanation": "\"Help\" es el único verbo apropiado que describe asistencia.",
+          "q5AnswerExplanation": "\"Summary\" es el único sustantivo que describe un documento que muestra resultados.",
+          "q5OptionBRight": "\"Summary\" describe correctamente un resumen conciso de resultados.",
+          "q4OptionARight": "\"Prepared\" es la única palabra que expresa preparación.",
+          "q1OptionCWrong": "\"Project\" es un sustantivo, no un verbo."
+        },
+        "es": {
+          "q1OptionARight": "\"Finish\" es el único verbo que encaja gramaticalmente para completar una tarea.",
+          "q1OptionBRight": "Necesitas un verbo como \"finish\" para describir el completar los diseños.",
+          "q3OptionBRight": "Se necesita un adjetivo como \"good\" para evaluar qué tan adecuado es el horario.",
+          "q2OptionBWrong": "\"Team\" es un sustantivo, no un verbo.",
+          "q4OptionBRight": "\"Prepared\" describe correctamente el estado de estar listo.",
+          "q3OptionBWrong": "\"Minutes\" no tiene sentido al describir si un horario funciona.",
+          "q2OptionARight": "\"Help\" es el único verbo apropiado para describir asistencia.",
+          "q3OptionCRight": "\"Good\" describe apropiadamente que el horario es adecuado.",
+          "q5OptionCWrong": "\"I can create a meeting\" no encaja como respuesta sobre preparar materiales.",
+          "q1AnswerExplanation": "\"Finish\" (terminar) es el único verbo que encaja gramaticalmente para completar una tarea.",
+          "q4OptionBWrong": "\"We'll be presentation\" es gramaticalmente incorrecto.",
+          "q2OptionCWrong": "\"Schedule\" (programar) no encaja en el contexto de proporcionar asistencia.",
+          "q2AnswerExplanation": "\"Help\" (ayudar) es el único verbo apropiado que describe asistencia.",
+          "q3OptionARight": "\"Good\" (bueno) es el único adjetivo que describe lógicamente un horario adecuado.",
+          "q4OptionCWrong": "\"We'll be feedback\" no tiene sentido gramatical o contextualmente.",
+          "q5AnswerExplanation": "\"Summary\" (resumen) es el único sustantivo que describe un documento mostrando resultados.",
+          "q4AnswerExplanation": "\"Prepared\" es la única palabra que expresa estar listo.",
+          "q5OptionBRight": "\"Summary\" describe correctamente una visión general concisa de los resultados.",
+          "q4OptionARight": "\"Prepared\" es la única palabra que expresa estar listo.",
+          "q2OptionCRight": "\"Help\" describe correctamente la asistencia necesaria con los gráficos.",
+          "q1OptionCWrong": "\"Project\" es un sustantivo, no un verbo.",
+          "q4OptionCRight": "\"Prepared\" indica apropiadamente estar listos para la reunión.",
+          "q3AnswerExplanation": "\"Good\" es el único adjetivo que describe lógicamente un tiempo adecuado.",
+          "q5OptionCRight": "\"Summary\" describe apropiadamente el documento que se está ofreciendo.",
+          "q3OptionCWrong": "\"Calendar\" no encaja gramatical ni lógicamente en este contexto.",
+          "q1OptionCRight": "Necesitas un verbo como \"finish\" para describir la acción de completar los diseños.",
+          "q5OptionARight": "\"Summary\" es el único sustantivo que describe un documento que muestra resultados.",
+          "q1OptionBWrong": "\"Deadline\" no funciona gramaticalmente en esta oración.",
+          "q5OptionBWrong": "\"I can create a discussion\" no tiene sentido en este contexto.",
+          "q2OptionBRight": "La oración requiere un verbo como \"help\" (ayudar) para describir lo que hará Carlos."
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q2AnswerExplanation": "Una \"contribution\" es una idea o aporte valioso que se comparte durante una discusión.",
+          "q5AnswerExplanation": "\"Collaboration\" significa trabajar juntos para alcanzar un objetivo común.",
+          "q3AnswerExplanation": "Un \"action item\" es una tarea específica que se asigna a alguien con una fecha límite.",
+          "q1AnswerExplanation": "Una \"agenda\" es la lista de temas que se van a discutir durante una reunión.",
+          "q4AnswerExplanation": "Una \"actualización\" es información sobre progreso o cambios recientes."
+        }
+      }
+    },
+    "version10": {
+      "exercise2": {
+        "id": {
+          "q2OptionCWrong": "John no pidió específicamente un aperitivo.",
+          "q2AnswerExplanation": "Hacer un pedido significa decirle al mesero qué comida y bebidas quieres.",
+          "q3OptionARight": "Ella pidió platos pequeños para comer mientras esperaba (aperitivos).",
+          "q4OptionCWrong": "\"Billed\" se relaciona con el pago, no con el sabor de la comida.",
+          "q5AnswerExplanation": "La cuenta muestra cuánto necesitas pagar por tu comida en un restaurante.",
+          "q4AnswerExplanation": "Delicioso significa comida que sabe extremadamente bien.",
+          "q5OptionBRight": "Lisa debería pedir la cuenta - el documento que muestra cuánto necesita pagar por su comida.",
+          "q4OptionARight": "Carlos describió su pasta como deliciosa - lo que significa que la comida sabe extremadamente bien.",
+          "q2OptionCRight": "Le dijo al mesero su selección de comida (hizo un pedido).",
+          "q1OptionCWrong": "Sarah no está mirando un aperitivo, que es un plato pequeño de comida.",
+          "q4OptionCRight": "Carlos estaba describiendo qué tan buena sabía su pasta (deliciosa).",
+          "q3AnswerExplanation": "Los aperitivos son platos pequeños que se sirven antes de la comida principal.",
+          "q5OptionCRight": "Ella quiere pagar su comida (la cuenta).",
+          "q3OptionCWrong": "María no pidió un menú, que lista las opciones de comida.",
+          "q1OptionCRight": "Está viendo la lista completa de comida disponible (menú).",
+          "q5OptionBWrong": "Lisa no necesita un menú, que muestra las opciones de comida, ya que terminó de comer.",
+          "q2OptionBRight": "John hizo un pedido - diciéndole al mesero qué comida y bebidas quiere.",
+          "q1OptionARight": "Sarah está leyendo un menú - una lista de comida y bebida disponibles en un restaurante.",
+          "q1OptionBRight": "Está viendo opciones de comida antes de ordenar (menú).",
+          "q3OptionBRight": "Ella pidió platos pequeños para comer antes de su plato principal (aperitivos).",
+          "q2OptionBWrong": "John no pidió la cuenta, la cual se solicita después de terminar la comida.",
+          "q4OptionBRight": "Carlos describió el sabor de su pasta como extremadamente bueno (deliciosa).",
+          "q3OptionBWrong": "Maria no pidió la cuenta, la cual se solicita después de comer.",
+          "q5OptionARight": "Ella necesita saber cuánto pagar (la cuenta).",
+          "q1OptionBWrong": "Sarah no está viendo la cuenta, que muestra cuánto pagar después de comer.",
+          "q2OptionARight": "Le dijo al mesero qué comida quiere (hizo un pedido).",
+          "q3OptionCRight": "María pidió aperitivos - platillos pequeños que se sirven antes del plato principal.",
+          "q5OptionCWrong": "Lisa no necesita un aperitivo, que es un platillo de entrada, ya que terminó de comer.",
+          "q1AnswerExplanation": "Un menú es una lista de comidas y bebidas disponibles en un restaurante.",
+          "q4OptionBWrong": "\"Ordered\" describe la acción de seleccionar comida, no cómo sabe."
+        }
+      }
+    },
+    "version12": {
+      "exercise3": {
+        "q4AnswerExplanation": "La cuenta es el documento que muestra el costo total de la comida que los clientes deben pagar en un restaurante.",
+        "q2AnswerExplanation": "Ordenar significa decirle al mesero qué alimentos quieres comprar y comer.",
+        "q3AnswerExplanation": "Delicioso describe comida que sabe extremadamente bien y proporciona una experiencia placentera al comer.",
+        "q1AnswerExplanation": "Un menú es una lista de platos disponibles en un restaurante, típicamente presentado en un folleto o en una pizarra."
+      },
+      "exercise2": {
+        "es": {
+          "q4AnswerExplanation": "\"Delicious\" es el adjetivo que describe comida que sabe muy bien.",
+          "q2AnswerExplanation": "\"Order\" es el verbo que describe seleccionar y pedir comida en un restaurante.",
+          "q5AnswerExplanation": "\"Bill\" se refiere al documento que muestra cuánto debe pagar un cliente por su comida.",
+          "q3AnswerExplanation": "\"Appetizer\" se refiere a un platillo pequeño que se sirve antes del plato principal.",
+          "q1AnswerExplanation": "\"Menu\" es el documento que enumera todas las opciones de comida y bebida disponibles en un restaurante."
+        }
+      }
+    },
+    "version13": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Agree\" significa tener la misma opinión o aceptar una sugerencia hecha por otra persona.",
+        "q3AnswerExplanation": "\"Clarify\" significa hacer que una afirmación o situación sea menos confusa y más comprensible al confirmar detalles.",
+        "q1AnswerExplanation": "\"Suggestion\" se refiere a una idea o propuesta presentada para que otros la consideren."
+      },
+      "exercise3": {
+        "q2AnswerExplanation": "\"Clarify\" se usa para solicitar más explicación. \"Agree\" no es relevante aquí, y \"suggest\" no aplica cuando se pide una aclaración.",
+        "q5AnswerExplanation": "\"Clarify\" significa aclarar algo. \"Sure\" no es un verbo, y \"told\" está en tiempo pasado incorrecto. Solo \"clarify\" funciona para expresar el aclarar una confusión.",
+        "q4AnswerExplanation": "\"Couldn't agree\" expresa consenso fallido. \"Make\" necesita un objeto, y \"suggest\" no describe desacuerdo. \"Agree\" funciona al discutir puntos de vista compartidos.",
+        "q3AnswerExplanation": "\"Let me suggest\" introduce una propuesta. \"Do\" y \"start\" no encajan lógicamente. Solo \"suggest\" funciona al ofrecer ideas como posponer una reunión.",
+        "q1AnswerExplanation": "\"Strongly agree with\" muestra fuerte apoyo a una opinión. Solo \"agree\" funciona con \"strongly\" y \"with\"; \"pause\" es gramaticalmente incorrecto, y \"clarify\" no muestra apoyo."
+      }
+    }
+  },
+  "day2_2": {
+    "version14": {
+      "whenYouAskingForRequest": "Cuando pides algo, puedes decir:",
+      "q6AnswerExplanation": "Yours' es correcto ya que Sarah pregunta si el libro pertenece a Alex.",
+      "q2AnswerExplanation2": "\"Me\" es el pronombre objeto que recibe la acción de ser invitado.",
+      "q1AnswerExplanation2": "\"She\" es el pronombre sujeto que muestra quién realiza la acción.",
+      "q1AnswerExplanation": "Usamos 'He' porque Joe es un sujeto masculino singular, y el pronombre debe coincidir con el género y número.",
+      "funWithTongueTwister": "Diversión con trabalenguas",
+      "letPracticeSomeGrammar": "Practiquemos gramática",
+      "pronunciationExercise": "Ejercicio de pronunciación",
+      "grammarExercise": "Ejercicio de gramática",
+      "grammarLesson": "Lección de gramática",
+      "task4": "Tarea 4",
+      "whenYouAskingRequestCouldWeFindTime": "Cuando pides algo, puedes decir: \"¿Podríamos encontrar un momento después de la reunión para hablar de la idea?\"",
+      "socialIntroductions": "Presentaciones sociales",
+      "q7AnswerExplanation": "This' es apropiado ya que Alex se refiere al libro específico que tiene en sus manos.",
+      "describeMemorableTripYouTook": "Describe un viaje memorable que hayas hecho. ¿Qué lo hizo especial?",
+      "q4AnswerExplanation": "Como Jon Snow se refiere a una espada específica cerca de él, 'this' es apropiado para algo singular y cercano a él.",
+      "letReadTogether": "Leamos juntos",
+      "q4AnswerExplanation3": "\"She\" es un pronombre sujeto para la persona que realiza la acción, y \"it\" es un pronombre objeto para la comida.",
+      "speaking": "Conversación",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "Habla sobre una ocasión en que disfrutaste trabajar con tu equipo. ¿Qué la hizo especial?",
+      "q2AnswerExplanation3": "\"Mine\" es un pronombre posesivo que muestra posesión sin repetir el sustantivo. \"Them\" es un pronombre objeto que se refiere a múltiples elementos.",
+      "letStartYourRoadmap": "Comencemos tu Roadmap",
+      "masteringPronouns": "Dominando los pronombres",
+      "q5AnswerExplanation3": "\"Myself\" es un pronombre reflexivo que se refiere a \"I\", y \"my\" es un adjetivo posesivo que va antes de un sustantivo.",
+      "day1Revision": "Día 1: Repaso",
+      "q3AnswerExplanation2": "\"Their\" es el pronombre posesivo que muestra quién es dueño de la casa.",
+      "pronounciation": "Pronunciación",
+      "q1AnswerExplanation3": "\"Her/him\" son pronombres de objeto que se usan cuando alguien recibe una acción.",
+      "q2AnswerExplanation": "Como Daenerys (una mujer) es la propietaria, \"hers\" es la respuesta correcta.",
+      "q5AnswerExplanation": "Se usa 'He' porque Alex es un sujeto masculino singular, y el pronombre debe coincidir con el género y número.",
+      "letTestYourSentenceStructure": "Probemos tu estructura de oraciones",
+      "letJumpIntoLearningPronunciations": "Saltemos a aprender pronunciaciones",
+      "politelyAnnounceThatYouAreLeaving": "Anuncia cortésmente que te vas - Disculpa, tengo que irme a otra reunión.",
+      "readAloud": "Lee en voz alta",
+      "ieltsPart2": "IELTS Parte 2",
+      "describeTheImage": "Describe la imagen",
+      "repeatAfterMe": "Repite después de mí",
+      "q3AnswerExplanation3": "\"We\" es un pronombre sujeto (realiza la acción), mientras que \"us\" es un pronombre objeto (recibe la invitación).",
+      "summarizeLecture": "Resumir conferencia",
+      "introductionSpeakingTest": "Introducción: Examen oral",
+      "letJumpIntoRealLifeConversationToday": "Practiquemos hoy una conversación de la vida real y también vocabulario",
+      "q3AnswerExplanation": "El pronombre 'herself' se usa porque el sujeto de la oración es 'She' y la acción de hacer el sándwich se refleja en ella misma.",
+      "politelyAnnounceThatLeaving": "Anuncia cortésmente que te vas",
+      "pronunciationReview": "Revisión de pronunciación",
+      "readOutLoud": "¡Lee en voz alta!"
+    }
+  },
+  "day4_2": {
+    "version13": {
+      "meetingVocabularyPractice": "Práctica de vocabulario de reuniones",
+      "countryCityAndTravelVocabulary": "Vocabulario de países, ciudades y viajes",
+      "summarizeLecture": "Resumir conferencia",
+      "q3AnswerExplanation": "\"Perro\" es un sustantivo que nombra a un animal que realiza la acción de ladrar. Los sustantivos identifican personas, lugares o cosas, lo que hace que \"perro\" sea el sujeto de esta oración.",
+      "teamMeetingPractice": "Práctica de reunión de equipo",
+      "q3AnswerExplanation2_3": "\"Deserted\" significa abandonado y vacío, no famoso.",
+      "readItOutLoud": "Léelo en voz alta",
+      "q2AnswerExplanation2": "Bustling describe un lugar que está lleno de actividad enérgica, movimiento y ruido.",
+      "q1AnswerExplanation2": "Heritage se refiere a las tradiciones y elementos culturales valiosos transmitidos de generaciones anteriores.",
+      "q1AnswerExplanation": "\"Beautiful\" es un adjetivo que describe el sustantivo \"dress.\" Las otras opciones, \"beautifully\" (un adverbio) y \"beauty\" (un sustantivo), no describen correctamente el vestido.",
+      "orderingFoodVocabRevision": "Repaso de vocabulario para pedir comida",
+      "q1AnswerExplanation2_3": "\"Population\" se refiere a las personas que viven en un área, no a las tradiciones.",
+      "yourTurnToPracticeThisWord": "¡Tu turno de practicar esta palabra!",
+      "mockTest1": "Examen de práctica 1",
+      "grammarPractice": "Práctica de gramática",
+      "task4": "Tarea 4",
+      "readingFast": "Lectura: rápida",
+      "letPracticeMore": "¡Practiquemos más!",
+      "yourTurnReadThisAloud": "¡Tu turno! Lee esto en voz alta",
+      "q4AnswerExplanation": "\"Under\" es una preposición que describe correctamente la relación entre el gato y la cama. Las otras opciones, \"below\" (que es más general espacialmente) y \"down\" (que es un adverbio), no se ajustan con precisión al contexto.",
+      "showMeWhatYouGot": "¡Muéstrame lo que sabes! Lee esta oración en voz alta.",
+      "task1": "Tarea 1",
+      "weGetBackToReadingToday": "Hoy volvemos a la lectura, aunque un poco más avanzada esta vez.",
+      "speaking": "Expresión oral",
+      "q4AnswerExplanation2": "Auténtico significa original y fiel a los orígenes tradicionales.",
+      "describeTheImage": "Describe la imagen",
+      "roleplayExercise": "Ejercicio de interpretación de roles",
+      "itAgainTimeToPracticeYourConversational": "Es hora de practicar nuevamente tus habilidades conversacionales y trabalenguas",
+      "letStartYourRoadmap": "Comencemos tu Roadmap",
+      "ieltsPart2Lesson": "Lección IELTS Parte 2",
+      "themeTravel": "Tema: Viajes",
+      "workplaceMeetingRoleplay": "Juego de roles: Reunión de trabajo",
+      "q4AnswerExplanation2_2": "\"Modificado\" significa cambiado del original, no tradicional.",
+      "letsPracticeSomeGrammar": "Practiquemos gramática",
+      "q2AnswerExplanation2_3": "\"Silent\" significa tranquilo sin ruido, lo opuesto de ocupado.",
+      "q3AnswerExplanation2": "Renowned significa conocido y ampliamente respetado por su excelencia.",
+      "nowYouTryReadThisSentence": "¡Ahora inténtalo tú! Lee esta oración.",
+      "q2AnswerExplanation": "\"Extremely\" es un adverbio que modifica el adjetivo \"fast.\" Las otras opciones, \"extreme\" (un adjetivo) y \"extremeness\" (un sustantivo), no modifican correctamente \"fast.\"",
+      "nowItsTheTimeToPracticeYourThinkingSkills": "Ahora es momento de practicar tus habilidades para responder preguntas y pensar sobre la marcha.",
+      "haveFunWithThisTongueTwister": "Diviértete con este trabalenguas",
+      "q5AnswerExplanation": "\"They\" es un pronombre que se usa como sujeto de la oración. Las otras opciones, \"Their\" (pronombre posesivo) y \"Them\" (pronombre objeto), no funcionan en la posición de sujeto.",
+      "q2AnswerExplanation2_2": "\"Declining\" significa empeorar o disminuir, no activo.",
+      "q3AnswerExplanation2_2": "\"Deserted\" significa abandonado y vacío, no famoso.",
+      "lastOneReadThisSentenceAloud": "¡Última! Lee esta oración en voz alta.",
+      "orderingFood": "Pedir comida",
+      "vocabularyExercise": "Ejercicio de vocabulario",
+      "nowItYourMomentToShine": "¡Ahora es tu momento de brillar! Intenta leer esta oración.",
+      "readAloud": "Leer en voz alta",
+      "q1AnswerExplanation2_2": "\"Scenery\" se refiere a características del paisaje natural, no a tradiciones culturales.",
+      "essentialVocabularyForDescribingYourCountry": "Vocabulario esencial para describir tu país, ciudad y viajes",
+      "task3": "Tarea 3",
+      "q4AnswerExplanation2_3": "\"Extranjero\" significa de otro país, no siempre tradicional.",
+      "task2": "Tarea 2",
+      "repeatAfterMe": "Repite después de mí",
+      "lastOneYouveGotThis": "¡Última pregunta, tú puedes! Lee la oración final en voz alta."
+    }
+  },
+  "day6": {
+    "version9": {
+      "exercise2": {
+        "es": {
+          "q1OptionCRight": "María se siente abrumada por tener demasiadas tareas.",
+          "q5OptionARight": "Lisa está organizando su trabajo por importancia (priorizando).",
+          "q5OptionBWrong": "Tomar la iniciativa significa actuar sin que te lo pidan.",
+          "q3OptionCRight": "Sarah mostró compromiso positivo al tomar la iniciativa.",
+          "q2OptionBRight": "John está delegando: asignando una tarea a otra persona.",
+          "q1OptionARight": "María se siente abrumada por demasiadas tareas.",
+          "q1AnswerExplanation": "Sentirse abrumado significa tener demasiadas tareas para manejar cómodamente",
+          "q4OptionBWrong": "La delegación es asignar tareas a otros.",
+          "q3OptionBRight": "Sarah resolvió un problema por sí misma de manera proactiva (iniciativa).",
+          "q4OptionBRight": "Alex está sufriendo de agotamiento prolongado (burnout).",
+          "q3OptionBWrong": "La delegación es asignar tareas a otros.",
+          "q4AnswerExplanation": "Burnout es el agotamiento causado por estrés prolongado.",
+          "q1OptionAWrong": "Motivado significa sentirse entusiasmado por el trabajo.",
+          "q2OptionARight": "John está asignando trabajo a otros (delegando).",
+          "q2OptionAWrong": "Tomar iniciativa significa actuar sin que te lo pidan.",
+          "q2OptionCWrong": "Priorizar significa clasificar las tareas por importancia.",
+          "q2AnswerExplanation": "Delegar significa asignar tareas a otra persona.",
+          "q3OptionARight": "Sarah mostró iniciativa: resolver un problema sin que se lo pidieran.",
+          "q5AnswerExplanation": "Priorizar significa manejar las tareas en orden de importancia.",
+          "q5OptionBRight": "Lisa está determinando qué tareas son las más importantes (priorizando).",
+          "q4OptionARight": "Alex está experimentando burnout - agotamiento por estrés prolongado.",
+          "q2OptionCRight": "John está delegando una tarea a otra persona.",
+          "q1OptionCWrong": "Organizado significa tener todo dispuesto de manera estructurada.",
+          "q4OptionCRight": "Alex está experimentando burnout - agotamiento causado por estrés prolongado.",
+          "q4OptionAWrong": "Progreso significa avance positivo en el trabajo o carrera.",
+          "q3AnswerExplanation": "Tomar la iniciativa significa identificar y resolver problemas sin que te lo pidan.",
+          "q5OptionCRight": "Lisa está priorizando: manejando las tareas en orden de importancia.",
+          "q5OptionAWrong": "Delegar es asignar tareas a otros.",
+          "q3OptionCWrong": "Burnout es el agotamiento por estrés crónico."
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q3AnswerExplanation": "\"Did not\" es un verbo auxiliar que vuelve negativo a \"understand\". Nos dice que Forrest no entendió algo en el pasado.",
+          "q6AnswerExplanation": "\"Discovers\" es un verbo de acción que muestra lo que hace Indiana Jones. \"Should\" es un verbo auxiliar que muestra lo que es correcto o apropiado.",
+          "q1AnswerExplanation": "\"Brought\" es un verbo de acción que muestra lo que hicieron los científicos. \"Was\" es un verbo copulativo que conecta \"decision\" con \"dangerous\".",
+          "q2AnswerExplanation": "Tanto \"questioned\" como \"swallowed\" son verbos de acción. Uno muestra acción mental, el otro muestra acción física.",
+          "q5AnswerExplanation": "Tanto \"appears\" como \"remains\" son verbos copulativos en tiempo presente. Conectan el sujeto \"factory\" con las descripciones \"magical\" y \"full of surprises\" sin mostrar acción.",
+          "q4AnswerExplanation": "\"Was playing\" muestra una acción que sucedía en ese momento exacto en el pasado. \"Was\" ayuda al verbo principal \"playing\" a mostrar una acción continua."
+        }
+      }
+    },
+    "version8": {
+      "exercise1": {
+        "id": {
+          "q3AnswerExplanation": "\"Team\" comienza con sonido 't', no 'th' (como en theme), ni 'c' (como en cream)",
+          "q1AnswerExplanation": "En vocabulario empresarial inglés, \"presentation\" se pronuncia pre-SEN-ta-tion, con énfasis en la segunda sílaba",
+          "q2AnswerExplanation": "\"Action items\" se refiere a tareas que deben completarse, mientras que \"action limits\" no es un término empresarial común"
+        }
+      },
+      "exercise3": {
+        "id": {
+          "q3AnswerExplanation": "\"Explain\" fomenta la colaboración y el respeto. Solicitar detalles muestra que valoras perspectivas diferentes y crea espacio para la innovación mediante diálogo abierto",
+          "q1AnswerExplanation": "\"Start\" muestra liderazgo e iniciativa. Ofrecerte primero establece un tono positivo y demuestra confianza, alentando la participación del equipo",
+          "q2AnswerExplanation": "\"Know\" demuestra planificación proactiva. Preguntar sobre la disponibilidad de materiales identifica obstáculos potenciales temprano, mostrando previsión y compromiso para cumplir con las fechas límite."
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q4AnswerExplanation": "\"Their\" es el pronombre posesivo correcto que se refiere a \"everyone\". \"Contribution\" significa algo dado o suministrado a un fondo o causa común, lo cual encaja con el contexto de agregar algo a un proyecto.",
+          "q2AnswerExplanation": "En esta oración, \"me\" es el pronombre objeto que sigue a \"asked\". \"I\" es un pronombre sujeto y sería incorrecto aquí.",
+          "q5AnswerExplanation": "\"Those\" es un pronombre demostrativo usado correctamente para referirse a personas que faltaron a la reunión. \"Action items\" son tareas específicas asignadas para completar, lo cual encaja con el contexto de asignaciones que necesitan revisión.",
+          "q3AnswerExplanation": "Una \"agenda\" es una lista de temas a discutir en una reunión. \"Contribution\" se refiere a algo dado o suministrado, mientras que un \"action item\" es una tarea específica asignada para completar.",
+          "q6AnswerExplanation": "Aunque tradicionalmente se usaba \"his or her\" para antecedentes singulares unidos por \"or/nor\", el inglés moderno acepta el \"their\" singular como género neutro y menos incómodo, especialmente al referirse a personas específicas.",
+          "q1AnswerExplanation": "\"Collaborate\" significa trabajar juntos hacia un objetivo común, lo cual encaja con el contexto de cumplir una fecha límite."
+        }
+      }
+    }
+  },
+  "day11": {
+    "exercise2": {
+      "id": {
+        "q6AnswerExplanation": "Un \"itinerary\" es un plan detallado o cronograma para un viaje que incluye actividades, horarios y lugares.",
+        "q3AnswerExplanation": "\"Gets\" es la forma correcta en tercera persona singular que concuerda con el sujeto singular \"beach club\".",
+        "q1AnswerExplanation": "La forma base \"plan\" se necesita después del verbo modal \"need to\".",
+        "q4AnswerExplanation": "\"Budget\" se refiere específicamente a una cantidad planificada de dinero asignada para gastos.",
+        "q2AnswerExplanation": "\"Accommodation\" se refiere a lugares como hoteles, villas o hostales donde se hospedan los viajeros.",
+        "q5AnswerExplanation": "\"Have\" es la forma correcta para usar con el sujeto plural \"my friends and I\"."
+      },
+      "q1AnswerExplanation": "\"Delegate\" es el verbo correcto que significa asignar tareas a otros, mientras que \"burnout\" y \"overwhelm\" no funcionan como verbos en este contexto.",
+      "q2AnswerExplanation": "\"Initiative\" encaja lógicamente en esta oración, e \"is\" sirve como verbo copulativo que conecta el sujeto con información sobre él.",
+      "q5AnswerExplanation": "\"Prioritizing\" significa organizar las tareas por importancia, lo cual lógicamente ayuda a prevenir el agotamiento.",
+      "q4AnswerExplanation": "\"Plans\" es un verbo de acción que muestra algo que hace el sujeto, coincidiendo con los otros verbos de acción en la serie (answers, solves).",
+      "q6AnswerExplanation": "\"Is\" funciona como verbo copulativo conectando \"presentation\" con información sobre ella, mientras \"are\" conecta \"clients\" con su estado.",
+      "q3AnswerExplanation": "\"Should\" es un verbo auxiliar que añade significado a \"complete,\" y \"overwhelmed\" significa estresado por demasiado trabajo."
+    },
+    "exercise3": {
+      "q2AnswerExplanation": "\"Ask\" refleja la disposición a buscar ayuda cuando sea necesario. Reconocer cuándo necesitas ayuda y estar abierto a solicitarla muestra profesionalismo y previene el agotamiento, contribuyendo a un ambiente de trabajo colaborativo.",
+      "id": {
+        "q3AnswerExplanation": "Usar \"reservation\" refleja una planificación inteligente y experiencia en viajes al asegurar lugares en atracciones populares, garantizando que tu grupo no se pierda experiencias clave.",
+        "q1AnswerExplanation": "Usar \"perfect\" muestra entusiasmo genuino e interés en los planes de viaje de tu amigo, ayudando a crear emoción y una sensación de expectativa compartida para el viaje.",
+        "q2AnswerExplanation": "Usar \"practical\" muestra una toma de decisiones reflexiva al equilibrar la convivencia social y compartir costos, destacando una habilidad importante en la planificación de viajes grupales."
+      },
+      "q3AnswerExplanation": "\"Join\" indica compromiso para construir relaciones laborales. Cumplir con invitaciones sociales ayuda a crear una red de apoyo más allá de las tareas inmediatas de trabajo, lo que mejora la satisfacción laboral general y el trabajo en equipo.",
+      "q1AnswerExplanation": "\"Honest\" la comunicación construye confianza en las relaciones laborales. Compartir sentimientos genuinos sobre la carga de trabajo crea una oportunidad de apoyo y muestra autenticidad, lo que fortalece los vínculos colegiados."
+    }
+  },
+  "day5": {
+    "version10": {
+      "exercise3": {
+        "es": {
+          "q1AnswerExplanation": "\"Start\" demuestra liderazgo e iniciativa. Ofrecerse como voluntario primero establece un tono positivo y muestra confianza, fomentando la participación del equipo.",
+          "q4AnswerExplanation": "\"Help\" prioriza el éxito del equipo sobre las preocupaciones individuales. Ofrecer asistencia muestra responsabilidad y pensamiento enfocado en soluciones en lugar de culpa o negatividad.",
+          "q2AnswerExplanation": "\"Know\" demuestra planificación proactiva. Preguntar sobre la disponibilidad de materiales identifica posibles obstáculos con anticipación, mostrando previsión y compromiso con el cumplimiento de plazos.",
+          "q5AnswerExplanation": "\"Discuss\" se enfoca en entender antes de actuar. Buscar detalles específicos sobre las solicitudes del cliente muestra profesionalismo y conduce a soluciones más efectivas y relaciones más sólidas con el cliente.",
+          "q3AnswerExplanation": "\"Explain\" fomenta la colaboración y el respeto. Solicitar detalles muestra que valoras diferentes perspectivas y crea espacio para la innovación a través del diálogo abierto."
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q2AnswerExplanation": "\"Order\" es el verbo que describe seleccionar y pedir comida en un restaurante.",
+          "q3AnswerExplanation": "\"Appetizer\" se refiere a un platillo pequeño que se sirve antes del plato principal.",
+          "q1AnswerExplanation": "\"Menu\" es el documento que enumera todas las opciones de comida y bebida disponibles en un restaurante."
+        },
+        "es": {
+          "q2AnswerExplanation": "\"Is\" es un verbo copulativo porque conecta el sujeto \"Upside Down\" con la descripción \"una dimensión oscura y peligrosa.\" Los verbos copulativos no muestran acción sino que conectan sujetos con descripciones.",
+          "q5AnswerExplanation": "\"Can\" es un verbo auxiliar que muestra la habilidad de Tony. Los verbos auxiliares como \"can\", \"will\" y \"should\" modifican los verbos principales para expresar habilidad, necesidad o acciones futuras.",
+          "q3AnswerExplanation": "\"Can\" es un verbo auxiliar que indica habilidad. Funciona con el verbo principal \"defeat\" para mostrar que Harry tiene la capacidad de vencer a Voldemort. Los verbos auxiliares añaden significado sobre posibilidad, necesidad o tiempo.",
+          "q1AnswerExplanation": "\"Throws\" es un verbo de acción porque muestra una acción física que Thor realiza. Los verbos de acción expresan lo que alguien hace, ya sea física o mentalmente.",
+          "q4AnswerExplanation": "\"Plays\" es un verbo de acción que muestra lo que Jim hace. Los verbos de acción son esenciales para describir actividades y comportamientos, ya sea en el trabajo o en la vida diaria."
+        }
+      }
+    }
+  },
+  "roadmapIntermediateStates": {
+    "letsReview": "Revisemos",
+    "ontoTheNextOne": "¡Vamos al siguiente!",
+    "part2OfDay2": "Parte 2 del Día 2 completada",
+    "part3OfDay3": "Parte 3 del Día 3 completada",
+    "meetingRoleplay": "Simulación de reunión completada",
+    "teamMeeting": "reunión de equipo",
+    "restaurantRoleplayMastered": "¡Simulación de restaurante dominada!",
+    "part1OfDay4": "Parte 1 del Día 4 completada",
+    "weLearnt": "¡Aprendimos!",
+    "again": "¡otra vez!",
+    "sentenceStructureMastered": "¡Estructura de oraciones dominada!",
+    "youBelongTo": "¡Perteneces al 10% superior de usuarios que completaron el Día 1!",
+    "youLearnt": "que aprendiste",
+    "youLearnedPronounciations": "¡Aprendiste pronombres!",
+    "practicing": "practicando {n} palabras",
+    "day1Completed": "DÍA 1 COMPLETADO",
+    "letsReviewPronouns": "repasemos los pronombres en conversación",
+    "readingDone": "¡LECTURA COMPLETADA!",
+    "lets": "Vamos",
+    "scoreImproved": "puntuación mejoró un 25%",
+    "letsRevise": "repasemos",
+    "yourLearningFrom": "tu aprendizaje del roleplay",
+    "oneLastLesson": "¡UNA ÚLTIMA LECCIÓN!",
+    "part2OfDay3": "La Parte 2 del Día 3 está completa",
+    "restaurantRoleplayDone": "Juego de rol de restaurante completado"
+  },
+  "day2McqExercise": {
+    "q1AnswerExplanation": "Usamos \"He\" porque Joe es un sujeto masculino singular, y el pronombre debe concordar con el género y número.",
+    "q2AnswerExplanation": "Como Daenerys (una mujer) es la dueña, \"Hers\" es la respuesta correcta.",
+    "q5AnswerExplanation": "\"We\" es el pronombre sujeto correcto que se necesita antes del verbo \"like\" en esta oración.",
+    "q4AnswerExplanation": "Como Jon Snow se refiere a una espada específica cerca de él, \"this\" es apropiado para algo singular y cercano a él.",
+    "q3AnswerExplanation": "Se usa el pronombre \"herself\" porque el sujeto de la oración es \"she\", y la acción de hacer el sándwich se refleja en ella misma."
+  },
+  "mergedFilter": {
+    "job": {
+      "administrativeOfficialMatters": "Asuntos administrativos y oficiales",
+      "practiceSmallTalkInInterviews": "Practicar conversación informal en entrevistas",
+      "negotiationProfessionalDiscussions": "Negociación y discusiones profesionales",
+      "talkOnDailyActivities": "Hablar sobre actividades diarias",
+      "workplaceCommunicationCulture": "Comunicación y cultura en el lugar de trabajo",
+      "preparingYourselfForJobInterview": "Preparándote para entrevista de trabajo"
+    },
+    "ielts": {
+      "professionalLifeWorkplaceCommunication": "Vida profesional y comunicación laboral",
+      "talkAboutYourPreferences": "Habla sobre tus preferencias",
+      "demonstrateYourCriticalThinking": "Demuestra tu pensamiento crítico",
+      "expressOpinionsOnSocialLife": "Expresa opiniones sobre la vida social",
+      "expressHowYouHandleDailyTasks": "Expresa cómo manejas las tareas diarias"
+    },
+    "defaultFilter": {
+      "personalGrowthLeadership": "Crecimiento personal y liderazgo",
+      "casualConversations": "Conversaciones casuales",
+      "professionalCommunication": "Comunicación profesional",
+      "talkOnYourPersonalInterests": "Habla sobre tus intereses personales",
+      "dailyTasksErrands": "Tareas diarias y mandados"
+    },
+    "business": {
+      "professionalCommunicationProjectManagement": "Comunicación profesional y gestión de proyectos",
+      "careerDevelopmentGrowth": "Desarrollo profesional y crecimiento",
+      "teamCollaborationConflictResolution": "Colaboración en equipo y resolución de conflictos",
+      "personalTimeManagementWorkLifeBalance": "Gestión del tiempo personal y equilibrio vida-trabajo",
+      "dailyWorkplaceInteractions": "Interacciones diarias en el lugar de trabajo",
+      "businessSocialSettings": "Entornos sociales de negocios"
+    }
+  },
+  "conversationFeedbacks": {
+    "userLeftMidway": {
+      "didNotKnowWhatToSay": "No sabía qué decir",
+      "technicalIssues": "Problemas técnicos",
+      "needMoreTimeToSpeak": "Necesito más tiempo para hablar",
+      "micHeardWrongWords": "El micrófono escuchó palabras incorrectas",
+      "repetitive": "Repetitivo"
+    },
+    "normal": {
+      "repetitive": "Repetitivo",
+      "bugsOrTechnicalIssue": "Errores / Problema técnico",
+      "chatRepetitive": "Chat repetitivo",
+      "poorResponsesFromSarah": "Respuestas pobres de Sarah",
+      "chatTooBoring": "Chat muy aburrido"
+    }
+  },
+  "chat_onboarding_v2_feature2": {
+    "moreThanTenThousandPeopleHaveBenefited": "Más de diez mil personas se han beneficiado de la app Stimuler cada día. Espero que tú también puedas ser una de ellas. ¿Empezamos?",
+    "helloIamYourSara": "¡Hola! Soy tu Sara. Te ayudaré a mejorar tu inglés.",
+    "firstOfAllWhatIsYourName": "Antes que nada, ¿cómo te llamas?",
+    "letsImproveYourEnglishSkills": "Mejoremos juntos tus habilidades de inglés. ¿Estás listo?"
+  },
+  "roadmap_models2": {
+    "aQuestionAppearsAnswerInRealTime": "Aparece una pregunta. Respóndela en tiempo real, en los próximos 60 segundos, sin guion ni preparación.",
+    "aPictureAppearsSayWhatMakesSense": "Aparece una imagen. Di lo que tenga sentido para ti.",
+    "practiceRealTimeQuestion": "Practica respuestas a preguntas en tiempo real sin guión ni preparación formal",
+    "identifyTheCorrectSentence": "Identifica la oración correcta",
+    "repeatAfterMe": "Repite después de mí",
+    "timeForAGameSpeakAsManyWords": "¡Hora de jugar! Di tantas palabras como puedas que empiecen con la letra indicada. ¿Listos para jugar?",
+    "tongueTwister": "Trabalenguas",
+    "AllOptionsMustBeDifferent": "Todas las opciones deben ser diferentes",
+    "oneAndOnlyOneOptionMustBeRight": "Una y solo una opción debe ser correcta",
+    "youWillBeGivenAnImage": "Se te dará una imagen, ¡intenta describirla con el mayor detalle posible en menos de un minuto!"
+  },
+  "customeFeedbackBottomsheet": {
+    "goodNewsYouCanNow": "¡Buenas noticias! Ya puedes..."
+  },
+  "mcq_result2": {
+    "well_done2": "¡Bien hecho!",
+    "your_focus_areas2": "Tus áreas de enfoque"
+  },
+  "day5_2": {
+    "version11": {
+      "q3AnswerExplanation2": "Some' es un determinante que se usa con sustantivos contables en plural como 'apples.' 'Any' se usa frecuentemente en preguntas o oraciones negativas, y 'much' se usa con sustantivos incontables, por lo que no encajan en el contexto.",
+      "q1AnswerExplanation3": "Beautiful' es un adjetivo que describe el sustantivo 'dress.' Las otras opciones, 'beautifully' (un adverbio) y 'beauty' (un sustantivo), no describen correctamente el vestido.",
+      "q2AnswerExplanation": "El verbo copulativo 'is' conecta el sujeto 'potion' con el adjetivo 'ready,' describiendo su estado.",
+      "q5AnswerExplanation": "Went' es el pasado de 'go,' describiendo una acción completada.",
+      "roleplayMocktest": "Simulacro de juego de roles",
+      "q4AnswerExplanation4": "Takes' es la forma correcta del verbo 'take' en tercera persona singular del presente.",
+      "q3AnswerExplanation3": "Dog' es un sustantivo que nombra un animal que realiza la acción de ladrar. Los sustantivos identifican personas, lugares o cosas, haciendo de 'dog' el sujeto de esta oración.",
+      "ieltsRoleplayPracticeExercise": "Ejercicio de práctica de juego de roles IELTS",
+      "q3AnswerExplanation": "El verbo auxiliar 'have' ayuda a formar el tiempo perfecto, indicando que la acción de terminar la tarea está completada.",
+      "fillInTheBlankResponses": "Respuestas de llenar espacios en blanco",
+      "q1AnswerExplanation4": "Them' es el pronombre objeto correcto al referirse a los visitantes.",
+      "q8AnswerExplanation": "Showed' es el pasado de 'show', indicando lo que John hizo en el mercado.",
+      "q6AnswerExplanation": "Needed' es el pasado de 'need', indicando una razón para ir al mercado.",
+      "q2AnswerExplanation2": "Placed' es el pasado de 'place', encajando con la acción pasada de la oración. 'Placing' es un participio presente, y 'place' es la forma base, ambas no encajan con el tiempo pasado requerido por el contexto de la oración.",
+      "after4DaysOfSpeakingLetsTakeAShortGrammarBreakHaveFun": "Después de 4 días hablando, tomemos un breve 'descanso de gramática'. ¡Que te diviertas!",
+      "q1AnswerExplanation2": "But' es una conjunción que muestra contraste entre querer ir al concierto y tener que trabajar hasta tarde. 'And' añade información sin contraste, y 'so' muestra una relación de causa y efecto, ninguna de las cuales encaja en el contexto.",
+      "q1AnswerExplanation": "El verbo de acción 'runs' describe lo que hizo Ken para alcanzar el autobús.",
+      "q3AnswerExplanation4": "Staying' es la forma correcta del gerundio después del verbo 'recommend' en este contexto.",
+      "q5AnswerExplanation4": "Several' es el cuantificador correcto para sustantivos contables como 'festivals'.",
+      "q5AnswerExplanation2": "Has' es un verbo auxiliar usado con el participio pasado 'been' para formar el presente perfecto, indicando una acción que comenzó en el pasado y continúa en el presente. 'Have' sería incorrecto ya que el sujeto 'She' requiere un verbo auxiliar singular, e 'is' no se usa con 'been' en este contexto.",
+      "q7AnswerExplanation": "Met' es el pasado de 'meet', que describe un evento en el mercado.",
+      "q2AnswerExplanation4": "From' es la preposición correcta para mostrar el punto de inicio de un período de tiempo.",
+      "q4AnswerExplanation": "El verbo modal 'can' se usa para indicar la habilidad de volar si se muestra confianza en Buckbeak.",
+      "q4AnswerExplanation3": "Under' es una preposición que describe correctamente la relación entre el gato y la cama. Las otras opciones, 'below' (que es más general espacialmente) y 'down' (que es un adverbio), no se ajustan correctamente al contexto.",
+      "speakingImpromptu": "Expresión oral: Impromptu",
+      "q4AnswerExplanation2": "Oops' es una interjección que expresa un error o accidente menor, apropiada para el contexto de olvidar las llaves. 'Wow' expresa sorpresa o admiración, y 'However' es una conjunción; ninguna encaja en el contexto de cometer un error.",
+      "q2AnswerExplanation3": "Extremely' es un adverbio que modifica el adjetivo 'fast.' Las otras opciones, 'extreme' (un adjetivo) y 'extremeness' (un sustantivo), no modifican correctamente 'fast.'",
+      "q5AnswerExplanation3": "They' es un pronombre usado como sujeto de la oración. Las otras opciones, 'Their' (un pronombre posesivo) y 'Them' (un pronombre objeto), no encajan en la posición de sujeto."
+    }
+  },
+  "day1_2": {
+    "version29": {
+      "task3": "Tarea 3",
+      "task2": "Tarea 2",
+      "summarizeLecture": "Resumir conferencia",
+      "introductionSpeakingTest": "Introducción: Examen oral",
+      "readTheParagraphWithProperPronunciation": "Lee el párrafo con pronunciación correcta",
+      "firstExerciseForToday": "Primer ejercicio de hoy",
+      "introduceYourself": "Preséntate",
+      "youNailedYourFirstSelfIntroductionAtWorkplace": "¡Dominaste tu primera autopresentación en el trabajo!",
+      "selfIntroSuperstar": "Autopresentación - ¡Superestrella!",
+      "andPracticed2Execises": "y practicaste 2 ejercicios",
+      "letReadTogether": "Leamos juntos",
+      "letBuildYourGrammar": "Construyamos tu gramática",
+      "practiceOnMistakes": "Practica con errores",
+      "tongueTwister": "Trabalenguas",
+      "welcomeToPTEMockTest": "¡Bienvenido al examen de práctica PTE!",
+      "continueLiteral": "Continuar",
+      "howDoYouKnowPeopleHere": "¿Cómo conoces a la gente aquí?",
+      "task4": "Tarea 4",
+      "haveFunWithThisTongueTwister": "Diviértete con este trabalenguas",
+      "grammar": "Gramática",
+      "speaking": "Expresión oral",
+      "readingExercise": "Ejercicio de lectura",
+      "grammarDone": "¡Gramática completada!",
+      "readAloud": "Lee en voz alta",
+      "describeTheImage": "Describe la imagen",
+      "introduction": "Introducción",
+      "letStartYourRoadmap": "Comencemos tu Roadmap",
+      "ieltsPart1": "IELTS Parte 1",
+      "whatIsAHobbyYouLoveDoing": "¿Cuál es un pasatiempo que te gusta hacer en tu tiempo libre?",
+      "repeatAfterMe": "Repite después de mí",
+      "whatIsHobbyYouLoveDoing": "¿Cuál es un pasatiempo que te gusta hacer en tu tiempo libre?",
+      "grammarBuilder": "Constructor de gramática",
+      "youLearntTo": "Aprendiste a"
+    }
+  },
+  "day2": {
+    "version14": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Share\" introduce nueva información en discusiones. \"Suggest\" requiere una propuesta; \"yell\" es descortés; \"mix\" es contextualmente incorrecto.",
+        "q5AnswerExplanation": "\"Suggest\" propone ideas sin imponer. \"Speak\" carece de intención de propuesta; \"show\" implica presentación visual.",
+        "q4AnswerExplanation": "\"Sorry\" introduce cortésmente una interrupción. \"Okay\" reconoce a otros; \"Listen\" introduce nuevos temas, no partidas.",
+        "q3AnswerExplanation": "\"Could we\" hace sugerencias corteses y colaborativas. \"May\" es demasiado formal; \"Must\" suena imperativo en lugar de sugerencia.",
+        "q1AnswerExplanation": "\"Sorry\" señala educadamente una salida inesperada de la conversación. \"Maybe\" muestra incertidumbre; \"Hello\" es solo para saludos."
+      }
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "\"I\" es el pronombre de primera persona singular para referirse a uno mismo.",
+      "q2AnswerExplanation": "\"They\" es el pronombre sujeto de tercera persona plural para referirse a otros que realizaron la acción.",
+      "q3AnswerExplanation": "\"My\" es el adjetivo posesivo de primera persona que indica posesión."
+    }
+  },
+  "day10": {
+    "exercise2": {
+      "id": {
+        "q3AnswerExplanation": "\"Practical\" sugiere que la villa es una opción sensata y útil porque ofrece ventajas (quedarse juntos y compartir costos).",
+        "q1AnswerExplanation": "\"Ideal\" expresa que algo es perfecto para una situación; en este caso, Bali es perfecto para un viaje de fin de semana a la playa.",
+        "q2AnswerExplanation": "\"Combine\" significa unir diferentes cosas, sugiriendo una mezcla equilibrada de actividades de playa y culturales cada día."
+      },
+      "q3AnswerExplanation": "\"Metas\" completa lógicamente la oración sobre gestionar el estrés laboral mediante la priorización, mientras que las otras opciones lo empeorarían.",
+      "es": {
+        "q1AnswerExplanation": "\"Orientación\" es el término profesional para solicitar ayuda experta, mientras que pedir las \"vacaciones\" o el \"sándwich\" de alguien sería completamente inapropiado y no resolvería tu problema laboral.",
+        "q5AnswerExplanation": "\"Asistir\" implica ayudar a la otra persona, fomentando una relación de trabajo positiva, mientras que ofrecer \"hipnotizar\" o \"sabotar\" a alguien sería totalmente inapropiado y alarmante en cualquier entorno profesional.",
+        "q4AnswerExplanation": "\"Clarificación\" solicita explícitamente una mejor comprensión de información confusa, mientras que decir que necesitas \"diamantes\" o \"venganza\" respecto a los términos de cumplimiento sería absurdo y completamente inapropiado en un entorno profesional.",
+        "q2AnswerExplanation": "\"Favor\" reconoce cortésmente que estás pidiendo ayuda como un gesto amable, mientras que pedirle a alguien que haga tu \"lavandería\" o te haga un \"tatuaje\" sería completamente inapropiado e irrelevante en el entorno laboral.",
+        "q3AnswerExplanation": "\"Recursos\" se refiere a materiales o información útil para entender las especificaciones, mientras que pedir \"chistes\" sería poco profesional y preguntar sobre \"enemigos\" no tiene sentido antes de una reunión con un cliente."
+      },
+      "ielts": {
+        "q2AnswerExplanation": "\"Will\" es el verbo modal correcto para expresar una consecuencia futura en este contexto factual.",
+        "q3AnswerExplanation": "\"Have started\" es la forma correcta del presente perfecto para acciones que comenzaron en el pasado y continúan o tienen relevancia en el presente",
+        "q1AnswerExplanation": "\"Being cleared\" es la forma pasiva continua correcta para describir un proceso en curso"
+      },
+      "q1AnswerExplanation": "\"Descanso\" es la única opción lógica que ayudaría a alguien abrumado, mientras que las otras opciones podrían empeorar la situación.",
+      "q2AnswerExplanation": "\"Considerado\" es la única respuesta positiva y apropiada para alguien que toma la iniciativa de ayudar al equipo, mientras que las otras opciones son negativas e inapropiadas."
+    },
+    "exercise3": {
+      "es": {
+        "q3AnswerExplanation": "\"Aclaración\" aborda directamente la confusión sobre información contradictoria. \"Orientación\" sería para consejos sobre qué hacer después, no para resolver confusión. \"Asistencia\" implica que necesitas ayuda completando una tarea, pero tu problema es entender la información primero.",
+        "q1AnswerExplanation": "\"Orientación\" es perfecta cuando buscas dirección experta para mejorar tus habilidades. \"Favor\" es para solicitar ayuda externa, no para aprender. \"Aclaración\" solo explicaría confusiones, no proporcionaría la experiencia que necesitas.",
+        "q4AnswerExplanation": "\"Asistencia\" significa ayuda directa y práctica con una tarea específica en curso. \"Aclaración\" solo explicaría puntos de confusión, no brindaría apoyo continuo. \"Recursos\" proporcionaría materiales para el autoaprendizaje en lugar de la revisión personal que solicitan.",
+        "q2AnswerExplanation": "\"Favor\" es correcto para ayuda rápida y urgente fuera de las tareas habituales de alguien. \"Recursos\" significaría materiales para solucionarlo tú mismo, demasiado lento para esta emergencia. \"Asistencia\" implica una solicitud de apoyo formal, no esta interacción rápida de pasillo.",
+        "q5AnswerExplanation": "\"Recursos\" se refiere a materiales que ayudan a las personas a aprender de forma independiente. \"Aclaración\" solo abordaría preguntas específicas, no proporcionaría capacitación integral. \"Orientación\" implica dirección personal en lugar de materiales de aprendizaje autodirigido."
+      }
+    }
+  },
+  "firebase_service": {
+    "enterThePassword": "Ingresa la contraseña",
+    "password": "Contraseña",
+    "emailAddress": "Dirección de correo electrónico",
+    "confirm": "Confirmar"
+  },
+  "withinConversation": {
+    "bugsOrTechnicalIssues": "Errores o problemas técnicos 🚩",
+    "iDidntKnowWhatToSpeak": "No sabía de qué hablar 😓",
+    "sarahsMessageWasBoring": "El mensaje de Sarah fue aburrido 🥱",
+    "exploringOrFindingADifferentTopic": "Explorando / Buscando un tema diferente 🔍"
+  },
+  "roadmapTab": {
+    "premiumLessons": "Lecciones Premium",
+    "suggestionsTitle": "Más exámenes de práctica y lecciones",
+    "hey": "Hola",
+    "suggestionsCta": "¿Tienes recomendaciones?",
+    "startYourLearningJourney": "Inicia tu viaje de aprendizaje",
+    "start": "Iniciar",
+    "comingSoon": "Próximamente"
+  },
+  "pick_a_word_to_practice_screen": {
+    "toMakeSomethingBetterValuableGoodWay": "Para mejorar algo o hacerlo más valioso de manera positiva"
+  },
+  "roadmapIntermediateStates2": {
+    "continueLiteral2": "Continuar"
+  },
+  "day8": {
+    "exercise2": {
+      "q2AnswerExplanation": "\"Is\" es un verbo copulativo porque conecta el sujeto \"Upside Down\" con la descripción \"una dimensión oscura y peligrosa\". Los verbos copulativos no muestran acción, sino que conectan sujetos con descripciones.",
+      "q5AnswerExplanation": "\"Can\" es un verbo auxiliar que muestra la habilidad de Tony. Los verbos auxiliares como \"can\", \"will\" y \"should\" modifican los verbos principales para expresar habilidad, necesidad o acciones futuras.",
+      "q4AnswerExplanation": "\"Plays\" es un verbo de acción que muestra lo que hace Jim. Los verbos de acción son esenciales para describir actividades y comportamientos, ya sea en el trabajo o en la vida diaria.",
+      "q3AnswerExplanation": "\"Can\" es un verbo auxiliar que muestra habilidad. Funciona con el verbo principal \"defeat\" para mostrar que Harry tiene la habilidad de vencer a Voldemort. Los verbos auxiliares añaden significado sobre posibilidad, necesidad o tiempo.",
+      "q1AnswerExplanation": "\"Throws\" es un verbo de acción porque muestra una acción física que Thor realiza. Los verbos de acción expresan lo que alguien hace, ya sea físico o mental."
+    }
+  },
+  "feedback_recorders": {
+    "iWantTo": "Quiero...."
+  },
+  "roadmapCta": {
+    "continueLabel": "Continuar",
+    "retry": "Reintentar",
+    "tryAgain": "Intenta de nuevo",
+    "next": "Siguiente",
+    "error": "Error",
+    "tapToRetry": "Toca para reintentar",
+    "tapToSpeak": "Toca para hablar",
+    "skip": "Omitir",
+    "skipUnit": "Omitir unidad",
+    "skipPractice": "Omitir práctica",
+    "goBack": "Volver",
+    "submit": "Enviar",
+    "refresh": "Actualizar",
+    "exitStay": "No, sigamos",
+    "exitLeave": "Sí, nos vemos luego",
+    "startFromBeginning": "Comenzar desde el principio",
+    "backToRoadmap": "Volver a la ruta",
+    "reconnect": "¡Claro! Reconectar",
+    "stillOffline": "Aún sin conexión, vuelve a intentarlo...",
+    "previousDayLock": {
+      "titleDay": "Desbloquea este ejercicio personalizado después del Día $dayNumber",
+      "titleGeneric": "Desbloquea este ejercicio personalizado después del Día anterior",
+      "startDay": "Comenzar el Día $dayNumber",
+      "startGeneric": "Comenzar el Día anterior",
+      "goToDay": "Ir al Día $dayNumber",
+      "goToGeneric": "Ir al Día anterior"
+    }
+  },
+  "roadmapErrors": {
+    "contentNotSupportedTitle": "Contenido no compatible",
+    "contentNotSupportedBody": "Este tipo de contenido aún no es compatible con la app. Actualiza a la última versión o contacta a soporte.",
+    "chapterNotAvailable": "Capítulo no disponible",
+    "moduleNotAvailable": "Módulo no disponible",
+    "noCurrentUnit": "No hay unidad actual disponible",
+    "errorTitle": "Error",
+    "loadingModule": "Cargando contenido del módulo...",
+    "exitingModule": "Saliendo del módulo...",
+    "noLessonsTitle": "No se encontraron lecciones",
+    "noLessonsBody": "Estamos preparando tus cursos. Vuelve en un momento.",
+    "couldntPrepareExercise": "No se pudo preparar el ejercicio",
+    "offlineBody": "Tu conexión a Internet es débil. ¿Puedes revisarla y reconectarte?",
+    "unitEmpty": "Esta unidad está vacía",
+    "genericTryAgain": "Algo salió mal. Vuelve a intentarlo.",
+    "networkCheckConnection": "Error de red. Revisa tu conexión.",
+    "discoveryUnreachable": "No pudimos conectar con nuestros servidores. Revisa tu conexión a internet e inténtalo de nuevo.",
+    "videoLoadFailed": "No se pudo cargar el video: $error",
+    "videoUnavailableMovingOn": "Este video no está disponible en este momento. Continuamos…",
+    "recordingFailed": "No se pudo procesar la grabación. Vuelve a intentar grabar.",
+    "connectionError": "Error de conexión. Vuelve a intentarlo.",
+    "contentLoadError": "Error al cargar el contenido",
+    "noAudioDetected": "No se detectó audio. Vuelve a intentarlo.",
+    "didntHearAnything": "No escuchamos nada. Vuelve a intentarlo.",
+    "minRecordingDuration": "Debes grabar al menos 3 segundos",
+    "cannotStartRecording": "No se puede iniciar la grabación",
+    "reportOthersValidation": "Agrega detalles para la categoría \"Others\"",
+    "reportSendFailedWith": "No se pudo enviar tu reporte: $message",
+    "reportSendFailed": "No se pudo enviar tu reporte. Vuelve a intentarlo.",
+    "reportThanks": "¡Gracias por tus comentarios!"
+  },
+  "videoLanguageSettings": {
+    "lessonSettingsTitle": "Configuración de la lección",
+    "videoLanguageRow": "Idioma del video",
+    "subtitlesRow": "Subtítulos nativos",
+    "subtitleOn": "Sí",
+    "subtitleOff": "No",
+    "switchDialogTitle": "¿Cambiar el idioma del video a $display?",
+    "switchDialogBody": "Este video se reiniciará desde el principio en $display. Tu progreso de la lección está guardado.",
+    "switchDialogConfirm": "Sí, cambiar a $display",
+    "switchDialogKeep": "Mantener $display",
+    "promptTitle": "¿Quieres cambiar el idioma del video?",
+    "promptChangeTo": "Cambiar a $display",
+    "promptKeep": "Mantener $display",
+    "switchLoader": "Cargando tu lección en $display…",
+    "languageSectionHeader": "IDIOMA",
+    "learningSectionHeader": "APRENDIZAJE",
+    "accountSectionHeader": "CUENTA",
+    "appSectionHeader": "APP",
+    "nativeLanguageRow": "Idioma nativo",
+    "appLanguageRow": "Idioma de la app",
+    "englishOnly": "Inglés",
+    "searchHint": "Buscar",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "appSwitchTitle": "¿Cambiar el idioma de la app a $display?",
+    "appSwitchBody": "Tus subtítulos y toda la guía de la app cambiarán a $display.",
+    "cardVideoSwitchBody": "Tus lecciones en video cambiarán a $display y tu lección actual se reiniciará desde el principio."
+  },
+  "wordMeaning": {
+    "pronunciation": "Pronunciación",
+    "tapToListen": "Toca para escuchar",
+    "loading": "Cargando...",
+    "saveWord": "Guardar palabra en el diccionario",
+    "definitionPlaceholder": "La definición aparecerá aquí"
+  },
+  "roadmapReport": {
+    "sendLogs": "Enviar registros de diagnóstico",
+    "sendLogsDetail": "Son los registros de uso de la app. Nos ayudan a resolver el problema que estás reportando.",
+    "header": "¿Nos cuentas qué salió mal?"
+  },
+  "roadmapReportOptions": {
+    "app_not_responding": "La app dejó de responder",
+    "audio_didnt_play": "El audio no se reprodujo",
+    "did_not_understand_video": "No entendí el video",
+    "didnt_understand_instructions": "No supe qué hacer",
+    "exercise_too_difficult": "El ejercicio fue muy difícil",
+    "grammar_explanation_wrong": "La explicación de gramática está mal",
+    "lesson_too_difficult": "La lección fue muy difícil",
+    "highlight_issue": "Mis palabras no se resaltan correctamente",
+    "mic_didnt_work": "Mi micrófono no funciona bien",
+    "speech_not_understood": "La app no entendió lo que dije",
+    "sentence_has_error": "Hay un error en el texto",
+    "technical_issue": "Problema técnico / errores",
+    "video_screen_froze": "El video no se reprodujo o se congeló",
+    "wrong_question": "La pregunta o la respuesta está mal",
+    "wrong_subtitles": "Los subtítulos están mal",
+    "wrong_translation": "La traducción a mi idioma está mal",
+    "others": "Otra cosa",
+    "sendLogsDetail": "Son los registros de uso de la app. Nos ayudan a resolver el problema que estás reportando."
+  },
+  "callingV3": {
+    "home": {
+      "greeting": "¡Hola! Soy Sarah. Puedes hablar conmigo con toda confianza. Si te trabas, yo te ayudo.",
+      "history": "Historial",
+      "timeUnavailable": "No disponible",
+      "unlimitedTalktime": "Ilimitado",
+      "startCall": "Iniciar llamada",
+      "surveySubmit": "Enviar",
+      "surveySkip": "Ahora no",
+      "surveyOption": "OPCIÓN $letter",
+      "surveyAnsweredTag": "Usaremos tu respuesta para personalizar tu experiencia más adelante",
+      "yourEnglishTutor": "Tu tutora de inglés",
+      "minLeft": "$minutes min restantes",
+      "outOfTimeFree": "Se te acabó el tiempo de llamada de hoy. Mejora tu plan para seguir practicando con Sarah.",
+      "outOfTimePremium": "Parece que ya usaste todo tu tiempo de conversación de hoy. ¿Quieres más? Toca abajo y escríbenos.",
+      "upgradeCta": "Consigue más tiempo de llamada",
+      "requestMoreTalktimeCta": "Solicitar más tiempo",
+      "moreTalktimeSheetTitle": "Sin tiempo de conversación por hoy",
+      "moreTalktimeSheetBody": "Ya usaste tu tiempo diario con Sarah. Escríbenos por WhatsApp y te damos más.",
+      "moreTalktimeSheetCta": "Escríbenos por WhatsApp",
+      "micPermissionNeeded": "Se necesita permiso del micrófono para iniciar la llamada"
+    },
+    "active": {
+      "calling": "Llamando…",
+      "sarahSpeaking": "Sarah está hablando",
+      "yourTurn": "Tu turno",
+      "mute": "Silenciar",
+      "endCall": "Finalizar",
+      "cancel": "Cancelar",
+      "speaker": "Altavoz",
+      "earpiece": "Auricular",
+      "wired": "Con cable",
+      "bluetooth": "Bluetooth",
+      "audioOutput": "Salida de audio",
+      "reconnecting": "Reconectando…",
+      "paused": "en pausa",
+      "minutesLeft": "$minutes min restantes"
+    },
+    "feedback": {
+      "title": "¿Qué tal estuvo la llamada?",
+      "ratingPrompt": "Califica esta llamada",
+      "optionsPrompt": "¿Qué te llamó la atención?",
+      "textHint": "Agrega algo más (opcional)",
+      "submit": "Enviar",
+      "dismiss": "Ahora no",
+      "optionNatural": "Se sintió natural",
+      "optionUnderstoodMe": "Sarah me entendió",
+      "optionHelpful": "Útil para practicar",
+      "optionHardToUnderstand": "Difícil de entender a Sarah",
+      "optionTooSlow": "Respuestas muy lentas",
+      "optionAudioIssues": "Problemas de audio"
+    },
+    "failure": {
+      "title": "Algo salió mal",
+      "generic": "No se pudo iniciar la llamada. Inténtalo de nuevo.",
+      "noTalktime": "Se te acabó el tiempo de llamada de hoy. ¡Vuelve mañana!",
+      "agentLeft": "Sarah salió de la llamada de forma inesperada.",
+      "tryAgain": "Intentar de nuevo",
+      "noTalktimeTitle": "Se te acabó el tiempo de llamada",
+      "noTalktimeBody": "Has usado los $minutes minutos. Tu llamada se reiniciará en",
+      "noTalktimeLifetime": "Has usado todo tu tiempo de llamada gratis. Consigue Stimuler Pro para seguir hablando con Sarah.",
+      "noTalktimeCta": "Consigue más tiempo",
+      "capacityTitle": "La línea está ocupada",
+      "capacityBody": "Sarah está en otra llamada ahora mismo. Dale un momento y vuelve a intentarlo.",
+      "capacityCta": "Llamar de nuevo",
+      "rateLimitedTitle": "Vamos con calma",
+      "rateLimitedBody": "Lo has intentado varias veces seguidas. Respira un momento y te volvemos a conectar.",
+      "rateLimitedCtaLocked": "Llama de nuevo en $time",
+      "connectionLostTitle": "Se perdió la conexión",
+      "connectionLostBody": "Tu internet se cortó durante la llamada. Conéctate al Wi-Fi o a los datos e inténtalo de nuevo.",
+      "agentTimeoutTitle": "Sarah no pudo contestar",
+      "agentTimeoutBody": "Esta vez no respondió. Dale un momento y llámala de nuevo.",
+      "agentFatalTitle": "La llamada se cortó",
+      "agentFatalBody": "Algo falló de nuestro lado y la llamada se cortó. Intenta empezar una nueva.",
+      "connectFailureTitle": "La llamada tardó demasiado",
+      "connectFailureBody": "No pudimos contactar a Sarah a tiempo. Revisa tu conexión e inténtalo de nuevo.",
+      "goHome": "Volver al inicio"
+    },
+    "history": {
+      "title": "Historial de llamadas",
+      "empty": "Aún no hay llamadas: las que termines aparecerán aquí.",
+      "loadFailed": "No se pudieron cargar tus llamadas",
+      "retry": "Reintentar",
+      "loadingOlder": "Cargando llamadas anteriores...",
+      "sectionToday": "HOY",
+      "sectionThisWeek": "ESTA SEMANA",
+      "sectionEarlier": "ANTES",
+      "today": "Hoy",
+      "yesterday": "Ayer",
+      "feedbackUnavailable": "Feedback no disponible",
+      "emptyTitle": "Aún no hay llamadas",
+      "emptyBody": "Cada llamada que termines aparecerá aquí: cuánto hablaste y lo que ganaste.",
+      "emptyCta": "Llamar a Sarah",
+      "loadMoreFailed": "No se pudieron cargar las llamadas anteriores"
+    },
+    "report": {
+      "title": "Reportar un problema",
+      "subtitle": "Toca lo que salió mal y, si puedes, agrega una nota.",
+      "submit": "Enviar reporte",
+      "sendLogs": "Enviar registros de diagnóstico",
+      "sendLogsHint": "Nos ayuda a encontrar el problema más rápido",
+      "thanks": "¡Gracias, reporte enviado!",
+      "issueDidntUnderstand": "No entendí a Sarah",
+      "hintDidntUnderstand": "¿Qué palabra o pregunta te confundió?",
+      "issueMishearedMe": "Sarah me escuchó mal",
+      "hintMishearedMe": "¿Qué entendió mal?",
+      "issueMadeThingsUp": "Inventó algo que nunca dije",
+      "hintMadeThingsUp": "¿Qué se inventó?",
+      "issueWrongCorrection": "Corrección incorrecta",
+      "hintWrongCorrection": "¿Cómo debería haber sido?",
+      "issueIgnoredMe": "Ignoró lo que dije",
+      "hintIgnoredMe": "¿Qué dijiste que pasó por alto?",
+      "issueRepeating": "Sigue preguntando lo mismo",
+      "hintRepeating": "¿Qué está repitiendo?",
+      "issueTooHard": "Muy difícil para mi nivel",
+      "hintTooHard": "¿Qué parte te pareció muy avanzada?",
+      "issueRobotic": "Su respuesta sonó genérica o robótica",
+      "hintRobotic": "¿Qué se sintió raro?",
+      "issueAudioProblem": "No la escuché bien",
+      "hintAudioProblem": "¿Cómo se escuchaba el audio?",
+      "issueOther": "Otra cosa",
+      "hintOther": "Cuéntanos qué pasó"
+    }
+  },
+  "analysis": {
+    "failure": {
+      "title": "No pudimos cargar tus resultados",
+      "outdatedApp": "Esta pantalla necesita una actualización para mostrar tus resultados.",
+      "tryAgain": "Intentar de nuevo",
+      "goBack": "Volver",
+      "close": "Cerrar",
+      "sessionFailedTitle": "No pudimos analizar esta sesión",
+      "sessionFailedBody": "No fue culpa tuya: esta vez no se completó. Tu próxima sesión sí se analizará."
+    },
+    "summary": {
+      "timeoutTitle": "Esto está tardando más de lo normal",
+      "timeoutBody": "Tu resumen aún se está preparando. Espera un momento e inténtalo de nuevo.",
+      "abandonedTitle": "No pudimos cargar tu resumen",
+      "abandonedBody": "La solicitud se agotó antes de que tus resultados estuvieran listos. Inténtalo de nuevo."
+    },
+    "progress": {
+      "title": "Sarah está analizando tu llamada",
+      "titleCompleted": "El análisis está completo",
+      "seeReport": "Ver tu informe",
+      "turnOf": "Turno $current de $total",
+      "turnsCheckedCount": "Turnos revisados: $count",
+      "tallyCaption": "Errores encontrados hasta ahora en",
+      "grammar": "Gramática",
+      "fillers": "Muletillas",
+      "pronunciation": "Pronunciación",
+      "vocabulary": "Vocabulario",
+      "fluency": "Fluidez",
+      "glimpseCaption": "Un vistazo a lo que encontró",
+      "turn": "Turno $n",
+      "youSaid": "Dijiste",
+      "sayItLikeThis": "Dilo así",
+      "itSounds": "Se dice"
+    },
+    "detail": {
+      "timeoutTitle": "Esto está tardando más de lo normal",
+      "timeoutBody": "Tu análisis aún se está preparando. Espera un momento e inténtalo de nuevo.",
+      "abandonedTitle": "No pudimos cargar tu análisis",
+      "abandonedBody": "La solicitud se agotó antes de que tu análisis estuviera listo. Inténtalo de nuevo."
+    },
+    "gauge": {
+      "score": "Puntuación",
+      "bandScore": "Puntuación de banda"
+    },
+    "practiceWord": {
+      "micPermissionDenied": "Stimuler necesita acceso al micrófono para evaluar tu pronunciación.",
+      "micUnavailable": "Tu micrófono está ocupado: cierra lo que lo esté usando e inténtalo de nuevo.",
+      "noAudio": "No te escuchamos: revisa tu micrófono e inténtalo de nuevo.",
+      "tooLong": "Esa grabación fue muy larga. Intenta decir solo la palabra.",
+      "unavailable": "La práctica no está disponible ahora. Inténtalo más tarde.",
+      "timedOut": "Tardó demasiado. Inténtalo de nuevo.",
+      "scoringFailed": "No se pudo procesar. ¡Inténtalo de nuevo!",
+      "leftApp": "La grabación se detuvo al salir de la app.",
+      "openSettings": "Abrir ajustes",
+      "tryAgain": "Intentar de nuevo"
+    },
+    "recordedBeforePro": "Esta respuesta se grabó antes de que te pasaras a Pro, así que no tiene análisis. Todo lo que grabes a partir de ahora recibe el análisis completo.",
+    "fluency": {
+      "speechCounter": "Discurso ${current}/${total}",
+      "play": "Reproducir"
+    }
+  },
+  "errors": {
+    "title": "Algo salió mal",
+    "generic": "Algo lo impidió. Inténtalo de nuevo.",
+    "network": "No pudimos conectar con el servidor. Revisa tu conexión e inténtalo de nuevo.",
+    "serviceUnavailable": "Nuestros servidores tienen un problema momentáneo. Inténtalo en un rato.",
+    "outdatedApp": "Esta pantalla necesita una actualización para cargar. Actualiza la app.",
+    "retry": "Reintentar",
+    "goBack": "Volver",
+    "openSettings": "Abrir ajustes",
+    "micPermission": "Por favor, habilita el permiso del micrófono",
+    "goalSavePending": "Aún estamos guardando tu objetivo. Se actualizará cuando vuelvas a estar en línea."
+  },
+  "conversationV4": {
+    "ui": {
+      "exitTitle": "¿Seguro que quieres\nterminar esta sesión?",
+      "endSession": "Terminar sesión",
+      "exhaustedTitle": "Ya usaste todos tus intentos gratis",
+      "exhaustedSubtitle": "Pásate a Pro para tener conversaciones ilimitadas",
+      "upgradeToPro": "Pásate a Pro",
+      "introLockedTitle": "Desbloquea los siguientes temas de conversación después de la Introducción",
+      "gotIt": "Entendido",
+      "startIntroduction": "Empezar la Introducción",
+      "noConversationsYet": "Aún no tienes conversaciones",
+      "loadingOlderConversations": "Cargando conversaciones anteriores…",
+      "translationFailed": "No se pudo traducir. Inténtalo de nuevo.",
+      "analyzingResponse": "Analizando tu respuesta…",
+      "analysisLoadFailed": "No se pudo cargar el análisis. Inténtalo de nuevo.",
+      "analysisUnscoredTitle": "No pudimos analizar esta respuesta",
+      "reasonForError": "Motivo del error",
+      "tabGrammar": "Gramática",
+      "tabPronunciation": "Pronunciación",
+      "tabVocabulary": "Vocabulario",
+      "tabFluency": "Fluidez",
+      "hintLoadFailed": "No se pudo cargar la pista. Toca para reintentar.",
+      "viewMistakes": "Ver errores",
+      "viewResultsAndEnd": "Ver resultados y terminar",
+      "translateNeedsNativeLanguage": "Elige en Ajustes un idioma nativo distinto del inglés para ver traducciones."
+    },
+    "failure": {
+      "sessionExpired": "Tu sesión expiró. Vuelve a iniciar sesión.",
+      "purchaseFailed": "No pudimos completar la compra. No se te ha cobrado nada — inténtalo de nuevo.",
+      "fatalTitle": "La conversación terminó",
+      "fatal": "La conversación terminó de forma inesperada. Inténtalo de nuevo.",
+      "topicsTitle": "No se pudieron cargar los temas",
+      "historyTitle": "No se pudieron cargar tus conversaciones",
+      "chatTitle": "No se pudo cargar esta conversación",
+      "resultPrep": "No pudimos preparar tu resultado.",
+      "asrFailed": "No te escuché bien.",
+      "analysisFailed": "No pude analizar eso — intentémoslo de nuevo.",
+      "ttsFailed": "No se pudo reproducir el audio.",
+      "errorCodeLabel": "Código de error",
+      "tryAgain": "Intentar de nuevo",
+      "backHome": "Volver al inicio",
+      "close": "Cerrar",
+      "replay": "Toca para repetir",
+      "tapToRetry": "Toca para reintentar"
+    },
+    "connection": {
+      "initiating": "Iniciando la conversación…",
+      "connecting": "Conectando…",
+      "reconnecting": "Reconectando…",
+      "disconnected": "Desconectado",
+      "error": "Error de conexión",
+      "retry": "Reintentar"
+    },
+    "drill": {
+      "listening": "Escuchando…",
+      "scoring": "Evaluando tu pronunciación…",
+      "needsPractice": "¡Necesitas practicar!",
+      "wellDone": "¡Bien hecho! 👏",
+      "listen": "Escucha…",
+      "getReady": "Prepárate…",
+      "learntToPronounce": "Aprendiste a pronunciar “$word”."
+    },
+    "topics": {
+      "loadMoreFailed": "No se pudieron cargar más temas. Revisa tu conexión.",
+      "refreshFailed": "No se pudieron actualizar tus temas — mostrando datos anteriores.",
+      "pickATopic": "¡Elige un tema y empieza a conversar!"
+    },
+    "chat": {
+      "translateThisLine": "Traducir esta frase",
+      "closeConversation": "Cerrar conversación",
+      "challengesStars": "Desafíos: $stars de $total estrellas",
+      "allChallengesCompleted": "¡Completaste todos los desafíos!",
+      "youGotThis": "Tú puedes",
+      "oneChallengeToGo": "! Te queda 1 desafío",
+      "challengesToGo": "! Te quedan $count desafíos",
+      "starEarned": "¡Ganaste una estrella!",
+      "perfectResponse": "Respuesta perfecta",
+      "continueLabel": "Continuar",
+      "selectAtLeast": "Selecciona al menos $count",
+      "removeCount": "Quita $count",
+      "conversationMode": "Modo conversación",
+      "practiceMode": "Modo práctica",
+      "discardRecording": "Descartar grabación",
+      "submitRecording": "Enviar grabación"
+    },
+    "hint": {
+      "tapToSeeHint": "Toca para ver la pista",
+      "youCanSpeakLikeThis": "Puedes decirlo así",
+      "gettingHint": "Buscando una pista…"
+    },
+    "translation": {
+      "sarahResponseEnglish": "Respuesta de Sarah ( inglés )",
+      "translating": "Traduciendo",
+      "translated": "Traducido",
+      "translatingIn": "Traduciendo al $language",
+      "translatedIn": "Traducido al $language"
+    },
+    "mistakes": {
+      "noGrammarNotes": "Esta vez no hay notas de gramática.",
+      "noPronunciationNotes": "Esta vez no hay notas de pronunciación.",
+      "noVocabularyNotes": "Esta vez no hay notas de vocabulario.",
+      "noFluencyNotes": "Esta vez no hay notas de fluidez.",
+      "recordingExpired": "No se pudo reproducir esa grabación. Puede que haya caducado.",
+      "pronunciationPlayFailed": "No se pudo reproducir la pronunciación. Inténtalo de nuevo.",
+      "topMispronouncedWords": "Palabras peor pronunciadas",
+      "betterVocabulary": "Mejores sugerencias de vocabulario",
+      "improvedVersion": "Versión mejorada de lo que dijiste:",
+      "lockedGrammarHeadline": "Practica una gramática\nque suene natural",
+      "lockedGrammarSubtitle": "Recibe comentarios personalizados\ndespués de cada mensaje.",
+      "lockedPronunciationHeadline": "Habla con más\nnaturalidad.",
+      "lockedPronunciationSubtitle": "Mejora tu pronunciación\ndespués de cada mensaje.",
+      "lockedVocabularyHeadline": "Di más.\nDilo mejor.",
+      "lockedVocabularySubtitle": "Amplía tu vocabulario\nen cada conversación.",
+      "lockedFluencyHeadline": "Corrígelo. Practícalo.\nRecuérdalo.",
+      "lockedFluencySubtitle": "Practica con comentarios\nhechos para ti."
+    },
+    "paywall": {
+      "unlock": "Desbloquea",
+      "atPercentOff": "con $discount% DE DESCUENTO",
+      "percentOff": "$discount% de descuento",
+      "onPremiumPass": "en el pase Premium"
+    }
+  },
+  "buddyStreak": {
+    "startTitle": "Empieza una racha con un amigo",
+    "startBody": "Motívense mutuamente y construyan rachas más largas juntos.",
+    "inviteCta": "Invitar a un amigo",
+    "maybeLater": "Quizás después",
+    "yourCode": "TU CÓDIGO DE AMIGO",
+    "codeCopied": "Código copiado",
+    "shareCta": "Compartir enlace de invitación",
+    "shareMessage": "Mantengamos una racha juntos en Stimuler. Toca para ser mi amigo: $link",
+    "or": "O",
+    "haveCode": "Tengo un código",
+    "codeMissingTitle": "No pudimos cargar tu código",
+    "codeMissingBody": "Revisa tu conexión e inténtalo de nuevo.",
+    "retry": "Reintentar",
+    "enterTitle": "Ingresa el código de tu amigo",
+    "enterBody": "Escribe el código que aparece en la pantalla de tu amigo.",
+    "join": "Unirme",
+    "paste": "Pegar del portapapeles",
+    "pairedTitle": "Tú y $name empezaron una racha juntos",
+    "pairedTitleNoName": "Empezaste una racha con un amigo",
+    "requestSentTitle": "Solicitud enviada a $name",
+    "requestSentTitleNoName": "Solicitud enviada",
+    "requestSentBody": "Su racha juntos empieza cuando tu amigo acepte.",
+    "requestTitle": "$name quiere ser tu compañero de racha",
+    "requestTitleNoName": "Tienes una solicitud de racha",
+    "requestBody": "Acepta para empezar una racha juntos y mantener ambos fuegos encendidos.",
+    "accept": "Aceptar",
+    "decline": "Rechazar",
+    "requestsTitle": "$count solicitudes de racha",
+    "requestsTitleOne": "1 solicitud de racha",
+    "requestsBody": "Usaron tu código de amigo.",
+    "acceptAll": "Aceptar todas",
+    "later": "Después",
+    "startedManyTitle": "Tus rachas con amigos empezaron",
+    "someone": "Alguien",
+    "couldNotLoad": "No se pudo cargar",
+    "practiceNow": "Practicar ahora",
+    "hookBody": "Los dos practican, o se reinicia.",
+    "leftTitle": "Falta $name",
+    "leftTitleNoName": "Esperando a tu amigo",
+    "leftBody": "Le recordaremos a $name completar la lección de hoy y mantener su racha.",
+    "leftBodyNoName": "Le recordaremos a tu amigo completar la lección de hoy y mantener su racha.",
+    "continueCta": "Continuar",
+    "togetherTitle": "$count días juntos",
+    "togetherTitleOne": "1 día juntos",
+    "daysWith": "$count días con $name",
+    "dayWithOne": "1 día con $name",
+    "togetherBody": "Hoy practicaron los dos. Mañana, igual.",
+    "firesTitle": "Las rachas de tus compañeros",
+    "firesBody": "Les recordaremos a tus amigos que mantengan la racha.",
+    "streaksTitle": "Rachas con amigos",
+    "streakTitle": "Racha con un amigo",
+    "invitePlus": "+ Invitar",
+    "emptyTitle": "Racha con un amigo",
+    "emptyBody": "Los dos practican, los dos la mantienen.",
+    "thisWeek": "Esta semana",
+    "you": "Tú",
+    "roadmapDay": "Día de la ruta",
+    "conversations": "Conversaciones",
+    "calls": "Llamadas",
+    "daysTogether": "Días juntos",
+    "sentRequests": "Solicitudes enviadas",
+    "pendingRequest": "Solicitud pendiente",
+    "pendingRequests": "Solicitudes pendientes",
+    "pending": "Pendiente",
+    "removeCta": "Eliminar amigo",
+    "removeTitle": "¿Eliminar a $name?",
+    "removeTitleNoName": "¿Eliminar a este amigo?",
+    "removeBody": "Su racha juntos termina para los dos.",
+    "removeConfirm": "Eliminar",
+    "removeEnds": "Su racha juntos de $count días termina.",
+    "removeKeep": "Mantener la racha",
+    "removeNamed": "Eliminar a $name",
+    "cancel": "Cancelar",
+    "removeFailed": "No pudimos eliminar a tu amigo. Inténtalo de nuevo.",
+    "errors": {
+      "invalidTitle": "Ese código no funcionó",
+      "invalidBody": "Revisa el código con tu amigo e inténtalo de nuevo.",
+      "checkTitle": "Revisa el código",
+      "checkBody": "Los códigos tienen 8 letras y números. Intenta escribirlo de nuevo.",
+      "ownTitle": "Ese es tu propio código",
+      "ownBody": "Pídele a tu amigo su código.",
+      "alreadyTitle": "Ya son amigos",
+      "alreadyBody": "Lo encontrarás en tus rachas con amigos.",
+      "limitTitle": "Límite de amigos alcanzado",
+      "limitBody": "Tú o tu amigo ya tienen el máximo de amigos.",
+      "disabledTitle": "Las rachas con amigos aún no están disponibles",
+      "disabledBody": "Te avisaremos cuando puedas unirte.",
+      "genericTitle": "Algo salió mal",
+      "genericBody": "Revisa tu conexión e inténtalo de nuevo."
+    }
+  }
+}

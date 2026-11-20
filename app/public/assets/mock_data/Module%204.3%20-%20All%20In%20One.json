@@ -1,0 +1,452 @@
+{
+  "status": "success",
+  "message": "Next subunit fetched successfully",
+  "data": {
+    "status": "ready",
+    "nextSubunits": [
+      {
+        "subunit_id": 6,
+        "subunit_template": "exercise-scripted-word",
+        "original_subunit_order": null,
+        "final_subunit_order": 9,
+        "base_lang_id": 1,
+        "lang_id": 1,
+        "fallback": false,
+        "type": "exercise",
+        "meta": {
+          "stimulus": {
+            "word": {
+              "text": "marketing",
+              "highlight_ranges": []
+            },
+            "phoneme_errors": [
+              "ng"
+            ],
+            "pronunciation_audio": "s3://audio/playing.mp3",
+            "pronunciation_helper": "m.a.r.k.e.t.i.n.g",
+            "pronunciation_audio_cta_text": "Learn to Pronounce"
+          },
+          "heading_states": [
+            {
+              "state": "initial",
+              "heading": "Pronounce your first word"
+            },
+            {
+              "state": "play_pronunciation_audio",
+              "heading": "Here's how you pronounce"
+            },
+            {
+              "state": "await_user_input",
+              "heading": "Pronounce your first word"
+            },
+            {
+              "state": "failure_try_again",
+              "heading": "Ahh! You were so close"
+            },
+            {
+              "state": "success",
+              "heading": "Hurray! You got this right!"
+            },
+            {
+              "state": "loading",
+              "heading": "Working on your speech"
+            },
+            {
+              "state": "failure_save_for_later",
+              "heading": "We will comeback to this later!",
+              "save_button": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Save for future practice"
+              }
+            }
+          ],
+          "is_final_chance": false,
+          "content_strategies": [
+            10
+          ],
+          "final_chance_header": {
+            "icon": {
+              "url": "",
+              "type": "url"
+            },
+            "text": "Final chance"
+          },
+          "is_included_in_progress_bar": true
+        },
+        "transition_data": null,
+        "progress_bar": {
+          "current_step": 1,
+          "next_step": 2,
+          "total_steps": 2
+        },
+        "attempt_counter": 1,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted",
+        "participates_in": {
+          "course": [],
+          "module": [],
+          "chapter": [],
+          "subunit": [
+            10
+          ]
+        },
+        "is_dynamic": true,
+        "dynamic_type": "injection",
+        "to_capture_response": false,
+        "self": {
+          "status": "ready",
+          "fetch_dynamic": false
+        },
+        "next": {
+          "failure": {
+            "known": false,
+            "default": {
+              "subunit_id": 9,
+              "subunit_nav_id": "dyn_3",
+              "final_subunit_order": 10
+            },
+            "fetch_next": true,
+            "fetch_next_config": {
+              "check_injections": true
+            },
+            "wait_for_analysis": false
+          },
+          "success": {
+            "known": true,
+            "fetch_next": false,
+            "subunit_id": 9,
+            "subunit_nav_id": "dyn_3",
+            "fetch_next_config": null,
+            "wait_for_analysis": false,
+            "final_subunit_order": 10
+          }
+        },
+        "staged_content_id": 2,
+        "isLast": false,
+        "subunit_nav_id": "dyn_2"
+      },
+      {
+        "subunit_id": 9,
+        "subunit_template": "lesson-paragraph-words",
+        "original_subunit_order": null,
+        "final_subunit_order": 10,
+        "base_lang_id": 1,
+        "lang_id": 1,
+        "fallback": false,
+        "type": "lesson",
+        "meta": {
+          "flow": {},
+          "text": "Good morning! I'm Sarah. I work in marketing. Nice to meet you! I look forward to working together on your business!",
+          "states": [
+            {
+              "score": "35%",
+              "state": "show_previous_score",
+              "scores": [
+                "45%",
+                "50%"
+              ],
+              "heading": "Let's improve upon these words",
+              "highlights": [
+                {
+                  "label": "marketing",
+                  "range": [
+                    35,
+                    44
+                  ],
+                  "border": true,
+                  "show_saved": false,
+                  "show_correct": false
+                },
+                {
+                  "label": "business",
+                  "range": [
+                    107,
+                    115
+                  ],
+                  "border": true,
+                  "show_saved": false,
+                  "show_correct": false
+                }
+              ],
+              "subheading": "Words you mispronounced"
+            }
+          ],
+          "theme_palette_id": "default_light",
+          "pick_analysis_from": {},
+          "next_subunit_template": "exercise",
+          "is_included_in_progress_bar": true
+        },
+        "transition_data": {
+          "animation_type": "word_hero",
+          "next_subunit_template": "exercise-scripted-word",
+          "next_theme_palette_id": "default_light",
+          "text": "business",
+          "title": "Pronounce your first word",
+          "highlighted_ranges": []
+        },
+        "progress_bar": {
+          "current_step": 1,
+          "next_step": 2,
+          "total_steps": 2
+        },
+        "attempt_counter": 1,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted",
+        "participates_in": {
+          "course": [],
+          "module": [],
+          "chapter": [
+            7
+          ],
+          "subunit": []
+        },
+        "is_dynamic": true,
+        "dynamic_type": "injection",
+        "to_capture_response": false,
+        "self": {
+          "status": "not_ready",
+          "fetch_dynamic": true
+        },
+        "next": {
+          "always": {
+            "known": true,
+            "fetch_next": false,
+            "subunit_id": 6,
+            "subunit_nav_id": "dyn_4",
+            "fetch_next_config": null,
+            "wait_for_analysis": false,
+            "final_subunit_order": 11
+          }
+        },
+        "staged_content_id": 3,
+        "isLast": false,
+        "subunit_nav_id": "dyn_3"
+      },
+      {
+        "subunit_id": 6,
+        "subunit_template": "exercise-scripted-word",
+        "original_subunit_order": null,
+        "final_subunit_order": 11,
+        "base_lang_id": 1,
+        "lang_id": 1,
+        "fallback": false,
+        "type": "exercise",
+        "meta": {
+          "stimulus": {
+            "word": {
+              "text": "business",
+              "highlight_ranges": []
+            },
+            "phoneme_errors": [
+              "s"
+            ],
+            "pronunciation_audio": "s3://audio/playing.mp3",
+            "pronunciation_helper": "b.u.s.i.n.e.s.s",
+            "pronunciation_audio_cta_text": "Learn to Pronounce"
+          },
+          "heading_states": [
+            {
+              "state": "initial",
+              "heading": "Pronounce your first word"
+            },
+            {
+              "state": "play_pronunciation_audio",
+              "heading": "Here's how you pronounce"
+            },
+            {
+              "state": "await_user_input",
+              "heading": "Pronounce your first word"
+            },
+            {
+              "state": "failure_try_again",
+              "heading": "Ahh! You were so close"
+            },
+            {
+              "state": "success",
+              "heading": "Hurray! You got this right!"
+            },
+            {
+              "state": "loading",
+              "heading": "Working on your speech"
+            },
+            {
+              "state": "failure_save_for_later",
+              "heading": "We will comeback to this later!",
+              "save_button": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Save for future practice"
+              }
+            }
+          ],
+          "is_final_chance": false,
+          "content_strategies": [
+            10
+          ],
+          "final_chance_header": {
+            "icon": {
+              "url": "",
+              "type": "url"
+            },
+            "text": "Final chance"
+          },
+          "is_included_in_progress_bar": true
+        },
+        "transition_data": null,
+        "progress_bar": {
+          "current_step": 1,
+          "next_step": 2,
+          "total_steps": 2
+        },
+        "attempt_counter": 1,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted",
+        "participates_in": {
+          "course": [],
+          "module": [],
+          "chapter": [],
+          "subunit": [
+            10
+          ]
+        },
+        "is_dynamic": true,
+        "dynamic_type": "injection",
+        "to_capture_response": false,
+        "self": {
+          "status": "ready",
+          "fetch_dynamic": false
+        },
+        "next": {
+          "failure": {
+            "known": false,
+            "default": {
+              "subunit_id": 9,
+              "subunit_nav_id": "dyn_5",
+              "final_subunit_order": 12
+            },
+            "fetch_next": true,
+            "fetch_next_config": {
+              "check_injections": true
+            },
+            "wait_for_analysis": false
+          },
+          "success": {
+            "known": true,
+            "fetch_next": false,
+            "subunit_id": 9,
+            "subunit_nav_id": "dyn_5",
+            "fetch_next_config": null,
+            "wait_for_analysis": false,
+            "final_subunit_order": 12
+          }
+        },
+        "staged_content_id": 4,
+        "isLast": false,
+        "subunit_nav_id": "dyn_4"
+      },
+      {
+        "subunit_id": 9,
+        "subunit_template": "lesson-paragraph-words",
+        "original_subunit_order": null,
+        "final_subunit_order": 12,
+        "base_lang_id": 1,
+        "lang_id": 1,
+        "fallback": false,
+        "type": "lesson",
+        "meta": {
+          "flow": {},
+          "text": "Good morning! I'm Sarah. I work in marketing. Nice to meet you! I look forward to working together on your business!",
+          "states": [
+            {
+              "score": "35%",
+              "state": "show_previous_score",
+              "scores": [
+                "45%",
+                "50%"
+              ],
+              "heading": "Let's improve upon these words",
+              "highlights": [
+                {
+                  "label": "marketing",
+                  "range": [
+                    35,
+                    44
+                  ],
+                  "border": true,
+                  "show_saved": false,
+                  "show_correct": false
+                },
+                {
+                  "label": "business",
+                  "range": [
+                    107,
+                    115
+                  ],
+                  "border": true,
+                  "show_saved": false,
+                  "show_correct": false
+                }
+              ],
+              "subheading": "Words you mispronounced"
+            }
+          ],
+          "theme_palette_id": "default_light",
+          "pick_analysis_from": {},
+          "next_subunit_template": "exercise",
+          "is_included_in_progress_bar": true
+        },
+        "transition_data": null,
+        "progress_bar": {
+          "current_step": 1,
+          "next_step": 2,
+          "total_steps": 2
+        },
+        "attempt_counter": 1,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted",
+        "participates_in": {
+          "course": [],
+          "module": [],
+          "chapter": [
+            7
+          ],
+          "subunit": []
+        },
+        "is_dynamic": true,
+        "dynamic_type": "injection",
+        "to_capture_response": false,
+        "self": {
+          "status": "not_ready",
+          "fetch_dynamic": true
+        },
+        "next": {
+          "always": {
+            "known": true,
+            "fetch_next": false,
+            "subunit_id": 20,
+            "subunit_nav_id": "sta_20_2",
+            "fetch_next_config": null,
+            "wait_for_analysis": false,
+            "final_subunit_order": 2
+          }
+        },
+        "staged_content_id": 5,
+        "isLast": false,
+        "subunit_nav_id": "dyn_5"
+      }
+    ],
+    "transitionData": {
+      "animation_type": "word_hero",
+      "next_subunit_template": "exercise-scripted-word",
+      "next_theme_palette_id": "default_light",
+      "text": "marketing",
+      "title": "Pronounce your first word",
+      "highlighted_ranges": []
+    }
+  }
+}

@@ -1,0 +1,1989 @@
+{
+  "day1McqExercise": {
+    "questionsRight": "questions right in",
+    "q2AnswerExplanation": "\"Me\" சரி ஏனென்றால் அது extra time-ஐ பெறுகிறது.",
+    "others": {
+      "q1AnswerExplanation": "\"I\" சரி ஏனென்றால் அது ordering செய்யும் நபர்.",
+      "q7AnswerExplanation": "\"Them\" சரி ஏனென்றால் அவர்கள் dish-ஐ பெறுகிறார்கள்.",
+      "q10AnswerExplanation": "\"Everyone\" சரியானது ஏனென்றால் அது table-இல் உள்ள அனைத்து நபர்களையும் குறிக்கிறது.",
+      "q9AnswerExplanation": "Themselves\" சரியானது ஏனென்றால் வெளி உதவி இல்லாமல் அவர்கள் செய்ததை காட்டுகிறது.",
+      "q2AnswerExplanation": "\"Me\" சரியானது ஏனென்றால் அது food-ஐ receive செய்கிறது.",
+      "q5AnswerExplanation": "\"Either\" சரியானது ஏனென்றால் அது இரண்டு choices-இல் எதையும் acceptable என்று காட்டுகிறது.",
+      "q4AnswerExplanation": "\"Himself\" சரியானது ஏனென்றால் அவன் help இல்லாமல் தனியாக cooking செய்தான்.",
+      "q3AnswerExplanation": "\"Our\" சரியானது ஏனென்றால் அது table நமக்கு சொந்தமானது என்று காட்டுகிறது.",
+      "q8AnswerExplanation": "\"Ours\" சரியானது ஏனென்றால் அது table நமக்கு சொந்தமானது என்று காட்டுகிறது.",
+      "q6AnswerExplanation": "\"We\" சரியானது ஏனென்றால் அது கேட்கும் மக்களைக் குறிக்கிறது."
+    },
+    "q5AnswerExplanation": "\"Either\" சரியானது ஏனென்றால் அது இரண்டு choices-ல் ஏதேனும் ஒன்று okay என்று அர்த்தம்.",
+    "mistakeIn": "mistake",
+    "q3AnswerExplanation": "Our\" சரியானது ஏனென்றால் team நமக்கு சொந்தமானது என்பதை காட்டுகிறது.",
+    "possPronMeaning": "Possessive pronouns (his, her, your) ownership காட்ட பயன்படுத்தப்படுகின்றன.",
+    "youAnswered": "நீங்கள் பதில் அளித்தீர்கள்",
+    "q8AnswerExplanation": "Ours\" சரியானது ஏனென்றால் deadline நமக்கு சொந்தமானது என்பதை காட்டுகிறது.",
+    "q6AnswerExplanation": "We\" சரியானது ஏனென்றால் அது propose செய்பவர்கள்.\"",
+    "q1AnswerExplanation": "I\" சரியானது ஏனென்றால் அது action செய்பவர்.\"",
+    "reflexivePronMeaning": "Reflexive pronouns (himself, herself, yourself) subject மற்றும் object ஒன்றாக இருக்கும் போது பயன்படுத்தப்படுகின்றன.",
+    "youMade": "நீங்கள் செய்தீர்கள்",
+    "q7AnswerExplanation": "Them\" சரியானது ஏனென்றால் அவர்கள் schedule-ஐ பெறுபவர்கள்.\"",
+    "q10AnswerExplanation": "\"Everyone\" சரியானது ஏனென்றால் அது office-ல் உள்ள அனைத்து நபர்களையும் குறிக்கிறது.",
+    "q9AnswerExplanation": "\"Ourselves\" சரியானது ஏனென்றால் நாம் வெளி உதவி இல்லாமல் அதை செய்தோம் என்பதை காட்டுகிறது.",
+    "q4AnswerExplanation": "\"Herself\" சரியானது ஏனென்றால் அவள் உதவி இல்லாமல் தனியாக அதை செய்தாள்.",
+    "objPronMeaning": "Object pronouns (him, her, you) ஒருவர் ஒரு செயலைப் பெறும்போது பயன்படுத்தப்படுகின்றன.",
+    "subjPronMeaning": "Subject pronouns (he, she, you) ஒருவர் ஒரு செயலைச் செய்யும்போது பயன்படுத்தப்படுகின்றன.",
+    "indefPronMeaning": "Indefinite pronouns (anyone, everyone, someone) subject குறிப்பிட்டதாக இல்லாதபோது பயன்படுத்தப்படுகின்றன."
+  },
+  "day3": {
+    "exercise2": {
+      "q3AnswerExplanation": "Action item என்பது ஒரு குறிப்பிட்ட deadline உடன் யாருக்காவது ஒதுக்கப்பட்ட specific task ஆகும்.",
+      "q5OptionCRight": "Eva ஒரு update வழங்குகிறார் - project இல் சமீபத்திய progress அல்லது மாற்றங்கள் பற்றிய தகவல்.",
+      "q5OptionAWrong": "Eva specific tasks (action item) ஒதுக்கவில்லை.",
+      "q1OptionCRight": "அவர் meeting topics இன் organized list ஐ (agenda) present செய்கிறார்.",
+      "q5OptionARight": "அவர் சமீபத்திய progress பற்றி report செய்கிறார் (update)",
+      "q1OptionBWrong": "Joe ஒரு idea அல்லது suggestion (contribution) share செய்யவில்லை.",
+      "q2OptionAWrong": "Carlos topics-ன் list (agenda) create செய்யவில்லை.",
+      "q5OptionBWrong": "Eva discuss செய்ய topics-ன் list (agenda) present செய்யவில்லை.",
+      "q3OptionCRight": "Sarah-க்கு action item கிடைத்தது - deadline உடன் யாருக்காவது assign செய்யப்பட்ட specific task.",
+      "q1OptionARight": "Joe ஒரு agenda share செய்கிறார் - meeting-ல் discuss செய்ய வேண்டிய topics-ன் list.",
+      "q1OptionBRight": "அவர் meeting topics-ன் list-ஐ காட்டுகிறார் (agenda).",
+      "q1AnswerExplanation": "Agenda என்பது meeting-ல் விவாதிக்கப்படும் topics-ன் list ஆகும்",
+      "q4OptionBWrong": "அவர்கள் வெறுமனே தகவல் பகிர்வது இல்லை (updating).",
+      "q3OptionBRight": "அவளுக்கு deadline உடன் ஒரு concrete task கொடுக்கப்பட்டது (action item).",
+      "q2OptionCWrong": "Carlos ஒரு specific task assign செய்யவில்லை (action item).",
+      "q4OptionBRight": "அவர்கள் ஒன்றாக வேலை செய்ய சேர்ந்து கொள்கிறார்கள் (collaborating).",
+      "q3OptionARight": "அவளுக்கு முடிக்க வேண்டிய ஒரு குறிப்பிட்ட வேலை கிடைத்தது (action item).",
+      "q3OptionBWrong": "Sarah க்கு ஒரு idea அல்லது suggestion கிடைக்கவில்லை (contribution).",
+      "q4AnswerExplanation": "Collaborating என்றால் ஒரு பொதுவான இலக்கை அடைய ஒன்றாக வேலை செய்வது.",
+      "q2OptionARight": "அவர் project க்கு ஒரு தீர்வு வழங்கினார் (contribution).",
+      "q2OptionCRight": "அவர் ஒரு உதவிகரமான idea (contribution) பகிர்ந்தார்.",
+      "q4OptionCRight": "அவர்கள் collaborate செய்கிறார்கள் - ஒரு பொதுவான இலக்கை அடைய மற்றவர்களுடன் இணைந்து வேலை செய்கிறார்கள்.",
+      "q2AnswerExplanation": "Contribution என்பது discussion-ல் பகிரப்படும் மதிப்புமிக்க idea அல்லது input.",
+      "q5AnswerExplanation": "Update என்பது சமீபத்திய progress அல்லது மாற்றங்கள் பற்றிய தகவல்.",
+      "q3OptionAWrong": "Sarah progress தகவல் (update) பெறவில்லை",
+      "q5OptionBRight": "அவள் சமீபத்திய developments பற்றிய தகவல்களை பகிர்ந்து கொள்கிறாள் (update).",
+      "q4OptionARight": "அவர்கள் ஒரு பொதுவான இலக்கை நோக்கி ஒன்றாக வேலை செய்கிறார்கள் (collaborating).",
+      "q1OptionCWrong": "Joe ஒரு offering செய்யவில்லை.",
+      "q2OptionBRight": "Carlos ஒரு contribution செய்தார் - ஒரு discussion-இன் போது பகிர்ந்த மதிப்புமிக்க idea அல்லது input.",
+      "q4OptionAWrong": "அவர்கள் வெறும் பேசிக் கொண்டிருக்கவில்லை."
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "\"He\" என்பது \"Harry\" க்கு பதிலாக வரும் சரியான subject pronoun ஆகும், ஏனெனில் அவர் தான் action செய்பவர்.",
+      "q4AnswerExplanation": "His\" சரியான possessive pronoun ஏனென்றால் உடைந்த wand Ron-க்கு சொந்தமானது என்பதைக் காட்டுகிறது.",
+      "q2AnswerExplanation": "\"Herself\" என்பது சரியான reflexive object pronoun ஏனென்றால் Professor McGonagall transforming action-ஐ செய்பவரும் பெறுபவரும் ஆவார்.",
+      "q5AnswerExplanation": "\"Himself\" என்பது சரியான reflexive pronoun ஏனென்றால் Harry action-ஐ செய்பவரும் பெறுபவரும் ஆவார்.",
+      "q3AnswerExplanation": "\"His\" என்பது சரியான possessive pronoun ஏனென்றால் அது mouth Harry-க்கு சொந்தமானது என்பதைக் காட்டுகிறது."
+    },
+    "version12": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Can you clarify\" என்பது ஏதாவது தெளிவில்லாத போது explanation கேட்கும் வழி. இந்த request structure-ல் \"clarify\" மட்டுமே வேலை செய்யும்.",
+        "q5AnswerExplanation": "\"I have an idea\" க்கு பிறகு, \"I suggest we...\" ஒரு புதிய proposal ஐ அறிமுகப்படுத்துகிறது. புதிய ideas ஐ propose செய்யும் போது \"Agree\" மற்றும் \"clarify\" பொருந்தாது.",
+        "q3AnswerExplanation": "I suggest we...\" ஒரு குறிப்பிட்ட action-ஐ propose செய்கிறது. \"\"Agree\"\" முந்தைய idea தேவை; \"\"clarify\"\" விளக்குகிறது, propose செய்யாது.",
+        "q1AnswerExplanation": "\"I agree with pam\" என்பது யாரோ ஒருவரின் கருத்தை ஆதரிப்பதை வெளிப்படுத்துகிறது. மற்ற options இந்த structure-க்கு பொருந்தாது.",
+        "q4AnswerExplanation": "\"I agree with [person]\" என்பது மற்றொருவரின் கருத்துடன் ஒத்துப்போவதைக் காட்டுகிறது. \"with Diana\" உடன் \"agree\" மட்டுமே சரியாக வரும்."
+      }
+    }
+  },
+  "day9": {
+    "exercise2": {
+      "es": {
+        "q3AnswerExplanation": "Workplace-ல் \"Clarification\" என்றால் தவறான புரிதலைத் தவிர்க்க தெளிவான விளக்கம் கேட்பது.",
+        "q1AnswerExplanation": "Workplace-ல் ஒரு \"favor\" என்பது யாரிடமாவது அவர்களின் வழக்கமான கடமைகளுக்கு அப்பால் உதவி கேட்பது.",
+        "q4AnswerExplanation": "\"Assistance\" என்பது வேலையில் ஒரு பணியை முடிக்க அல்லது பிரச்சனையை தீர்க்க யாரிடமிருந்தாவது நேரடி உதவி பெறுவது.",
+        "q2AnswerExplanation": "\"Resource\" என்பது office-ல் பணியாளர்கள் தங்கள் வேலையை செய்ய உதவும் எந்த tool, material அல்லது தகவலும் ஆகும்.",
+        "q5AnswerExplanation": "\"Guidance\" என்பது professional சூழலில் திறமைகளை மேம்படுத்த அல்லது முடிவெடுக்க ஆலோசனை அல்லது வழிகாட்டுதல் பெறுவது."
+      },
+      "q5OptionBRight": "Lisa எந்த tasks முக்கியம் என்று தீர்மானிக்கிறாள் (prioritizing).",
+      "q4OptionARight": "Alex burnout அனுபவிக்கிறான் - நீண்ட கால stress இல் இருந்து வரும் exhaustion.",
+      "ielts": {
+        "q1AnswerExplanation": "Sustainable என்பது resources ஐ குறைக்காமல் தொடரக்கூடிய practices ஐ குறிக்கிறது",
+        "q2AnswerExplanation": "Biodiversity என்பது ஒரு habitat இல் உள்ள species களின் variety ஐ குறிக்கிறது",
+        "q5AnswerExplanation": "Biodiversity hotspots என்பது அசாதாரணமான அளவு species diversity உள்ள பகுதிகள், பெரும்பாலும் endangered",
+        "q4AnswerExplanation": "Conservation என்பது வளங்களை தீர்ந்து போகாமல் பாதுகாப்பதைக் குறிக்கிறது",
+        "q3AnswerExplanation": "Deforestation என்பது பெரிய அளவில் காடுகளை அழிப்பதைக் குறிக்கிறது"
+      },
+      "q2OptionCRight": "John ஒருவருக்கு ஒரு task ஐ கொடுக்கிறார் (delegating).",
+      "q1OptionCWrong": "Organized என்பது எல்லாவற்றையும் ஒரு structured வழியில் arrange செய்வதைக் குறிக்கிறது.",
+      "q4OptionCRight": "Alex burnout அனுபவிக்கிறார் - நீண்ட கால stress காரணமாக ஏற்படும் exhaustion.",
+      "q4OptionAWrong": "Progress என்றால் வேலை அல்லது career-ல் நேர்மறையான முன்னேற்றம்.",
+      "q3AnswerExplanation": "Initiative எடுப்பது என்றால் யாரும் சொல்லாமலே பிரச்சினைகளை கண்டறிந்து தீர்ப்பது.",
+      "q5OptionCRight": "Lisa prioritizing செய்கிறாள் - முக்கியத்துவ வரிசையில் வேலைகளை கையாளுகிறாள்.",
+      "q5OptionAWrong": "Delegating என்றால் மற்றவர்களுக்கு வேலைகளை ஒப்படைப்பது.",
+      "q3OptionCWrong": "Burnout என்றால் நீண்டகால stress காரணமாக ஏற்படும் களைப்பு.",
+      "q1OptionCRight": "Maria அதிக tasks இருப்பதால் overwhelmed ஆக உணர்கிறாள்.",
+      "q5OptionARight": "Lisa முக்கியத்துவத்தின் அடிப்படையில் தன் வேலையை organize செய்கிறாள் (prioritizing).",
+      "q5OptionBWrong": "Initiative எடுப்பது என்றால் யாரும் சொல்லாமல் செயல்படுவது.",
+      "q3OptionCRight": "Sarah positive engagement காட்டி action எடுத்தாள் (initiative).",
+      "q2OptionBRight": "John delegate செய்கிறான் - ஒரு task-ஐ வேறு ஒருவரிடம் assign செய்கிறான்.",
+      "q1OptionARight": "Maria மிக அதிகமான tasks களால் overwhelmed ஆக உணர்கிறாள்.",
+      "q1AnswerExplanation": "Overwhelmed என்றால் comfortably handle செய்ய முடியாத அளவுக்கு அதிகமான tasks இருப்பது.",
+      "q4OptionBWrong": "Delegation என்பது tasks களை மற்றவர்களுக்கு assign செய்வது.",
+      "q3OptionBRight": "Sarah தானாக முன்வந்து ஒரு problem ஐ solve செய்தாள் (initiative).",
+      "q4OptionBRight": "Alex நீண்ட கால exhaustion ஆல் பாதிக்கப்படுகிறான் (burnout).",
+      "q3OptionBWrong": "Delegation என்பது மற்றவர்களுக்கு tasks ஐ ஒதுக்குவது.",
+      "q4AnswerExplanation": "Burnout என்பது நீண்டகால stress காரணமாக ஏற்படும் களைப்பு.",
+      "q1OptionAWrong": "Motivated என்றால் வேலையில் ஆர்வம் அல்லது உற்சாகம் உணர்வது.",
+      "q2OptionARight": "John மற்றவர்களுக்கு வேலையை ஒதுக்குகிறார் (delegating).",
+      "q2OptionAWrong": "Initiative எடுப்பது என்றால் கேட்காமலே செயல்படுவது.",
+      "q2OptionCWrong": "Prioritizing என்றால் tasks களை முக்கியத்துவத்தின் அடிப்படையில் ranking செய்வது.",
+      "q2AnswerExplanation": "Delegating என்றால் tasks களை வேறு ஒருவரிடம் assign செய்வது.",
+      "q3OptionARight": "Sarah initiative காட்டினார் - யாரும் சொல்லாமலே ஒரு problem ஐ solve செய்தார்.",
+      "q5AnswerExplanation": "Prioritizing என்றால் tasks களை முக்கியத்துவத்தின் வரிசையில் handle செய்வது."
+    },
+    "exercise3": {
+      "es": {
+        "q1AnswerExplanation": "Superlative Adjective Rule: 3+ syllables உள்ள adjective களுக்கு \"the most + adjective\" பயன்படுத்தவும் (உதாரணம், dangerous → the most dangerous) மூன்று அல்லது அதற்கு மேற்பட்ட things களை compare செய்யும் போது (Middle-earth இல் உள்ள அனைத்து volcanoes).",
+        "q2AnswerExplanation": "Comparative Adjective Rule: குறுகிய adjectives-க்கு \"-er than\" பயன்படுத்தவும் (உதாரணம், sharp → sharper than) இரண்டு விஷயங்களை compare செய்யும்போது (Black Widow vs. Hawkeye).",
+        "q5AnswerExplanation": "Superlative Adjective Rule: குறுகிய adjectives-க்கு \"the + -est\" பயன்படுத்தவும் (wise → the wisest) மூன்று அல்லது அதற்கு மேற்பட்ட விஷயங்களை compare செய்யும்போது (all Jedi).",
+        "q4AnswerExplanation": "Comparative Adjective Rule: குறுகிய adjectives-க்கு \"-er than\" பயன்படுத்தவும் (strong → stronger than) இரண்டு relationships-ஐ compare செய்ய (friendship with Rocket vs. others).",
+        "q3AnswerExplanation": "Descriptive Adjective Rule: ஒரு விஷயத்தை (vibranium) comparison இல்லாமல் describe செய்யும்போது base form பயன்படுத்தவும் (உதாரணம், unique)."
+      }
+    }
+  },
+  "day3_2": {
+    "version12": {
+      "vocabularyExercise": "Vocabulary Exercise",
+      "readAloud": "Read Aloud",
+      "ieltsPart2": "IELTS Part 2",
+      "describeTheImage": "Image-ஐ describe செய்யவும்",
+      "tryReadingThisSentence": "இந்த sentence-ஐ read செய்து பாருங்கள்!",
+      "q5AnswerExplanation2_3": "Lisa-க்கு appetizer தேவையில்லை, அது ஒரு starter dish, ஏனென்றால் அவள் சாப்பிட்டு முடித்துவிட்டாள்.",
+      "letTestYourMeetingVocabulary": "உங்கள் meeting vocabulary-ஐ test செய்வோம்",
+      "practiceThisPoliteRequest": "இந்த polite request-ஐ practice செய்யவும்!",
+      "haveFunWhileTestingYourImagination": "இந்த picture-உடன் உங்கள் imagination மற்றும் sentence-framing skills-ஐ test செய்து fun பண்ணுங்கள்",
+      "task3": "Task 3",
+      "q4AnswerExplanation2_3": "\"Ordered\" என்பது உணவை தேர்ந்தெடுக்கும் செயலை குறிக்கிறது, அதன் சுவையை அல்ல.",
+      "task2": "Task 2",
+      "repeatAfterMe": "கீழ உள்ள sentence ஆ படிங்க.",
+      "summarizeLecture": "Lecture-ஐ சுருக்கமாக சொல்லவும்",
+      "introductionSpeakingTest": "அறிமுகம் : Speaking Test",
+      "letJumpIntoRealLifeConversationToday": "இன்று real-life conversation-இல் இறங்குவோம், vocabulary-யும் practice செய்வோம்",
+      "q3AnswerExplanation": "Appetizers என்பது முக்கிய உணவுக்கு முன் பரிமாறப்படும் சிறிய உணவுகள்.",
+      "q3AnswerExplanation2_3": "Maria menu கேட்கவில்லை, அது உணவு விருப்பங்களை பட்டியலிடுகிறது.",
+      "weGetBackReadingToday": "இன்று நாம் மீண்டும் reading-க்கு திரும்புகிறோம், இந்த முறை கொஞ்சம் advanced-ஆக இருந்தாலும்.",
+      "funWithVocabulary": "Vocabulary உடன் வேடிக்கை!",
+      "readingWithStressModerate": "Reading with stress: Moderate",
+      "q1AnswerExplanation2_2": "Sarah bill-ஐ பார்க்கவில்லை. Bill என்பது சாப்பிட்ட பிறகு எவ்வளவு பணம் கொடுக்க வேண்டும் என்று காட்டுகிறது.",
+      "q2AnswerExplanation2": "John order செய்தார் - server-இடம் என்ன உணவு மற்றும் பானங்கள் வேண்டும் என்று சொன்னார்.",
+      "readTheParagraphLoudlyStressingTheHighlightedWords": "Highlighted words-ஐ வலியுறுத்தி paragraph-ஐ உரக்க படியுங்கள்",
+      "q1AnswerExplanation2": "Sarah menu படிக்கிறார் - restaurant-இல் கிடைக்கும் உணவு மற்றும் பானங்களின் பட்டியல்.",
+      "q1AnswerExplanation": "Menu என்பது restaurant-இல் கிடைக்கும் உணவு மற்றும் பானங்களின் பட்டியல்.",
+      "readingAtHighPaceAdvanced": "வேகமாக Reading: Advanced",
+      "funWithTongueTwister": "Tongue Twister உடன் வேடிக்கை",
+      "letPracticeSomeGrammar": "Grammar practice செய்வோம்",
+      "q1AnswerExplanation2_3": "Sarah appetizer-ஐ பார்க்கவில்லை, அது ஒரு சிறிய உணவு.",
+      "pronunciationExercise": "Pronunciation Exercise",
+      "q5AnswerExplanation2": "Lisa bill கேட்க வேண்டும் - அவள் உணவுக்கு எவ்வளவு பணம் செலுத்த வேண்டும் என்பதைக் காட்டும் document.",
+      "practiceQuestions": "Practice Questions",
+      "task4": "Task 4",
+      "readThisSentenceOutLoud": "இந்த sentence ஐ சத்தமாக படியுங்கள்!",
+      "q4AnswerExplanation": "Delicious என்றால் மிகவும் சுவையான உணவு என்று அர்த்தம்.",
+      "task1": "Task 1",
+      "testYourPronounKnowledgeMagicalHarryPotterScenarios": "Harry Potter scenarios உடன் உங்கள் pronoun அறிவை test செய்யவும்!",
+      "speaking": "Speaking",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "உங்கள் team உடன் work செய்து மகிழ்ந்த நேரத்தைப் பற்றி பேசுங்கள். அதை எது சிறப்பாக்கியது?",
+      "q4AnswerExplanation2": "Carlos தன் pasta வை delicious என்று விவரித்தார் - அதாவது உணவு மிகவும் சுவையாக இருக்கிறது என்று அர்த்தம்.",
+      "q5AnswerExplanation2_2": "Lisa-க்கு menu தேவையில்லை, ஏனென்றால் அது food options-ஐ காட்டுகிறது, ஆனால் அவள் சாப்பிட்டு முடித்துவிட்டாள்.",
+      "letStartYourRoadmap": "உங்கள் roadmap-ஐ தொடங்குவோம்",
+      "masteringPronouns": "Pronouns-ஐ தேர்ச்சி பெறுதல்",
+      "q4AnswerExplanation2_2": "\"Ordered\" என்பது food-ஐ தேர்ந்தெடுக்கும் செயலை விவரிக்கிறது, அது எப்படி taste செய்கிறது என்பதை அல்ல.",
+      "day1Revision": "Day 1 : Revision",
+      "q2AnswerExplanation2_3": "John appetizer-க்கு குறிப்பாக கேட்கவில்லை.",
+      "q3AnswerExplanation2": "Maria appetizers கேட்டார் - main meal-க்கு முன் பரிமாறப்படும் சிறிய உணவுகள்.",
+      "vocabularyLesson": "Vocabulary Lesson",
+      "q2AnswerExplanation": "Order place செய்வது என்றால் server-இடம் நீங்கள் எந்த உணவு மற்றும் பானங்களை வேண்டும் என்று சொல்வது.",
+      "q5AnswerExplanation": "Bill restaurant-இல் உங்கள் உணவுக்கு நீங்கள் எவ்வளவு பணம் செலுத்த வேண்டும் என்பதைக் காட்டுகிறது.",
+      "q2AnswerExplanation2_2": "John bill கேட்கவில்லை, அது உணவு முடித்த பிறகு கேட்க வேண்டும்.",
+      "readWithEnthusiasm": "உற்சாகத்துடன் படியுங்கள்!",
+      "q3AnswerExplanation2_2": "Maria bill கேட்கவில்லை, அது சாப்பிட்ட பிறகு கேட்க வேண்டும்.",
+      "orderingFood": "உணவு order செய்தல்"
+    }
+  },
+  "roadmapDaysLocalization": {
+    "workplace": {
+      "day3": {
+        "vocabularyLesson": "Vocabulary Lesson",
+        "wordQuiz": "Word Quiz",
+        "descriptiveSpeaking": "Descriptive Speaking",
+        "meetingVocabulary": "Meeting Vocabulary",
+        "pronounRevision": "Pronoun Revision",
+        "negotiatingDeadlines": "Negotiating Deadlines"
+      },
+      "day18": {
+        "summarizingMeetings": "Meetings-ஐ Summarizing செய்தல்",
+        "wordQuiz": "Word Quiz",
+        "descriptiveSpeaking": "Descriptive Speaking"
+      },
+      "day8": {
+        "adjectivePractice": "Adjective Practice",
+        "wordQuiz": "Word Quiz",
+        "masteringAdjectives": "Adjectives-ஐ தேர்ச்சி பெறுதல்",
+        "descriptiveSpeaking": "விவரணை Speaking",
+        "roleplayRevision": "Roleplay மறுபரிசீலனை"
+      },
+      "day12": {
+        "questionAnswering": "கேள்வி-பதில்",
+        "talkingToClients": "வாடிக்கையாளர்களுடன் பேசுதல்",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day5": {
+        "masteringVerbs": "Verbs-ஐ தேர்ச்சி பெறுதல்",
+        "teamMeetingReview": "Team Meeting Review",
+        "questionAnswering": "கேள்வி-பதில்",
+        "grammarPractice": "Grammar Practice",
+        "verbBuilder": "Verb Builder"
+      },
+      "day9": {
+        "givingPresentation": "Presentation கொடுத்தல்",
+        "askingForHelp": "உதவி கேட்டல்",
+        "tongueTwister": "Tongue Twister",
+        "grammarPractice": "Grammar Practice",
+        "adjectiveReview": "Adjectives Review"
+      },
+      "day7": {
+        "smallTalkPractice": "Small Talk Practice",
+        "tongueTwister": "Tongue Twister",
+        "vocabRevision": "Vocab Revision",
+        "teamMeeting": "Team Meeting",
+        "smallTalkWithColleagues": "Colleagues உடன் Small Talk",
+        "readAloud": "Read Aloud"
+      },
+      "day4": {
+        "meetingVocabularyPractice": "Meeting Vocabulary Practice",
+        "vocabularyRevision": "Vocabulary Revision",
+        "teamMeeting": "Team Meeting",
+        "negotiatingDeadlines": "Deadlines பேச்சுவார்த்தை",
+        "grammarPractice": "Grammar Practice",
+        "readingFast": "வேகமாக Reading",
+        "workplaceMeetingRoleplay": "Workplace Meeting Roleplay",
+        "meetingPractice": "Meeting Practice",
+        "teamMeetingPractice": "Team Meeting Practice",
+        "restaurantRoleplay": "Restaurant Roleplay"
+      },
+      "day1": {
+        "grammarBuilder": "Grammar Builder",
+        "intro": "Introduction",
+        "readingExercise": "Reading Exercise"
+      },
+      "day10": {
+        "readAloud": "Read Aloud",
+        "howToAskForHelp": "உதவி கேட்பது எப்படி",
+        "givingPresentation": "Presentation கொடுப்பது",
+        "day9Revision": "Day 9: Revision"
+      },
+      "day16": {
+        "planningYourTasks": "உங்கள் Tasks ஐ திட்டமிடுதல்",
+        "stressTest": "Stress Test",
+        "advancedReading": "Advanced Reading"
+      },
+      "day2": {
+        "masteringPronoun": "Pronoun Practice",
+        "tongueTwister": "Tongue Twister",
+        "pronounPractice": "Pronoun Practice",
+        "grammarLesson": "Grammar Lesson",
+        "sentenceStructurePractice": "Sentence Structure Practice",
+        "day1Revision": "Day 1: Revision"
+      },
+      "day20": {
+        "artciles": "Articles",
+        "grammarPractice": "Grammar Practice",
+        "poem": "Poem"
+      },
+      "day15": {
+        "wordQuiz": "Word Quiz",
+        "grammarPractice": "Grammar Practice",
+        "planningYourTasks": "உங்கள் Tasks ஐ திட்டமிடுதல்"
+      },
+      "day14": {
+        "sentenceStructure": "Sentence Structure",
+        "poem": "கவிதை",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day19": {
+        "tongueTwister": "Tongue Twister",
+        "summarizingMeetingsMinutes": "Meeting Minutes சுருக்கம்",
+        "questionAnswering": "Question-Answering"
+      },
+      "day11": {
+        "masteringAdverbs": "Adverbs ஐ தேர்ச்சி பெறுதல்",
+        "grammarPractice": "Grammar Practice",
+        "readingPoemExercise": "Reading Poem Exercise"
+      },
+      "day17": {
+        "preposition": "Preposition",
+        "questionAnswering": "Question-Answering",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day6": {
+        "smallTalkVocab": "Small Talk Vocabulary",
+        "vocabularyPractice": "Vocabulary Practice",
+        "teamMeeting": "Team Meeting",
+        "pacedReading": "Paced Reading",
+        "verbsReview": "Verbs Review",
+        "stressTest": "Stress Test"
+      },
+      "day13": {
+        "stressTest": "Stress Test",
+        "wordQuiz": "Word Quiz",
+        "talkingToClients": "Clients உடன் பேசுதல்"
+      }
+    },
+    "socialising": {
+      "day5": {
+        "orderingFood": "உணவு order செய்தல்",
+        "roleplayMCQ": "Roleplay MCQ"
+      },
+      "day1": {
+        "grammarBuilder": "Grammar Builder",
+        "intro": "அறிமுகம்",
+        "readingExercise": "Reading Exercise"
+      },
+      "day4": {
+        "restaurantVocabulary": "Restaurant Vocabulary",
+        "orderingFood": "உணவு order செய்தல்",
+        "restaurantVocabularyPractice": "Restaurant Vocabulary Practice"
+      },
+      "day2": {
+        "masteringPronoun": "Pronoun-ஐ தேர்ச்சி பெறுதல்",
+        "conversationPractice": "Conversation Practice",
+        "pronounciationReview": "Pronunciation Review",
+        "readingExercise": "Reading Exercise"
+      },
+      "day3": {
+        "pronounsVideoLesson": "Pronouns Video Lesson",
+        "restaurantVocabulary": "Restaurant Vocabulary",
+        "learnOrderingFood": "உணவு order செய்வதை கற்றுக்கொள்ளுங்கள்",
+        "pronounRevision": "Pronoun Revision"
+      }
+    }
+  },
+  "day4": {
+    "version8": {
+      "exercise2": {
+        "id": {
+          "q2OptionBRight": "வாக்கியத்திற்கு Carlos என்ன செய்வார் என்பதை விவரிக்க \"help\" போன்ற verb தேவை.",
+          "q3AnswerExplanation": "\"Good\" மட்டுமே பொருத்தமான நேரத்தை விவரிக்கும் adjective ஆகும்.",
+          "q2OptionBWrong": "\"Team\" ஒரு noun, verb அல்ல.",
+          "q5OptionCRight": "\"Summary\" வழங்கப்படும் document-ஐ சரியாக விவரிக்கிறது.",
+          "q3OptionCWrong": "\"Calendar\" இந்த context-ல் grammatically அல்லது logically பொருந்தாது.",
+          "q1OptionCRight": "Designs-ஐ முடிக்கும் action-ஐ விவரிக்க நீங்களுக்கு \"finish\" போன்ற verb தேவை.",
+          "q5OptionARight": "\"Summary\" என்பது results காட்டும் document-ஐ விவரிக்கும் ஒரே noun ஆகும்.",
+          "q1OptionBWrong": "Deadline\" இந்த வாக்கியத்தில் grammatically சரியாக வேலை செய்யாது.\"",
+          "q5OptionBWrong": "I can create a discussion\" இந்த context-இல் அர்த்தமில்லை.\"",
+          "q3OptionCRight": "\"Good\" என்பது நேரம் பொருத்தமானது என்பதை சரியாக விவரிக்கிறது.",
+          "q1OptionARight": "\"Finish\" என்பது ஒரு பணியை முடிக்க இலக்கணரீதியாக பொருந்தும் ஒரே வினைச்சொல்.",
+          "q1OptionBRight": "Designs களை முடிக்க விவரிக்க நீங்களுக்கு \"finish\" போன்ற ஒரு வினைச்சொல் தேவை.",
+          "q1AnswerExplanation": "\"Finish\" என்பது ஒரு பணியை முடிக்க இலக்கணரீதியாக பொருந்தும் ஒரே வினைச்சொல்.",
+          "q4OptionBWrong": "\"We'll be presentation\" இலக்கணரீதியாக தவறானது.",
+          "q3OptionBRight": "Time-ன் suitability-ஐ மதிப்பிட \"good\" போன்ற adjective தேவை.",
+          "q2OptionCWrong": "\"Schedule\" context-க்கு ஒத்து வராது உதவி வழங்குவதில்.",
+          "q4OptionBRight": "Prepared\" தயாராக இருக்கும் நிலையை சரியாக விவரிக்கிறது.",
+          "q3OptionARight": "Good\" மட்டுமே பொருத்தமான நேரத்தை logical-ஆக விவரிக்கும் adjective.",
+          "q4OptionCWrong": "We'll be feedback\" grammatically அல்லது contextually அர்த்தமில்லை.",
+          "q3OptionBWrong": "Minutes\" என்பது ஒரு time work ஆகுமா என்பதை விவரிக்க அர்த்தம் இல்லை.\"",
+          "q4AnswerExplanation": "Prepared\" மட்டுமே readiness ஐ வெளிப்படுத்தும் வார்த்தை.",
+          "q2OptionARight": "Help\" மட்டுமே assistance ஐ விவரிக்கும் சரியான verb.",
+          "q2OptionCRight": "Help\" graphics உடன் தேவையான assistance ஐ சரியாக விவரிக்கிறது.",
+          "q5OptionCWrong": "I can create a meeting\" என்பது materials prepare செய்வது பற்றிய response ஆக fit ஆகாது.",
+          "q4OptionCRight": "\"Prepared\" என்பது meeting-க்கான தயார் நிலையை சரியாக குறிக்கிறது.",
+          "q2AnswerExplanation": "\"Help\" என்பது உதவியை விவரிக்கும் ஒரே பொருத்தமான verb ஆகும்.",
+          "q5AnswerExplanation": "\"Summary\" என்பது முடிவுகளைக் காட்டும் ஆவணத்தை விவரிக்கும் ஒரே noun ஆகும்.",
+          "q5OptionBRight": "\"Summary\" என்பது முடிவுகளின் சுருக்கமான கண்ணோட்டத்தை சரியாக விவரிக்கிறது.",
+          "q4OptionARight": "\"Prepared\" என்பது தயார் நிலையை வெளிப்படுத்தும் ஒரே வார்த்தை.",
+          "q1OptionCWrong": "\"Project\" ஒரு noun, verb அல்ல."
+        },
+        "es": {
+          "q1OptionARight": "\"Finish\" மட்டுமே ஒரு task-ஐ முடிக்க grammatically பொருந்தும் verb.",
+          "q1OptionBRight": "Designs-ஐ முடிப்பதை விவரிக்க \"finish\" போன்ற verb தேவை.",
+          "q3OptionBRight": "நேரத்தின் பொருத்தத்தை மதிப்பிட \"good\" போன்ற adjective தேவை.",
+          "q2OptionBWrong": "\"Team\" ஒரு noun, verb அல்ல.",
+          "q4OptionBRight": "Prepared\" சரியாக தயார் நிலையை விவரிக்கிறது.",
+          "q3OptionBWrong": "Minutes\" ஒரு நேரம் பொருத்தமானதா என்பதை விவரிக்க அர்த்தமில்லை.",
+          "q2OptionARight": "Help\" மட்டுமே உதவியை விவரிக்கும் பொருத்தமான வினைச்சொல்.",
+          "q3OptionCRight": "Good\" நேரம் பொருத்தமானது என்பதை சரியாக விவரிக்கிறது.",
+          "q5OptionCWrong": "I can create a meeting\" materials தயார் செய்வது பற்றிய பதிலாக பொருந்தவில்லை.",
+          "q1AnswerExplanation": "\"Finish\" மட்டுமே ஒரு task-ஐ முடிக்க grammatically சரியான verb ஆகும்.",
+          "q4OptionBWrong": "We'll be presentation\" grammatically தவறானது.",
+          "q2OptionCWrong": "Schedule\" உதவி வழங்கும் context-க்கு பொருந்தாது.",
+          "q2AnswerExplanation": "Help\" மட்டுமே உதவியை விவரிக்கும் பொருத்தமான verb.",
+          "q3OptionARight": "Good\" மட்டுமே பொருத்தமான நேரத்தை logical-ஆக விவரிக்கும் adjective.",
+          "q4OptionCWrong": "We'll be feedback\" grammatically அல்லது contextually அர்த்தமில்லை.",
+          "q5AnswerExplanation": "Summary\" என்பது results காட்டும் document-ஐ விவரிக்கும் ஒரே noun ஆகும்.\"",
+          "q4AnswerExplanation": "\"Prepared\" என்பது தயார் நிலையை வெளிப்படுத்தும் ஒரே வார்த்தை.",
+          "q5OptionBRight": "\"Summary\" என்பது முடிவுகளின் சுருக்கமான கண்ணோட்டத்தை சரியாக விவரிக்கிறது.",
+          "q4OptionARight": "\"Prepared\" என்பது தயார் நிலையை வெளிப்படுத்தும் ஒரே வார்த்தை.",
+          "q2OptionCRight": "Help\" என்பது graphics-உடன் தேவைப்படும் assistance-ஐ சரியாக விவரிக்கிறது.",
+          "q1OptionCWrong": "\"Project\" என்பது ஒரு noun, verb அல்ல.",
+          "q4OptionCRight": "Prepared\" என்பது meeting-க்கான readiness-ஐ சரியாக குறிக்கிறது.",
+          "q3AnswerExplanation": "\"Good\" மட்டுமே பொருத்தமான நேரத்தை விவரிக்கும் adjective ஆகும்.",
+          "q5OptionCRight": "Summary\" என்பது வழங்கப்படும் document-ஐ பொருத்தமாக விவரிக்கிறது.",
+          "q3OptionCWrong": "\"Calendar\" இந்த context இல் grammatically அல்லது logically பொருந்தவில்லை.",
+          "q1OptionCRight": "Designs ஐ முடிக்கும் action ஐ விவரிக்க நீங்களுக்கு \"finish\" போன்ற verb தேவை.",
+          "q5OptionARight": "\"Summary\" மட்டுமே results ஐ காட்டும் document ஐ விவரிக்கும் noun ஆகும்.",
+          "q1OptionBWrong": "\"Deadline\" இந்த sentence-ல் grammatically சரியாக வரவில்லை.",
+          "q5OptionBWrong": "\"I can create a discussion\" இந்த context-ல் அர்த்தமில்லை.",
+          "q2OptionBRight": "வாக்கியத்திற்கு Carlos என்ன செய்வார் என்பதை விவரிக்க \"help\" போன்ற verb தேவை."
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q2AnswerExplanation": "ஒரு \"contribution\" என்பது discussion-இல் பகிர்ந்து கொள்ளப்படும் மதிப்புமிக்க idea அல்லது input ஆகும்.",
+          "q5AnswerExplanation": "\"Collaboration\" என்றால் பொதுவான இலக்கை அடைய ஒன்றாக வேலை செய்வது.",
+          "q3AnswerExplanation": "ஒரு \"action item\" என்பது deadline உடன் யாருக்காவது ஒதுக்கப்பட்ட குறிப்பிட்ட task ஆகும்.",
+          "q1AnswerExplanation": "ஒரு \"agenda\" என்பது meeting-இல் விவாதிக்கப்பட வேண்டிய topics-இன் பட்டியல் ஆகும்.",
+          "q4AnswerExplanation": "\"Update\" என்பது சமீபத்திய progress அல்லது மாற்றங்கள் பற்றிய தகவல்."
+        }
+      }
+    },
+    "version10": {
+      "exercise2": {
+        "id": {
+          "q2OptionCWrong": "John குறிப்பாக appetizer கேட்கவில்லை.",
+          "q2AnswerExplanation": "Order செய்வது என்றால் server-இடம் நீங்கள் எந்த உணவு மற்றும் பானங்கள் வேண்டும் என்று சொல்வது.",
+          "q3OptionARight": "அவள் காத்திருக்கும் போது சாப்பிட சிறிய உணவுகள் கேட்டாள் (appetizers).",
+          "q4OptionCWrong": "\"Billed\" payment-உடன் தொடர்புடையது, உணவின் taste-உடன் அல்ல.",
+          "q5AnswerExplanation": "Bill என்பது restaurant-இல் உங்கள் உணவுக்கு எவ்வளவு பணம் செலுத்த வேண்டும் என்பதைக் காட்டும் ஆவணம்.",
+          "q4AnswerExplanation": "Delicious என்றால் மிகவும் சுவையான உணவு என்று பொருள்.",
+          "q5OptionBRight": "Lisa bill-ஐ கேட்க வேண்டும் - அது அவள் உணவுக்கு எவ்வளவு பணம் செலுத்த வேண்டும் என்பதைக் காட்டும் ஆவணம்.",
+          "q4OptionARight": "Carlos தன் pasta-வை delicious என்று சொன்னான் - அதாவது அந்த உணவு மிகவும் சுவையாக இருக்கிறது என்று பொருள்.",
+          "q2OptionCRight": "அவன் server-இடம் தன் உணவு தேர்வைச் சொன்னான் (order செய்தான்).",
+          "q1OptionCWrong": "Sarah appetizer-ஐ பார்க்கவில்லை, அது ஒரு சிறிய உணவு வகை.",
+          "q4OptionCRight": "Carlos தன் pasta எவ்வளவு சுவையாக இருந்தது என்று விவரித்தான் (delicious).",
+          "q3AnswerExplanation": "Appetizer-கள் முக்கிய உணவுக்கு முன் பரிமாறப்படும் சிறிய உணவு வகைகள்.",
+          "q5OptionCRight": "அவள் தன் உணவுக்கான பணத்தை கொடுக்க விரும்புகிறாள் (the bill).",
+          "q3OptionCWrong": "Maria menu கேட்கவில்லை, அது உணவு விருப்பங்களை பட்டியலிடுகிறது.",
+          "q1OptionCRight": "அவள் கிடைக்கும் அனைத்து உணவுகளின் முழுமையான பட்டியலைப் பார்க்கிறாள் (menu).",
+          "q5OptionBWrong": "Lisa க்கு menu தேவையில்லை, ஏனென்றால் அவள் சாப்பிட்டு முடித்துவிட்டாள், menu என்பது உணவு விருப்பங்களைக் காட்டுவது.",
+          "q2OptionBRight": "John ஒரு order போட்டார் - server இடம் எந்த உணவு மற்றும் பானங்கள் வேண்டும் என்று சொன்னார்.",
+          "q1OptionARight": "Sarah ஒரு menu படிக்கிறாள் - restaurant இல் கிடைக்கும் உணவு மற்றும் பானப் பொருட்களின் பட்டியல்.",
+          "q1OptionBRight": "அவள் order செய்வதற்கு முன் உணவு விருப்பங்களைப் பார்க்கிறாள் (menu).",
+          "q3OptionBRight": "அவள் தன் main course-க்கு முன் சாப்பிட சிறிய dishes கேட்டாள் (appetizers).",
+          "q2OptionBWrong": "John bill கேட்கவில்லை, அது சாப்பிட்ட பிறகு கேட்கப்படுவது.",
+          "q4OptionBRight": "Carlos தன் pasta-வின் taste-ஐ மிகவும் நல்லது என்று விவரித்தான் (delicious).",
+          "q3OptionBWrong": "Maria bill கேட்கவில்லை, அது சாப்பிட்ட பிறகு கேட்கப்படுவது.",
+          "q5OptionARight": "அவளுக்கு எவ்வளவு pay செய்ய வேண்டும் என்று தெரிய வேண்டும் (the bill).",
+          "q1OptionBWrong": "Sarah bill-ஐ பார்க்கவில்லை, அது சாப்பிட்ட பிறகு எவ்வளவு pay செய்ய வேண்டும் என்பதைக் காட்டுகிறது.",
+          "q2OptionARight": "அவர் server-இடம் என்ன food வேண்டும் என்று சொன்னார் (order போட்டார்).",
+          "q3OptionCRight": "Maria appetizers கேட்டார் - main meal-க்கு முன் பரிமாறப்படும் சிறிய dishes.",
+          "q5OptionCWrong": "Lisa-வுக்கு appetizer தேவையில்லை, அது starter dish, ஏனென்றால் அவர் சாப்பிட்டு முடித்துவிட்டார்.",
+          "q1AnswerExplanation": "Menu என்பது restaurant-இல் கிடைக்கும் food மற்றும் drink items-ன் பட்டியல்.",
+          "q4OptionBWrong": "\"Ordered\" என்பது உணவைத் தேர்ந்தெடுக்கும் செயலைக் குறிக்கிறது, அது எப்படி சுவையாக இருக்கிறது என்பதை அல்ல."
+        }
+      }
+    },
+    "version12": {
+      "exercise3": {
+        "q4AnswerExplanation": "Bill (அல்லது check) என்பது restaurant-இல் வாடிக்கையாளர்கள் செலுத்த வேண்டிய உணவின் மொத்த விலையைக் காட்டும் ஆவணம்.",
+        "q2AnswerExplanation": "Ordering என்றால் நீங்கள் வாங்கி சாப்பிட விரும்பும் உணவு வகைகளை server-இடம் சொல்வது.",
+        "q3AnswerExplanation": "Delicious என்பது மிகவும் நன்றாக சுவையாக இருக்கும் மற்றும் சாப்பிடும்போது மகிழ்ச்சி தரும் உணவை விவரிக்கும் சொல்.",
+        "q1AnswerExplanation": "Menu என்பது restaurant-இல் கிடைக்கும் உணவு வகைகளின் பட்டியல், பொதுவாக புத்தகம் அல்லது board-இல் காட்டப்படும்."
+      },
+      "exercise2": {
+        "es": {
+          "q4AnswerExplanation": "\"Delicious\" என்பது மிகவும் சுவையான உணவை விவரிக்கும் adjective ஆகும்.",
+          "q2AnswerExplanation": "\"Order\" என்பது restaurant-ல் உணவை தேர்ந்தெடுத்து கேட்பதை குறிக்கும் verb ஆகும்.",
+          "q5AnswerExplanation": "\"Bill\" என்பது customer தங்கள் உணவுக்கு எவ்வளவு பணம் செலுத்த வேண்டும் என்பதைக் காட்டும் document ஆகும்.",
+          "q3AnswerExplanation": "\"Appetizer\" என்பது main course க்கு முன் பரிமாறப்படும் சிறிய உணவு வகையாகும்.",
+          "q1AnswerExplanation": "\"Menu\" என்பது restaurant இல் கிடைக்கும் அனைத்து உணவு மற்றும் பானங்களின் பட்டியலைக் கொண்ட document ஆகும்."
+        }
+      }
+    },
+    "version13": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Agree\" என்றால் ஒரே கருத்தை கொண்டிருப்பது அல்லது வேறொருவர் கொடுத்த suggestion ஐ ஏற்றுக்கொள்வது.",
+        "q3AnswerExplanation": "\"Clarify\" என்றால் ஒரு statement அல்லது சூழ்நிலையை குழப்பம் குறைத்து, விவரங்களை உறுதிப்படுத்தி மேலும் புரியும்படி செய்வது.",
+        "q1AnswerExplanation": "\"Suggestion\" என்றால் மற்றவர்கள் பரிசீலனைக்காக முன்வைக்கப்படும் ஒரு யோசனை அல்லது proposal."
+      },
+      "exercise3": {
+        "q2AnswerExplanation": "\"Clarify\" என்பது மேலும் விளக்கம் கேட்க பயன்படுகிறது. \"Agree\" இங்கே பொருத்தமில்லை, மற்றும் \"suggest\" தெளிவு கேட்கும்போது பொருந்தாது.",
+        "q5AnswerExplanation": "\"Clarify\" என்றால் எதையாவது தெளிவாக்குவது. \"Sure\" ஒரு verb அல்ல, மற்றும் \"told\" தவறான tense. குழப்பத்தை தீர்ப்பதை வெளிப்படுத்த \"clarify\" மட்டுமே வேலை செய்யும்.",
+        "q4AnswerExplanation": "\"Couldn't agree\" என்பது consensus இல்லாததை குறிக்கிறது. \"Make\" க்கு ஒரு object தேவை, மற்றும் \"suggest\" disagreement ஐ விவரிக்காது. Shared viewpoints பற்றி பேசும்போது \"agree\" பொருத்தமானது.",
+        "q3AnswerExplanation": "\"Let me suggest\" ஒரு proposal ஐ அறிமுகப்படுத்துகிறது. \"Do\" மற்றும் \"start\" logical ஆக பொருந்தாது. Meeting ஐ postpone செய்வது போன்ற ideas வழங்கும்போது \"suggest\" மட்டுமே வேலை செய்யும்.",
+        "q1AnswerExplanation": "\"Strongly agree with\" ஒரு opinion க்கு வலுவான support ஐ காட்டுகிறது. \"Strongly\" மற்றும் \"with\" உடன் \"agree\" மட்டுமே வேலை செய்யும்; \"pause\" grammatical அல்ல, மற்றும் \"clarify\" support ஐ காட்டாது."
+      }
+    }
+  },
+  "day2_2": {
+    "version14": {
+      "whenYouAskingForRequest": "Request கேட்கும்போது நீங்கள் இப்படி சொல்லலாம் -",
+      "q6AnswerExplanation": "Sarah, Alex இடம் book அவருடையதா என்று கேட்பதால் Yours' சரியானது.",
+      "q2AnswerExplanation2": "\"Me\" என்பது action-ஐ receive செய்யும் object pronoun ஆகும்.",
+      "q1AnswerExplanation2": "\"She\" என்பது யார் அந்த செயலைச் செய்கிறார் என்பதைக் காட்டும் subject pronoun ஆகும்.",
+      "q1AnswerExplanation": "Joe ஒரு singular male subject என்பதால் 'He' பயன்படுத்துகிறோம், மேலும் pronoun gender மற்றும் number-க்கு match ஆக வேண்டும்.",
+      "funWithTongueTwister": "Tongue Twister-உடன் வேடிக்கை",
+      "letPracticeSomeGrammar": "Grammar practice செய்வோம்",
+      "pronunciationExercise": "Pronunciation Exercise",
+      "grammarExercise": "Grammar Exercise",
+      "grammarLesson": "Grammar Lesson",
+      "task4": "Task 4",
+      "whenYouAskingRequestCouldWeFindTime": "நீங்கள் ஒரு request கேட்கும் போது இப்படி சொல்லலாம் - Could we find a time after the meeting to talk about the idea?",
+      "socialIntroductions": "Social Introductions",
+      "q7AnswerExplanation": "This' பொருத்தமானது ஏனென்றால் Alex தான் கையில் வைத்திருக்கும் குறிப்பிட்ட புத்தகத்தைப் பற்றி குறிப்பிடுகிறார்.",
+      "describeMemorableTripYouTook": "நீங்கள் மேற்கொண்ட memorable trip-ஐ விவரிக்கவும். அதை special ஆக்கியது என்ன?",
+      "q4AnswerExplanation": "Jon Snow தனக்கு அருகில் இருக்கும் குறிப்பிட்ட வாளைப் பற்றி குறிப்பிடுவதால், ஒருமையில் உள்ள மற்றும் அருகில் இருக்கும் ஒன்றிற்கு 'this' பொருத்தமானது.",
+      "letReadTogether": "வாருங்கள் சேர்ந்து படிப்போம்",
+      "q4AnswerExplanation3": "\"She\" என்பது action செய்யும் நபருக்கான subject pronoun, \"it\" என்பது உணவுக்கான object pronoun.",
+      "speaking": "Speaking",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "உங்கள் team உடன் வேலை செய்து மகிழ்ந்த நேரத்தைப் பற்றி பேசுங்கள். அதை சிறப்பாக்கியது என்ன?",
+      "q2AnswerExplanation3": "\"Mine\" என்பது noun ஐ மீண்டும் சொல்லாமல் உடைமையைக் காட்டும் possessive pronoun ஆகும். \"Them\" என்பது பல பொருட்களைக் குறிக்கும் object pronoun ஆகும்.",
+      "letStartYourRoadmap": "உங்கள் roadmap-ஐ தொடங்குவோம்",
+      "masteringPronouns": "Pronouns-ஐ தேர்ச்சி பெறுதல்",
+      "q5AnswerExplanation3": "\"Myself\" என்பது \"I\"-ஐ குறிக்கும் reflexive pronoun ஆகும், மற்றும் \"my\" என்பது noun-க்கு முன் வரும் possessive adjective ஆகும்.",
+      "day1Revision": "Day 1 : Revision",
+      "q3AnswerExplanation2": "\"Their\" என்பது வீட்டின் உரிமையாளரை காட்டும் possessive pronoun ஆகும்.",
+      "pronounciation": "Pronunciation",
+      "q1AnswerExplanation3": "\"Her/him\" என்பவை object pronouns ஆகும், யாராவது ஒரு செயலைப் பெறும்போது பயன்படுத்தப்படுகின்றன.",
+      "q2AnswerExplanation": "Daenerys (ஒரு பெண்) owner ஆக இருப்பதால், \"hers\" சரியான பதில்.",
+      "q5AnswerExplanation": "Alex ஒரு singular male subject ஆக இருப்பதால் 'He' பயன்படுத்தப்படுகிறது, மேலும் pronoun gender மற்றும் number உடன் பொருந்த வேண்டும்.",
+      "letTestYourSentenceStructure": "உங்கள் sentence structure-ஐ test செய்வோம்",
+      "letJumpIntoLearningPronunciations": "Pronunciations கற்கத் தொடங்குவோம்",
+      "politelyAnnounceThatYouAreLeaving": "மரியாதையாக நீங்கள் வெளியேறுவதை அறிவிக்கவும் - Sorry, I have to leave for another meeting.",
+      "readAloud": "Read Aloud",
+      "ieltsPart2": "IELTS Part 2",
+      "describeTheImage": "Image-ஐ விவரிக்கவும்",
+      "repeatAfterMe": "என்னைப் பின்தொடர்ந்து சொல்லவும்",
+      "q3AnswerExplanation3": "\"We\" ஒரு subject pronoun (action செய்பவர்), \"us\" ஒரு object pronoun (invitation பெறுபவர்).",
+      "summarizeLecture": "Lecture-ஐ சுருக்கவும்",
+      "introductionSpeakingTest": "அறிமுகம் : Speaking Test",
+      "letJumpIntoRealLifeConversationToday": "இன்று real-life conversation-இல் இறங்குவோம், vocabulary-யும் practice செய்வோம்",
+      "q3AnswerExplanation": "herself' pronoun பயன்படுத்தப்படுகிறது ஏனென்றால் sentence-இன் subject 'She', sandwich தயாரிக்கும் action அவளையே குறிக்கிறது.",
+      "politelyAnnounceThatLeaving": "நீங்கள் கிளம்புகிறீர்கள் என்று கண்ணியமாக announce செய்யவும் -",
+      "pronunciationReview": "Pronunciation Review",
+      "readOutLoud": "உரக்கப் படியுங்கள்!"
+    }
+  },
+  "onBoarding": {
+    "helpYouPractice": "வணக்கம்! நான் உங்களோட Sarah. நாம friendly conversations மூலம் English improve பண்ணலாம்.",
+    "togetherWeWillWork": "நாம சேர்ந்து English-ஐ relax-ஆ, எந்த பயமோ stress-ம் இல்லாம, easy ஆன வழியில் improve பண்ணுவோம்.",
+    "whetherYouAreJustStarting": "நீங்க இப்போ தான் English கத்துக்க start பண்ணினாலும் சரி, இல்ல already கொஞ்சம் comfortable-ஆ இருந்தாலும் சரி, இந்த learning journey-யை உங்க speed-லேயே சேர்ந்து கொண்டு போலாம்",
+    "whatShouldICallYou": "உங்களை நான் எப்படிக் கூப்பிடலாம்?",
+    "hiIAmPersonalEnglishSpeakingPartner": "வணக்கம்! நான் உங்கள் Personal English Speaking Partner.",
+    "callMeSarahWhatsYourName": "நீங்கள் என்னை Sarah என்று கூப்பிடலாம். உங்கள் பெயர் என்ன?",
+    "thatsVeryCoolName": "அருமையான பேர். நாம இருவரும் சேர்ந்து English practice பண்ணா சூப்பரா இருக்கும். ",
+    "toEnsureYouGetLatestLessons": "உங்களுக்கு புதிய lessons & personalised tips வேணுமா? அப்படின்னா உங்க phone number குடுங்க, நா தினமும் share பண்ணுறேன். தர முடியுமா?",
+    "niceToMeetYouGetLatestLessons": "உங்களைச் சந்திச்சதுல சந்தோஷம்! உங்களுக்கு latest lessons கிடைக்க, உங்க phone number குடுக்க முடியுமா?",
+    "whichAgeGroupAreYouIn": "நீங்க எந்த age group-ல இருக்கீங்க?",
+    "ageGroup": {
+      "under18": "18-க்கு கீழ்",
+      "age18to24": "18-24",
+      "age25to34": "25-34",
+      "age35to44": "35-44",
+      "age45plus": "45+"
+    },
+    "whatIsYourGender": "உங்க gender என்ன?",
+    "gender": {
+      "male": "Male",
+      "female": "Female",
+      "nonBinary": "Non-Binary"
+    },
+    "dailyPracticeHelpsAchieveGoals": "தினமும் practice பண்றது உங்க goals-ஐ சீக்கிரமா achieve பண்ண உதவும்",
+    "whatBestDescribesYourSituation": "உங்க current situation-ஐ எது சரியா describe பண்ணுது?",
+    "imGladWeMetWhatsYourGoal": "உங்களைப் பார்த்ததில் சந்தோஷம். English கத்துக்கறதுக்கு உங்க main goal என்ன?",
+    "mainGoal": {
+      "ielts": "English exam-க்கு தயாராக",
+      "growInMyCareer": "என் career-ல வளர",
+      "personalGrowth": "தனிப்பட்ட வளர்ச்சி",
+      "travelConfidently": "நம்பிக்கையுடன் பயணம்",
+      "excelAtMySchool": "பள்ளியில் சிறந்து விளங்க",
+      "other": "மற்றவை"
+    },
+    "typeYourGoalHint": "உங்க goal-ஐ இங்கே type பண்ணுங்க",
+    "typeYourExamHint": "உங்க exam-ஐ இங்கே type பண்ணுங்க",
+    "examType": {
+      "ielts": "IELTS",
+      "toefl": "TOEFL",
+      "pte": "PTE",
+      "toeic": "TOEIC",
+      "other": "மற்றவை"
+    },
+    "currentSituation": {
+      "student": "மாணவர்",
+      "workingProfessional": "பணிபுரிபவர்",
+      "freelancer": "ஃப்ரீலான்சர்",
+      "businessOwner": "தொழில் உரிமையாளர்",
+      "homeMaker": "இல்லத்தரசி",
+      "careerBreak": "தொழில் இடைவேளையில்",
+      "lookingForWork": "வேலை தேடுபவர்",
+      "parent": "பெற்றோர்"
+    },
+    "amazingWhereDidHearAboutStimuler": "நன்றி! எங்களைப் பற்றி எங்கே கேள்விப்பட்டீர்கள் என்று தெரிந்து கொள்ளலாமா?",
+    "noProblemWhereDidYouHearAboutUs": "பரவாயில்லை! எங்களைப் பற்றி எங்கே கேள்விப்பட்டீர்கள் என்று தெரிந்து கொள்ளலாமா?",
+    "iAmGladWeMet": "நாம சந்திச்சதுல ரொம்ப சந்தோஷம்",
+    "enterReferralCode": "உங்களிடம் உள்ள referral code-ஐ enter பண்ணவும்",
+    "letsCreateAPlanForJustYou": "நீங்கள் உங்கள் goals-ஐ வேகமாக அடைவதற்காக உங்களுக்கு மட்டுமேயான ஒரு plan-ஐ உருவாக்குவோம்! சொல்லுங்கள், நீங்கள் ஏன் English கத்துக்க ஆசைப்படுறீங்க?",
+    "thatsImpressiveMentoredIels": "Impressive! நான் உலகம் முழுவதிலும் இருந்து ஒரு million-க்கும் மேற்பட்ட candidates-க்கு அவர்கள் dream band score அடைய guidance கொடுத்திருக்கிறேன்",
+    "whatTypeOfSituationsDoYouWant": "என்ன மாதிரி situations-ல நீங்க best ஆ இருக்க விரும்புறீங்க?",
+    "thatsImpressiveMentoredTravel": "அருமை! Business trip ஆக இருந்தாலும் சரி, நீங்கள் வெளிநாட்டில் வேலை செய்தாலும் சரி, எல்லா சூழ்நிலைகளையும் நாங்கள் cover பண்ணுவோம்.",
+    "thatsImpressiveMentoredEducation": "சரி! நான் ஒரு million-க்கும் மேற்பட்ட மக்களுக்கு English-ஐ fluent-ஆகவும் confident-ஆகவும் பேச உதவியிருக்கிறேன், தெரியுமா",
+    "greatMentoredOthers": "அருமை! நான் பத்து இலட்சத்துக்கும் மேலான மக்களுக்கு English-ஐ fluent-ஆ, confident-ஆ பேச உதவுறேன்.",
+    "thatsImpressiveMentoredBusiness": "Impressive ! நான் already ஒரு million-க்கும் மேலான working professionals-ஓட real-world conversations practice பண்ணி, அவர்களுக்கு career improve ஆக mentor ஆகி இருக்கேன்.”",
+    "lookWhatLearnersHaveToSay": "இந்த வெற்றிகரமான learners என்ன சொல்கிறார்கள் என்று பாருங்கள்:",
+    "thesePeoplePracticedDaily": "இவங்க தினமும் practice பண்ணி அருமையான progress அடைந்தவங்க, நான் அவங்களை correct ஆன directionல போக உதவினேன்.",
+    "iWillRemindYouToo": "நீங்க practice-ஐ miss பண்ணாம இருக்க, நான் தினமும் உங்களுக்கு practice பண்ணணும் பதி ஞாபகப்படுத்துறேன். உங்க notification-ஐ on பண்ணுங்க.",
+    "thanksForThatTogether": "அதுக்கு நன்றி! நாம சேர்ந்து English கத்துக்கறத, ஒரு daily habit ஆக்குவோம்",
+    "noIssuesIWill": "பரவாயில்லை! நான் அப்புறம் கேட்கிறேன்.",
+    "whatIsCurrentEnglishLevel": "உங்கள் தற்போதைய English level என்னவென்று சொல்வீர்கள்?",
+    "perfectEvenWithJustAFewWords": "Perfect! கொஞ்சம் words மட்டும் இருந்தாலும், நீங்க start பண்ண தயாரா இருகீங்க. நான் step by step உங்களுக்கு confidence உடன் பேச guide பண்றேன்.",
+    "awesomeAlreadyHalfwayThere": "Awesome! நீங்கள் ஏற்கனவே பாதி வழி வந்துவிட்டீர்கள். என்னுடன் இன்னும் கொஞ்சம் practice பண்ணினால் ஆச்சரியப்படும்படி பேசுவீர்கள்!",
+    "awesomeSkysTheLimit": "Awesome! உங்களுக்கு வானமே எல்லை. நாம் கடினமான challenges-ஐ எதிர்கொண்டு உயர்ந்த இலக்குகளை அடைவோம்.",
+    "almostDoneAnswerAQuestionBeginner": "நாம் கிட்டத்தட்ட முடித்துவிட்டோம்! கடைசி step-ஆக நான் நீங்கள் பின்வரும் passage-ஐ படிக்க வேண்டும் என்று விரும்புகிறேன்",
+    "almostDoneAnswerAQuestion": "நாம் கிட்டத்தட்ட முடித்துவிட்டோம்! கடைசி step-ஆக நான் நீங்கள் எனக்கு ஒரு question-க்கு பதில் சொல்ல வேண்டும் என்று விரும்புகிறேன்",
+    "dontKnowWhatToSpeak": "என்ன பேசுவது என்று தெரியலையா? பரவாயில்லை, கீழே உள்ள hint-ஐ படிங்க!",
+    "didNotSpeakAlot": "நீங்க சத்தமா பேசலன்னு நினைக்கிறேன்",
+    "letsTrySomethingElse": "வேறு ஏதாவது try பண்ணுவோமா?",
+    "greatReasonExperienceBestAiApp": "அருமை! இப்ப நாம எங்க Google Play Best AI App 2023 ஜெயிச்சோம் னு தெரிஞ்சுக்கலாம்.",
+    "reasonExperienceBestAiApp": "இப்ப நாம எங்க Google Play Best AI App 2023 ஜெயிச்சோம் னு தெரிஞ்சுக்கலாம்.",
+    "tapOnButtonBelow": "உங்க speech ல இருக்கா mispronunciations, awkward pauses, மற்றும் எங்களோட feedback எல்லாத்தையும் தெரிஞ்சிக்க கீழ இருக்க button ஆ tap பண்ணுங்க.",
+    "curiousHowWellYou": "நீங்கள் எவ்வளவு நன்றாக பேசினீர்கள் என்று தெரிந்து கொள்ள ஆவலா? உங்கள் performance பார்க்க tap பண்ணவும்!",
+    "purpose": {
+      "ielts": "IELTS",
+      "talkToColleaguesClients": "Colleagues/clients உடன் பேசுவதற்கு",
+      "clearJobInterview": "Job interview ல் வெற்றி பெறுவதற்கு",
+      "everydayConvo": "தினசரி conversation",
+      "excelAtSchool": "என் school-ல் சிறப்பாக செயல்பட",
+      "travel": "Travel",
+      "anyOtherGoal": "வேறொரு இலக்கு",
+      "improveMyCareer": "என் career-ஐ மேம்படுத்த"
+    },
+    "workplaceSubPurpose": {
+      "jobInterview": "Job Interview",
+      "teamMeeting": "Team Meetings",
+      "presentations": "Presentations",
+      "networking": "Networking",
+      "smallTalk": "Colleagues உடன் Small Talk"
+    },
+    "HowDidUserHearAboutApp": {
+      "tiktok": "TikTok",
+      "instagram": "Instagram Reel",
+      "googleAds": "Google Ads",
+      "friend": "நண்பர்கள்",
+      "facebook": "Facebook",
+      "youtube": "YouTube",
+      "haveAReferralCode": "Referral Code இருக்கிறதா?",
+      "other": {
+        "playStore": "Play Store-ல் search செய்தேன்",
+        "appStore": "App Store-ல் search செய்தேன்"
+      },
+      "twitterX": "Twitter/X"
+    },
+    "levelDescription": {
+      "beginner": "சில words தெரியும், ஆனால் sentences உருவாக்க முடியாது.",
+      "intermediate": "Simple விஷயங்களில் சின்ன sentences உருவாக்க முடியும்.",
+      "advance": "சிறிய conversations நடத்தவும், புரிந்துகொள்ளவும் முடியும்."
+    },
+    "reviewBoostedMyConfidence": "Sarah உடன் chat செய்தது என் English-ஐ தூக்கி நிறுத்திவிட்டது, test-க்கு என் confidence-ஐ ஏற்றிவிட்டது",
+    "thatsImpressiveMentoredJob": "அசத்திவிட்டீர்கள்! நான் ஒரு மில்லியனுக்கும் மேற்பட்ட மக்களுக்கு அவர்களின் interviews இல் excel செய்ய உதவி, dream job கிடைக்க உதவியிருக்கிறேன்",
+    "reviewCommunityActive": "Stimuler PRO community members எப்போதும் active ஆக இருந்து என்னை motivated ஆக வைக்கிறார்கள்",
+    "reviewBoostedMyConfidenceIELTS": "Sarah உடன் chat செய்தது என் English-ஐ தூக்கிவிட்டது, என் IELTS test-க்கு confidence-ஐ ஏற்றிவிட்டது",
+    "selectYourLanguagePreferance": "உங்கள் மொழி விருப்பத்தை தேர்ந்தெடுக்கவும்",
+    "thatsImpressiveMentoredSubPurpose": "அது impressive! நான் ஒரு மில்லியனுக்கும் மேற்பட்ட working professionals-க்கு அவர்களுடன் real-world conversations practice செய்து அவர்களின் career-ஐ மேம்படுத்த உதவியிருக்கிறேன்",
+    "reviewSarahFeedbackOnVocab": "Sarah-ன் Vocabulary feedback-கள் அருமை... என் 8.0 band score-க்கு Stimuler-தான் காரணம்",
+    "seeDetailedResults": "Results கு tap பண்ணுங்க.",
+    "reviewSpendingTwentyMinutes": "Sarah-உடன் தினமும் 20 நிமிடங்கள் செலவிடுவது என் fluency-ஐ பெரிதும் மேம்படுத்தியது",
+    "reviewSarahFeedbackOnVocabIELTS": "Sarah-இன் Vocabulary feedback அருமை... என் 8.0 band score-க்கு Stimuler-தான் காரணம்",
+    "reviewAppIsAGoldenEgg": "இந்த app ஒரு golden egg. இது நீங்கள் இன்னும் நன்றாக பேச உதவுகிறது. அருமையானது, இதற்கு10/5 கொடுப்பேன்",
+    "awesomeThousandsOfEnglishLearners": "அருமை! நான் கற்பிக்கும் ஆயிரக்கணக்கான English learners ஆரம்பநிலையில் தொடங்குகிறார்கள். நான் அவர்களை fluent English speakers-ஆக ஆக்குகிறேன்",
+    "thatsImpressiveMentoredSocializing": "அருமை! நாம் வேடிக்கையான, ஈர்க்கக்கூடிய conversations நடத்தலாம். இது உங்களுக்கு அன்றாட வேலைகளுக்கான communication-ஐ முழுமையாகக் கற்க உதவும்",
+    "reviewBoostedConfidenceOffice": "Sarah உடன் chat செய்தது என் English-ஐ தூக்கி நிறுத்திவிட்டது, office-ல் என் confidence-ஐ ஏற்றிவிட்டது",
+    "reviewAppIsAGoldenEggIELTS": "இந்த app IELTS க்கு ஒரு golden egg. இது நீங்கள் சிறப்பாக பேச உதவுகிறது. அருமை, 10/5 கொடுப்பேன்",
+    "canIknowYourName": "நான் மிகவும் excited ஆக இருக்கிறேன், உங்கள் பெயர் என்ன என்று தெரிந்து கொள்ளலாமா?",
+    "letsGetToKnowEachOther": "வாங்க ஒருவரை ஒருவர் தெரிந்து கொள்வோம்!",
+    "whatsYourNativeLanguage": "உங்கள் native language என்ன?",
+    "gotItWillUseTheLanguageToExplainEnglish": "புரிந்தது! App-ல் English-ஐ explain செய்ய உங்கள் language-ஐ பயன்படுத்துவோம்",
+    "wantToChangeAppLanguageTo": "உங்கள் native language-க்கு app language-ஐ மாற்ற விரும்புகிறீர்களா?",
+    "youWillLearnEnglishThrough": "நீங்கள் $language மூலம் English கற்றுக்கொள்வீர்கள்",
+    "weUseEnglishAsTheAppsLanguage": "நாங்கள் app-ன் மொழியாக English பயன்படுத்துகிறோம்",
+    "awesomeCanIKnowYourName": "அருமை! உங்கள் பெயர் என்ன என்று தெரிந்துகொள்ளலாமா?",
+    "soWhatsYourNativeLanguage": "அப்படியானால், உங்கள் தாய்மொழி என்ன? இது உங்களுக்கு நன்றாக உதவ எனக்கு உதவும்.",
+    "chat_onboarding_improved_speech_result_v2_see_your_improved_version": "உங்களுடைய Improved version ஐ பாருங்கள்",
+    "chat_onboarding_improved_speech_result_v2_you_spoke_2x_better_inn_5minutes_today_": "நீங்கள் இன்று < 5minutes-இல் 2x சிறப்பாக பேசினீர்கள்!",
+    "chat_onboarding_pre_hint_flow_animation_analysing_yournspeech_level": "உங்கள் speech level-ஐ பகுப்பாய்வு செய்கிறோம்",
+    "chat_onboarding_pre_hint_flow_animation_lets_take_you_tonadvanced_level": "உங்களை advanced level-க்கு கொண்டு செல்வோம்",
+    "chat_onboarding_pronunciation_practice_screen_practice_speaking_the_word": "இந்த word ஐ சொல்லிப் பழகவும்",
+    "chat_onboarding_pronunciation_practice_screen_wait_you_are_almost_there": "காத்திருங்கள், நீங்கள் கிட்டத்தட்ட முடித்து விட்டீர்கள்!",
+    "chat_onboarding_pronunciation_practice_screen_we_noticed_you_made_somen": "நீங்கள் சில ... நாங்கள் கவனித்தோம்",
+    "chat_onboarding_pronunciation_practice_v2_screen_completed": "முடிந்தது",
+    "chat_onboarding_pronunciation_practice_v2_screen_speak_out_the_word_": "வார்த்தையை வாய்விட்டு சொல்லவும்",
+    "chat_onboarding_pronunciation_practice_v2_screen_you_learnt_to_pronounce": "நீங்கள் ... pronounce செய்ய கற்றுக்கொண்டீர்கள்",
+    "chat_onboarding_pronunciation_practice_v2_screen_you_learnt_to_pronounce_the_words": "நீங்கள் இந்த வார்த்தைகளை உச்சரிக்க கற்றுக்கொண்டுவிட்டீர்கள்",
+    "chat_onboarding_v2_feature2_firstOfAllWhatIsYourName": "முதலில் உங்கள் பெயரை சொல்லுங்கள்.",
+    "chat_onboarding_v2_feature2_helloIamYourSara": "வணக்கம்! நான் உங்கள் Sara! உங்கள் English-ஐ improve பண்ண உதவுவேன்.",
+    "chat_onboarding_v2_feature2_letsImproveYourEnglishSkills": "வாருங்கள், நாம் சேர்ந்து உங்கள் English skills-ஐ improve பண்ணுவோம். நீங்கள் தயாரா?",
+    "chat_onboarding_v2_feature2_moreThanTenThousandPeopleHaveBenefited": "பத்தாயிரத்திற்கும் அதிகமான மக்கள் தினமும் Stimuler app-ன் மூலம் பயன் பெற்று வருகிறார்கள். நீங்களும் அவர்களில் ஒருவராக இருக்க முடியும் என்று நம்புகிறேன். ஆரம்பிக்கலாமா?",
+    "andWithStimulerPro": "மேலும்.... Stimuler PRO-உடன் - நீங்கள் அதே progress ஐ 8.9x வேகமாக அடைய முடியும்!",
+    "asLastStepReadFollowing": "கடைசி step ஆக நான் உங்களை இந்த text ஐ படிக்க சொல்ல விரும்புகிறேன்!",
+    "seeImprovementsInAMonth": "இவற்றின் மூலம் தினசரி practice செய்தால் ஒரு மாதத்திலேயே improvements-ஐ காண ஆரம்பிப்பீர்கள்",
+    "stimulerProGivesAccess": "Stimuler PRO உங்களுக்கு அனைத்து Premium lessons உடன் Pronunciation, Vocabulary, பிற  improvement areas ஆகியவற்றில் வரம்பற்ற practice அணுகலை வழங்குகிறது",
+    "weStartOffWith": "நாங்கள் Grammar, Vocabulary lessons-உடன் தொடங்கி உங்களை speaking-இல் சிறந்தவராக மாற்ற உதவுவோம்",
+    "weStartWithDiffLessons": "நாங்கள் Grammar, Vocabulary lessons, Role play scenarios-இல் வெவ்வேறு lessons-உடன் தொடங்கி உங்களை சிறப்பாக தயார்படுத்துவோம்",
+    "onboarding_level_3_in_10_minutes_of_practice_a_day": "நாளொன்றுக்கு 10 நிமிட Practice-இல்",
+    "onboarding_post_analysis_guess_what": "விஷயம் தெரியுமா?",
+    "post_scripted_onboarding_flow__well_take_you_to_the_fluency_of_a_native_speaker": ", நாங்கள் உங்களை native speaker-இன் Fluency-க்கு கொண்டு செல்வோம்",
+    "roadmap_overview_new_please_complete_your_onboarding_to_get_more_personalised_content": "உங்கள் onboarding ஐ முழுமை செய்து மேலும் personalised content பெறவும்",
+    "ieltsModule": {
+      "academic": "Academic",
+      "general": "General",
+      "notSure": "எனக்குத் தெரியவில்லை"
+    },
+    "examTime": {
+      "thisMonth": "நான் இந்த மாதம் IELTS எழுதுவேன்",
+      "nextMonth": "நான் அடுத்த மாதம் IELTS எழுதுவேன்",
+      "moreThanTwo": "தயாராக எனக்கு இரண்டு மாதங்களுக்கு மேல் உள்ளது",
+      "after": "{month} க்குப் பிறகு"
+    },
+    "moveTheSliderToPickYourScore": "உங்கள் score-ஐ தேர்வு செய்ய slider-ஐ நகர்த்தவும்",
+    "bandScore": "Band Score",
+    "skill": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "speaking": "Speaking",
+      "listening": "Listening"
+    },
+    "journeyGraph": {
+      "yourJourney": "உங்கள் பயணம்",
+      "toAceIeltsStarts": "IELTS-ஐ வெல்ல தொடங்குகிறது",
+      "curatingContent": "Content தயாரிக்கிறோம்",
+      "forYourIeltsJourney": "உங்கள் IELTS பயணத்திற்காக",
+      "aPlanForYouToReach": "நீங்கள் அடைய ஒரு plan",
+      "yourGoal4xFaster": "உங்கள் goal-ஐ 4x வேகமாக",
+      "planForYou": "உங்களுக்கான PLAN",
+      "practice20MinsPerDay": "தினமும் 20 நிமிடம் practice",
+      "oneMockTestPerDay": "தினமும் ஒரு Mock Test",
+      "ieltsConversationPerDay": "தினமும் IELTS Conversation",
+      "weeklyReviews": "வாராந்திர Reviews",
+      "youTookThe": "நீங்கள் எடுத்தது",
+      "firstStep": "முதல் படி",
+      "inOneMonth": "1 மாதத்தில்",
+      "inTwoMonths": "2 மாதங்களில்",
+      "inMoreThanTwoMonths": "2+ மாதங்களில்"
+    },
+    "hintPlayback": {
+      "youDidGreatFirstStep": "உங்கள் முதல் படியில் அருமையாக செய்தீர்கள்!",
+      "improvePronunciation": "Pronunciation-ஐ மேம்படுத்துவோம்"
+    }
+  },
+  "day4_2": {
+    "version13": {
+      "meetingVocabularyPractice": "Meeting Vocabulary Practice",
+      "summarizeLecture": "Lecture-ஐ சுருக்கமாக எழுதவும்",
+      "q3AnswerExplanation": "\"Dog\" ஒரு noun ஆகும், இது குரைக்கும் செயலைச் செய்யும் விலங்கைக் குறிக்கிறது. Noun-கள் நபர்கள், இடங்கள் அல்லது பொருட்களை அடையாளப்படுத்துகின்றன, இதனால் \"dog\" இந்த வாக்கியத்தின் subject ஆகிறது.",
+      "teamMeetingPractice": "Team Meeting Practice",
+      "q3AnswerExplanation2_3": "\"Deserted\" என்றால் கைவிடப்பட்ட மற்றும் காலியான, பிரபலமான அல்ல.",
+      "readItOutLoud": "உரக்க வாசியுங்கள்",
+      "q2AnswerExplanation2": "Bustling என்பது ஆற்றல் மிக்க activity, movement மற்றும் noise நிறைந்த இடத்தை விவரிக்கிறது.",
+      "q1AnswerExplanation2": "Heritage என்பது முந்தைய தலைமுறைகளிடமிருந்து பெறப்பட்ட பாரம்பரியங்கள் மற்றும் மதிப்புமிக்க கலாச்சார கூறுகளைக் குறிக்கிறது.",
+      "q1AnswerExplanation": "\"Beautiful\" என்பது \"dress\" என்ற noun-ஐ விவரிக்கும் adjective. மற்ற விருப்பங்களான \"beautifully\" (adverb) மற்றும் \"beauty\" (noun) dress-ஐ சரியாக விவரிக்காது.",
+      "orderingFoodVocabRevision": "உணவு ஆர்டர் செய்வதற்கான Vocabulary revision",
+      "q1AnswerExplanation2_3": "\"Population\" என்பது ஒரு பகுதியில் வாழும் மக்களைக் குறிக்கிறது, பாரம்பரியங்களை அல்ல.",
+      "yourTurnToPracticeThisWord": "இந்த வார்த்தையை practice செய்ய உங்கள் முறை!",
+      "mockTest1": "Mock Test 1",
+      "mockTest2": "Mock Test 2",
+      "grammarPractice": "Grammar Practice",
+      "task4": "Task 4",
+      "readingFast": "Reading : fast",
+      "letPracticeMore": "வாருங்கள் practice செய்வோம் - MORE!",
+      "yourTurnReadThisAloud": "உங்கள் முறை! இதை உரக்கப் படியுங்கள்!",
+      "q4AnswerExplanation": "\"Under\" என்பது preposition ஆகும், இது பூனைக்கும் படுக்கைக்கும் இடையிலான உறவை சரியாக விவரிக்கிறது. மற்ற விருப்பங்களான \"below\" (இது இடவியல் ரீதியாக பொதுவானது) மற்றும் \"down\" (இது adverb ஆகும்) சூழலுக்கு துல்லியமாக பொருந்தாது.",
+      "showMeWhatYouGot": "உங்களிடம் இருப்பதை காட்டுங்கள்! இந்த வாக்கியத்தை சத்தமாக படியுங்கள்!",
+      "task1": "Task 1",
+      "weGetBackToReadingToday": "இன்று நாம் மீண்டும் Reading-க்கு திரும்புகிறோம், இந்த முறை கொஞ்சம் advanced-ஆக இருந்தாலும்.",
+      "speaking": "Speaking",
+      "q4AnswerExplanation2": "Authentic என்றால் original மற்றும் traditional origins-க்கு உண்மையானது.",
+      "describeTheImage": "Image ஐ விவரிக்கவும்",
+      "roleplayExercise": "Roleplay Exercise",
+      "itAgainTimeToPracticeYourConversational": "மீண்டும் உங்கள் conversational மற்றும் tongue-twisting skills ஐ practice செய்ய வேளை வந்துவிட்டது",
+      "letStartYourRoadmap": "உங்கள் roadmap ஐ தொடங்குவோம்",
+      "ieltsPart2Lesson": "IELTS Part 2 Lesson",
+      "themeTravel": "Theme : Travel",
+      "workplaceMeetingRoleplay": "Workplace Meeting Roleplay",
+      "q4AnswerExplanation2_2": "\"Modified\" என்றால் மூலத்திலிருந்து மாற்றப்பட்டது, traditional அல்ல.",
+      "letsPracticeSomeGrammar": "Grammar practice செய்வோம்",
+      "q2AnswerExplanation2_3": "Silent\" என்றால் noise இல்லாமல் அமைதியாக இருப்பது, busy-க்கு எதிர்மறை.",
+      "q3AnswerExplanation2": "Renowned என்றால் excellence-க்காக நன்கு அறியப்பட்ட மற்றும் பரவலாக மதிக்கப்படுவது.",
+      "nowYouTryReadThisSentence": "இப்போது நீங்கள் try செய்யுங்கள்! இந்த sentence-ஐ படியுங்கள்!",
+      "q2AnswerExplanation": "\"Extremely\" என்பது \"fast\" என்ற adjective-ஐ modify செய்யும் adverb ஆகும். மற்ற options-களான \"extreme\" (ஒரு adjective) மற்றும் \"extremeness\" (ஒரு noun) ஆகியவை \"fast\"-ஐ சரியாக modify செய்யாது.",
+      "nowItsTheTimeToPracticeYourThinkingSkills": "இப்போது உங்கள் question-answering மற்றும் on-the-spot thinking skills-ஐ practice செய்ய வேளை.",
+      "haveFunWithThisTongueTwister": "இந்த tongue-twister உடன் fun பண்ணுங்கள்",
+      "q5AnswerExplanation": "\"They\" என்பது sentence-ன் subject-ஆக பயன்படுத்தப்படும் pronoun. மற்ற options-ல் \"Their\" (possessive pronoun) மற்றும் \"Them\" (object pronoun) subject position-க்கு பொருந்தாது.",
+      "q2AnswerExplanation2_2": "\"Declining\" என்றால் மோசமாவது அல்லது குறைவது, active அல்ல.",
+      "q3AnswerExplanation2_2": "Deserted\" என்றால் கைவிடப்பட்ட மற்றும் காலியான, பிரபலமான அல்ல.\"",
+      "lastOneReadThisSentenceAloud": "கடைசியானது! இந்த sentence ஐ சத்தமாக படியுங்கள்!",
+      "orderingFood": "உணவு order செய்தல்",
+      "vocabularyExercise": "Vocabulary Exercise",
+      "nowItYourMomentToShine": "இப்போது உங்கள் நேரம்! இந்த sentence-ஐ படிக்க முயற்சி செய்யவும்!",
+      "readAloud": "Read Aloud",
+      "q1AnswerExplanation2_2": "\"Scenery\" என்பது இயற்கை landscape features-ஐ குறிக்கிறது, கலாச்சார பாரம்பரியங்களை அல்ல.",
+      "essentialVocabularyForDescribingYourCountry": "உங்கள் நாடு, நகரம் மற்றும் பயணத்தை விவரிக்க அத்தியாவசிய Vocabulary",
+      "task3": "Task 3",
+      "q4AnswerExplanation2_3": "\"Foreign\" என்றால் வேறு நாட்டைச் சேர்ந்தது, எப்போதும் பாரம்பரியமானது அல்ல.",
+      "task2": "Task 2",
+      "repeatAfterMe": "என்னைப் பின்தொடர்ந்து சொல்லவும்",
+      "lastOneYouveGotThis": "கடைசியானது—நீங்கள் செய்து முடிக்கலாம்! இந்த இறுதி வாக்கியத்தை உரக்கப் படியுங்கள்!"
+    }
+  },
+  "day6": {
+    "version9": {
+      "exercise2": {
+        "es": {
+          "q1OptionCRight": "Maria அதிகமான tasks இருப்பதால் overwhelmed ஆக உணர்கிறாள்.",
+          "q5OptionARight": "Lisa தன் வேலையை முக்கியத்துவத்தின் அடிப்படையில் organize செய்கிறாள் (prioritizing).",
+          "q5OptionBWrong": "Initiative எடுப்பது என்றால் யாரும் சொல்லாமல் செயல்படுவது.",
+          "q3OptionCRight": "Sarah initiative எடுத்து positive engagement காட்டினாள்.",
+          "q2OptionBRight": "John delegating செய்கிறான் - வேறு ஒருவரிடம் task ஐ assign செய்கிறான்.",
+          "q1OptionARight": "Maria அதிகமான வேலைகளால் overwhelmed ஆக உணர்கிறாள்.",
+          "q1AnswerExplanation": "Overwhelmed என்றால் comfortably handle செய்ய முடியாத அளவுக்கு அதிகமான tasks இருப்பது.",
+          "q4OptionBWrong": "Delegation என்பது மற்றவர்களுக்கு tasks ஐ assign செய்வது.",
+          "q3OptionBRight": "Sarah ஒரு problem ஐ தானாகவே proactively solve செய்தாள் (initiative).",
+          "q4OptionBRight": "Alex நீண்டகால exhaustion ஆல் suffer செய்கிறான் (burnout).",
+          "q3OptionBWrong": "Delegation என்பது மற்றவர்களுக்கு வேலைகளை ஒப்படைப்பது.",
+          "q4AnswerExplanation": "Burnout என்பது நீண்ட கால stress காரணமாக ஏற்படும் சோர்வு",
+          "q1OptionAWrong": "Motivated என்றால் வேலையில் ஆர்வம் அல்லது உற்சாகம் உணர்வது.",
+          "q2OptionARight": "John மற்றவர்களுக்கு வேலையை ஒப்படைக்கிறார் (delegating).",
+          "q2OptionAWrong": "Initiative எடுப்பது என்றால் கேட்காமலே செயல்படுவது.",
+          "q2OptionCWrong": "Prioritizing என்றால் முக்கியத்துவத்தின் அடிப்படையில் tasks-ஐ ranking செய்வது.",
+          "q2AnswerExplanation": "Delegating என்றால் tasks-ஐ வேறு யாரிடமாவது assign செய்வது",
+          "q3OptionARight": "Sarah initiative காட்டினார் - யாரும் சொல்லாமலேயே ஒரு problem-ஐ solve செய்தார்.",
+          "q5AnswerExplanation": "Prioritizing என்றால் முக்கியத்துவத்தின் வரிசையில் tasks-ஐ handle செய்வது",
+          "q5OptionBRight": "Lisa எந்த tasks மிக முக்கியம் என்று determine செய்கிறார் (prioritizing).",
+          "q4OptionARight": "Alex burnout அனுபவிக்கிறார் - நீண்டகால stress-இல் இருந்து ஏற்படும் சோர்வு.",
+          "q2OptionCRight": "John ஒருவரிடம் task-ஐ கொடுக்கிறார் (delegating).",
+          "q1OptionCWrong": "Organized என்றால் எல்லாம் structured முறையில் ஒழுங்கு படுத்தப்பட்டிருப்பது.",
+          "q4OptionCRight": "Alex burnout அனுபவிக்கிறார் - நீண்டகால stress காரணமாக ஏற்படும் சோர்வு.",
+          "q4OptionAWrong": "Progress என்றால் வேலையில் அல்லது career-இல் நேர்மறையான முன்னேற்றம்.",
+          "q3AnswerExplanation": "Initiative எடுப்பது என்றால் யாரும் சொல்லாமலே problems ஐ கண்டறிந்து தீர்வு காண்பது",
+          "q5OptionCRight": "Lisa prioritizing செய்கிறார் - முக்கியத்துவ வரிசையில் tasks ஐ handle செய்கிறார்",
+          "q5OptionAWrong": "Delegating என்றால் மற்றவர்களுக்கு tasks ஐ assign செய்வது",
+          "q3OptionCWrong": "Burnout என்றால் நீண்டகால stress காரணமாக ஏற்படும் களைப்பு"
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q3AnswerExplanation": "\"Did not\" என்பது helping verb ஆகும், இது \"understand\" ஐ negative ஆக மாற்றுகிறது. Forrest கடந்த காலத்தில் ஏதோ ஒன்றை புரிந்து கொள்ளவில்லை என்று இது நமக்கு சொல்கிறது",
+          "q6AnswerExplanation": "\"Discovers\" என்பது Indiana Jones என்ன செய்கிறார் என்பதைக் காட்டும் action verb. \"Should\" என்பது எது சரி அல்லது முறையானது என்பதைக் காட்டும் helping verb.",
+          "q1AnswerExplanation": "\"Brought\" என்பது scientists என்ன செய்தார்கள் என்பதைக் காட்டும் action verb. \"Was\" என்பது \"decision\" ஐ \"dangerous\" உடன் இணைக்கும் linking verb.",
+          "q2AnswerExplanation": "\"Questioned\" மற்றும் \"swallowed\" இரண்டும் action verbs. ஒன்று mental action ஐ காட்டுகிறது, மற்றொன்று physical action ஐ காட்டுகிறது.",
+          "q5AnswerExplanation": "\"Appears\" மற்றும் \"remains\" இரண்டும் present tense இல் உள்ள linking verbs. இவை subject ஆன \"factory\" ஐ \"magical\" மற்றும் \"full of surprises\" என்ற descriptions உடன் action காட்டாமல் இணைக்கின்றன.",
+          "q4AnswerExplanation": "\"Was playing\" என்பது கடந்த காலத்தில் அந்த சரியான நேரத்தில் நடந்த action ஐ காட்டுகிறது. \"Was\" என்பது main verb ஆன \"playing\" க்கு ongoing action ஐ காட்ட உதவுகிறது."
+        }
+      }
+    },
+    "version8": {
+      "exercise1": {
+        "id": {
+          "q3AnswerExplanation": "\"Team\" 't' sound-ல் ஆரம்பிக்கிறது, 'th' (theme-ல் உள்ளது போல) அல்லது 'c' (cream-ல் உள்ளது போல) அல்ல",
+          "q1AnswerExplanation": "English business vocabulary-ல், \"presentation\" என்பது pre-SEN-ta-tion என உச்சரிக்கப்படுகிறது, இரண்டாவது syllable-ல் stress உள்ளது",
+          "q2AnswerExplanation": "\"Action items\" என்பது முடிக்க வேண்டிய tasks-ஐ குறிக்கிறது, ஆனால் \"action limits\" என்பது பொதுவான business term அல்ல"
+        }
+      },
+      "exercise3": {
+        "id": {
+          "q3AnswerExplanation": "\"Explain\" collaboration மற்றும் respect-ஐ வளர்க்கிறது. Details கேட்பது நீங்கள் வெவ்வேறு perspectives-ஐ மதிக்கிறீர்கள் என்பதைக் காட்டுகிறது மற்றும் open dialogue மூலம் innovation-க்கு இடம் உருவாக்குகிறது",
+          "q1AnswerExplanation": "\"Start\" leadership மற்றும் initiative-ஐ காட்டுகிறது. முதலில் volunteer செய்வது positive tone அமைக்கிறது மற்றும் confidence-ஐ வெளிப்படுத்துகிறது, team participation-ஐ ஊக்குவிக்கிறது",
+          "q2AnswerExplanation": "\"Know\" proactive planning-ஐ காட்டுகிறது. Material availability பற்றி கேட்பது potential roadblocks-ஐ ஆரம்பத்திலேயே கண்டறிகிறது, இது foresight மற்றும் deadlines-ஐ சந்திக்கும் commitment-ஐ காட்டுகிறது."
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q4AnswerExplanation": "\"Their\" என்பது \"everyone\"-ஐ குறிக்கும் சரியான possessive pronoun. \"Contribution\" என்றால் common fund அல்லது cause-க்கு கொடுக்கப்படும் அல்லது வழங்கப்படும் ஒன்று, இது project-க்கு சேர்க்கும் context-க்கு பொருந்துகிறது.",
+          "q2AnswerExplanation": "இந்த sentence-ல், \"me\" என்பது \"asked\"-ஐ தொடர்ந்து வரும் object pronoun. \"I\" என்பது subject pronoun மற்றும் இங்கே தவறாக இருக்கும்.",
+          "q5AnswerExplanation": "\"Those\" என்பது meeting-ஐ miss செய்தவர்களை குறிக்க சரியாக பயன்படுத்தப்பட்ட demonstrative pronoun. \"Action items\" என்பது completion-க்காக assign செய்யப்பட்ட specific tasks, இது review தேவைப்படும் assignments-ன் context-க்கு பொருந்துகிறது.",
+          "q3AnswerExplanation": "ஒரு \"agenda\" என்பது meeting-ல் discuss செய்யப்படும் topics-ன் list. \"Contribution\" என்றால் கொடுக்கப்படும் அல்லது வழங்கப்படும் ஒன்று, அதே நேரத்தில் \"action item\" என்பது completion-க்காக assign செய்யப்பட்ட specific task.",
+          "q6AnswerExplanation": "பாரம்பரியமாக \"his or her\" என்பது \"or/nor\" ஆல் இணைக்கப்பட்ட singular antecedents-க்கு பயன்படுத்தப்பட்டாலும், நவீன English-ல் singular \"their\" ஐ gender-neutral மற்றும் குறைவான awkward-ஆக ஏற்றுக்கொள்கிறது, குறிப்பாக குறிப்பிட்ட நபர்களைக் குறிப்பிடும்போது.",
+          "q1AnswerExplanation": "\"Collaborate\" என்றால் ஒரு பொதுவான இலக்கை நோக்கி ஒன்றாக வேலை செய்வது, இது deadline-ஐ சந்திக்கும் context-க்கு பொருந்துகிறது"
+        }
+      }
+    }
+  },
+  "day11": {
+    "exercise2": {
+      "id": {
+        "q6AnswerExplanation": "ஒரு \"itinerary\" என்பது ஒரு பயணத்திற்கான விரிவான திட்டம் அல்லது அட்டவணை, இதில் செயல்பாடுகள், நேரங்கள் மற்றும் இடங்கள் அடங்கும்.",
+        "q3AnswerExplanation": "\"Gets\" என்பது singular subject \"beach club\" உடன் ஒத்துப்போகும் சரியான third-person singular வடிவம்.",
+        "q1AnswerExplanation": "Modal verb \"need to\" க்கு பிறகு base form \"plan\" தேவை.",
+        "q4AnswerExplanation": "\"Budget\" என்பது செலவுக்காக திட்டமிட்ட பணத்தின் அளவைக் குறிக்கிறது.",
+        "q2AnswerExplanation": "\"Accommodation\" என்பது பயணிகள் தங்கும் hotel, villa அல்லது hostel போன்ற இடங்களைக் குறிக்கிறது.",
+        "q5AnswerExplanation": "\"Have\" என்பது \"my friends and I\" என்ற plural subject உடன் பயன்படுத்த வேண்டிய சரியான வடிவம்."
+      },
+      "q1AnswerExplanation": "\"Delegate\" என்பது மற்றவர்களுக்கு வேலைகளை ஒப்படைப்பதைக் குறிக்கும் சரியான verb ஆகும். \"burnout\" மற்றும் \"overwhelm\" இந்த context-இல் verb-ஆக செயல்படாது.",
+      "q2AnswerExplanation": "\"Initiative\" இந்த வாக்கியத்தில் தர்க்கரீதியாக பொருந்துகிறது. \"is\" என்பது subject-ஐ அதைப் பற்றிய தகவலுடன் இணைக்கும் linking verb ஆக செயல்படுகிறது.",
+      "q5AnswerExplanation": "\"Prioritizing\" என்றால் முக்கியத்துவத்தின் அடிப்படையில் tasks-ஐ ஏற்பாடு செய்வது, இது burnout-ஐ தடுக்க உதவுகிறது.",
+      "q4AnswerExplanation": "\"Plans\" என்பது subject செய்யும் action verb ஆகும், இது series-ல் உள்ள மற்ற action verbs (answers, solves) உடன் பொருந்துகிறது.",
+      "q6AnswerExplanation": "\"Is\" என்பது \"presentation\"-ஐ அதன் தகவலுடன் இணைக்கும் linking verb ஆகும், அதே போல் \"are\" என்பது \"clients\"-ஐ அவர்களின் நிலையுடன் இணைக்கிறது.",
+      "q3AnswerExplanation": "\"Should\" என்பது \"complete\"-க்கு அர்த்தம் சேர்க்கும் helping verb ஆகும், மற்றும் \"overwhelmed\" என்றால் அதிக வேலையால் stress ஆவது."
+    },
+    "exercise3": {
+      "q2AnswerExplanation": "\"Ask\" என்பது தேவைப்படும் போது உதவி கேட்கும் விருப்பத்தை காட்டுகிறது. உங்களுக்கு உதவி தேவை என்பதை அறிந்து அதை கேட்க தயாராக இருப்பது professionalism-ஐ காட்டுகிறது மற்றும் burnout-ஐ தடுக்கிறது, collaborative work environment-க்கு பங்களிக்கிறது.",
+      "id": {
+        "q3AnswerExplanation": "\"Reservation\" பயன்படுத்துவது smart planning மற்றும் travel savvy-ஐ காட்டுகிறது. Popular attractions-ல் spots secure செய்வதன் மூலம், உங்கள் group முக்கிய experiences-ஐ miss செய்யாமல் இருக்க முடியும்.",
+        "q1AnswerExplanation": "\"Perfect\" பயன்படுத்துவது உங்கள் friend-ன் travel plans-ல் genuine enthusiasm மற்றும் interest-ஐ காட்டுகிறது. இது excitement build செய்ய உதவுகிறது மற்றும் trip-க்கான shared anticipation உணர்வை உருவாக்குகிறது.",
+        "q2AnswerExplanation": "\"Practical\" பயன்படுத்துவது thoughtful decision-making-ஐ காட்டுகிறது. Social bonding மற்றும் cost-sharing-ஐ balance செய்வதன் மூலம், group travel planning-ல் ஒரு முக்கியமான skill-ஐ highlight செய்கிறது."
+      },
+      "q3AnswerExplanation": "\"Join\" என்பது workplace relationships build செய்வதற்கான commitment-ஐ காட்டுகிறது. Social invitations-ல் follow through செய்வது immediate work tasks-க்கு அப்பால் supportive network உருவாக்க உதவுகிறது. இது overall workplace satisfaction மற்றும் teamwork-ஐ மேம்படுத்துகிறது.",
+      "q1AnswerExplanation": "\"Honest\" communication workplace relationships-ல் trust build செய்கிறது. Workload பற்றிய genuine feelings share செய்வது support-க்கான opportunity உருவாக்குகிறது மற்றும் authenticity காட்டுகிறது. இது collegial bonds-ஐ strengthen செய்கிறது."
+    }
+  },
+  "day5": {
+    "version10": {
+      "exercise3": {
+        "es": {
+          "q1AnswerExplanation": "\"Start\" leadership மற்றும் initiative ஐ காட்டுகிறது. முதலில் volunteer செய்வது positive tone அமைத்து confidence ஐ வெளிப்படுத்துகிறது, team participation ஐ ஊக்குவிக்கிறது.",
+          "q4AnswerExplanation": "\"Help\" team success ஐ individual concerns விட முன்னுரிமை அளிக்கிறது. உதவி வழங்குவது accountability மற்றும் solution-focused thinking ஐ காட்டுகிறது blame அல்லது negativity க்கு பதிலாக.",
+          "q2AnswerExplanation": "\"Know\" proactive planning ஐ வெளிப்படுத்துகிறது. Material availability பற்றி கேட்பது potential roadblocks ஐ ஆரம்பத்திலேயே கண்டறிகிறது, foresight மற்றும் deadline களை சந்திக்கும் commitment ஐ காட்டுகிறது.",
+          "q5AnswerExplanation": "\"Discuss\" செயல்படுவதற்கு முன் புரிந்துகொள்வதில் கவனம் செலுத்துகிறது. Client requests பற்றி specifics கேட்பது professionalism ஐ காட்டுகிறது மற்றும் effective solutions மற்றும் வலுவான client relationships க்கு வழிவகுக்கிறது.",
+          "q3AnswerExplanation": "\"Explain\" collaboration மற்றும் respect ஐ வளர்க்கிறது. Details கேட்பது நீங்கள் வெவ்வேறு perspectives ஐ மதிக்கிறீர்கள் என்பதை காட்டுகிறது மற்றும் open dialogue மூலம் innovation க்கான இடத்தை உருவாக்குகிறது"
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q2AnswerExplanation": "Order\" என்பது restaurant-இல் உணவை தேர்ந்தெடுத்து கேட்பதை விவரிக்கும் verb.",
+          "q3AnswerExplanation": "Appetizer\" என்றால் main course-க்கு முன் பரிமாறப்படும் சிறிய உணவு.",
+          "q1AnswerExplanation": "Menu\" என்பது restaurant-இல் கிடைக்கும் அனைத்து உணவு மற்றும் பானங்களின் பட்டியலைக் கொண்ட document."
+        },
+        "es": {
+          "q2AnswerExplanation": "\"Is\" ஒரு linking verb ஆகும் ஏனென்றால் அது subject \"Upside Down\" ஐ description \"a dark and dangerous dimension\" உடன் இணைக்கிறது. Linking verbs action ஐ காட்டாது மாறாக subjects ஐ descriptions உடன் இணைக்கின்றன.",
+          "q5AnswerExplanation": "\"Can\" என்பது Tony-ன் திறமையைக் காட்டும் helping verb ஆகும். \"Can,\" \"will,\" மற்றும் \"should\" போன்ற helping verbs முக்கிய verbs-ஐ மாற்றி ability, necessity அல்லது future actions-ஐ வெளிப்படுத்துகின்றன.",
+          "q3AnswerExplanation": "\"Can\" ஒரு helping verb ஆகும், இது திறமையைக் காட்டுகிறது. இது main verb \"defeat\" உடன் இணைந்து Harry க்கு Voldemort ஐ வெல்லும் திறமை இருப்பதைக் காட்டுகிறது. Helping verbs possibility, necessity அல்லது time பற்றிய அர்த்தத்தை சேர்க்கின்றன.",
+          "q1AnswerExplanation": "\"Throws\" ஒரு action verb ஆகும், ஏனெனில் இது Thor செய்யும் physical action ஐக் காட்டுகிறது. Action verbs யாரேனும் செய்வதை வெளிப்படுத்துகின்றன, அது physical அல்லது mental ஆக இருந்தாலும்.",
+          "q4AnswerExplanation": "\"Plays\" ஒரு action verb ஆகும், இது Jim என்ன செய்கிறான் என்பதைக் காட்டுகிறது. Action verbs activities மற்றும் behaviors ஐ விவரிப்பதற்கு அவசியமானவை, அது work இல் அல்லது daily life இல் இருந்தாலும்."
+        }
+      }
+    }
+  },
+  "roadmapIntermediateStates": {
+    "letsReview": "Review செய்வோம்",
+    "ontoTheNextOne": "அடுத்ததற்கு போவோம்!",
+    "part2OfDay2": "Day 2 இன் Part 2 முடிந்தது",
+    "part3OfDay3": "Day 3 இன் Part 3 முடிந்தது",
+    "meetingRoleplay": "Meeting Roleplay முடிந்தது✨",
+    "teamMeeting": "team meeting",
+    "restaurantRoleplayMastered": "Restaurant roleplay தேர்ச்சி பெற்றீர்கள்!",
+    "part1OfDay4": "Day 4-ன் Part 1 முடிந்தது",
+    "weLearnt": "நாம் கற்றுக்கொண்டோம்!",
+    "again": "மீண்டும்!",
+    "sentenceStructureMastered": "Sentence Structure-ஐ தேர்ச்சி பெற்றீர்கள்!",
+    "youBelongTo": "நீங்கள் Day 1-ஐ முடித்த top 10% users-ல் இருக்கிறீர்கள்!",
+    "youLearnt": "நீங்கள் கற்றுக்கொண்டீர்கள்",
+    "youLearnedPronounciations": "நீங்கள் Pronouns கற்றுக்கொண்டீர்கள்!",
+    "practicing": "2 words practice செய்கிறீர்கள்",
+    "day1Completed": "DAY 1 முடிந்தது",
+    "letsReviewPronouns": "pronouns-ஐ conversation-ஆக review செய்வோம்",
+    "readingDone": "READING முடிந்தது!",
+    "lets": "வாங்க",
+    "scoreImproved": "Score 25% மேம்பட்டுள்ளது",
+    "letsRevise": "மீண்டும் பார்க்கலாம்",
+    "yourLearningFrom": "Roleplay-ல் இருந்து நீங்கள் கற்றது",
+    "oneLastLesson": "கடைசி ஒரு Lesson!",
+    "part2OfDay3": "Day 3-ன் Part 2 முடிந்தது",
+    "restaurantRoleplayDone": "Restaurant Roleplay முடிந்தது✨"
+  },
+  "day2McqExercise": {
+    "q1AnswerExplanation": "நாம் \"He\" பயன்படுத்துகிறோம் ஏனென்றால் Joe ஒரு singular male subject, மற்றும் pronoun gender மற்றும் number உடன் match ஆக வேண்டும்.",
+    "q2AnswerExplanation": "Daenerys (ஒரு female) owner ஆக இருப்பதால், \"Hers\" தான் சரியான answer.",
+    "q5AnswerExplanation": "\"We\" என்பது இந்த வாக்கியத்தில் \"like\" verb-க்கு முன் தேவையான சரியான subject pronoun ஆகும்.",
+    "q4AnswerExplanation": "Jon Snow தனக்கு அருகில் உள்ள ஒரு குறிப்பிட்ட வாளைப் பற்றி குறிப்பிடுவதால், அவருக்கு அருகில் உள்ள ஒற்றை பொருளுக்கு \"this\" பொருத்தமானது.",
+    "q3AnswerExplanation": "herself' pronoun பயன்படுத்தப்படுகிறது ஏனெனில் வாக்கியத்தின் subject \"She\" ஆகும், மற்றும் sandwich தயாரிக்கும் செயல் அவளை மீண்டும் குறிக்கிறது."
+  },
+  "mergedFilter": {
+    "job": {
+      "administrativeOfficialMatters": "Administrative & Official Matters",
+      "practiceSmallTalkInInterviews": "Interview-களில் small talk practice செய்யவும்",
+      "negotiationProfessionalDiscussions": "Negotiation & Professional Discussions",
+      "talkOnDailyActivities": "தினசரி activities பற்றி பேசுதல்",
+      "workplaceCommunicationCulture": "Workplace Communication & Culture",
+      "preparingYourselfForJobInterview": "Job interview க்கு தயாராகுதல்"
+    },
+    "ielts": {
+      "professionalLifeWorkplaceCommunication": "Professional Life & Workplace Communication",
+      "talkAboutYourPreferences": "உங்கள் preferences பற்றி பேசுங்கள்",
+      "demonstrateYourCriticalThinking": "உங்கள் critical thinking ஐ வெளிப்படுத்துங்கள்",
+      "expressOpinionsOnSocialLife": "Social life பற்றி உங்கள் கருத்துகளை தெரிவியுங்கள்",
+      "expressHowYouHandleDailyTasks": "Daily tasks ஐ நீங்கள் எப்படி கையாளுகிறீர்கள் என்பதை வெளிப்படுத்துங்கள்"
+    },
+    "defaultFilter": {
+      "personalGrowthLeadership": "Personal Growth & Leadership",
+      "casualConversations": "Casual Conversations",
+      "professionalCommunication": "Professional Communication",
+      "talkOnYourPersonalInterests": "உங்கள் Personal Interests பற்றி பேசுங்கள்",
+      "dailyTasksErrands": "Daily Tasks & Errands"
+    },
+    "business": {
+      "professionalCommunicationProjectManagement": "Professional Communication & Project Management",
+      "careerDevelopmentGrowth": "Career Development & Growth",
+      "teamCollaborationConflictResolution": "Team Collaboration & Conflict Resolution",
+      "personalTimeManagementWorkLifeBalance": "Personal Time Management & Work-Life Balance",
+      "dailyWorkplaceInteractions": "தினசரி workplace interactions",
+      "businessSocialSettings": "Business Social Settings"
+    }
+  },
+  "conversationFeedbacks": {
+    "userLeftMidway": {
+      "didNotKnowWhatToSay": "என்ன சொல்வது என்று தெரியவில்லை",
+      "technicalIssues": "Technical issues",
+      "needMoreTimeToSpeak": "பேச அதிக நேரம் வேண்டும்",
+      "micHeardWrongWords": "Mic தவறான வார்த்தைகளை கேட்டது",
+      "repetitive": "Repetitive"
+    },
+    "normal": {
+      "repetitive": "மீண்டும் மீண்டும்",
+      "bugsOrTechnicalIssue": "Bugs / Technical issue",
+      "chatRepetitive": "Chat மீண்டும் மீண்டும்",
+      "poorResponsesFromSarah": "Sarah-ன் பதில்கள் சரியில்லை",
+      "chatTooBoring": "Chat மிகவும் boring"
+    }
+  },
+  "chat_onboarding_v2_feature2": {
+    "moreThanTenThousandPeopleHaveBenefited": "ஒவ்வொரு நாளும் பத்தாயிரத்திற்கும் மேற்பட்ட மக்கள் Stimuler app-ன் மூலம் பயன் பெற்றுள்ளனர். நீங்களும் அவர்களில் ஒருவராக இருக்க முடியும் என்று நம்புகிறேன். ஆரம்பிக்கலாமா?",
+    "helloIamYourSara": "வணக்கம்! நான் உங்கள் Sara! உங்கள் English-ஐ மேம்படுத்த உதவுவேன்.",
+    "firstOfAllWhatIsYourName": "முதலில், உங்கள் பெயர் என்ன?",
+    "letsImproveYourEnglishSkills": "சேர்ந்து உங்கள் English skills-ஐ மேம்படுத்துவோம். தயாராக இருக்கிறீர்களா?"
+  },
+  "roadmap_models2": {
+    "aQuestionAppearsAnswerInRealTime": "ஒரு கேள்வி தோன்றும். அடுத்த 60 வினாடிகளில், எந்த ஸ்கிரிப்டோ தயாரிப்போ இல்லாமல், உடனே பதில் சொல்லுங்கள்.",
+    "aPictureAppearsSayWhatMakesSense": "ஒரு படம் தோன்றும். உங்களுக்குப் பொருத்தமாகத் தோன்றுவதைச் சொல்லுங்கள்.",
+    "practiceRealTimeQuestion": "எந்த script அல்லது formal preparation இல்லாமல் real time question answers practice செய்யவும்",
+    "identifyTheCorrectSentence": "சரியான sentence ஐ கண்டறியவும்",
+    "repeatAfterMe": "என்னைப் பின்தொடர்ந்து சொல்லவும்",
+    "timeForAGameSpeakAsManyWords": "Game நேரம், கொடுக்கப்பட்ட letter இல் தொடங்கும் அதிகமான words பேசவும்! Ready to play...",
+    "tongueTwister": "Tongue Twister",
+    "AllOptionsMustBeDifferent": "அனைத்து options வேறுபட்டதாக இருக்க வேண்டும்",
+    "oneAndOnlyOneOptionMustBeRight": "ஒரே ஒரு option மட்டும் சரியாக இருக்க வேண்டும்",
+    "youWillBeGivenAnImage": "உங்களுக்கு ஒரு image கொடுக்கப்படும், ஒரு நிமிடத்திற்குள் அதை முடிந்தவரை விரிவாக describe செய்ய முயற்சி செய்யவும்!"
+  },
+  "customeFeedbackBottomsheet": {
+    "goodNewsYouCanNow": "நல்ல செய்தி! இப்போது நீங்கள்..."
+  },
+  "mcq_result2": {
+    "well_done2": "நன்றாக செய்தீர்கள்!",
+    "your_focus_areas2": "உங்கள் focus areas"
+  },
+  "day5_2": {
+    "version11": {
+      "q3AnswerExplanation2": "Some' என்பது 'apples' போன்ற plural countable nouns உடன் பயன்படுத்தப்படும் determiner ஆகும். 'Any' பொதுவாக questions அல்லது negative sentences இல் பயன்படுத்தப்படுகிறது, மற்றும் 'much' uncountable nouns உடன் பயன்படுத்தப்படுகிறது, எனவே அவை இந்த context இல் பொருந்தாது.",
+      "q1AnswerExplanation3": "Beautiful' என்பது 'dress' என்ற noun ஐ விவரிக்கும் adjective ஆகும். மற்ற options களான 'beautifully' (ஒரு adverb) மற்றும் 'beauty' (ஒரு noun) dress ஐ சரியாக விவரிக்காது.",
+      "q2AnswerExplanation": "Linking verb 'is' subject 'potion' ஐ adjective 'ready' உடன் இணைத்து, அதன் state ஐ விவரிக்கிறது.",
+      "q5AnswerExplanation": "Went' என்பது 'go' இன் past tense ஆகும், இது முடிந்த action ஐ விவரிக்கிறது.",
+      "roleplayMocktest": "Roleplay Mocktest",
+      "q4AnswerExplanation4": "Takes' என்பது 'take' verb-இன் third person singular present tense-இல் சரியான வடிவம்.",
+      "q3AnswerExplanation3": "Dog' ஒரு noun ஆகும், இது barking செய்யும் விலங்கை குறிக்கிறது. Noun-கள் மனிதர்கள், இடங்கள் அல்லது பொருட்களை அடையாளப்படுத்துகின்றன, எனவே 'dog' இந்த sentence-இன் subject ஆகும்.",
+      "ieltsRoleplayPracticeExercise": "IELTS Roleplay Practice Exercise",
+      "q3AnswerExplanation": "Auxiliary verb 'have' perfect tense உருவாக்க உதவுகிறது, homework முடிக்கும் செயல் நிறைவடைந்ததை குறிக்கிறது.",
+      "fillInTheBlankResponses": "Fill in the Blank Responses",
+      "q1AnswerExplanation4": "Them என்பது visitors-ஐ குறிக்கும் போது பயன்படுத்தும் சரியான object pronoun ஆகும்.",
+      "q8AnswerExplanation": "Showed என்பது 'show' என்ற வினையின் past tense ஆகும். இது John market-இல் என்ன செய்தார் என்பதைக் குறிக்கிறது.",
+      "q6AnswerExplanation": "Needed என்பது 'need' என்ற வினையின் past tense ஆகும். இது market-க்கு செல்வதற்கான காரணத்தைக் குறிக்கிறது.",
+      "q2AnswerExplanation2": "Placed' என்பது 'place' என்ற வினையின் past tense ஆகும், இது வாக்கியத்தில் நடந்த past action-க்கு பொருத்தமானது. 'Placing' என்பது present participle ஆகும், 'place' என்பது base form ஆகும். இவை இரண்டும் வாக்கியத்தின் context-க்கு தேவையான past tense-க்கு பொருந்தாது.",
+      "after4DaysOfSpeakingLetsTakeAShortGrammarBreakHaveFun": "4 நாட்கள் speaking-க்கு பிறகு ஒரு சிறிய 'grammar break' எடுப்போம். வேடிக்கையாக இருங்கள்!",
+      "q1AnswerExplanation2": "But' என்பது ஒரு conjunction ஆகும், இது concert-க்கு போக வேண்டும் என்ற விருப்பத்திற்கும்늦வரை வேலை செய்ய வேண்டிய கட்டாயத்திற்கும் இடையே contrast-ஐ காட்டுகிறது. 'And' contrast இல்லாமல் தகவல் சேர்க்கிறது, மற்றும் 'so' cause-and-effect relationship-ஐ காட்டுகிறது, இவை இரண்டும் இந்த context-க்கு பொருந்தாது.",
+      "q1AnswerExplanation": "Action verb 'runs' Ken bus-ஐ பிடிக்க என்ன செய்தார் என்பதை விவரிக்கிறது.",
+      "q3AnswerExplanation4": "இந்த context-ல் 'recommend' verb-க்கு பிறகு 'staying' சரியான gerund form ஆகும்.",
+      "q5AnswerExplanation4": "Several' என்பது 'festivals' போன்ற countable nouns-க்கு சரியான quantifier ஆகும்.",
+      "q5AnswerExplanation2": "Has' என்பது auxiliary verb ஆகும், இது past participle 'been' உடன் சேர்ந்து present perfect tense-ஐ உருவாக்குகிறது, இது கடந்த காலத்தில் தொடங்கி தற்போது வரை தொடரும் action-ஐ குறிக்கிறது. Subject 'She' singular auxiliary verb தேவைப்படுவதால் 'Have' தவறானது, மற்றும் இந்த context-ல் 'is' 'been' உடன் பயன்படுத்தப்படாது.",
+      "q7AnswerExplanation": "Met' என்பது 'meet' என்ற வார்த்தையின் past tense ஆகும், இது market-இல் நடந்த ஒரு நிகழ்வை விவரிக்கிறது.",
+      "q2AnswerExplanation4": "From' என்பது ஒரு time period-இன் starting point-ஐ காட்டும் போது பயன்படுத்தப்படும் சரியான preposition ஆகும்.",
+      "q4AnswerExplanation": "Modal verb 'can' என்பது Buckbeak மீதான நம்பிக்கை காட்டினால் பறக்கும் திறனை குறிக்க பயன்படுத்தப்படுகிறது.",
+      "q4AnswerExplanation3": "Under' என்பது பூனை மற்றும் படுக்கைக்கு இடையிலான உறவை சரியாக விவரிக்கும் ஒரு preposition ஆகும். மற்ற விருப்பங்களான 'below' (இது மிகவும் பொதுவான spatial term) மற்றும் 'down' (இது ஒரு adverb) ஆகியவை இந்த context-க்கு பொருந்தாது.",
+      "speakingImpromptu": "Speaking: Impromptu",
+      "q4AnswerExplanation2": "Oops' என்பது தவறு அல்லது சிறிய accident-ஐ வெளிப்படுத்தும் interjection ஆகும், இது keys மறந்துவிட்ட context-க்கு பொருத்தமானது. 'Wow' ஆச்சர்யம் அல்லது admiration-ஐ வெளிப்படுத்துகிறது, மற்றும் 'However' ஒரு conjunction ஆகும், இவை இரண்டும் தவறு செய்யும் context-க்கு பொருத்தமில்லை.",
+      "q2AnswerExplanation3": "Extremely' என்பது 'fast' என்ற adjective-ஐ modify செய்யும் adverb ஆகும். மற்ற options-களான 'extreme' (ஒரு adjective) மற்றும் 'extremeness' (ஒரு noun) ஆகியவை 'fast'-ஐ சரியாக modify செய்யாது.",
+      "q5AnswerExplanation3": "They' என்பது sentence-ன் subject-ஆக பயன்படுத்தப்படும் pronoun ஆகும். மற்ற options-களான 'Their' (ஒரு possessive pronoun) மற்றும் 'Them' (ஒரு object pronoun) ஆகியவை subject position-க்கு பொருத்தமில்லை."
+    }
+  },
+  "day1_2": {
+    "version29": {
+      "task3": "Task 3",
+      "task2": "Task 2",
+      "summarizeLecture": "Lecture ஐ சுருக்கமாக சொல்லவும்",
+      "introductionSpeakingTest": "அறிமுகம் : Speaking Test",
+      "readTheParagraphWithProperPronunciation": "சரியான உச்சரிப்புடன் paragraph ஐ படியுங்கள்",
+      "firstExerciseForToday": "இன்றைய முதல் Exercise",
+      "introduceYourself": "உங்களை அறிமுகப்படுத்திக் கொள்ளுங்கள்",
+      "youNailedYourFirstSelfIntroductionAtWorkplace": "நீங்கள் workplace-ல் உங்கள் முதல் Self-Introduction-ஐ அருமையாக செய்தீர்கள்",
+      "selfIntroSuperstar": "Self Intro - Superstar!",
+      "andPracticed2Execises": "மற்றும் 2 exercises practice செய்தீர்கள்",
+      "letReadTogether": "வாங்க சேர்ந்து படிக்கலாம்",
+      "letBuildYourGrammar": "உங்கள் Grammar-ஐ வளர்த்துக் கொள்ளலாம்",
+      "practiceOnMistakes": "தவறுகளில் Practice செய்யவும்",
+      "tongueTwister": "Tongue Twister",
+      "welcomeToPTEMockTest": "PTE Mock Test க்கு வரவேற்கிறோம்!",
+      "continueLiteral": "Continue",
+      "howDoYouKnowPeopleHere": "இங்கே உள்ளவர்களை நீங்கள் எப்படி அறிவீர்கள்?",
+      "task4": "Task 4",
+      "haveFunWithThisTongueTwister": "இந்த tongue-twister உடன் வேடிக்கை பாருங்கள்",
+      "grammar": "Grammar",
+      "speaking": "Speaking",
+      "readingExercise": "Reading Exercise",
+      "grammarDone": "Grammar முடிந்தது!",
+      "readAloud": "Read Aloud",
+      "describeTheImage": "Image-ஐ விவரிக்கவும்",
+      "introduction": "Introduction",
+      "letStartYourRoadmap": "உங்கள் roadmap-ஐ தொடங்குவோம்",
+      "ieltsPart1": "IELTS Part 1",
+      "whatIsAHobbyYouLoveDoing": "உங்கள் free time-ல் நீங்கள் விரும்பி செய்யும் hobby என்ன?",
+      "repeatAfterMe": "என்னைப் பின்தொடர்ந்து சொல்லவும்",
+      "whatIsHobbyYouLoveDoing": "உங்கள் free time-ல் நீங்கள் விரும்பி செய்யும் hobby என்ன?",
+      "grammarBuilder": "Grammar builder",
+      "youLearntTo": "நீங்கள் கற்றுக்கொண்டது"
+    }
+  },
+  "day2": {
+    "version14": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Share\" discussions-ல் புதிய தகவல்களை அறிமுகப்படுத்துகிறது. \"Suggest\" ஒரு proposal தேவைப்படுகிறது; \"yell\" கண்ணியமற்றது; \"mix\" contextually தவறானது.",
+        "q5AnswerExplanation": "\"Suggest\" ideas-ஐ திணிக்காமல் propose செய்கிறது. \"Speak\" proposal intent இல்லை; \"show\" visual presentation-ஐ குறிக்கிறது.",
+        "q4AnswerExplanation": "\"Sorry\" கண்ணியமாக interruption-ஐ அறிமுகப்படுத்துகிறது. \"Okay\" மற்றவர்களை acknowledge செய்கிறது; \"Listen\" புதிய topics-ஐ அறிமுகப்படுத்துகிறது, departures அல்ல.",
+        "q3AnswerExplanation": "\"Could we\" கண்ணியமான, collaborative suggestions செய்கிறது. \"May\" மிகவும் formal; \"Must\" suggestive-ஆக இல்லாமல் commanding-ஆக தெரிகிறது.",
+        "q1AnswerExplanation": "\"Sorry\" conversation-லிருந்து எதிர்பாராத விலகலை கண்ணியமாக தெரிவிக்கிறது. \"Maybe\" uncertainty-ஐ காட்டுகிறது; \"Hello\" greetings-க்கு மட்டுமே பயன்படுத்தப்படுகிறது."
+      }
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "\"I\" என்பது self-reference-க்கான first-person singular pronoun ஆகும்.",
+      "q2AnswerExplanation": "\"They\" என்பது action செய்த மற்றவர்களைக் குறிக்கும் third-person plural subject pronoun ஆகும்.",
+      "q3AnswerExplanation": "\"My\" என்பது ownership காட்டும் first-person possessive adjective ஆகும்."
+    }
+  },
+  "day10": {
+    "exercise2": {
+      "id": {
+        "q3AnswerExplanation": "\"Practical\" என்பது villa ஒரு நல்ல, பயனுள்ள choice என்று குறிக்கிறது ஏனென்றால் அது advantages தருகிறது (ஒன்றாக தங்குவது மற்றும் costs share செய்வது).",
+        "q1AnswerExplanation": "Ideal\" என்றால் ஒரு சூழ்நிலைக்கு சரியானது - இந்த விஷயத்தில் Bali weekend beach trip-க்கு சரியானது.",
+        "q2AnswerExplanation": "\"Combine\" என்றால் வெவ்வேறு விஷயங்களை ஒன்றாக இணைப்பது என்று அர்த்தம். இது ஒவ்வொரு நாளும் beach மற்றும் cultural activities-ன் சமநிலையான கலவையை பரிந்துரைக்கிறது."
+      },
+      "q3AnswerExplanation": "\"Goals\" என்பது work stress-ஐ prioritization மூலம் manage செய்வது பற்றிய வாக்கியத்தை தர்க்கரீதியாக முடிக்கிறது. மற்ற options நிலைமையை மோசமாக்கும்.",
+      "es": {
+        "q1AnswerExplanation": "\"Guidance\" என்பது expert உதவி கேட்பதற்கான professional சொல், ஆனால் யாரிடமாவது \"vacation\" அல்லது \"sandwich\" கேட்பது உங்கள் work problem தீர்க்க முற்றிலும் பொருத்தமற்றது.",
+        "q5AnswerExplanation": "\"Assist\" என்பது அவர்களுக்கு உதவி செய்வதாக கூறி நல்ல working relationship உருவாக்குகிறது, ஆனால் யாரையாவது \"hypnotize\" அல்லது \"sabotage\" செய்வதாக கூறுவது workplace context-இல் முற்றிலும் பொருத்தமற்றது.",
+        "q4AnswerExplanation": "\"Clarification\" என்பது குழப்பமான தகவலை சரியாக புரிந்துகொள்ள கேட்பது, ஆனால் compliance terms பற்றி \"diamonds\" அல்லது \"revenge\" தேவை என்று கூறுவது professional setting-இல் முற்றிலும் பொருத்தமற்றது.",
+        "q2AnswerExplanation": "\"Favor\" என்பது நீங்கள் உதவி கேட்பதை courtesy-ஆக ஒப்புக்கொள்வது, ஆனால் யாரிடமாவது \"laundry\" செய்யச் சொல்வது அல்லது \"tattoo\" கொடுக்கச் சொல்வது workplace assistance-க்கு முற்றிலும் பொருத்தமற்றது.",
+        "q3AnswerExplanation": "\"Resources\" என்பது specs-ஐ புரிந்து கொள்ள உதவும் பொருட்கள் அல்லது தகவல்களைக் குறிக்கிறது, அதே நேரத்தில் \"jokes\" கேட்பது இந்த context-இல் unprofessional ஆகும், மற்றும் client meeting-க்கு தயாராகும் போது \"enemies\" பற்றி கேட்பது அர்த்தமற்றது."
+      },
+      "ielts": {
+        "q2AnswerExplanation": "\"Will\" என்பது இந்த factual context-இல் future consequence-ஐ வெளிப்படுத்த சரியான modal verb ஆகும்",
+        "q3AnswerExplanation": "\"Have started\" என்பது கடந்த காலத்தில் தொடங்கி தற்போதும் தொடரும் அல்லது தற்போதைய relevance கொண்ட actions-க்கு சரியான present perfect form ஆகும்",
+        "q1AnswerExplanation": "\"Being cleared\" என்பது தொடர்ந்து நடைபெறும் process-ஐ விவரிக்க சரியான passive continuous form ஆகும்"
+      },
+      "q1AnswerExplanation": "\"Break\" என்பது overwhelmed ஆக இருக்கும் ஒருவருக்கு உதவும் ஒரே logical option ஆகும், மற்ற options நிலைமையை மோசமாக்கக்கூடும்",
+      "q2AnswerExplanation": "\"Thoughtful\" என்பது team-க்கு உதவ initiative எடுக்கும் ஒருவருக்கு ஒரே positive மற்றும் appropriate response ஆகும், மற்ற options negative மற்றும் inappropriate ஆகும்"
+    },
+    "exercise3": {
+      "es": {
+        "q3AnswerExplanation": "\"Clarification\" முரண்பாடான தகவல்களைப் பற்றிய confusion-ஐ நேரடியாக தீர்க்கிறது. \"Guidance\" என்பது அடுத்து என்ன செய்ய வேண்டும் என்ற advice-க்காக இருக்கும், confusion-ஐ சரி செய்வதற்காக அல்ல. \"Assistance\" என்பது நீங்கள் ஒரு task-ஐ முடிக்க help தேவை என்று குறிக்கிறது, ஆனால் உங்கள் பிரச்சனை முதலில் தகவலை புரிந்து கொள்வதுதான்.",
+        "q1AnswerExplanation": "\"Guidance\" என்பது உங்கள் skills-ஐ மேம்படுத்த expert direction தேடும் போது perfect ஆகும். \"Favor\" என்பது வெளியில் இருந்து help கேட்பதற்காக, learning-க்காக அல்ல. \"Clarification\" என்பது confusion-ஐ மட்டும் explain செய்யும், உங்களுக்கு தேவையான expertise-ஐ வழங்காது.",
+        "q4AnswerExplanation": "\"Assistance\" என்றால் குறிப்பிட்ட ongoing task-இல் நேரடியான உதவி. \"Clarification\" என்பது confusion-ஐ மட்டும் தெளிவுபடுத்தும், ongoing support கொடுக்காது. \"Resources\" என்பது self-learning-க்கான materials கொடுக்கும், அவர்கள் கேட்கும் personal review அல்ல.",
+        "q2AnswerExplanation": "\"Favor\" என்பது வழக்கமான duties-க்கு வெளியே urgent உதவிக்கு சரி. \"Resources\" என்றால் நீங்களே சரி செய்வதற்கான materials, இந்த emergency-க்கு மிகவும் slow. \"Assistance\" என்பது formal support request, இந்த quick hallway interaction அல்ல.",
+        "q5AnswerExplanation": "\"Resources\" என்றால் மக்கள் independently கற்றுக்கொள்ள உதவும் materials. \"Clarification\" என்பது specific questions-ஐ மட்டும் address செய்யும், comprehensive training கொடுக்காது. \"Guidance\" என்றால் personal direction, self-service learning materials அல்ல."
+      }
+    }
+  },
+  "firebase_service": {
+    "enterThePassword": "Password enter செய்யவும்",
+    "password": "Password",
+    "emailAddress": "Email Address",
+    "confirm": "Confirm"
+  },
+  "withinConversation": {
+    "bugsOrTechnicalIssues": "Bugs அல்லது Technical issues",
+    "iDidntKnowWhatToSpeak": "எனக்கு என்ன பேசுவது என்று தெரியவில்லை",
+    "sarahsMessageWasBoring": "Sarah-ன் message boring-ஆக இருந்தது",
+    "exploringOrFindingADifferentTopic": "வேறு topic-ஐ தேடுதல் / கண்டுபிடித்தல்"
+  },
+  "roadmapTab": {
+    "premiumLessons": "Premium Lessons",
+    "suggestionsTitle": "மேலும் Mock Tests & Lessons",
+    "hey": "வணக்கம்",
+    "suggestionsCta": "Recommendations உள்ளதா?",
+    "startYourLearningJourney": "உங்கள் learning journey ஐ தொடங்கவும்",
+    "start": "Start",
+    "comingSoon": "Coming Soon"
+  },
+  "pick_a_word_to_practice_screen": {
+    "toMakeSomethingBetterValuableGoodWay": "ஏதாவது ஒன்றை சிறப்பாக அல்லது மதிப்புமிக்கதாக மாற்றுவது"
+  },
+  "roadmapIntermediateStates2": {
+    "continueLiteral2": "Continue"
+  },
+  "day8": {
+    "exercise2": {
+      "q2AnswerExplanation": "\"Is\" ஒரு linking verb ஏனென்றால் அது subject \"Upside Down\" ஐ description \"a dark and dangerous dimension\" உடன் இணைக்கிறது. Linking verbs action காட்டாது ஆனால் subjects ஐ descriptions உடன் இணைக்கின்றன.",
+      "q5AnswerExplanation": "\"Can\" ஒரு helping verb ஆகும் அது Tony இன் ability ஐ காட்டுகிறது. \"Can,\" \"will,\" மற்றும் \"should\" போன்ற helping verbs main verbs ஐ modify செய்து ability, necessity அல்லது future actions ஐ express செய்கின்றன.",
+      "q4AnswerExplanation": "\"Plays\" ஒரு action verb ஆகும் அது Jim என்ன செய்கிறான் என்பதை காட்டுகிறது. Action verbs activities மற்றும் behaviors ஐ describe செய்வதற்கு அவசியம், வேலையிலோ அல்லது daily life இலோ.",
+      "q3AnswerExplanation": "\"Can\" ஒரு helping verb ஆகும் அது ability ஐ காட்டுகிறது. அது main verb \"defeat\" உடன் இணைந்து Harry க்கு Voldemort ஐ overcome செய்யும் ability இருக்கிறது என்பதை காட்டுகிறது. Helping verbs possibility, necessity அல்லது time பற்றிய meaning ஐ சேர்க்கின்றன.",
+      "q1AnswerExplanation": "\"Throws\" ஒரு action verb ஏனென்றால் அது Thor செய்யும் physical action ஐ காட்டுகிறது. Action verbs யாராவது என்ன செய்கிறார்கள் என்பதை express செய்கின்றன, அது physical ஆகட்டும் அல்லது mental ஆகட்டும்."
+    }
+  },
+  "feedback_recorders": {
+    "iWantTo": "நான் ..... விரும்புகிறேன்"
+  },
+  "roadmapReport": {
+    "sendLogs": "கண்டறிதல் பதிவுகளை அனுப்பவும்",
+    "sendLogsDetail": "இவை உங்கள் ஆப்பின் பயன்பாட்டுப் பதிவுகள். நீங்கள் புகாரளிக்கும் சிக்கலைச் சரிசெய்ய இவை எங்களுக்கு உதவும்."
+  },
+  "indiaOnboarding": {
+    "whetherYouAreJustStarting": "நீங்க இப்போ தான் English கத்துக்க start பண்ணினாலும் சரி, இல்ல already கொஞ்சம் comfortable-ஆ இருந்தாலும் சரி, இந்த learning journey-யை உங்க speed-லேயே சேர்ந்து கொண்டு போலாம்",
+    "whatShouldICallYou": "உங்களை நான் எப்படிக் கூப்பிடலாம்?",
+    "thatsImpressiveMentoredJob": "அசத்திவிட்டீர்கள்! நான் ஒரு மில்லியனுக்கும் மேற்பட்ட மக்களுக்கு அவர்களின் interviews இல் excel செய்ய உதவி, dream job கிடைக்க உதவியிருக்கிறேன்",
+    "thatsImpressiveMentoredSocializing": "Great! Naama fun ah engaging ah pesalaam. Idhu daily communication la ungala master aakkum",
+    "thatsImpressiveMentoredSubPurpose": "Athu impressive! Naan oru million-ukkum mel working professionals-ku avangaloda real-world conversations practice senju avanga career-ai membaduththa udhavi irukken",
+    "canIknowYourName": "நான் மிகவும் excited ஆக இருக்கிறேன், உங்கள் பெயர் என்ன என்று தெரிந்து கொள்ளலாமா?",
+    "letsGetToKnowEachOther": "வாங்க ஒருவரை ஒருவர் தெரிந்து கொள்வோம்!",
+    "whatsYourNativeLanguage": "உங்கள் native language என்ன?",
+    "gotItWillUseTheLanguageToExplainEnglish": "புரிந்தது! App-ல் English-ஐ explain செய்ய உங்கள் language-ஐ பயன்படுத்துவோம்",
+    "youWillLearnEnglishThrough": "Neenga Tamil moolama English kathukalam.",
+    "awesomeCanIKnowYourName": "அருமை! உங்கள் பெயர் என்ன என்று தெரிந்துகொள்ளலாமா?",
+    "selectYourLanguagePreferance": "உங்கள் மொழி விருப்பத்தை தேர்ந்தெடுக்கவும்",
+    "hiIAmPersonalEnglishSpeakingPartner": "வணக்கம்! நான் உங்கள் Personal English Speaking Partner.",
+    "callMeSarahWhatsYourName": "Neenga enna Sarah nu koopidalam. Unga peru enna?",
+    "thatsVeryCoolName": "Romba cool peru! Naama sethu English practice panni romba enjoy pannuvom!",
+    "toEnsureYouGetLatestLessons": "Ungalukku latest lessons um personalised tips um kedaikanum na, naan unga phone number vaangalama?",
+    "niceToMeetYouGetLatestLessons": "உங்களைச் சந்திச்சதுல சந்தோஷம்! உங்களுக்கு latest lessons கிடைக்க, உங்க phone number குடுக்க முடியுமா?",
+    "whichAgeGroupAreYouIn": "Neenga entha age group-la irukkeenga?",
+    "ageGroup": {
+      "under18": "18-ku keezh",
+      "age18to24": "18-24",
+      "age25to34": "25-34",
+      "age35to44": "35-44",
+      "age45plus": "45+"
+    },
+    "whatIsYourGender": "Unga gender enna?",
+    "gender": {
+      "male": "Male",
+      "female": "Female",
+      "nonBinary": "Non-Binary"
+    },
+    "dailyPracticeHelpsAchieveGoals": "தினமும் practice பண்றது உங்க goals-ஐ சீக்கிரமா achieve பண்ண உதவும்",
+    "whatBestDescribesYourSituation": "Unga current situation-ai ethu sariyaa describe pannuthu?",
+    "imGladWeMetWhatsYourGoal": "உங்களைப் பார்த்ததில் சந்தோஷம். English கத்துக்கறதுக்கு உங்க main goal என்ன?",
+    "mainGoal": {
+      "ielts": "English exam-க்கு தயாராக",
+      "growInMyCareer": "என் career-ல வளர",
+      "personalGrowth": "தனிப்பட்ட வளர்ச்சி",
+      "travelConfidently": "நம்பிக்கையுடன் பயணம்",
+      "excelAtMySchool": "பள்ளியில் சிறந்து விளங்க",
+      "other": "மற்றவை"
+    },
+    "typeYourGoalHint": "உங்க goal-ஐ இங்கே type பண்ணுங்க",
+    "typeYourExamHint": "உங்க exam-ஐ இங்கே type பண்ணுங்க",
+    "examType": {
+      "ielts": "IELTS",
+      "toefl": "TOEFL",
+      "pte": "PTE",
+      "toeic": "TOEIC",
+      "other": "மற்றவை"
+    },
+    "ieltsModule": {
+      "academic": "Academic",
+      "general": "General",
+      "notSure": "எனக்குத் தெரியவில்லை"
+    },
+    "examTime": {
+      "thisMonth": "நான் இந்த மாதம் IELTS எழுதுவேன்",
+      "nextMonth": "நான் அடுத்த மாதம் IELTS எழுதுவேன்",
+      "moreThanTwo": "தயாராக எனக்கு இரண்டு மாதங்களுக்கு மேல் உள்ளது",
+      "after": "{month} க்குப் பிறகு"
+    },
+    "moveTheSliderToPickYourScore": "உங்கள் score-ஐ தேர்வு செய்ய slider-ஐ நகர்த்தவும்",
+    "bandScore": "Band Score",
+    "skill": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "speaking": "Speaking",
+      "listening": "Listening"
+    },
+    "journeyGraph": {
+      "yourJourney": "உங்கள் பயணம்",
+      "toAceIeltsStarts": "IELTS-ஐ வெல்ல தொடங்குகிறது",
+      "curatingContent": "Content தயாரிக்கிறோம்",
+      "forYourIeltsJourney": "உங்கள் IELTS பயணத்திற்காக",
+      "aPlanForYouToReach": "நீங்கள் அடைய ஒரு plan",
+      "yourGoal4xFaster": "உங்கள் goal-ஐ 4x வேகமாக",
+      "planForYou": "உங்களுக்கான PLAN",
+      "practice20MinsPerDay": "தினமும் 20 நிமிடம் practice",
+      "oneMockTestPerDay": "தினமும் ஒரு Mock Test",
+      "ieltsConversationPerDay": "தினமும் IELTS Conversation",
+      "weeklyReviews": "வாராந்திர Reviews",
+      "youTookThe": "நீங்கள் எடுத்தது",
+      "firstStep": "முதல் படி",
+      "inOneMonth": "1 மாதத்தில்",
+      "inTwoMonths": "2 மாதங்களில்",
+      "inMoreThanTwoMonths": "2+ மாதங்களில்"
+    },
+    "hintPlayback": {
+      "youDidGreatFirstStep": "உங்கள் முதல் படியில் அருமையாக செய்தீர்கள்!",
+      "improvePronunciation": "Pronunciation-ஐ மேம்படுத்துவோம்"
+    },
+    "currentSituation": {
+      "student": "Maanavar",
+      "workingProfessional": "Pani puribavar",
+      "freelancer": "Freelancer",
+      "businessOwner": "Thozhil urimaiyaalar",
+      "homeMaker": "Illaththarasi",
+      "careerBreak": "Thozhil idaivelaiyil",
+      "lookingForWork": "Velai thedubavar"
+    },
+    "amazingWhereDidHearAboutStimuler": "Thank you! Neenga engala pathi enga kettinga?",
+    "noProblemWhereDidYouHearAboutUs": "Paravala! Neenga engala pathi enga kettinga?",
+    "iAmGladWeMet": "Naama sandhichadhula romba santhosham!",
+    "enterReferralCode": "உங்களிடம் உள்ள referral code-ஐ enter பண்ணவும்",
+    "letsCreateAPlanForJustYou": "Ungalukkaga mattum oru plan podalaam, appo dhaan unga goals seekiram achieve pannalam! Sollunga, neenga edhukku English kathukareenga?",
+    "thatsImpressiveMentoredIels": "Impressive! Naan ulagam muzhuvadhum 10 lakh ku mela candidates ku avanga dream band score vaanga guide pannirukken",
+    "whatTypeOfSituationsDoYouWant": "Enna maathiri situations-la neenga best-aa irukka virumbureenga?",
+    "thatsImpressiveMentoredTravel": "Awesome! Business trip o, abroad la velai o, ella situations um naama cover pannuvom.",
+    "thatsImpressiveMentoredEducation": "Ok! Ungalukku theriyuma, naan 10 lakh ku mela perukku fluent ah confident ah English pesa sollithandhirukken",
+    "greatMentoredOthers": "Impressive! Naan 10 lakh ku mela perukku fluent ah confident ah English pesa sollithandhirukken",
+    "thatsImpressiveMentoredBusiness": "Impressive! Naan 10 lakh ku mela working professionals ku real-world conversations practice pannitu career improve panna help pannirukken",
+    "lookWhatLearnersHaveToSay": "Enga successful learners enna solranga nu paarunga:",
+    "thesePeoplePracticedDaily": "Ivanga daily practice pannitu great progress achieve pannanga, naan avangala track la vachiruken!",
+    "iWillRemindYouToo": "Naanum ungalukku remind pannuven, practice miss aagadhu. Unga notifications ah on pannunga.",
+    "thanksForThatTogether": "Thanks! Naama English ah daily habit ah maathuvom",
+    "noIssuesIWill": "Paravala! Naan apparam kekkaren.",
+    "awesomeThousandsOfEnglishLearners": "அருமை! நான் கற்பிக்கும் ஆயிரக்கணக்கான English learners ஆரம்பநிலையில் தொடங்குகிறார்கள். நான் அவர்களை fluent English speakers-ஆக ஆக்குகிறேன்",
+    "whatIsCurrentEnglishLevel": "Unga ippo dhaan English level enna nu solluveenga?",
+    "reviewSarahFeedbackOnVocab": "Sarah-ன் Vocabulary feedback-கள் அருமை... என் 8.0 band score-க்கு Stimuler-தான் காரணம்",
+    "reviewSarahFeedbackOnVocabIELTS": "Sarah-இன் Vocabulary feedback அருமை... என் 8.0 band score-க்கு Stimuler-தான் காரணம்",
+    "reviewCommunityActive": "Stimuler PRO community members எப்போதும் active ஆக இருந்து என்னை motivated ஆக வைக்கிறார்கள்",
+    "reviewSpendingTwentyMinutes": "Sarah-உடன் தினமும் 20 நிமிடங்கள் செலவிடுவது என் fluency-ஐ பெரிதும் மேம்படுத்தியது",
+    "reviewBoostedMyConfidenceIELTS": "Sarah உடன் chat செய்தது என் English-ஐ தூக்கிவிட்டது, என் IELTS test-க்கு confidence-ஐ ஏற்றிவிட்டது",
+    "reviewBoostedMyConfidence": "Sarah உடன் chat செய்தது என் English-ஐ தூக்கி நிறுத்திவிட்டது, test-க்கு என் confidence-ஐ ஏற்றிவிட்டது",
+    "reviewBoostedConfidenceOffice": "Sarah உடன் chat செய்தது என் English-ஐ தூக்கி நிறுத்திவிட்டது, office-ல் என் confidence-ஐ ஏற்றிவிட்டது",
+    "reviewAppIsAGoldenEgg": "இந்த app ஒரு golden egg. இது நீங்கள் இன்னும் நன்றாக பேச உதவுகிறது. அருமையானது, இதற்கு10/5 கொடுப்பேன்",
+    "reviewAppIsAGoldenEggIELTS": "இந்த app IELTS க்கு ஒரு golden egg. இது நீங்கள் சிறப்பாக பேச உதவுகிறது. அருமை, 10/5 கொடுப்பேன்",
+    "perfectEvenWithJustAFewWords": "Perfect! Konjam words irundhaalum start panna neenga ready. Naan ungala step by step confident conversations varaikkum kootitu poren",
+    "awesomeAlreadyHalfwayThere": "Awesome! Neenga already paadhi vazhi vandhutteenga. Ennoda konjam practice pannunga, adhisayam pannuveenga!",
+    "awesomeSkysTheLimit": "Awesome! Ungalukku sky dhaan limit. Naama tough challenges eduthu periya heights ku povom.",
+    "almostDoneAnswerAQuestionBeginner": "Almost mudinjiduchu! Kadaisi step ah, keezha irukura passage ah padichi kaattunga",
+    "almostDoneAnswerAQuestion": "Almost mudinjiduchu! Kadaisi step ah, enakku oru question ku badhil sollunga",
+    "dontKnowWhatToSpeak": "Enna pesanum nu theriyala? Kavala vendam, keezha hint padinga!",
+    "didNotSpeakAlot": "Neenga adhigam pesala nu theriyudhu",
+    "letsTrySomethingElse": "Vera edhavadhu try pannalaam, sari ah?",
+    "greatReasonExperienceBestAiApp": "Super! Ippo Google oda Best AI App 2023 award engalukku edhukku kedachadhu nu experience panna time!",
+    "reasonExperienceBestAiApp": "Ippo Google oda Best AI App 2023 award engalukku edhukku kedachadhu nu experience panna time!",
+    "tapOnButtonBelow": "உங்க speech ல இருக்கா mispronunciations, awkward pauses, மற்றும் எங்களோட feedback எல்லாத்தையும் தெரிஞ்சிக்க கீழ இருக்க button ஆ tap பண்ணுங்க.",
+    "curiousHowWellYou": "Neenga evlo nalla pesineenga nu paakanuma? Unga performance ah paakka tap pannunga!",
+    "purpose": {
+      "ielts": "IELTS",
+      "talkToColleaguesClients": "Colleagues/clients உடன் பேசுவதற்கு",
+      "clearJobInterview": "Job interview ல் வெற்றி பெறுவதற்கு",
+      "everydayConvo": "Daily pesardhukku",
+      "excelAtSchool": "School la munnera",
+      "travel": "Travel",
+      "anyOtherGoal": "Vera edhavadhu goal",
+      "improveMyCareer": "Career improve panna"
+    },
+    "workplaceSubPurpose": {
+      "jobInterview": "Job Interview",
+      "teamMeeting": "Team Meetings",
+      "presentations": "Presentations",
+      "networking": "Networking",
+      "smallTalk": "Colleagues-udan Small Talk"
+    },
+    "HowDidUserHearAboutApp": {
+      "tiktok": "TikTok",
+      "instagram": "Instagram Reel",
+      "googleAds": "Google Ads",
+      "friend": "நண்பர்கள்",
+      "facebook": "Facebook",
+      "youtube": "YouTube",
+      "haveAReferralCode": "Referral Code இருக்கிறதா?",
+      "other": {
+        "playStore": "Play Store-ல் search செய்தேன்",
+        "appStore": "App Store-ல் search செய்தேன்"
+      },
+      "twitterX": "Twitter/X"
+    },
+    "levelDescription": {
+      "beginner": "Enakku konjam words theriyum, aana sentences panna mudiyadhu.",
+      "intermediate": "Simple vishayangalukku chinna sentences panna mudiyum.",
+      "advance": "Chinna conversations panna mudiyum, matthavanga solradhum puriyum."
+    },
+    "itsOkayWeWillTryThisLater": "Paravaayilla, ithai appuram try pannalaam",
+    "readItOutLoud": "Idha sathama padinga:",
+    "selectAnOption": "Oru option select pannunga",
+    "toast": {
+      "wellDone": "Semma !",
+      "youFinishedYourFirstPhrase": "Unga first English phrase ah padichitteenga",
+      "noWorriesWeNotedIt": "Paravaayilla, naanga note pannitom !",
+      "weWillPracticeTheseLater": "Ithu maathiri phrases appuram practice pannalaam, mela pogalaam"
+    },
+    "label": {
+      "great": "Super!",
+      "coolName": "Enna peru!",
+      "letsCreateAPlan": "Ungalukku plan podalaam!",
+      "letsGetToKnowYou": "Ungala theri:nju kalaam!",
+      "ontoTheLastStep": "Kadaisi step dhaan",
+      "impressive": "“$goal” - Impressive!"
+    },
+    "speechMeter": {
+      "yourSpeechLevel": "Unga<br>speech<br>level",
+      "hereIsWhereYouStand": "Neenga epdi padicheenga nu naan kettten. Neenga ippo inga irukkeenga.",
+      "youPlacedYourselfAt": "Neenga ungala $level la vachirundheenga. Pressure la adha vida konjam keezha vandheenga. Andha gap dhaan full game.",
+      "andThisIsWhereWeAreTakingYou": "Naama inga poga poroam. $target, adutha 8 maasathula.",
+      "letsTakeYouTo": "Ungala<br>kootitu poroam<br><em>$target</em> varaikkum"
+    },
+    "pronunciation": {
+      "firstLetsFixYourPronunciation": "Mudhalla unga<br><em>pronunciation</em> ah sari pannalaam.",
+      "twoWordsNeedWork": "Unga reading la rendu words ku work venum.",
+      "readTheWordOutLoud": "Word ah <b>sathama padinga</b>",
+      "letsPracticeThisWord": "Indha word ah practice pannalaam",
+      "speakTheWordClearly": "Word ah clear ah sollunga…",
+      "thatSoundedClear": "Nice. Romba clear ah irundhuchu.",
+      "speakOutTheWord": "Indha word ah sollunga: ",
+      "letsImproveSoundPronunciation": "<sound>'$sound'</sound> pronunciation ah improve pannalaam",
+      "letsTryThisSentence": "Indha sentence ah try pannalaam",
+      "readTheSentenceOutLoud": "Sentence ah sathama padinga",
+      "tryToReadTheEntireSentence": "Muzhu sentence ah padikka try pannunga",
+      "wellDoneYouSoundedLikeANative": "Semma 🎉 Neenga native madhiri pesineenga!",
+      "youLearntToPronounceTheWords": "$words words ah pronounce panna kathukitteenga",
+      "youLearntToPronounceTheSounds": "$sounds sounds ah pronounce panna kathukitteenga",
+      "andTheSound": "matrum '$sound'",
+      "firstStepRich": "✅ English kathukka <highlight>modhal adi</highlight> eduthutteenga !"
+    },
+    "offer": {
+      "youveUnlockedAnOffer": "NEENGA ORU<br>OFFER<br>UNLOCK PANNITEENGA",
+      "welcomeOffer": "WELCOME OFFER",
+      "limitedTimeOffer": "Limited Time<br>indhikku <em>50%</em> offer",
+      "whatIndianUsersSay": "30 Lakh+ Indian users enna solranga!",
+      "oneTimeWelcomeOffer": "ONE TIME WELCOME 50% OFFER",
+      "perMonthPaidForAWholeYear": "Maasam $price dhaan, varusham muzhusukkum"
+    },
+    "testimonialQuotes": [
+      "Every week I could see my mistakes going down little by little.",
+      "The real and instant feedback made all the difference for me.",
+      "I just rehearse the real format, not just something generalised.",
+      "Leveling up your words does level up your confidence.",
+      "Daily habit beats hesitation every time.",
+      "It really helps you find your voice.",
+      "Nobody's listening or judging when I talk to it.",
+      "So honestly, consistent practice does change everything.",
+      "Now I'm usually the one starting the conversation."
+    ],
+    "paywallTitle": {
+      "ielts": "<em>IELTS ah crack pannu</em><br>English practice oda",
+      "improveMyCareer": "<em>Career ah uyarthu</em><br>English practice oda",
+      "everydayConvo": "<em>Fluent ah pesu</em><br>full confidence oda",
+      "travel": "<em>Ulagam suthu</em><br>English practice oda",
+      "excelAtSchool": "<em>School la munneru</em><br>English practice oda",
+      "anyOtherGoal": "<em>Un goals ah adai</em><br>English practice oda"
+    }
+  },
+  "errors": {
+    "title": "ஏதோ தவறு நடந்துவிட்டது",
+    "generic": "ஏதோ தடங்கல் ஏற்பட்டது. மீண்டும் try செய்யவும்.",
+    "network": "Server-உடன் connect ஆக முடியவில்லை. உங்கள் internet connection-ஐ check செய்து மீண்டும் try செய்யவும்.",
+    "serviceUnavailable": "எங்கள் servers-ல் இப்போது சிறிய பிரச்சனை உள்ளது. சிறிது நேரம் கழித்து மீண்டும் try செய்யவும்.",
+    "outdatedApp": "இந்த screen load ஆக update தேவை. App-ஐ update செய்யவும்.",
+    "retry": "Retry செய்",
+    "goBack": "பின்செல்",
+    "openSettings": "Settings-ஐ திற",
+    "micPermission": "microphone permission-ஐ enable செய்யவும்",
+    "goalSavePending": "உங்கள் goal இன்னும் save ஆகிறது. நீங்கள் மீண்டும் online வந்ததும் அது update ஆகும்."
+  },
+  "conversationV4": {
+    "ui": {
+      "exitTitle": "இந்த session-ஐ end செய்ய\nநிச்சயமாக விரும்புகிறீர்களா?",
+      "endSession": "Session-ஐ End செய்",
+      "exhaustedTitle": "உங்கள் free attempts அனைத்தும் முடிந்துவிட்டன",
+      "exhaustedSubtitle": "Unlimited conversations-க்கு Pro-க்கு upgrade செய்யுங்கள்",
+      "upgradeToPro": "Pro-க்கு Upgrade செய்",
+      "introLockedTitle": "Introduction-க்குப் பிறகு அடுத்த conversation topics unlock ஆகும்",
+      "gotIt": "புரிந்தது",
+      "startIntroduction": "Introduction-ஐ தொடங்கு",
+      "noConversationsYet": "இன்னும் conversations எதுவும் இல்லை",
+      "loadingOlderConversations": "பழைய conversations load ஆகிறது…",
+      "translationFailed": "Translation ஆகவில்லை. மீண்டும் try செய்யவும்.",
+      "analyzingResponse": "உங்கள் response analyse செய்யப்படுகிறது…",
+      "analysisLoadFailed": "Analysis load ஆகவில்லை. மீண்டும் try செய்யவும்.",
+      "analysisUnscoredTitle": "இதை எங்களால் analyse செய்ய முடியவில்லை",
+      "reasonForError": "Error-க்கான காரணம்",
+      "tabGrammar": "Grammar",
+      "tabPronunciation": "Pronunciation",
+      "tabVocabulary": "Vocabulary",
+      "tabFluency": "Fluency",
+      "hintLoadFailed": "Hint load ஆகவில்லை. Retry-ஐ tap செய்யவும்.",
+      "viewMistakes": "Mistakes-ஐ பார்",
+      "viewResultsAndEnd": "Results பார்த்து End செய்",
+      "translateNeedsNativeLanguage": "Translations பெற Settings-ல் English அல்லாத native language-ஐ தேர்ந்தெடுக்கவும்."
+    },
+    "failure": {
+      "sessionExpired": "உங்கள் session expire ஆகிவிட்டது. மீண்டும் sign in செய்யவும்.",
+      "purchaseFailed": "இந்த purchase-ஐ எங்களால் முடிக்க முடியவில்லை. உங்களிடம் எந்த charge-ம் வசூலிக்கப்படவில்லை — மீண்டும் try செய்யவும்.",
+      "fatalTitle": "Conversation முடிந்தது",
+      "fatal": "Conversation எதிர்பாராமல் முடிந்துவிட்டது. மீண்டும் try செய்யவும்.",
+      "topicsTitle": "Topics load ஆகவில்லை",
+      "historyTitle": "உங்கள் conversations load ஆகவில்லை",
+      "chatTitle": "இந்த conversation load ஆகவில்லை",
+      "resultPrep": "உங்கள் result-ஐ எங்களால் தயார் செய்ய முடியவில்லை.",
+      "asrFailed": "நீங்கள் பேசியது எனக்கு தெளிவாக கேட்கவில்லை.",
+      "analysisFailed": "என்னால் அதை analyse செய்ய முடியவில்லை — மீண்டும் try செய்வோம்.",
+      "ttsFailed": "Audio play ஆகவில்லை.",
+      "errorCodeLabel": "Error code",
+      "tryAgain": "மீண்டும் try செய்",
+      "backHome": "Home-க்கு திரும்பு",
+      "close": "Close",
+      "replay": "மீண்டும் கேட்க tap செய்யவும்",
+      "tapToRetry": "Retry செய்ய tap செய்யவும்"
+    },
+    "connection": {
+      "initiating": "Conversation தொடங்குகிறது…",
+      "connecting": "Connect ஆகிறது…",
+      "reconnecting": "மீண்டும் connect ஆகிறது…",
+      "disconnected": "Disconnected",
+      "error": "Connection error",
+      "retry": "Retry செய்"
+    },
+    "drill": {
+      "listening": "கேட்கிறோம்…",
+      "scoring": "உங்கள் pronunciation-ஐ score செய்கிறோம்…",
+      "needsPractice": "Practice தேவை!",
+      "wellDone": "மிகவும் நன்று 👏",
+      "listen": "கேளுங்கள்…",
+      "getReady": "தயாராகுங்கள்…",
+      "learntToPronounce": "நீங்கள் “$word”-ன் pronunciation-ஐ கற்றுக்கொண்டீர்கள்."
+    },
+    "topics": {
+      "loadMoreFailed": "மேலும் topics load ஆகவில்லை. உங்கள் connection-ஐ check செய்யவும்.",
+      "refreshFailed": "உங்கள் topics refresh ஆகவில்லை — பழைய data காட்டப்படுகிறது.",
+      "pickATopic": "ஒரு topic-ஐ தேர்ந்தெடுத்து பேசத் தொடங்குங்கள்!"
+    },
+    "chat": {
+      "translateThisLine": "இந்த line-ஐ translate செய்",
+      "closeConversation": "Conversation-ஐ மூடு",
+      "challengesStars": "Challenges: $total-ல் $stars stars",
+      "allChallengesCompleted": "அனைத்து Challenges-ம் முடிந்தன!",
+      "youGotThis": "உங்களால் முடியும்",
+      "oneChallengeToGo": "! இன்னும் 1 challenge மட்டுமே",
+      "challengesToGo": "! இன்னும் $count challenges மட்டுமே",
+      "starEarned": "உங்களுக்கு ஒரு star கிடைத்தது!",
+      "perfectResponse": "Perfect response",
+      "continueLabel": "தொடரவும்",
+      "selectAtLeast": "குறைந்தது $count-ஐ தேர்ந்தெடுக்கவும்",
+      "removeCount": "$count-ஐ நீக்கவும்",
+      "conversationMode": "Conversation Mode",
+      "practiceMode": "Practice Mode",
+      "discardRecording": "Recording-ஐ நீக்கு",
+      "submitRecording": "Recording-ஐ அனுப்பு"
+    },
+    "hint": {
+      "tapToSeeHint": "Hint பார்க்க tap செய்யவும்",
+      "youCanSpeakLikeThis": "நீங்கள் இப்படிப் பேசலாம்",
+      "gettingHint": "Hint கொண்டு வருகிறோம்…"
+    },
+    "translation": {
+      "sarahResponseEnglish": "Sarah-வின் response ( English )",
+      "translating": "Translate ஆகிறது",
+      "translated": "Translate ஆனது",
+      "translatingIn": "$language-ல் translate ஆகிறது",
+      "translatedIn": "$language-ல் translate ஆனது"
+    },
+    "mistakes": {
+      "noGrammarNotes": "இந்த முறை grammar notes இல்லை.",
+      "noPronunciationNotes": "இந்த முறை pronunciation notes இல்லை.",
+      "noVocabularyNotes": "இந்த முறை vocabulary notes இல்லை.",
+      "noFluencyNotes": "இந்த முறை fluency notes இல்லை.",
+      "recordingExpired": "அந்த recording play ஆகவில்லை. அது expire ஆகியிருக்கலாம்.",
+      "pronunciationPlayFailed": "Pronunciation play ஆகவில்லை. மீண்டும் try செய்யவும்.",
+      "topMispronouncedWords": "அதிகம் தவறாக உச்சரிக்கப்பட்ட words",
+      "betterVocabulary": "சிறந்த Vocabulary suggestions",
+      "improvedVersion": "உங்கள் பேச்சின் மேம்படுத்தப்பட்ட Version:",
+      "lockedGrammarHeadline": "Natural-ஆக ஒலிக்கும்\ngrammar-ஐ practice செய்யுங்கள்",
+      "lockedGrammarSubtitle": "ஒவ்வொரு message-க்குப் பிறகும்\npersonalised feedback பெறுங்கள்.",
+      "lockedPronunciationHeadline": "இன்னும் natural-ஆகப்\nபேசுங்கள்.",
+      "lockedPronunciationSubtitle": "ஒவ்வொரு message-க்குப் பிறகும்\nஉங்கள் pronunciation-ஐ மேம்படுத்துங்கள்.",
+      "lockedVocabularyHeadline": "அதிகம் பேசுங்கள்.\nசிறப்பாகப் பேசுங்கள்.",
+      "lockedVocabularySubtitle": "ஒவ்வொரு conversation-லும்\nஉங்கள் vocabulary-ஐ விரிவாக்குங்கள்.",
+      "lockedFluencyHeadline": "திருத்துங்கள். Practice செய்யுங்கள்.\nநினைவில் வையுங்கள்.",
+      "lockedFluencySubtitle": "உங்களுக்காக உருவான feedback\nமூலம் practice செய்யுங்கள்."
+    },
+    "paywall": {
+      "unlock": "Unlock செய்",
+      "atPercentOff": "@ $discount% OFF",
+      "percentOff": "$discount% off",
+      "onPremiumPass": "Premium pass-ல்"
+    }
+  },
+  "analysis": {
+    "recordedBeforePro": "நீங்கள் upgrade செய்வதற்கு முன் இந்த speech record ஆனது, அதனால் இதற்கு feedback இல்லை. இனி நீங்கள் record செய்யும் ஒவ்வொரு புதிய speech-க்கும் முழு feedback கிடைக்கும்."
+  },
+  "buddyStreak": {
+    "startTitle": "Buddy streak-ஐ தொடங்குங்கள்",
+    "startBody": "ஒருவரை ஒருவர் motivate செய்து, சேர்ந்து நீண்ட streaks உருவாக்குங்கள்",
+    "inviteCta": "Buddy-ஐ invite செய்யுங்கள்",
+    "maybeLater": "பிறகு",
+    "yourCode": "உங்கள் BUDDY CODE",
+    "codeCopied": "Code copy ஆனது",
+    "shareCta": "Invite link-ஐ share செய்யுங்கள்",
+    "shareMessage": "Stimuler-ல் சேர்ந்து streak-ஐ தொடர்வோம். என் buddy ஆக tap செய்யுங்கள்: $link",
+    "or": "அல்லது",
+    "haveCode": "என்னிடம் code உள்ளது",
+    "codeMissingTitle": "உங்கள் code-ஐ load செய்ய முடியவில்லை",
+    "codeMissingBody": "உங்கள் internet connection-ஐ check செய்து மீண்டும் try செய்யவும்.",
+    "retry": "மீண்டும் try செய்யவும்",
+    "enterTitle": "Code-ஐ உள்ளிடுங்கள்",
+    "enterBody": "உங்கள் நண்பரின் screen-ல் தெரியும் code-ஐ உள்ளிடுங்கள்",
+    "join": "Join செய்யுங்கள்",
+    "paste": "Clipboard-லிருந்து paste செய்யுங்கள்",
+    "pairedTitle": "$name-உம் நீங்களும் buddy streak-ஐ தொடங்கினீர்கள்",
+    "pairedTitleNoName": "நீங்கள் buddy streak-ஐ தொடங்கினீர்கள்",
+    "requestSentTitle": "$name-க்கு request அனுப்பப்பட்டது",
+    "requestSentTitleNoName": "Request அனுப்பப்பட்டது",
+    "requestSentBody": "அவர்கள் accept செய்தவுடன் உங்கள் buddy streak தொடங்கும்.",
+    "requestTitle": "$name உங்கள் buddy ஆக விரும்புகிறார்",
+    "requestTitleNoName": "உங்களுக்கு ஒரு buddy request உள்ளது",
+    "requestBody": "Accept செய்து ஒன்றாக streak-ஐ தொடங்குங்கள், இரண்டு fires-ஐயும் எரிய வையுங்கள்.",
+    "accept": "Accept செய்யுங்கள்",
+    "decline": "வேண்டாம்",
+    "requestsTitle": "$count buddy requests உள்ளன",
+    "requestsTitleOne": "1 buddy request உள்ளது",
+    "requestsBody": "அவர்கள் உங்கள் buddy code-ஐ பயன்படுத்தினார்கள்.",
+    "acceptAll": "அனைத்தையும் accept செய்யுங்கள்",
+    "later": "பிறகு",
+    "startedManyTitle": "உங்கள் buddy streaks தொடங்கிவிட்டன",
+    "someone": "ஒருவர்",
+    "couldNotLoad": "ஏற்ற முடியவில்லை",
+    "practiceNow": "இப்போது practice செய்யுங்கள்",
+    "hookBody": "இருவரும் வர வேண்டும், இல்லையெனில் ஸ்ட்ரீக் ரீசெட் ஆகும்.",
+    "leftTitle": "$name மீதம் உள்ளார்",
+    "leftTitleNoName": "உங்கள் buddy மீதம் உள்ளார்",
+    "leftBody": "இன்றைய பாடத்தை முடித்து ஸ்ட்ரீக்கைத் தொடர $name-க்கு நாங்கள் நினைவூட்டுவோம்.",
+    "leftBodyNoName": "இன்றைய பாடத்தை முடித்து ஸ்ட்ரீக்கைத் தொடர உங்கள் buddy-க்கு நாங்கள் நினைவூட்டுவோம்.",
+    "continueCta": "தொடரவும்",
+    "togetherTitle": "$count நாட்கள் ஒன்றாக",
+    "togetherTitleOne": "1 நாள் ஒன்றாக",
+    "daysWith": "$name உடன் $count நாட்கள்",
+    "dayWithOne": "$name உடன் 1 நாள்",
+    "togetherBody": "இன்று நீங்கள் இருவரும் வந்தீர்கள். நாளையும் இப்படியே.",
+    "firesTitle": "உங்கள் பட்டி ஸ்ட்ரீக்குகள்",
+    "firesBody": "ஸ்ட்ரீக்கைத் தக்கவைக்க நண்பர்களுக்கு நாங்கள் நினைவூட்டுவோம்",
+    "streaksTitle": "Buddy Streaks",
+    "streakTitle": "Buddy Streak",
+    "invitePlus": "+ அழைக்கவும்",
+    "emptyTitle": "Buddy உடன் streak",
+    "emptyBody": "நீங்கள் இருவரும் practice செய்யுங்கள், இருவரும் தக்கவைத்துக்கொள்ளுங்கள்.",
+    "thisWeek": "இந்த வாரம்",
+    "you": "நீங்கள்",
+    "roadmapDay": "ரோட்மேப் நாள்",
+    "conversations": "உரையாடல்கள்",
+    "calls": "அழைப்புகள்",
+    "daysTogether": "ஒன்றாக இருந்த நாட்கள்",
+    "sentRequests": "அனுப்பிய கோரிக்கைகள்",
+    "pendingRequest": "நிலுவையில் உள்ள request",
+    "pendingRequests": "நிலுவையில் உள்ள requests",
+    "pending": "நிலுவையில்",
+    "removeCta": "நண்பரை நீக்கு",
+    "removeTitle": "$name-ஐ நீக்கவா?",
+    "removeTitleNoName": "இந்த நண்பரை நீக்கவா?",
+    "removeBody": "உங்கள் இருவரின் கூட்டு ஸ்ட்ரீக் முடிவடையும்.",
+    "removeConfirm": "நீக்கு",
+    "removeEnds": "உங்கள் இருவரின் $count நாள் கூட்டு ஸ்ட்ரீக் முடிவடையும்.",
+    "removeKeep": "ஸ்ட்ரீக்கைத் தொடரவும்",
+    "removeNamed": "$name-ஐ நீக்கு",
+    "cancel": "ரத்துசெய்",
+    "removeFailed": "உங்கள் நண்பரை நீக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்.",
+    "errors": {
+      "invalidTitle": "அந்த code வேலை செய்யவில்லை",
+      "invalidBody": "உங்கள் buddy-உடன் code-ஐ check செய்து மீண்டும் try செய்யவும்.",
+      "checkTitle": "Code-ஐ check செய்யவும்",
+      "checkBody": "Code-ல் 8 letters மற்றும் numbers இருக்கும். மீண்டும் enter செய்யவும்.",
+      "ownTitle": "இது உங்கள் சொந்த code",
+      "ownBody": "உங்கள் buddy-இடம் அவர்களின் code-ஐ கேளுங்கள்.",
+      "alreadyTitle": "நீங்கள் ஏற்கனவே buddies",
+      "alreadyBody": "அவர்களை உங்கள் buddy streaks-ல் பார்க்கலாம்.",
+      "limitTitle": "Buddy limit எட்டப்பட்டது",
+      "limitBody": "உங்களுக்கோ உங்கள் buddy-க்கோ ஏற்கனவே அதிகபட்ச buddies உள்ளனர்.",
+      "disabledTitle": "Buddy streaks இன்னும் கிடைக்கவில்லை",
+      "disabledBody": "நீங்கள் join செய்ய முடியும்போது சொல்வோம்.",
+      "genericTitle": "ஏதோ தவறு நடந்துவிட்டது",
+      "genericBody": "உங்கள் internet connection-ஐ check செய்து மீண்டும் try செய்யவும்."
+    }
+  },
+  "indiaOnboardingV16": {
+    "helloSarah": "வணக்கம்! நான் Sarah, உங்கள் personal English speaking partner.",
+    "whatShouldICallYou": "ஒருவரை ஒருவர் தெரிந்துகொள்வோம்! உங்களை நான் எப்படிக் கூப்பிடலாம்?",
+    "enterYourName": "உங்கள் பெயர்",
+    "nativeLanguageQuestion": "உங்களைச் சந்தித்ததில் மகிழ்ச்சி, {{name}}! உங்கள் native language எது?",
+    "heardFromQuestion": "ஒரு சின்ன கேள்வி, {{name}}. எங்களைப் பற்றி எங்கே கேள்விப்பட்டீர்கள்?",
+    "ageGenderQuestion": "உங்களைப் பற்றி இன்னும் கொஞ்சம் தெரிந்துகொள்வோம்! உங்கள் வயது மற்றும் gender என்ன?",
+    "ageLabel": "வயது",
+    "genderLabel": "Gender",
+    "preferNotToSay": "சொல்ல விருப்பமில்லை",
+    "done": "சரி",
+    "phoneQuestion": "நன்றி, {{name}}! உங்களுக்கு latest lessons கிடைக்க, உங்கள் phone number தர முடியுமா?",
+    "phoneSkipped": "பரவாயில்லை! Profile settings-ல் எப்போது வேண்டுமானாலும் இதைச் சேர்க்கலாம்.",
+    "situationQuestion": "இப்போது உங்களை எது சரியாக விவரிக்கிறது?",
+    "situation": {
+      "student": "மாணவர்",
+      "workingProfessional": "பணிபுரிபவர்",
+      "freelancer": "சுயதொழில் / ஃப்ரீலான்சர்",
+      "businessOwner": "தொழில் உரிமையாளர்",
+      "lookingForWork": "வேலை தேடுபவர்",
+      "homeMaker": "இல்லத்தரசி",
+      "careerBreak": "தொழில் இடைவேளையில்",
+      "parent": "பெற்றோர்"
+    },
+    "goalQuestion": "உங்களைச் சந்தித்ததில் சந்தோஷம், {{name}}. English கற்றுக்கொள்வதில் உங்கள் main goal என்ன?",
+    "goalReply": {
+      "ielts": {
+        "student": "அருமை! பெரும்பாலான students பயப்படும் பகுதி speaking தான், ஆனால் அதைத்தான் வேகமாக மேம்படுத்த முடியும். Test-ன் மூன்று parts-ஐயும் practice செய்வோம்.",
+        "workingProfessional": "நல்ல முடிவு! வெளிநாட்டு வேலைக்காக இருந்தாலும் PR-க்காக இருந்தாலும், உங்கள் வேலைக்கு ஏற்ற practice மூலம் உங்கள் speaking band-ஐ உயர்த்துவோம்.",
+        "freelancer": "நல்ல plan. உங்கள் client work-க்கு இடையில் பொருந்தும் சின்ன daily sessions-ல், ஒவ்வொரு IELTS speaking part-ஐயும் practice செய்வோம்.",
+        "businessOwner": "அருமை! Examiners எதிர்பார்க்கும் fluency மற்றும் range-ஐ, தினமும் 10 நிமிடத்தில் வளர்ப்போம்.",
+        "lookingForWork": "சரியான முடிவு. நல்ல band பல வாய்ப்புகளைத் திறக்கும். Speaking test பழக்கமாகும் வரை practice செய்வோம்.",
+        "homeMaker": "இது பெரிய goal, அருமையான goal கூட. Speaking test-ஐ உங்கள் வேகத்தில், படிப்படியாக practice செய்வோம்.",
+        "careerBreak": "நேரத்தை நன்றாகப் பயன்படுத்துகிறீர்கள்! தினமும் தொடர்ந்து practice செய்து, speaking-ல் உங்களை exam-க்குத் தயார் செய்வோம்.",
+        "parent": "அற்புதம்! Family நேரத்துக்கு இடையில், சின்ன sessions-ல் IELTS speaking practice-ஐப் பொருத்துவோம்."
+      },
+      "business": {
+        "student": "சீக்கிரமே தொடங்குவது புத்திசாலித்தனம்! தெளிவாகப் பேசுபவர்களுக்கு placements-ல் வாய்ப்பு அதிகம். Introductions, HR questions மற்றும் group discussions practice செய்வோம்.",
+        "workingProfessional": "சூப்பர். ஒவ்வொரு meeting, review, promotion பேச்சிலும் தெளிவான English தெரியும். நீங்கள் work-ல் உண்மையில் பேசும் conversations-ஐயே practice செய்வோம்.",
+        "freelancer": "அருமை! தெளிவாக விளக்குபவர்களைத்தான் clients நம்புவார்கள். Pitching, negotiating மற்றும் client calls practice செய்வோம்.",
+        "businessOwner": "பிரமாதம். Confident English, clients-ஐப் பெறவும் உங்கள் team-ஐ வழிநடத்தவும் உதவும். Pitches, meetings மற்றும் negotiations practice செய்வோம்.",
+        "lookingForWork": "உங்களால் முடியும்! Confident English ஒரு interview-ன் போக்கையே மாற்றும். நீங்கள் அதிகம் கேட்கக்கூடிய questions-ஐ practice செய்வோம்.",
+        "homeMaker": "இது exciting! மீண்டும் career-ஐத் தொடங்குவது பெரிய step. Interviews மற்றும் introductions practice செய்வோம், அப்போது நீங்கள் confident-ஆக உள்ளே செல்வீர்கள்.",
+        "careerBreak": "மீண்டும் வருக! Gap பற்றிய questions உட்பட, இடைவெளியே இல்லாதது போல் interviews-ல் பேச உதவுவோம்.",
+        "parent": "நல்ல goal! நீங்கள் பல விஷயங்களை balance செய்கிறீர்கள், அதனால் practice-ஐச் சுருக்கமாகவும், உங்களை முன்னேற்றும் conversations மீது focus-ஆகவும் வைப்போம்."
+      },
+      "socializing": {
+        "student": "சூப்பர்! English-ல் வரும் confidence எல்லாவற்றிலும் தெரியும்: நட்பு, classes, உங்கள் reels கூட. அன்றாட conversations-ல் இருந்து தொடங்குவோம்.",
+        "workingProfessional": "அருமை! ஒவ்வொரு sentence-ஐயும் மனதில் rehearse செய்யாமல் சுதந்திரமாகப் பேசுவதை, நாம் சேர்ந்து வளர்க்கலாம்.",
+        "freelancer": "நல்லது! அன்றாட conversations-ஐ practice செய்வோம், அப்போது English ஒரு வேலை போல் இல்லாமல் இயல்பாக இருக்கும்.",
+        "businessOwner": "அற்புதம். ஒவ்வொரு conversation-லும் தெரியும் அந்த இயல்பான, அன்றாட confidence-ஐ வளர்ப்போம்.",
+        "lookingForWork": "சிறந்த தேர்வு. இப்போது வளர்க்கும் confidence, உங்கள் அடுத்த interview உட்பட எல்லா இடத்திலும் உதவும். அன்றாடப் பேச்சில் இருந்து தொடங்குவோம்.",
+        "homeMaker": "அழகு! உங்களுக்கு முக்கியமான அன்றாட conversations-ஐ, உங்கள் வேகத்திலேயே practice செய்வோம்.",
+        "careerBreak": "இந்த நேரத்தைப் பயன்படுத்த சிறந்த வழி! தினமும் ஒரு சின்ன session மூலம், English பேசுவதை இயல்பாக்குவோம்.",
+        "parent": "அற்புதம்! உங்கள் confidence-ஐ குழந்தைகளும் கவனிப்பார்கள். அவர்களுடனும் மற்ற எல்லோருடனும் பேசக்கூடிய அன்றாட English-ஐ practice செய்வோம்."
+      },
+      "travel": {
+        "student": "எவ்வளவு exciting! Airports, hostels, வெளிநாட்டில் நண்பர்களை உருவாக்குவது எல்லாவற்றையும் practice செய்வோம், அப்போது கவலைப்படாமல் trip-ஐ enjoy செய்யலாம்.",
+        "workingProfessional": "நல்லது! சுலபமாகப் பேச முடிந்தால் work trips, holidays இரண்டுமே சிறப்பாக இருக்கும். Check-ins, directions மற்றும் small talk practice செய்வோம்.",
+        "freelancer": "சூப்பர். Client visit-ஓ workcation-ஓ, அன்றாட travel conversations-ஐ சுலபமாக்குவோம்.",
+        "businessOwner": "அருமை! Client visits முதல் trade fairs வரை, பயணத்தில் நீங்கள் பேசப்போகும் conversations-ஐ practice செய்வோம்.",
+        "lookingForWork": "அழகு! பயணத்தை சுலபமாக்கும் அன்றாட English-ஐ practice செய்வோம்: airports, hotels, உதவி கேட்பது.",
+        "homeMaker": "எவ்வளவு அருமை! Food order செய்வது, வழி கேட்பது, மக்களுடன் பேசுவது எல்லாவற்றையும் practice செய்வோம், அப்போது நீங்கள் சுலபமாகப் பயணம் செய்யலாம்.",
+        "careerBreak": "இதற்கு இதுதான் சரியான நேரம்! Airports, hotels, புதிய மனிதர்கள் எல்லாவற்றிலும் உங்களை comfortable-ஆக்குவோம், அப்போது ஒவ்வொரு trip-ஐயும் enjoy செய்யலாம்.",
+        "parent": "Family trips தான் best! Check-in counter முதல் hotel desk வரை, நீங்கள் உண்மையில் சந்திக்கப்போவதை practice செய்வோம்."
+      },
+      "education": {
+        "student": "சூப்பர்! English ஒரு test போல் தோன்றுவது நின்றுவிட்டால், class-ல் பேசுவது ரொம்ப சுலபமாகிவிடும். உண்மையான தருணங்களை practice செய்வோம்: teacher-க்கு பதில் சொல்வது, presentations, group work.",
+        "workingProfessional": "வேலை செய்துகொண்டே படிக்க மன உறுதி வேண்டும். Lectures-ல் தயங்காமல் பேசவும், confident-ஆக present செய்யவும் உங்களைத் தயார் செய்வோம்.",
+        "freelancer": "சிறந்த தேர்வு. Ideas-ஐ சத்தமாக discuss செய்ய முடிந்தால் courses வேகமாக நகரும், அதைத்தான் நாம் practice செய்யப்போகிறோம்.",
+        "businessOwner": "புத்திசாலித்தனமான முடிவு. Business நடத்திக்கொண்டே படிப்பது கடினம், அதனால் practice-ஐச் சுருக்கமாகவும், class-ல் பேசுவதில் focus-ஆகவும் வைப்போம்.",
+        "lookingForWork": "நல்ல யோசனை. ஒரு course-உம் confident English-உம் சேர்ந்தால், பின்னால் வரும் interviews-க்கு அது வலுவான combination. Class discussions-ல் இருந்து தொடங்குவோம்.",
+        "homeMaker": "அற்புதம்! மீண்டும் படிக்கத் தொடங்க தைரியம் வேண்டும். உங்களையே சந்தேகிக்காமல் class-ல் பேச உதவுவோம்.",
+        "careerBreak": "உங்கள் break-ஐப் பயன்படுத்த சிறந்த வழி. Class-ல் பேசுவதில் உங்களை comfortable-ஆக்குவோம், அப்போது முதல் நாளிலிருந்தே course சுலபமாக இருக்கும்.",
+        "parent": "அழகு! உங்கள் சொந்த classes-ஆக இருந்தாலும், குழந்தையின் school-க்கு உதவுவதாக இருந்தாலும், தெளிவாகப் பேசும் confidence-ஐ வளர்ப்போம்."
+      },
+      "others": {
+        "student": "புரிந்தது! Class-லும் வெளியிலும், தினமும் நீங்கள் பேசும் conversations-க்கான confidence-ஐ வளர்ப்போம்.",
+        "workingProfessional": "புரிந்தது! Work-லும் அதற்கு அப்பாலும் பயன்படுத்தக்கூடிய தெளிவான, confident speaking மீது focus செய்வோம்.",
+        "freelancer": "புரிந்தது! Clients-உடனும் அன்றாட வாழ்க்கையிலும் உதவும் confident English-ஐ வளர்ப்போம்.",
+        "businessOwner": "புரிந்தது! Customers, partners மற்றும் அன்றாட வாழ்க்கைக்கான confident English-ஐ வளர்ப்போம்.",
+        "lookingForWork": "புரிந்தது! Interviews-லும் அதற்கு அப்பாலும் உதவும் speaking confidence-ஐ வளர்ப்போம்.",
+        "homeMaker": "புரிந்தது! உங்கள் வேகத்திலேயே அன்றாட speaking confidence-ஐ வளர்ப்போம்.",
+        "careerBreak": "புரிந்தது! இந்த நேரத்தைப் பயன்படுத்தி English பேசுவதை இயல்பாக்குவோம்.",
+        "parent": "புரிந்தது! உங்கள் குழந்தைகளுடனும் மற்ற எல்லோருடனும் பயன்படுத்தக்கூடிய அன்றாட confidence-ஐ வளர்ப்போம்."
+      }
+    },
+    "painPointQuestion": "உண்மையைச் சொல்லுங்கள். English பேச வேண்டியிருக்கும்போது என்ன நடக்கிறது?",
+    "painPoint": {
+      "cantReplyFast": "புரியும், ஆனால் வேகமாக பதில் சொல்ல முடியவில்லை",
+      "translateInHead": "மனதில் $lang மொழியிலிருந்து translate செய்கிறேன்",
+      "scaredOfMistakes": "மற்றவர்கள் முன் தவறு செய்யப் பயம்",
+      "runOutOfWords": "வார்த்தைகள் கிடைப்பதில்லை",
+      "accent": "என் accent",
+      "soundPolished": "இன்னும் polished-ஆகப் பேச வேண்டும்",
+      "other": "வேறு ஏதாவது"
+    },
+    "painPointMyLanguage": "என் சொந்த",
+    "painPointOtherPrompt": "சில வார்த்தைகளில் சொல்லுங்கள். உங்கள் practice-ஐ plan செய்ய இது உதவும்.",
+    "painPointOtherHint": "எ.கா. பாதியில் confidence போய்விடுகிறது",
+    "painPointReply": {
+      "cantReplyFast": "புரிந்துகொள்வதற்கும் பதில் சொல்வதற்கும் இடையிலான அந்த இடைவெளி, practice-ல் சீக்கிரம் குறையும். வேகமாக பதில் சொல்லப் பயிற்சி செய்வோம்.",
+      "translateInHead": "இது ரொம்ப common! படிப்படியாக, நேரடியாக English-லேயே யோசிக்க உதவுவோம்.",
+      "scaredOfMistakes": "தவறுகள் மூலம்தான் நாம் கற்றுக்கொள்கிறோம். இங்கே நீங்களும் நானும் மட்டும்தான், யாரும் judge செய்ய மாட்டார்கள்.",
+      "runOutOfWords": "உங்களுக்கு முக்கியமான தருணங்களில் தேவைப்படும் வார்த்தைகளை வளர்த்துக்கொள்வோம்.",
+      "accent": "எந்த accent-ஐ விடவும் தெளிவாகப் பேசுவதுதான் முக்கியம். உங்களைத் தடுமாற வைக்கும் sounds மீது வேலை செய்வோம்.",
+      "soundPolished": "சூப்பர். நீங்கள் இயல்பாகப் பேச, உங்கள் fluency மற்றும் range-ஐக் கூர்மையாக்குவோம்.",
+      "other": "சொன்னதற்கு நன்றி. நாம் practice செய்யும்போது அதை நினைவில் வைத்துக்கொள்கிறேன்."
+    },
+    "levelQuestion": "உங்கள் தற்போதைய English level என்ன என்று சொல்வீர்கள்?",
+    "testimonialsIntro": "நீங்கள் சரியான இடத்தில் இருக்கிறீர்கள், {{name}}! Google Play-ன் Best AI App 2023 விருதை நாங்கள் ஏன் வென்றோம் என்று பாருங்கள், உங்களைப் போன்ற learners சொல்வதைக் கேளுங்கள்.",
+    "notifPriming": "தினமும் practice செய்வது உங்கள் goals-ஐ சீக்கிரம் அடைய உதவும்.",
+    "notifGranted": "நன்றி! சேர்ந்து English-ஐ தினசரி பழக்கமாக்குவோம்.",
+    "notifDenied": "பரவாயில்லை. Reminders-ஐ பிறகு Profile settings-ல் on செய்யலாம்.",
+    "readIntro": "கிட்டத்தட்ட முடிந்துவிட்டது! கடைசி step-ஆக, இதை எனக்காகச் சத்தமாகப் படியுங்கள்.",
+    "answerIntro": "கிட்டத்தட்ட முடிந்துவிட்டது! கடைசி step-ஆக, எனக்காக ஒரு கேள்விக்குப் பதில் சொல்லுங்கள்.",
+    "hintIntro": "இதை இப்படிச் சொல்லலாம். சத்தமாகப் படியுங்கள்:",
+    "didNotSpeakAlot": "நீங்கள் அதிகம் பேசவில்லை போலிருக்கிறது.",
+    "letsTrySomethingElse": "வேறு ஏதாவது try செய்யலாமா?",
+    "wellDoneRead": "அருமை, {{name}}! ஒரே மூச்சில் படித்துவிட்டீர்கள்.",
+    "wellDoneAnswered": "அருமை, {{name}}! முழு sentences-ல் பதில் சொன்னீர்கள்.",
+    "curiousHowWellYouSpoke": "நீங்கள் எவ்வளவு நன்றாகப் பேசினீர்கள் என்று தெரிந்துகொள்ள ஆசையா? பார்க்க tap செய்யுங்கள்!",
+    "seeDetailedReport": "விரிவான report பாருங்கள்",
+    "subPurposeQuestion": "எந்த மாதிரி situations-ல் நீங்கள் சிறப்பாக இருக்க விரும்புகிறீர்கள்?",
+    "enterReferralCode": "உங்களிடம் உள்ள referral code-ஐ enter செய்யுங்கள்",
+    "testimonialsIntroIos": "நீங்கள் சரியான இடத்தில் இருக்கிறீர்கள், {{name}}! உங்களைப் போன்ற learners சொல்வதைக் கேளுங்கள்.",
+    "helloBubble": "வணக்கம், நான் Sarah 👋",
+    "selectAnOption": "Option-ஐத் தேர்வு செய்யுங்கள்",
+    "continueCta": "தொடரவும்",
+    "skipForNow": "இப்போதைக்கு skip",
+    "phoneHint": "Phone number",
+    "goalOtherHint": "உங்கள் goal-ஐ எழுதுங்கள்",
+    "seeMoreLanguages": "மேலும் மொழிகள்",
+    "selectAnotherLanguage": "வேறு மொழியைத் தேர்வு செய்யுங்கள்",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "skip": "Skip",
+    "readItOutLoud": "சத்தமாகப் படியுங்கள்",
+    "modelAnswer": "மாதிரி பதில்",
+    "answerOutLoud": "சத்தமாகப் பதில் சொல்லுங்கள்",
+    "micTipRead": "Mic-ஐ tap செய்து படியுங்கள்",
+    "micTipAnswer": "Mic-ஐ tap செய்து பதிலளியுங்கள்",
+    "micTipHint": "தெரியவில்லையா? மாதிரி பதிலுக்கு bulb-ஐ tap செய்யவும்",
+    "progress": {
+      "letsGetStarted": "ஆரம்பிக்கலாம்!",
+      "percentCompleted": "$percent% முடிந்தது",
+      "niceToMeetYou": "சந்தித்ததில் மகிழ்ச்சி, $name!",
+      "gotIt": "புரிந்தது!",
+      "thanksForTellingUs": "சொன்னதற்கு நன்றி!",
+      "thatHelps": "இது உதவும், நன்றி!",
+      "youreAllSet": "எல்லாம் தயார்!",
+      "notAlone": "இதில் நீங்கள் தனியாக இல்லை.",
+      "almostThere": "இன்னும் கொஞ்சம்தான்!",
+      "firstSpeechDone": "முதல் speech முடிந்தது!",
+      "goalCaption": "“$goal” – $cheer",
+      "goalCheer": {
+        "ielts": "சிறந்த தேர்வு!",
+        "business": "அசத்தல்!",
+        "socializing": "சூப்பர்!",
+        "travel": "எவ்வளவு exciting!",
+        "education": "அசத்தல்!",
+        "others": "புரிந்தது!"
+      }
+    },
+    "report": {
+      "title": "உங்கள் report-ஐத்\nதயார் செய்கிறோம்…",
+      "tickPronunciation": "Pronunciation-ஐச் சரிபார்க்கிறோம்",
+      "tickFluency": "Fluency மற்றும் pauses-ஐச் சரிபார்க்கிறோம்",
+      "tickGrammar": "Grammar-ஐச் சரிபார்க்கிறோம்",
+      "tickGoal": "உங்கள் goal உடன் பொருத்துகிறோம்: $goal",
+      "foot": "சுமார் 5 seconds ஆகும், ஆமாம், நாங்கள் அவ்வளவு வேகம்!",
+      "answersCaption": "உங்கள் பதில்களை வைத்து உருவாக்கப்பட்டது.",
+      "tapHint": "மாற்ற, ஒன்றை tap செய்யுங்கள்.",
+      "cta": "தொடரவும்",
+      "sheetSituation": "உங்களை எது சரியாக விவரிக்கிறது?",
+      "sheetGoal": "உங்கள் main goal",
+      "sheetPain": "எது தடையாக இருக்கிறது?",
+      "painShort": {
+        "cantReplyFast": "மெதுவான பதில்",
+        "translateInHead": "மனதில் translate",
+        "scaredOfMistakes": "தவறு செய்யப் பயம்",
+        "runOutOfWords": "வார்த்தைகள் வருவதில்லை",
+        "accent": "Accent",
+        "soundPolished": "Polished-ஆகப் பேசுவது",
+        "other": "வேறு ஏதாவது"
+      }
+    },
+    "level": {
+      "kicker": "உங்கள் level",
+      "titleBeginner": "நீங்கள் ஒரு $level",
+      "titleOther": "நீங்கள் $level",
+      "rungs": {
+        "a1": "Novice",
+        "a2": "Beginner",
+        "b1": "Intermediate",
+        "b2": "Advanced",
+        "c1": "Proficient",
+        "c2": "Native"
+      },
+      "hereTitle": "நீங்கள் இங்கே",
+      "hereBeginner": "“சின்ன sentences”",
+      "hereIntermediate": "“அன்றாடப் பேச்சு”",
+      "hereAdvanced": "“Fluent, நேர்த்தியாக”",
+      "nextTitle": "அடுத்த இலக்கு",
+      "nextBeginner": "குறைவான pauses",
+      "nextIntermediate": "வேகமான பதில்கள்",
+      "nextAdvanced": "இயல்பாக, துல்லியமாக",
+      "wellHeading": "நீங்கள் நன்றாகச் செய்தவை",
+      "improveHeading": "மேம்படுத்த வேண்டியவை",
+      "wellReadWhole": "நிறுத்தாமல் முழு passage-ஐயும் படித்தீர்கள்.",
+      "improveOne": "'$first'-க்குக் கொஞ்சம் practice தேவை. அடுத்து அதைச் சரிசெய்வோம்.",
+      "improveTwo": "'$first' மற்றும் '$second'-க்குக் கொஞ்சம் practice தேவை. அடுத்து அவற்றைச் சரிசெய்வோம்.",
+      "improveThree": "'$first', '$second' மற்றும் '$third'-க்குக் கொஞ்சம் practice தேவை. அடுத்து அவற்றைச் சரிசெய்வோம்.",
+      "cta": "தொடரவும்"
+    },
+    "fix": {
+      "errorsKicker": "Quick fix",
+      "errorsTitleOne": "ஒரு word-க்கு\nகொஞ்சம் practice தேவை",
+      "errorsTitleTwo": "இரண்டு words-க்கு\nகொஞ்சம் practice தேவை",
+      "errorsTitleThree": "மூன்று words-க்கு\nகொஞ்சம் practice தேவை",
+      "errorsTitleMany": "$count words-க்கு\nகொஞ்சம் practice தேவை",
+      "errorsSub": "உங்கள் plan-ஐ உருவாக்கும் முன் அவற்றைச் சரிசெய்வோம்.",
+      "passageLabel": "படித்ததிலிருந்து",
+      "whatToFix": "திருத்தங்கள்",
+      "practiseSound": "'$sound' sound-ஐ practice செய்யுங்கள்",
+      "errorsCta": "சரிசெய்வோம்",
+      "practiceKicker": "Practice",
+      "practiceTitle": "<em>'$word'</em>-ல் உள்ள '$sound' sound-ஐ மேம்படுத்துவோம்",
+      "cue": "இந்த word-ஐ <b>சத்தமாகப்</b> படியுங்கள்",
+      "currentScore": "தற்போதைய score",
+      "newScore": "புதிய score",
+      "tapToSpeak": "பேச tap செய்யவும்",
+      "tryAgain": "Try again",
+      "analysing": "சோதிக்கிறோம்…",
+      "soundsClear": "தெளிவாக உள்ளது",
+      "skipWord": "இந்த word-ஐ skip",
+      "continueCta": "தொடரவும்",
+      "listen": "கேளுங்கள்",
+      "exitTitle": "பொறுங்கள், கிட்டத்தட்ட முடிந்தது!",
+      "exitBody": "Personalized learning-ஐ unlock செய்ய இன்னும் சில நொடிகளே உள்ளன. முடித்துவிடுவோம்!",
+      "exitStay": "தொடரவும்",
+      "exitLeave": "பிறகு செய்வேன்"
+    },
+    "win": {
+      "headerCaption": "அருமை!",
+      "firstLineCard": "பாருங்கள், $name! ஒரே முயற்சியில் '$word' ஏற்கனவே தெளிவாக ஒலிக்கிறது.",
+      "firstLineNoCard": "அருமை, $name! உண்மையான feedback உடன் இப்போதுதான் English-ல் சத்தமாகப் பேசினீர்கள்.",
+      "secondLine": "தினமும் 10 நிமிடம் செய்யும் மாயம் இதுதான். உங்கள் முதல் lesson தயாராக உங்களுக்காகக் காத்திருக்கிறது.",
+      "gainCaption": "points, ஒரே முயற்சியில்",
+      "before": "முன்பு",
+      "after": "பின்பு",
+      "cta": "என் plan-ஐ தொடங்கு"
+    },
+    "plan": {
+      "kicker": "உங்கள் plan",
+      "learners": "13Mn+ learners உங்களுடன் இந்தப் பயணத்தில் இருக்கிறார்கள்",
+      "body": "உங்கள் தற்போதைய level-ல் ($cefr), தினமும் 10 நிமிட practice\nஎன்ன செய்ய முடியும் என்று பாருங்கள்.",
+      "today": "இன்று",
+      "week1": "வாரம் 1",
+      "week4": "வாரம் 4",
+      "week8": "வாரம் 8",
+      "cta": "என் plan-ஐ தொடங்கு",
+      "school": {
+        "title": "Class-ல் confident-ஆகப் பேசுங்கள்",
+        "m1": "நிறுத்தாமல் class-ல் உங்களை அறிமுகப்படுத்துங்கள்",
+        "m2": "முழு sentences-ல் teacher-க்குப் பதில் சொல்லுங்கள்",
+        "m3": "2 நிமிட class presentation கொடுங்கள்"
+      },
+      "career": {
+        "title": "அடுத்த interview-க்குத் தயாராகச் செல்லுங்கள்",
+        "m1": "நிறுத்தாமல் உங்களை அறிமுகப்படுத்துங்கள்",
+        "m2": "'Tell me about yourself'-க்கு ஒரு நிமிடத்தில் பதில் சொல்லுங்கள்",
+        "m3": "முழு mock HR round-ஐச் சமாளியுங்கள்"
+      },
+      "ielts": {
+        "title": "உங்கள் target band-ஐ நெருங்குங்கள்",
+        "m1": "நீண்ட pauses இல்லாமல் Part 1 questions-க்குப் பதில் சொல்லுங்கள்",
+        "m2": "Part 2 cue card-ல் முழுதாக 2 நிமிடம் பேசுங்கள்",
+        "m3": "முழு speaking mock test எடுங்கள்"
+      },
+      "travel": {
+        "title": "மொழிக் கவலை இல்லாமல் பயணம் செய்யுங்கள்",
+        "m1": "Airport மற்றும் hotel check-in-ஐ சுலபமாக முடியுங்கள்",
+        "m2": "Food order செய்யுங்கள், உள்ளூர் மக்களிடம் வழி கேளுங்கள்",
+        "m3": "உள்ளூர் மக்களுடன் சுலபமாக chat செய்யுங்கள்"
+      },
+      "personal": {
+        "title": "அன்றாடம் confident-ஆக English பேசுங்கள்",
+        "m1": "நிறுத்தாமல் உங்கள் நாளைப் பற்றிப் பேசுங்கள்",
+        "m2": "5 நிமிட conversation நடத்துங்கள்",
+        "m3": "Group-ல் உங்கள் கருத்தைத் தெளிவாகச் சொல்லுங்கள்"
+      }
+    }
+  }
+}

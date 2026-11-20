@@ -1,0 +1,604 @@
+{
+  "status": "success",
+  "message": "Modules returned successfully",
+  "data": {
+    "id": 9,
+    "unit_template": "generalized_v1",
+    "title": "Module 3.3 - Pronunciation",
+    "unit_order": 9,
+    "subunits": [
+      {
+        "subunit_id": 1,
+        "subunit_template": "exercise-scripted-without-media",
+        "subunit_order": 1,
+        "type": "exercise",
+        "meta": {
+          "states": [
+            {
+              "state": "initial",
+              "title": "Try reading this phrase",
+              "show_score": false,
+              "show_skip": false
+            },
+            {
+              "state": "retry",
+              "title": "Read the phrase",
+              "show_score": true,
+              "show_skip": true
+            },
+            {
+              "state": "next",
+              "title": "Well done! You spoke almost fine",
+              "show_score": true,
+              "show_skip": false
+            }
+          ],
+          "helper": {
+            "button_text": "Learn to speak right",
+            "audio_url": "s3://",
+            "icon": {
+              "type": "",
+              "url": ""
+            }
+          },
+          "script": {
+            "english": "Good morning! I'm Sarah. I work in Nice to meet you! I look forward to working together!",
+            "translation": null
+          }
+        },
+        "to_capture_response": true,
+        "success_goto": "next",
+        "failure_goto": "retry",
+        "attempt_counter": 0,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      },
+      {
+        "subunit_id": 2,
+        "subunit_template": "lesson-paragraph-words",
+        "subunit_order": 2,
+        "type": "lesson",
+        "meta": {
+          "states": [
+            {
+              "state": "initial",
+              "heading": "Let's improve on these words",
+              "subheading": "Words you mispronounced",
+              "highlights": [
+                {
+                  "label": "marketing",
+                  "border": true,
+                  "range": [36, 45],
+                  "show_correct": false
+                },
+                {
+                  "label": "forward",
+                  "border": true,
+                  "range": [69, 75],
+                  "show_correct": false
+                },
+                {
+                  "label": "working",
+                  "border": true,
+                  "range": [79, 86],
+                  "show_correct": false
+                }
+              ]
+            }
+          ],
+          "paragraph": "Good morning! I'm Sarah. I work in marketing. Nice to meet you! I look forward to working together!",
+          "pick_analysis_from": {},
+          "next_subunit_template": "exercise",
+          "flow": {}
+        },
+        "to_capture_response": false,
+        "success_goto": "next",
+        "failure_goto": "next",
+        "attempt_counter": 0,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      },
+      {
+        "subunit_id": 3,
+        "subunit_template": "exercise-scripted-word",
+        "subunit_order": 3,
+        "type": "exercise",
+        "meta": {
+          "heading_states": [
+            {
+              "state": "initial",
+              "heading": "Pronounce your first word"
+            },
+            {
+              "state": "play_pronunciation_audio",
+              "heading": "Here's how you pronounce"
+            },
+            {
+              "state": "await_user_input",
+              "heading": "Pronounce your first word"
+            },
+            {
+              "state": "failure_try_again",
+              "heading": "Ahh! You were so close"
+            },
+            {
+              "state": "success",
+              "heading": "Hurray! You got this right!"
+            },
+            {
+              "state": "loading",
+              "heading": "Working on your speech"
+            },
+            {
+              "state": "failure_save_for_later",
+              "heading": "We will comeback to this later!",
+              "save_button": {
+                "icon": "download icon",
+                "text": "Save for future practice"
+              }
+            }
+          ],
+          "is_final_chance": false,
+          "final_chance_header": {
+            "icon": {
+              "type": "",
+              "url": ""
+            },
+            "text": "Final chance"
+          },
+          "stimulus": {
+            "word": "marketing",
+            "pronunciation_helper": "Mar.kett.in.gg",
+            "pronunciation_audio": "s3://",
+            "pronunciation_audio_cta_text": "Learn to Pronounce"
+          }
+        },
+        "progress_bar": {
+          "current_step": 1,
+          "next_step": 2,
+          "total_steps": 8
+        },
+        "to_capture_response": false,
+        "success_goto": "next",
+        "failure_goto": "next",
+        "attempt_counter": 0,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      },
+      {
+        "subunit_id": 3,
+        "subunit_template": "lesson-pronunciation-phoneme",
+        "subunit_order": 3,
+        "type": "lesson",
+        "meta": {
+          "title": "We found your weak areas",
+          "target": "marketing",
+          "target_phoneme": "ng",
+          "target_phoneme_highlight": [7, 9],
+          "helper": "mar.kett.in.gg",
+          "helper_highlights": [9, 14],
+          "explanation": "You were weak at pronouncing the $.target_phoneme phoneme sound",
+          "instruction": "Let's practice few words ending with the $.target_phoneme sound"
+        },
+        "to_capture_response": false,
+        "success_goto": "next",
+        "failure_goto": "next",
+        "attempt_counter": 0,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      },
+      {
+        "subunit_id": 4,
+        "subunit_template": "exercise-scripted-word",
+        "subunit_order": 4,
+        "type": "exercise",
+        "meta": {
+          "heading_states": [
+            {
+              "state": "initial",
+              "heading": "Lets improve on ng sound"
+            },
+            {
+              "state": "play_pronunciation_audio",
+              "heading": "Here's how you pronounce"
+            },
+            {
+              "state": "await_user_input",
+              "heading": "Pronounce your first word"
+            },
+            {
+              "state": "failure_try_again",
+              "heading": "Ahh! You were so close"
+            },
+            {
+              "state": "success",
+              "heading": "Hurray! You got this right!"
+            },
+            {
+              "state": "loading",
+              "heading": "Working on your speech"
+            },
+            {
+              "state": "failure_save_for_later",
+              "heading": "We will comeback to this later!",
+              "save_button": {
+                "icon": "download icon",
+                "text": "Save for future practice"
+              }
+            }
+          ],
+          "is_final_chance": false,
+          "final_chance_header": {
+            "icon": {
+              "type": "",
+              "url": ""
+            },
+            "text": "Final chance"
+          },
+          "stimulus": {
+            "word": "Making",
+            "pronunciation_helper": "Mae.kii.ng",
+            "pronunciation_audio": "s3://",
+            "pronunciation_audio_cta_text": "Learn to Pronounce"
+          }
+        },
+        "to_capture_response": false,
+        "success_goto": "next",
+        "failure_goto": "next",
+        "attempt_counter": 0,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      },
+      {
+        "subunit_id": 5,
+        "subunit_template": "lesson-pronunciation-phoneme",
+        "subunit_order": 5,
+        "type": "lesson",
+        "meta": {
+          "title": "We found your weak areas",
+          "target": "Makeing",
+          "target_phoneme": "ng",
+          "target_phoneme_highlight": [5, 7],
+          "helper": "Mae.kii.nng",
+          "helper_highlights": [8, 11],
+          "explanation": "You were weak at pronouncing the $.target_phoneme phoneme sound",
+          "instruction": "Let's practice few words ending with the $.target_phoneme sound"
+        },
+        "to_capture_response": false,
+        "success_goto": "next",
+        "failure_goto": "next",
+        "attempt_counter": 0,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      },
+      {
+        "subunit_id": 6,
+        "subunit_template": "exercise-scripted-word",
+        "subunit_order": 6,
+        "type": "exercise",
+        "meta": {
+          "heading_states": [
+            {
+              "state": "initial",
+              "heading": "Lets improve on ng sound"
+            },
+            {
+              "state": "play_pronunciation_audio",
+              "heading": "Here's how you pronounce"
+            },
+            {
+              "state": "await_user_input",
+              "heading": "Pronounce your first word"
+            },
+            {
+              "state": "failure_try_again",
+              "heading": "Ahh! You were so close"
+            },
+            {
+              "state": "success",
+              "heading": "Hurray! You got this right!"
+            },
+            {
+              "state": "loading",
+              "heading": "Working on your speech"
+            },
+            {
+              "state": "failure_save_for_later",
+              "heading": "We will comeback to this later!",
+              "save_button": {
+                "icon": "download icon",
+                "text": "Save for future practice"
+              }
+            }
+          ],
+          "is_final_chance": true,
+          "final_chance_header": {
+            "icon": {
+              "type": "",
+              "url": ""
+            },
+            "text": "Final chance"
+          },
+          "stimulus": {
+            "word": "Playing",
+            "pronunciation_helper": "Plee.eing",
+            "pronunciation_audio": "s3://",
+            "pronunciation_audio_cta_text": "Learn to Pronounce"
+          }
+        },
+        "to_capture_response": false,
+        "success_goto": "next",
+        "failure_goto": "next",
+        "attempt_counter": 0,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      },
+      {
+        "subunit_id": 7,
+        "subunit_template": "lesson-paragraph-words",
+        "subunit_order": 7,
+        "type": "lesson",
+        "meta": {
+          "states": [
+            {
+              "state": "show_mispronounced_words",
+              "heading": "Phoneme “ng” mastered",
+              "subheading": "Words you mispronounced",
+              "highlights": [
+                {
+                  "label": "marketing",
+                  "border": true,
+                  "range": [36, 45],
+                  "show_correct": false
+                },
+                {
+                  "label": "forward",
+                  "border": true,
+                  "range": [69, 75],
+                  "show_correct": false
+                },
+                {
+                  "label": "working",
+                  "border": true,
+                  "range": [79, 86],
+                  "show_correct": false
+                }
+              ]
+            },
+            {
+              "state": "transition",
+              "heading": "Phoneme “ng” mastered",
+              "subheading": "Words you mispronounced",
+              "highlights": [
+                {
+                  "label": "marketing",
+                  "border": true,
+                  "range": [36, 45],
+                  "show_correct": true
+                },
+                {
+                  "label": "forward",
+                  "border": true,
+                  "range": [69, 75],
+                  "show_correct": false
+                },
+                {
+                  "label": "working",
+                  "border": true,
+                  "range": [79, 86],
+                  "show_correct": false
+                }
+              ]
+            },
+            {
+              "state": "show_previous_score",
+              "heading": "Phoneme “ng” mastered",
+              "subheading": "Words you mispronounced",
+              "highlights": [
+                {
+                  "label": "marketing",
+                  "border": true,
+                  "range": [36, 45],
+                  "show_correct": true
+                },
+                {
+                  "label": "forward",
+                  "border": true,
+                  "range": [69, 75],
+                  "show_correct": false
+                },
+                {
+                  "label": "working",
+                  "border": true,
+                  "range": [79, 86],
+                  "show_correct": false
+                }
+              ],
+              "score": "35%"
+            }
+          ],
+          "paragraph": "Good morning! I'm Sarah. I work in marketing. Nice to meet you! I look forward to working together!",
+          "pick_analysis_from": {},
+          "next_subunit_template": "exercise",
+          "flow": {}
+        },
+        "progress_bar": {
+          "current_step": 1,
+          "next_step": 2,
+          "total_steps": 8
+        },
+        "to_capture_response": false,
+        "success_goto": "next",
+        "failure_goto": "next",
+        "attempt_counter": 0,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      },
+      {
+        "subunit_id": 8,
+        "subunit_template": "exercise-scripted-word",
+        "subunit_order": 8,
+        "type": "exercise",
+        "meta": {
+          "heading_states": [
+            {
+              "state": "initial",
+              "heading": "Lets move on to next word"
+            },
+            {
+              "state": "play_pronunciation_audio",
+              "heading": "Here's how you pronounce"
+            },
+            {
+              "state": "await_user_input",
+              "heading": "Pronounce your first word"
+            },
+            {
+              "state": "failure_try_again",
+              "heading": "Ahh! You were so close"
+            },
+            {
+              "state": "success",
+              "heading": "Hurray! You got this right!"
+            },
+            {
+              "state": "loading",
+              "heading": "Working on your speech"
+            },
+            {
+              "state": "failure_save_for_later",
+              "heading": "We will comeback to this later!",
+              "save_button": {
+                "icon": "download icon",
+                "text": "Save for future practice"
+              }
+            }
+          ],
+          "is_final_chance": false,
+          "final_chance_header": {
+            "icon": {
+              "type": "",
+              "url": ""
+            },
+            "text": "Final chance"
+          },
+          "stimulus": {
+            "word": "forward",
+            "pronunciation_helper": "foe.er.wad",
+            "pronunciation_audio": "s3://",
+            "pronunciation_audio_cta_text": "Learn to Pronounce"
+          }
+        },
+        "to_capture_response": false,
+        "success_goto": "next",
+        "failure_goto": "next",
+        "attempt_counter": 0,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      },
+      {
+        "subunit_id": 9,
+        "subunit_template": "exercise-scripted-word",
+        "subunit_order": 9,
+        "type": "exercise",
+        "meta": {
+          "heading_states": [
+            {
+              "state": "initial",
+              "heading": "Lets move on to next word"
+            },
+            {
+              "state": "play_pronunciation_audio",
+              "heading": "Here's how you pronounce"
+            },
+            {
+              "state": "await_user_input",
+              "heading": "Pronounce your first word"
+            },
+            {
+              "state": "failure_try_again",
+              "heading": "Ahh! You were so close"
+            },
+            {
+              "state": "success",
+              "heading": "Hurray! You got this right!"
+            },
+            {
+              "state": "loading",
+              "heading": "Working on your speech"
+            },
+            {
+              "state": "failure_save_for_later",
+              "heading": "We will comeback to this later!",
+              "save_button": {
+                "icon": "download icon",
+                "text": "Save for future practice"
+              }
+            }
+          ],
+          "is_final_chance": false,
+          "final_chance_header": {
+            "icon": {
+              "type": "",
+              "url": ""
+            },
+            "text": "Final chance"
+          },
+          "stimulus": {
+            "word": "working",
+            "pronunciation_helper": "work.in.nng",
+            "pronunciation_audio": "s3://",
+            "pronunciation_audio_cta_text": "Learn to Pronounce"
+          }
+        },
+        "to_capture_response": false,
+        "success_goto": "next",
+        "failure_goto": "next",
+        "attempt_counter": 0,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      },
+      {
+        "subunit_id": 10,
+        "subunit_template": "lesson-module-progress-bookend",
+        "subunit_order": 10,
+        "base_lang_id": 2,
+        "lang_id": 2,
+        "fallback": true,
+        "type": "lesson",
+        "meta": {
+          "initial_state": {
+            "heading": "Reading practice done!",
+            "cta_text": "Let's Review",
+            "progress": {
+              "subtext": "Day 3",
+              "numerator": 3,
+              "denominator": 3
+            },
+            "subheading": "Part 3 of Day 3 is complete ",
+            "description": {
+              "text": "You read a paragraph and learnt to pronounce better",
+              "highlight_ranges": [
+                {
+                  "color": "#FFEBCD",
+                  "label": "read a paragraph",
+                  "range": [
+                    4,
+                    20
+                  ]
+                }
+              ]
+            }
+          },
+          "is_included_in_progress_bar": false
+        },
+        "to_capture_response": false,
+        "success_goto": "end",
+        "failure_goto": "end",
+        "attempt_counter": 1,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted"
+      }
+    ]
+  }
+}

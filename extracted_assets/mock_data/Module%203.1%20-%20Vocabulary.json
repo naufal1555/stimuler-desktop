@@ -1,0 +1,135 @@
+{
+  "status": "success",
+  "message": "Modules returned successfully",
+  "data": {
+    "module_id": 1,
+    "units": [
+      {
+        "id": 1,
+        "unit_template": "generalized_v1",
+        "title": "Module 3.1 - Vocabulary",
+        "unit_order": 1,
+        "subunits": [
+          {
+            "subunit_id": 97,
+            "subunit_template": "lesson-video-grammar",
+            "original_subunit_order": 10,
+            "final_subunit_order": 10,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "lesson",
+            "meta": {
+              "title": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Tap on Mic and Read"
+              },
+              "video": {
+                "video_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fvideo%2Fcropped%2F2026%2F02%2F28%2F1772270370241_grammar-video.mp4?alt=media&token=b79cd79e-6738-45f1-9159-478faf747f0d",
+                "subtitle_url": "https://storage.googleapis.com/stimuler-53977.appspot.com/roadmap_meta/subtitle/2026/02/21/1771655020534_grammar-video.srt",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2Fthumbnail%2F2026%2F02%2F28%2F1772270371280_grammar-video.png?alt=media&token=9c972764-4954-4ebe-9522-bae66fdf13e7"
+              },
+              "theme_palette_id": "lesson_video_grammar_brown",
+              "practice_sentence": {
+                "text": "Could be better, honestly but \nI won’t keep you any longer.",
+                "highlight_ranges": [
+                  {
+                    "pos": "response to a greeting",
+                    "label": "Could be better, honestly",
+                    "range": [
+                      0,
+                      25
+                    ],
+                    "grammar_tag": "",
+                    "highlight_windows": [
+                      {
+                        "end": 18000,
+                        "start": 16000
+                      }
+                    ]
+                  },
+                  {
+                    "pos": "conjunction",
+                    "label": "But",
+                    "range": [
+                      26,
+                      29
+                    ],
+                    "grammar_tag": "",
+                    "highlight_windows": [
+                      {
+                        "end": 16000,
+                        "start": 10000
+                      }
+                    ]
+                  },
+                  {
+                    "pos": "ending",
+                    "label": "I won’t keep you any longer",
+                    "range": [
+                      30,
+                      58
+                    ],
+                    "grammar_tag": "",
+                    "highlight_windows": [
+                      {
+                        "end": 21000,
+                        "start": 18000
+                      }
+                    ]
+                  }
+                ]
+              },
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 98,
+                "progress_bar": {
+                  "next_step": 5,
+                  "total_steps": 11,
+                  "current_step": 5
+                },
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_98_11",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": false,
+                "final_subunit_order": 11
+              }
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_97_10",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "status": "completed",
+  "display_mode": "ielts",
+  "entity": {
+    "id": "att_mock_1",
+    "attempt_type": "conversation",
+    "analysis_id": "an_mock_1"
+  },
+  "labels": {
+    "title": "Introduction - let's know about you",
+    "feedback_heading": "Detailed feedback",
+    "cta_text": "See Detailed Feedback",
+    "rating": {
+      "heading": "Rate this Session",
+      "thanks": "Thanks for rating!"
+    }
+  },
+  "header": {
+    "avatar_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/conversation%2Favatars%2Fsarah_pointing.png?alt=media&token=72829a57-e098-43bf-9392-4082756213bd",
+    "stars": {
+      "current": 1,
+      "total": 3,
+      "breakdown": [
+        {
+          "key": "hint",
+          "label": "Explore a hint",
+          "earned": true
+        },
+        {
+          "key": "mistakes",
+          "label": "Explore feedback from Sarah",
+          "earned": false
+        },
+        {
+          "key": "drill",
+          "label": "Practice pronouncing a word",
+          "earned": false
+        }
+      ]
+    },
+    "band": {
+      "score": "Band 6.5/9",
+      "caption": "You are better than 16k+ Stimuler users! Kudos 👏🏻"
+    }
+  },
+  "stats": [
+    {
+      "key": "chat_count",
+      "label": "Chat\nMessages",
+      "value": "8"
+    },
+    {
+      "key": "user_word_count",
+      "label": "Words\nSpoken",
+      "value": "76"
+    },
+    {
+      "key": "time_spent_ms",
+      "label": "Minutes\nSpent",
+      "value": "2:04"
+    }
+  ],
+  "analysis": {
+    "is_analysis_available": true,
+    "categories": [
+      {
+        "key": "pronunciation",
+        "title": "Pronunciation",
+        "score_display": {
+          "text": "70%",
+          "fill_fraction": 0.7
+        },
+        "card_cta_text": "See Now",
+        "body": {
+          "text": "Practice 4 words to improve score by 30%",
+          "highlights": [
+            {
+              "start_index": 37,
+              "end_index": 40,
+              "color": "#FBBF24"
+            }
+          ]
+        }
+      },
+      {
+        "key": "grammar",
+        "title": "Grammar",
+        "score_display": {
+          "text": "91%",
+          "fill_fraction": 0.91
+        },
+        "card_cta_text": null,
+        "body": {
+          "text": "Good! see detailed feedback",
+          "highlights": []
+        }
+      },
+      {
+        "key": "vocabulary",
+        "title": "Vocabulary",
+        "score_display": {
+          "text": "70%",
+          "fill_fraction": 0.7
+        },
+        "card_cta_text": "See Now",
+        "body": {
+          "text": "Practice 1 word to improve score by 30%",
+          "highlights": [
+            {
+              "start_index": 36,
+              "end_index": 39,
+              "color": "#6B72FE"
+            }
+          ]
+        }
+      },
+      {
+        "key": "fluency",
+        "title": "Fluency",
+        "score_display": {
+          "text": "81%",
+          "fill_fraction": 0.81
+        },
+        "card_cta_text": null,
+        "body": {
+          "text": "Fantastic job! Your fluency has improved significantly!",
+          "highlights": []
+        }
+      }
+    ],
+    "id": "an_mock_1"
+  }
+}

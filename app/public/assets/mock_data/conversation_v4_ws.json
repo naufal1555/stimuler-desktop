@@ -1,0 +1,1538 @@
+{
+  "intro": [
+    {
+      "delay_ms": 200,
+      "frame": {
+        "event": "CONNECTION_ESTABLISHED",
+        "connection_id": "conn_mock_1"
+      }
+    },
+    {
+      "delay_ms": 150,
+      "frame": {
+        "event": "SESSION_READY",
+        "conversation_id": "conv_mock_1",
+        "topic_id": "topic_mock",
+        "initial_state": {
+          "messages": [],
+          "current_step_id": 1,
+          "mode": "conversation",
+          "progress_bar": {
+            "total_steps": 3,
+            "current_step": 0,
+            "next_step": 1
+          },
+          "stars": {
+            "current": 0,
+            "total": 4,
+            "breakdown": [
+              {
+                "source": "hint",
+                "label": "Explore a hint",
+                "earned": false
+              },
+              {
+                "source": "mistakes",
+                "label": "Explore feedback from Sarah",
+                "earned": false
+              },
+              {
+                "source": "drill",
+                "label": "Practice pronouncing a word",
+                "earned": false
+              },
+              {
+                "source": "ielts_task_response",
+                "label": "Answer the whole question",
+                "earned": false
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "delay_ms": 300,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "bot_1",
+        "from": "bot",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loading",
+        "requires_user_action": false,
+        "content": {}
+      }
+    },
+    {
+      "delay_ms": 500,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "bot_1",
+        "from": "bot",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loaded",
+        "requires_user_action": false,
+        "content": {
+          "text": "Hi! What did you do today?",
+          "message_actions": [
+            {
+              "action_type": "tts",
+              "enabled": true
+            },
+            {
+              "action_type": "translate",
+              "enabled": true
+            }
+          ],
+          "highlight_ranges": null,
+          "available_taps": [
+            {
+              "tap_type": "hint",
+              "enabled": true,
+              "alignment": "right",
+              "state": "loaded",
+              "tap_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "meta": {
+                "prompt_text": "Tap to see hint",
+                "translated_prompt_text": "संकेत देखने के लिए टैप करें",
+                "hint_text": "I had to make them last minute because the data wasn't ready until yesterday.",
+                "audio_url": null,
+                "translated_text": "मुझे आखिरी मिनट में बनाना पड़ा क्योंकि डेटा कल तक तैयार नहीं था।"
+              }
+            }
+          ],
+          "tooltips": [
+            {
+              "tooltip_id": "translate_intro",
+              "target": "translate",
+              "text": "Tap to Translate",
+              "dismiss": "auto"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "delay_ms": 250,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "user_1",
+        "from": "user",
+        "message_template": "user_speech",
+        "message_alignment": "right",
+        "message_state": "initial",
+        "requires_user_action": true,
+        "content": {
+          "recording": {
+            "max_audio_ms": 45000,
+            "min_audio_ms": 3000,
+            "prep_ms": 15000
+          },
+          "tooltips": [
+            {
+              "tooltip_id": "mic_record_intro",
+              "target": "mic_record",
+              "text": "Tap to Speak",
+              "dismiss": "on_tap"
+            },
+            {
+              "tooltip_id": "mic_submit_intro",
+              "target": "mic_submit",
+              "text": "Tap to Submit",
+              "dismiss": "on_tap"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "steps": [
+    {
+      "on_event": "START_RECORDING",
+      "frames": [
+        {
+          "delay_ms": 80,
+          "frame": {
+            "event": "RECORDING_STARTED",
+            "message_id": "user_1",
+            "message_template": "user_speech"
+          }
+        },
+        {
+          "delay_ms": 400,
+          "frame": {
+            "event": "AUDIO_RECEIVED",
+            "message_id": "user_1",
+            "message_template": "user_speech",
+            "bytes_received": 32000,
+            "chunks_received": 10
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "frames": [
+        {
+          "delay_ms": 150,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "I worked on my project all day.",
+              "message_actions": [
+                {
+                  "action_type": "show_mistakes",
+                  "enabled": false
+                }
+              ],
+              "analysis": {
+                "state": "pending"
+              }
+            }
+          }
+        },
+        {
+          "delay_ms": 600,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "I worked on my project all day.",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "show_mistakes",
+                  "enabled": true,
+                  "prompt_text": "View Mistakes",
+                  "translated_prompt_text": "गलतियाँ देखें"
+                }
+              ],
+              "_comment": "tts enabled with no audio_url ⇒ the speaker chip renders greyed + inert (offline demo, no download attempted).",
+              "highlights": [
+                {
+                  "start_index": 2,
+                  "end_index": 8,
+                  "color": "#FFC24B"
+                },
+                {
+                  "start_index": 12,
+                  "end_index": 14,
+                  "color": "#FFC24B"
+                }
+              ],
+              "analysis": {
+                "state": "completed",
+                "overall_score": 82,
+                "is_perfect": false,
+                "mistakes": {
+                  "status": "completed",
+                  "grammar": {
+                    "corrections": [
+                      {
+                        "original": {
+                          "text": "I worked on my project all day.",
+                          "highlights": [
+                            {
+                              "start_index": 23,
+                              "end_index": 30,
+                              "color": "#FF9393"
+                            }
+                          ]
+                        },
+                        "corrected": {
+                          "text": "I worked on my project all day long.",
+                          "highlights": [
+                            {
+                              "start_index": 23,
+                              "end_index": 35,
+                              "color": "#85FF9C"
+                            }
+                          ]
+                        },
+                        "reason_label": "Reason for error",
+                        "reason": "Use 'all day long' for natural emphasis."
+                      },
+                      {
+                        "original": {
+                          "text": "I worked on my project all day.",
+                          "highlights": [
+                            {
+                              "start_index": 2,
+                              "end_index": 8,
+                              "color": "#FF9393"
+                            }
+                          ]
+                        },
+                        "corrected": {
+                          "text": "I have been working on my project all day.",
+                          "highlights": [
+                            {
+                              "start_index": 2,
+                              "end_index": 19,
+                              "color": "#85FF9C"
+                            }
+                          ]
+                        },
+                        "reason_label": "Reason for error",
+                        "reason": "Present perfect continuous better conveys the ongoing effort."
+                      }
+                    ]
+                  },
+                  "pronunciation": {
+                    "user_transcript": {
+                      "text": "I worked on my project all day.",
+                      "highlights": [
+                        {
+                          "start_index": 2,
+                          "end_index": 8,
+                          "color": "#F74557",
+                          "underline": true
+                        },
+                        {
+                          "start_index": 15,
+                          "end_index": 22,
+                          "color": "#F74557",
+                          "underline": true
+                        }
+                      ]
+                    },
+                    "user_audio_url": "https://cdn.stimuler.ai/mock/turn.mp3",
+                    "mispronounced_words": [
+                      {
+                        "word": "project",
+                        "user_audio_position": {
+                          "from_ms": 900,
+                          "to_ms": 1350
+                        }
+                      },
+                      {
+                        "word": "worked",
+                        "user_audio_position": {
+                          "from_ms": 200,
+                          "to_ms": 550
+                        }
+                      }
+                    ]
+                  },
+                  "vocabulary": {
+                    "error": {
+                      "text": "worked on my project",
+                      "highlights": [
+                        {
+                          "start_index": 0,
+                          "end_index": 6,
+                          "color": "#FF9393"
+                        }
+                      ]
+                    },
+                    "correction": {
+                      "text": "focused on my project",
+                      "highlights": [
+                        {
+                          "start_index": 0,
+                          "end_index": 7,
+                          "color": "#85FF9C"
+                        }
+                      ]
+                    },
+                    "suggestions_label": "Better Vocabulary suggestions",
+                    "suggestions": [
+                      {
+                        "wrong_word": "worked",
+                        "right_word": "focused"
+                      },
+                      {
+                        "wrong_word": "all day",
+                        "right_word": "throughout the day"
+                      }
+                    ]
+                  },
+                  "fluency": {
+                    "improved_label": "Improved Version of Your Speech:",
+                    "improved_speech": "I spent the whole day focused on my project."
+                  }
+                }
+              },
+              "tooltips": [
+                {
+                  "tooltip_id": "mistakes_intro",
+                  "target": "show_mistakes",
+                  "text": "View Mistakes",
+                  "dismiss": "on_tap"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_2",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_2",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "Nice work! What was the best part of your day?",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null,
+              "available_taps": null
+            }
+          }
+        },
+        {
+          "delay_ms": 150,
+          "frame": {
+            "event": "CONVERSATION_STATE",
+            "mode": "conversation",
+            "stars": {
+              "current": 0,
+              "total": 4,
+              "breakdown": [
+                {
+                  "source": "hint",
+                  "label": "Explore a hint",
+                  "earned": false
+                },
+                {
+                  "source": "mistakes",
+                  "label": "Explore feedback from Sarah",
+                  "earned": false
+                },
+                {
+                  "source": "drill",
+                  "label": "Practice pronouncing a word",
+                  "earned": false
+                },
+                {
+                  "source": "ielts_task_response",
+                  "label": "Answer the whole question",
+                  "earned": false
+                }
+              ]
+            },
+            "progress_bar": {
+              "total_steps": 3,
+              "current_step": 1,
+              "next_step": 2
+            },
+            "practice_skipped": false
+          }
+        },
+        {
+          "delay_ms": 250,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_p1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "initial",
+            "requires_user_action": true,
+            "content": {
+              "recording": {
+                "max_audio_ms": 60000,
+                "min_audio_ms": 3000
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "START_RECORDING",
+      "frames": [
+        {
+          "delay_ms": 80,
+          "frame": {
+            "event": "RECORDING_STARTED",
+            "message_id": "user_p1",
+            "message_template": "user_speech"
+          }
+        },
+        {
+          "delay_ms": 400,
+          "frame": {
+            "event": "AUDIO_RECEIVED",
+            "message_id": "user_p1",
+            "message_template": "user_speech",
+            "bytes_received": 32000,
+            "chunks_received": 10
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "frames": [
+        {
+          "delay_ms": 150,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_p1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 550,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_p1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "The best part was finally seeing the charts render correctly.",
+              "message_actions": [
+                {
+                  "action_type": "show_mistakes",
+                  "enabled": false
+                }
+              ],
+              "analysis": {
+                "state": "completed",
+                "overall_score": 98,
+                "is_perfect": true
+              }
+            }
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_p2",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_p2",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "That's great to hear! Did anything about it surprise you?",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null,
+              "available_taps": null
+            }
+          }
+        },
+        {
+          "delay_ms": 250,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_p2",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "initial",
+            "requires_user_action": true,
+            "content": {
+              "recording": {
+                "max_audio_ms": 3600000,
+                "min_audio_ms": 3000
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "START_RECORDING",
+      "frames": [
+        {
+          "delay_ms": 80,
+          "frame": {
+            "event": "RECORDING_STARTED",
+            "message_id": "user_p2",
+            "message_template": "user_speech"
+          }
+        },
+        {
+          "delay_ms": 400,
+          "frame": {
+            "event": "AUDIO_RECEIVED",
+            "message_id": "user_p2",
+            "message_template": "user_speech",
+            "bytes_received": 32000,
+            "chunks_received": 10
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "frames": [
+        {
+          "delay_ms": 150,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_p2",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 550,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_p2",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "Yes — I didn't expect the API to be that fast!",
+              "message_actions": [
+                {
+                  "action_type": "show_mistakes",
+                  "enabled": false
+                }
+              ],
+              "analysis": {
+                "state": "completed",
+                "overall_score": 96,
+                "is_perfect": true
+              }
+            }
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_p3",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_p3",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "Nice! How did today's work feel — challenging or smooth?",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null,
+              "available_taps": null
+            }
+          }
+        },
+        {
+          "delay_ms": 250,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_f1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "initial",
+            "requires_user_action": true,
+            "content": {}
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "START_RECORDING",
+      "frames": [
+        {
+          "delay_ms": 80,
+          "frame": {
+            "event": "RECORDING_STARTED",
+            "message_id": "user_f1",
+            "message_template": "user_speech"
+          }
+        },
+        {
+          "delay_ms": 400,
+          "frame": {
+            "event": "AUDIO_RECEIVED",
+            "message_id": "user_f1",
+            "message_template": "user_speech",
+            "bytes_received": 32000,
+            "chunks_received": 10
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "frames": [
+        {
+          "delay_ms": 150,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_f1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 600,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_f1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "cat blue running yesterday why",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": false
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": false
+                },
+                {
+                  "action_type": "show_mistakes",
+                  "enabled": false
+                }
+              ],
+              "analysis": {
+                "state": "completed",
+                "is_perfect": false,
+                "user_facing_class": "DOESNT_MAKE_SENSE",
+                "class_display": {
+                  "pill_label": "DIDN'T MAKE SENSE",
+                  "tooltip_text": "Try forming a complete thought."
+                },
+                "show_placeholder_text": true,
+                "placeholder_text": "(speech wasn't clear enough to transcribe)"
+              }
+            }
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_f2",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_f2",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "No worries! Let's keep it simple — how did it feel?",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null,
+              "available_taps": null
+            }
+          }
+        },
+        {
+          "delay_ms": 250,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_2",
+            "from": "user",
+            "message_template": "user_select_option",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": true,
+            "content": {
+              "prompt": "How did it feel?",
+              "options": [
+                {
+                  "id": "challenging",
+                  "label": "Challenging"
+                },
+                {
+                  "id": "smooth",
+                  "label": "Smooth"
+                }
+              ],
+              "multi_select": true,
+              "min_select": 1,
+              "max_select": 2,
+              "selected_ids": [],
+              "continue_label": "Continue"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "frames": [
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_3",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 450,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_3",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "Thanks for sharing that!",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null,
+              "available_taps": null
+            }
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_4",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 450,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_4",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "Want to practice the words you tripped up on?",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null,
+              "available_taps": null
+            }
+          }
+        },
+        {
+          "delay_ms": 250,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_3",
+            "from": "user",
+            "message_template": "user_select_option",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": true,
+            "content": {
+              "prompt": "Practice your mistakes?",
+              "options": [
+                {
+                  "id": "practice_yes",
+                  "label": "Yes, let's go"
+                },
+                {
+                  "id": "practice_no",
+                  "label": "Skip"
+                }
+              ],
+              "multi_select": false,
+              "min_select": 1,
+              "max_select": 1,
+              "selected_ids": [],
+              "continue_label": "Continue"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "branches": [
+        {
+          "when": {
+            "selected": "practice_yes"
+          },
+          "frames": [
+            {
+              "delay_ms": 250,
+              "frame": {
+                "event": "CONVERSATION_STATE",
+                "mode": "practice",
+                "stars": {
+                  "current": 0,
+                  "total": 4,
+                  "breakdown": [
+                    {
+                      "source": "hint",
+                      "label": "Explore a hint",
+                      "earned": false
+                    },
+                    {
+                      "source": "mistakes",
+                      "label": "Explore feedback from Sarah",
+                      "earned": false
+                    },
+                    {
+                      "source": "drill",
+                      "label": "Practice pronouncing a word",
+                      "earned": false
+                    },
+                    {
+                      "source": "ielts_task_response",
+                      "label": "Answer the whole question",
+                      "earned": false
+                    }
+                  ]
+                },
+                "progress_bar": {
+                  "total_steps": 3,
+                  "current_step": 2,
+                  "next_step": 3
+                },
+                "practice_skipped": false
+              }
+            },
+            {
+              "delay_ms": 350,
+              "frame": {
+                "event": "MESSAGE",
+                "message_id": "bot_5",
+                "from": "bot",
+                "message_template": "bot_speech",
+                "message_alignment": "left",
+                "message_state": "loading",
+                "requires_user_action": false,
+                "mode": "practice",
+                "content": {}
+              }
+            },
+            {
+              "delay_ms": 500,
+              "frame": {
+                "event": "MESSAGE",
+                "message_id": "bot_5",
+                "from": "bot",
+                "message_template": "bot_speech",
+                "message_alignment": "left",
+                "message_state": "loaded",
+                "requires_user_action": false,
+                "mode": "practice",
+                "content": {
+                  "text": "In this mode we will practice on your weaker areas.",
+                  "message_actions": [
+                    {
+                      "action_type": "tts",
+                      "enabled": true
+                    },
+                    {
+                      "action_type": "translate",
+                      "enabled": true
+                    }
+                  ],
+                  "highlight_ranges": null,
+                  "available_taps": null
+                }
+              }
+            },
+            {
+              "delay_ms": 300,
+              "frame": {
+                "event": "MESSAGE",
+                "message_id": "bot_6",
+                "from": "bot",
+                "message_template": "bot_speech",
+                "message_alignment": "left",
+                "message_state": "loading",
+                "requires_user_action": false,
+                "mode": "practice",
+                "content": {}
+              }
+            },
+            {
+              "delay_ms": 500,
+              "frame": {
+                "event": "MESSAGE",
+                "message_id": "bot_6",
+                "from": "bot",
+                "message_template": "bot_speech",
+                "message_alignment": "left",
+                "message_state": "loaded",
+                "requires_user_action": false,
+                "mode": "practice",
+                "content": {
+                  "text": "I noticed you mispronounced the word ‘minute’",
+                  "message_actions": [
+                    {
+                      "action_type": "tts",
+                      "enabled": true
+                    },
+                    {
+                      "action_type": "translate",
+                      "enabled": true
+                    }
+                  ],
+                  "highlight_ranges": [
+                    {
+                      "start_index": 37,
+                      "end_index": 45,
+                      "highlight_color": "#FF6262",
+                      "strikethrough": false,
+                      "underline": false
+                    }
+                  ],
+                  "available_taps": null
+                }
+              }
+            },
+            {
+              "delay_ms": 300,
+              "frame": {
+                "event": "MESSAGE",
+                "message_id": "user_4",
+                "from": "user",
+                "message_template": "user_pronunciation_practice",
+                "message_alignment": "center",
+                "message_state": "initial",
+                "requires_user_action": true,
+                "mode": "practice",
+                "content": {
+                  "word": "minute",
+                  "phonetic": "/ˈmɪnɪt/",
+                  "current_state": "initial",
+                  "score": null,
+                  "should_retry": null,
+                  "sentence": null,
+                  "practice_progress": {
+                    "index": 1,
+                    "total": 2,
+                    "word": "minute"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "default": true,
+          "frames": [
+            {
+              "delay_ms": 200,
+              "frame": {
+                "event": "CONVERSATION_STATE",
+                "mode": "conversation",
+                "stars": {
+                  "current": 0,
+                  "total": 4,
+                  "breakdown": [
+                    {
+                      "source": "hint",
+                      "label": "Explore a hint",
+                      "earned": false
+                    },
+                    {
+                      "source": "mistakes",
+                      "label": "Explore feedback from Sarah",
+                      "earned": false
+                    },
+                    {
+                      "source": "drill",
+                      "label": "Practice pronouncing a word",
+                      "earned": false
+                    },
+                    {
+                      "source": "ielts_task_response",
+                      "label": "Answer the whole question",
+                      "earned": false
+                    }
+                  ]
+                },
+                "progress_bar": {
+                  "total_steps": 3,
+                  "current_step": 2,
+                  "next_step": 3
+                },
+                "practice_skipped": true
+              }
+            },
+            {
+              "delay_ms": 300,
+              "frame": {
+                "event": "MESSAGE",
+                "message_id": "bot_skip",
+                "from": "bot",
+                "message_template": "bot_speech",
+                "message_alignment": "left",
+                "message_state": "loading",
+                "requires_user_action": false,
+                "content": {}
+              }
+            },
+            {
+              "delay_ms": 450,
+              "frame": {
+                "event": "MESSAGE",
+                "message_id": "bot_skip",
+                "from": "bot",
+                "message_template": "bot_speech",
+                "message_alignment": "left",
+                "message_state": "loaded",
+                "requires_user_action": false,
+                "content": {
+                  "text": "No problem — great chatting with you!",
+                  "message_actions": [
+                    {
+                      "action_type": "tts",
+                      "enabled": true
+                    },
+                    {
+                      "action_type": "translate",
+                      "enabled": true
+                    }
+                  ],
+                  "highlight_ranges": null,
+                  "available_taps": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "on_event": "START_RECORDING",
+      "frames": [
+        {
+          "delay_ms": 100,
+          "frame": {
+            "event": "RECORDING_STARTED",
+            "message_id": "user_4",
+            "message_template": "user_pronunciation_practice"
+          }
+        },
+        {
+          "delay_ms": 1500,
+          "frame": {
+            "event": "AUTO_SUBMIT",
+            "message_id": "user_4",
+            "message_template": "user_pronunciation_practice"
+          }
+        },
+        {
+          "delay_ms": 1200,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_4",
+            "from": "user",
+            "message_template": "user_pronunciation_practice",
+            "message_alignment": "center",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "mode": "practice",
+            "content": {
+              "word": "minute",
+              "current_state": "success",
+              "score": 88,
+              "sentence": "You learnt to pronounce “minute”."
+            }
+          }
+        },
+        {
+          "delay_ms": 2600,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_7",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "mode": "practice",
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_7",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "mode": "practice",
+            "content": {
+              "text": "And you also slipped on ‘prepare’",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": [
+                {
+                  "start_index": 24,
+                  "end_index": 33,
+                  "highlight_color": "#FF6262",
+                  "strikethrough": false,
+                  "underline": false
+                }
+              ],
+              "available_taps": null
+            }
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_5",
+            "from": "user",
+            "message_template": "user_pronunciation_practice",
+            "message_alignment": "center",
+            "message_state": "initial",
+            "requires_user_action": true,
+            "mode": "practice",
+            "content": {
+              "word": "prepare",
+              "phonetic": "/prɪˈpeər/",
+              "current_state": "initial",
+              "score": null,
+              "should_retry": null,
+              "sentence": null,
+              "practice_progress": {
+                "index": 2,
+                "total": 2,
+                "word": "prepare"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "START_RECORDING",
+      "frames": [
+        {
+          "delay_ms": 100,
+          "frame": {
+            "event": "RECORDING_STARTED",
+            "message_id": "user_5",
+            "message_template": "user_pronunciation_practice"
+          }
+        },
+        {
+          "delay_ms": 1500,
+          "frame": {
+            "event": "AUTO_SUBMIT",
+            "message_id": "user_5",
+            "message_template": "user_pronunciation_practice"
+          }
+        },
+        {
+          "delay_ms": 1200,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_5",
+            "from": "user",
+            "message_template": "user_pronunciation_practice",
+            "message_alignment": "center",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "mode": "practice",
+            "content": {
+              "word": "prepare",
+              "current_state": "success",
+              "score": 91,
+              "sentence": "You learnt to pronounce “prepare”."
+            }
+          }
+        },
+        {
+          "delay_ms": 2600,
+          "frame": {
+            "event": "CONVERSATION_STATE",
+            "mode": "practice",
+            "stars": {
+              "current": 2,
+              "total": 4,
+              "breakdown": [
+                {
+                  "source": "hint",
+                  "label": "Explore a hint",
+                  "earned": false
+                },
+                {
+                  "source": "mistakes",
+                  "label": "Explore feedback from Sarah",
+                  "earned": false
+                },
+                {
+                  "source": "drill",
+                  "label": "Practice pronouncing a word",
+                  "earned": true
+                },
+                {
+                  "source": "ielts_task_response",
+                  "label": "Answer the whole question",
+                  "earned": true
+                }
+              ]
+            },
+            "progress_bar": {
+              "total_steps": 3,
+              "current_step": 3,
+              "next_step": 3
+            },
+            "practice_skipped": false
+          }
+        }
+      ]
+    }
+  ],
+  "responders": {
+    "TAP_HINT": [
+      {
+        "delay_ms": 200,
+        "frame": {
+          "event": "CONVERSATION_STATE",
+          "mode": "conversation",
+          "stars": {
+            "current": 1,
+            "total": 4,
+            "breakdown": [
+              {
+                "source": "hint",
+                "label": "Explore a hint",
+                "earned": true
+              },
+              {
+                "source": "mistakes",
+                "label": "Explore feedback from Sarah",
+                "earned": false
+              },
+              {
+                "source": "drill",
+                "label": "Practice pronouncing a word",
+                "earned": false
+              },
+              {
+                "source": "ielts_task_response",
+                "label": "Answer the whole question",
+                "earned": false
+              }
+            ]
+          },
+          "practice_skipped": false
+        }
+      }
+    ],
+    "TAP_SHOW_MISTAKES": [
+      {
+        "delay_ms": 200,
+        "frame": {
+          "event": "CONVERSATION_STATE",
+          "mode": "conversation",
+          "stars": {
+            "current": 1,
+            "total": 4,
+            "breakdown": [
+              {
+                "source": "hint",
+                "label": "Explore a hint",
+                "earned": false
+              },
+              {
+                "source": "mistakes",
+                "label": "Explore feedback from Sarah",
+                "earned": true
+              },
+              {
+                "source": "drill",
+                "label": "Practice pronouncing a word",
+                "earned": false
+              },
+              {
+                "source": "ielts_task_response",
+                "label": "Answer the whole question",
+                "earned": false
+              }
+            ]
+          },
+          "practice_skipped": false
+        }
+      }
+    ]
+  }
+}

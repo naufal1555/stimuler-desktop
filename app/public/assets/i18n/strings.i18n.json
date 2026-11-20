@@ -1,0 +1,2572 @@
+{
+  "day1McqExercise": {
+    "questionsRight": "questions right in",
+    "q2AnswerExplanation": "\"Me\" is right because it's receiving the extra time.",
+    "others": {
+      "q1AnswerExplanation": "\"I\" is right because it's the person doing the action of ordering.",
+      "q7AnswerExplanation": "\"Them\" is right because they're receiving the dish.",
+      "q10AnswerExplanation": "\"Everyone\" is right because it refers to all people at the table.",
+      "q9AnswerExplanation": "\"Themselves\" is right because it shows they did it without outside help.",
+      "q2AnswerExplanation": "\"Me\"is right because it's receiving the food.",
+      "q5AnswerExplanation": "\"Either\" is right because it means any one of two choices is acceptable.",
+      "q4AnswerExplanation": "\"Himself\" is right because he did the cooking alone without help.",
+      "q3AnswerExplanation": "\"Our\" is right because it shows the table belongs to us.",
+      "q8AnswerExplanation": "\"Ours\" is right because it shows the table belongs to us.",
+      "q6AnswerExplanation": "\"We\"is right because it's the people doing the requesting."
+    },
+    "q5AnswerExplanation": "\"Either\" is right because it means any one of two choices is okay.",
+    "mistakeIn": "mistake in",
+    "q3AnswerExplanation": "\"Our\" is right because it shows the team belongs to us.",
+    "possPronMeaning": "Possessive pronouns (his, her, your) are used to show ownership.",
+    "youAnswered": "You answered",
+    "q8AnswerExplanation": "\"Ours\" is right because it shows the deadline belongs to us.",
+    "q6AnswerExplanation": "\"We\" is right because it's the people doing the proposing.",
+    "q1AnswerExplanation": "\"I\" is right because it's the person doing the action.",
+    "reflexivePronMeaning": "Reflexive pronouns (himself, herself, yourself) are used when the subject and object are the same.",
+    "youMade": "You made",
+    "q7AnswerExplanation": "\"Them\" is right because they're receiving the schedule.",
+    "q10AnswerExplanation": "\"Everyone\" is right because it refers to all people in the office.",
+    "q9AnswerExplanation": "\"Ourselves\" is right because it shows we did it without outside help.",
+    "q4AnswerExplanation": "\"Herself\" is right because she did it alone without help.",
+    "objPronMeaning": "Object pronouns (him, her, you) are used when someone is receives an action.",
+    "subjPronMeaning": "Subject pronouns (he, she, you) are used when someone is doing an action.",
+    "indefPronMeaning": "Indefinite pronouns (anyone, everyone, someone) are used when the subject is not specific."
+  },
+  "day3": {
+    "exercise2": {
+      "q3AnswerExplanation": "An action item is a specific task assigned to someone with a deadline.",
+      "q5OptionCRight": "Eva is providing an update - information about recent progress or changes on a project.",
+      "q5OptionAWrong": "Eva isn't assigning specific tasks (action item).",
+      "q1OptionCRight": "He's presenting the organized list of meeting topics (agenda).",
+      "q5OptionARight": "She's reporting on recent progress (update)",
+      "q1OptionBWrong": "Joe isn't sharing an idea or suggestion (contribution).",
+      "q2OptionAWrong": "Carlos didn't create a list of topics (agenda). ",
+      "q5OptionBWrong": "Eva isn't presenting a list of topics to discuss (agenda)",
+      "q3OptionCRight": "Sarah received an action item - a specific task assigned to someone with a deadline.",
+      "q1OptionARight": "Joe is sharing an agenda - a list of topics to be discussed during a meeting.",
+      "q1OptionBRight": "He's showing the list of meeting topics (agenda).",
+      "q1AnswerExplanation": "An agenda is a list of topics to be discussed during a meeting",
+      "q4OptionBWrong": "They aren't simply sharing information (updating).",
+      "q3OptionBRight": "She was given a concrete task with a deadline (action item).",
+      "q2OptionCWrong": "Carlos didn't assign a specific task (action item).",
+      "q4OptionBRight": "They're joining forces to work together (collaborating).",
+      "q3OptionARight": "She got a specific task to complete (action item).",
+      "q3OptionBWrong": "Sarah didn't receive an idea or suggestion (contribution).",
+      "q4AnswerExplanation": "Collaborating means working together to achieve a common goal.",
+      "q2OptionARight": "He provided a solution to the project (contribution).",
+      "q2OptionCRight": "He shared a helpful idea (contribution).",
+      "q4OptionCRight": "They are collaborating - working together with others to achieve a common goal.",
+      "q2AnswerExplanation": "A contribution is a valuable idea or input shared during a discussion.",
+      "q5AnswerExplanation": "An update is information about recent progress or changes.",
+      "q3OptionAWrong": "Sarah didn't receive progress information (update)",
+      "q5OptionBRight": "She's sharing information about recent developments (update).",
+      "q4OptionARight": "They're working together toward a common goal (collaborating).",
+      "q1OptionCWrong": "Joe isn't making an offering.",
+      "q2OptionBRight": "Carlos made a contribution - a valuable idea or input shared during a discussion.",
+      "q4OptionAWrong": "They aren't just talking."
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "\"He\" is the correct subject pronoun to replace \"Harry\" as the person performing the action.",
+      "q4AnswerExplanation": "\"His\" is the correct possessive pronoun showing that the broken wand belongs to Ron.",
+      "q2AnswerExplanation": "Use the reflexive pronoun 'herself' when the subject and object are the same person.",
+      "q5AnswerExplanation": "\"Himself\" is the correct reflexive pronoun when Harry is both performing and receiving the action.",
+      "q3AnswerExplanation": "\"His\" is the correct possessive pronoun showing that the mouth belongs to Harry."
+    },
+    "version12": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Can you clarify\" requests explanation when something is unclear. Only \"clarify\" works in this request structure.",
+        "q5AnswerExplanation": "After \"I have an idea,\" \"I suggest we...\" introduces a new proposal. \"Agree\" and \"clarify\" don't fit when proposing new ideas.",
+        "q3AnswerExplanation": "\"I suggest we...\" proposes a specific action. \"Agree\" requires a previous idea; \"clarify\" explains, doesn't propose.",
+        "q1AnswerExplanation": "\"I agree with pam\" expresses support for someone's idea. Other options don't fit this structure.",
+        "q4AnswerExplanation": "\"I agree with [person]\" shows alignment with another's opinion. Only \"agree\" works with \"with Diana.\""
+      }
+    }
+  },
+  "day9": {
+    "exercise2": {
+      "es": {
+        "q3AnswerExplanation": "\"Clarification\" in the workplace means asking for a clearer explanation to avoid misunderstandings.",
+        "q1AnswerExplanation": "A \"favor\" in the workplace is when you ask someone to help you with something beyond their usual duties.",
+        "q4AnswerExplanation": "\"Assistance\" at work means direct help from someone to complete a task or solve a problem. ",
+        "q2AnswerExplanation": "A \"resource\" in an office is any tool, material, or information that helps employees do their jobs. ",
+        "q5AnswerExplanation": "\"Guidance\" in a professional setting means receiving advice or direction to improve skills or decision-making."
+      },
+      "q5OptionBRight": "Lisa is determining which tasks matter most (prioritizing).",
+      "q4OptionARight": "Alex is experiencing burnout - exhaustion from prolonged stress.",
+      "ielts": {
+        "q1AnswerExplanation": "Sustainable refers to practices that can continue without depleting resources",
+        "q2AnswerExplanation": "Biodiversity refers to the variety of species in a habitat",
+        "q5AnswerExplanation": "Biodiversity hotspots are areas with unusually high species diversity, often endangered",
+        "q4AnswerExplanation": "Conservation refers to protecting resources to prevent depletion",
+        "q3AnswerExplanation": "Deforestation refers to clearing forests on a large scale"
+      },
+      "q2OptionCRight": "John is giving a task to someone else (delegating).",
+      "q1OptionCWrong": "Organized means having everything arranged in a structured way.",
+      "q4OptionCRight": "Alex is experiencing burnout - exhaustion caused by prolonged stress.",
+      "q4OptionAWrong": "Progress means positive advancement in work or career.",
+      "q3AnswerExplanation": "Taking initiative means identifying and solving problems without being prompted.",
+      "q5OptionCRight": "Lisa is prioritizing - handling tasks in order of importance.",
+      "q5OptionAWrong": "Delegating is assigning tasks to others.",
+      "q3OptionCWrong": "Burnout is exhaustion from chronic stress.",
+      "q1OptionCRight": "Maria feels overwhelmed by having too many tasks.",
+      "q5OptionARight": "Lisa is organizing her own work by importance (prioritizing).",
+      "q5OptionBWrong": "Taking initiative means acting without being prompted.",
+      "q3OptionCRight": "Sarah showed positive engagement by taking action (initiative).",
+      "q2OptionBRight": "John is delegating - assigning a task to someone else.",
+      "q1OptionARight": "Maria is feeling overwhelmed by too many tasks.",
+      "q1AnswerExplanation": "Being overwhelmed means having too many tasks to handle comfortably.",
+      "q4OptionBWrong": "Delegation is assigning tasks to others.",
+      "q3OptionBRight": "Sarah proactively solved a problem herself (initiative).",
+      "q4OptionBRight": "Alex is suffering from prolonged exhaustion (burnout).",
+      "q3OptionBWrong": "Delegation is assigning tasks to others.",
+      "q4AnswerExplanation": "Burnout is exhaustion caused by prolonged stress.",
+      "q1OptionAWrong": "Motivated means feeling eager or enthusiastic about work.",
+      "q2OptionARight": "John is assigning work to others (delegating).",
+      "q2OptionAWrong": "Taking initiative means acting without being asked.",
+      "q2OptionCWrong": "Prioritizing means ranking tasks by importance.",
+      "q2AnswerExplanation": "Delegating means assigning tasks to someone else.",
+      "q3OptionARight": "Sarah showed initiative - solving a problem without being prompted.",
+      "q5AnswerExplanation": "Prioritizing means handling tasks in order of importance."
+    },
+    "exercise3": {
+      "es": {
+        "q1AnswerExplanation": "Superlative Adjective Rule: Use \"the most + adjective\" for 3+ syllables (e.g., dangerous → the most dangerous) when comparing three or more things (all volcanoes in Middle-earth). ",
+        "q2AnswerExplanation": "Comparative Adjective Rule: Use \"-er than\" for short adjectives (e.g., sharp → sharper than) when comparing two things (Black Widow vs. Hawkeye).",
+        "q5AnswerExplanation": "Superlative Adjective Rule: Use \"the + -est\" for short adjectives (wise → the wisest) when comparing three or more things (all Jedi).",
+        "q4AnswerExplanation": "Comparative Adjective Rule: Use \"-er than\" for short adjectives (strong → stronger than) to compare two relationships (friendship with Rocket vs. others).",
+        "q3AnswerExplanation": "Descriptive Adjective Rule: Use the base form (e.g., unique) when describing one thing (vibranium) without comparison."
+      }
+    }
+  },
+  "day3_2": {
+    "version12": {
+      "vocabularyExercise": "Vocabulary Exercise",
+      "readAloud": "Read Aloud",
+      "ieltsPart2": "IELTS Part 2",
+      "describeTheImage": "Describe the Image",
+      "tryReadingThisSentence": "Try reading this sentence!",
+      "q5AnswerExplanation2_3": "Lisa doesn't need an appetizer, which is a starter dish, as she's finished eating.",
+      "letTestYourMeetingVocabulary": "Let's test your meeting vocabulary",
+      "practiceThisPoliteRequest": "Practice this polite request!",
+      "haveFunWhileTestingYourImagination": "Have fun while testing your imagination & sentence-framing skills with this picture",
+      "task3": "Task 3",
+      "q4AnswerExplanation2_3": "\"Ordered\" describes the action of selecting food, not how it tastes.",
+      "task2": "Task 2",
+      "repeatAfterMe": "Repeat after me",
+      "summarizeLecture": "Summarize Lecture",
+      "introductionSpeakingTest": "Introduction : Speaking Test",
+      "letJumpIntoRealLifeConversationToday": "Let's jump into a real-life conversation today, we will also practice some vocabulary",
+      "q3AnswerExplanation": "Appetizers are small dishes served before the main meal.",
+      "q3AnswerExplanation2_3": "Maria didn't ask for a menu, which lists food options.",
+      "weGetBackReadingToday": "We get back to reading today, albeit a bit advanced this time.",
+      "funWithVocabulary": "Fun with vocabulary!",
+      "readingWithStressModerate": "Reading with stress: Moderate",
+      "q1AnswerExplanation2_2": "Sarah isn't looking at the bill, which shows how much to pay after eating.",
+      "q2AnswerExplanation2": "John placed an order - telling the server which food and drinks he wants.",
+      "readTheParagraphLoudlyStressingTheHighlightedWords": "Read the paragraph loudly by stressing the highlighted words",
+      "q1AnswerExplanation2": "Sarah is reading a menu - a list of food and drink items available at a restaurant.",
+      "q1AnswerExplanation": "A menu is a list of food and drink items available at a restaurant.",
+      "readingAtHighPaceAdvanced": "Reading at high pace: Advanced",
+      "funWithTongueTwister": "Fun with a Tongue Twister",
+      "letPracticeSomeGrammar": "Let's practice some grammar",
+      "q1AnswerExplanation2_3": "Sarah isn't looking at an appetizer, which is a small dish of food.",
+      "pronunciationExercise": "Pronunciation Exercise",
+      "q5AnswerExplanation2": "Lisa should ask for the bill - the document showing how much she needs to pay for her food.",
+      "practiceQuestions": "Practice Questions",
+      "task4": "Task 4",
+      "readThisSentenceOutLoud": "Read this sentence out loud!",
+      "q4AnswerExplanation": "Delicious means food that tastes extremely good.",
+      "task1": "Task 1",
+      "testYourPronounKnowledgeMagicalHarryPotterScenarios": "Test your pronoun knowledge with these magical Harry Potter scenarios!",
+      "speaking": "Speaking",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "Talk about a time you enjoyed working with your team. What made it special?",
+      "q4AnswerExplanation2": "Carlos described his pasta as delicious - meaning the food tastes extremely good.",
+      "q5AnswerExplanation2_2": "Lisa doesn't need a menu, which shows food options, since she's finished eating.",
+      "letStartYourRoadmap": "Let's start your roadmap",
+      "masteringPronouns": "Mastering Pronouns",
+      "q4AnswerExplanation2_2": "\"Ordered\" describes the action of selecting food, not how it tastes.",
+      "day1Revision": "Day 1 : Revision",
+      "q2AnswerExplanation2_3": "John didn't specifically ask for an appetizer.",
+      "q3AnswerExplanation2": "Maria requested appetizers - small dishes served before the main meal.",
+      "vocabularyLesson": "Vocabulary Lesson",
+      "q2AnswerExplanation": "Placing an order means telling the server which food and drinks you want.",
+      "q5AnswerExplanation": "The bill shows how much you need to pay for your food at a restaurant.",
+      "q2AnswerExplanation2_2": "John didn't ask for the bill, which is requested after finishing the meal.",
+      "readWithEnthusiasm": "Read with enthusiasm!",
+      "q3AnswerExplanation2_2": "Maria didn't ask for the bill, which is requested after eating.",
+      "orderingFood": "Ordering food"
+    }
+  },
+  "roadmapDaysLocalization": {
+    "workplace": {
+      "day3": {
+        "vocabularyLesson": "Vocabulary Lesson",
+        "wordQuiz": "Word Quiz",
+        "descriptiveSpeaking": "Descriptive Speaking",
+        "meetingVocabulary": "Meeting Vocabulary",
+        "pronounRevision": "Pronoun Revision",
+        "negotiatingDeadlines": "Negotiating Deadlines"
+      },
+      "day18": {
+        "summarizingMeetings": "Summarizing Meetings",
+        "wordQuiz": "Word Quiz",
+        "descriptiveSpeaking": "Descriptive Speaking"
+      },
+      "day8": {
+        "adjectivePractice": "Adjective Practice",
+        "wordQuiz": "Word Quiz",
+        "masteringAdjectives": "Mastering Adjectives",
+        "descriptiveSpeaking": "Descriptive Speaking",
+        "roleplayRevision": "Roleplay Revision"
+      },
+      "day12": {
+        "questionAnswering": "Question-Answering",
+        "talkingToClients": "Talking to Clients",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day5": {
+        "masteringVerbs": "Mastering Verbs",
+        "teamMeetingReview": "Team Meeting Review",
+        "questionAnswering": "Question-Answering",
+        "grammarPractice": "Grammar Practice",
+        "verbBuilder": "Verb Builder",
+        "catchingUpWithFriends": "Catching up with friends"
+      },
+      "day9": {
+        "givingPresentation": "Giving a Presentation",
+        "askingForHelp": "Asking for help",
+        "tongueTwister": "Tongue Twister",
+        "grammarPractice": "Grammar Practice",
+        "adjectiveReview": "Adjectives Review "
+      },
+      "day7": {
+        "smallTalkPractice": "Small Talk Practice",
+        "tongueTwister": "Tongue Twister",
+        "vocabRevision": "Vocab Revision",
+        "teamMeeting": "Team Meeting",
+        "smallTalkWithColleagues": "Small Talk with Colleagues",
+        "readAloud": "Read Aloud"
+      },
+      "day4": {
+        "meetingVocabularyPractice": "Meeting Vocabulary Practice",
+        "vocabularyRevision": "Vocabulary Revision",
+        "teamMeeting": "Team Meeting",
+        "negotiatingDeadlines": "Negotiating Deadlines",
+        "grammarPractice": "Grammar Practice",
+        "readingFast": "Reading Fast",
+        "workplaceMeetingRoleplay": "Workplace Meeting Roleplay",
+        "meetingPractice": "Meeting Practice",
+        "teamMeetingPractice": "Team Meeting Practice",
+        "restaurantRoleplay": "Restaurant Roleplay",
+        "practiceGreetingAtOffice": "Practice Greeting at office",
+        "roleplayReview": "Roleplay Review",
+        "vocabularyReview": "Vocabulary review",
+        "endPolitely": "End Politely"
+      },
+      "day1": {
+        "grammarBuilder": "Grammar Builder",
+        "intro": "Introduction",
+        "readingExercise": "Reading Exercise"
+      },
+      "day10": {
+        "readAloud": "Read Aloud",
+        "howToAskForHelp": "How to ask for help",
+        "givingPresentation": "Giving a Presentation",
+        "day9Revision": "Day 9: Revision"
+      },
+      "day16": {
+        "planningYourTasks": "Planning Your Tasks",
+        "stressTest": "Stress Test",
+        "advancedReading": "Advanced Reading"
+      },
+      "day2": {
+        "masteringPronoun": "Mastering Pronouns",
+        "tongueTwister": "Tongue Twister",
+        "pronounPractice": "Pronoun Practice",
+        "grammarLesson": "Grammar Lesson",
+        "sentenceStructurePractice": "Sentence Structure Practice",
+        "day1Revision": "Day 1: Revision",
+        "introduceYourself": "Self Introduce yourself",
+        "startTheChat": "Start the Chat"
+      },
+      "day20": {
+        "artciles": "Articles",
+        "grammarPractice": "Grammar Practice",
+        "poem": "Poem"
+      },
+      "day15": {
+        "wordQuiz": "Word Quiz",
+        "grammarPractice": "Grammar Practice",
+        "planningYourTasks": "Planning Your Tasks"
+      },
+      "day14": {
+        "sentenceStructure": "Sentence Structure",
+        "poem": "Poem",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day19": {
+        "tongueTwister": "Tongue Twister",
+        "summarizingMeetingsMinutes": "Summarizing Meeting Minutes",
+        "questionAnswering": "Question-Answering"
+      },
+      "day11": {
+        "masteringAdverbs": "Mastering Adverbs",
+        "grammarPractice": "Grammar Practice",
+        "readingPoemExercise": "Reading Poem Exercise"
+      },
+      "day17": {
+        "preposition": "Preposition",
+        "questionAnswering": "Question-Answering",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day6": {
+        "smallTalkVocab": "Small Talk Vocabulary",
+        "vocabularyPractice": "Vocabulary Practice",
+        "teamMeeting": "Team Meeting",
+        "pacedReading": "Paced Reading",
+        "verbsReview": "Verbs Review",
+        "stressTest": "Stress Test"
+      },
+      "day13": {
+        "stressTest": "Stress Test",
+        "wordQuiz": "Word Quiz",
+        "talkingToClients": "Talking to Clients"
+      }
+    },
+    "socialising": {
+      "day5": {
+        "orderingFood": "Ordering food",
+        "roleplayMCQ": "Roleplay MCQ"
+      },
+      "day1": {
+        "grammarBuilder": "Grammar Builder",
+        "intro": "Introduction",
+        "readingExercise": "Reading Exercise"
+      },
+      "day4": {
+        "restaurantVocabulary": "Restaurant Vocabulary",
+        "orderingFood": "Ordering food",
+        "restaurantVocabularyPractice": "Restaurant Vocabulary Practice",
+        "practiceGreetingAtOffice": "Practice Greeting at office",
+        "roleplayReview": "Roleplay Review",
+        "vocabularyReview": "Vocabulary review"
+      },
+      "day2": {
+        "masteringPronoun": "Mastering Pronouns",
+        "conversationPractice": "Conversation Practice",
+        "pronounciationReview": "Pronunciation Review",
+        "readingExercise": "Reading Exercise",
+        "introduceYourself": "Self Introduce yourself"
+      },
+      "day3": {
+        "pronounsVideoLesson": "Pronouns Video Lesson",
+        "restaurantVocabulary": "Restaurant Vocabulary",
+        "learnOrderingFood": "Learn Ordering food",
+        "pronounRevision": "Pronoun Revision",
+        "positiveResponses": "Positive Responses"
+      }
+    }
+  },
+  "day4": {
+    "version8": {
+      "exercise2": {
+        "id": {
+          "q2OptionBRight": "The sentence requires a verb like \"help\" to describe what Carlos will do.",
+          "q3AnswerExplanation": "\"Good\" is the only adjective that logically describes a suitable time.",
+          "q2OptionBWrong": "\"Team\" is a noun, not a verb.",
+          "q5OptionCRight": "\"Summary\" appropriately describes the document being offered.",
+          "q3OptionCWrong": "\"Calendar\" doesn't fit grammatically or logically in this context.",
+          "q1OptionCRight": "You need a verb like \"finish\" to describe the action of completing the designs.",
+          "q5OptionARight": "\"Summary\" is the only noun describing a document showing results.",
+          "q1OptionBWrong": "\"Deadline\" doesn't work grammatically in this sentence.",
+          "q5OptionBWrong": "\"I can create a discussion\" doesn't make sense in this context.",
+          "q3OptionCRight": "\"Good\" properly describes that the time is suitable.",
+          "q1OptionARight": "\"Finish\" is the only verb that fits grammatically to complete a task.",
+          "q1OptionBRight": "You need a verb like \"finish\" to describe completing the designs.",
+          "q1AnswerExplanation": "\"Finish\" is the only verb that fits grammatically to complete a task.",
+          "q4OptionBWrong": "\"We'll be presentation\" is grammatically incorrect.",
+          "q3OptionBRight": "An adjective like \"good\" is needed to evaluate the suitability of the time.",
+          "q2OptionCWrong": "\"Schedule\" doesn't fit the context of providing assistance.",
+          "q4OptionBRight": "\"Prepared\" correctly describes the state of being ready.",
+          "q3OptionARight": "\"Good\" is the only adjective that logically describes a suitable time.",
+          "q4OptionCWrong": "\"We'll be feedback\" doesn't make sense grammatically or contextually.",
+          "q3OptionBWrong": "\"Minutes\" doesn't make sense in describing whether a time works.",
+          "q4AnswerExplanation": "\"Prepared\" is the only word expressing readiness.",
+          "q2OptionARight": "\"Help\" is the only appropriate verb describing assistance.",
+          "q2OptionCRight": "\"Help\" correctly describes the assistance needed with graphics.",
+          "q5OptionCWrong": "\"I can create a meeting\" doesn't fit as a response about preparing materials.",
+          "q4OptionCRight": "\"Prepared\" properly indicates readiness for the meeting.",
+          "q2AnswerExplanation": "\"Help\" is the only appropriate verb describing assistance.",
+          "q5AnswerExplanation": "\"Summary\" is the only noun describing a document showing results.",
+          "q5OptionBRight": "\"Summary\" correctly describes a concise overview of results.",
+          "q4OptionARight": "\"Prepared\" is the only word expressing readiness.",
+          "q1OptionCWrong": "\"Project\" is a noun, not a verb."
+        },
+        "es": {
+          "q1OptionARight": "\"Finish\" is the only verb that fits grammatically to complete a task.",
+          "q1OptionBRight": "You need a verb like \"finish\" to describe completing the designs.",
+          "q3OptionBRight": "An adjective like \"good\" is needed to evaluate the suitability of the time.",
+          "q2OptionBWrong": "\"Team\" is a noun, not a verb.",
+          "q4OptionBRight": "\"Prepared\" correctly describes the state of being ready.",
+          "q3OptionBWrong": "\"Minutes\" doesn't make sense in describing whether a time works.",
+          "q2OptionARight": "\"Help\" is the only appropriate verb describing assistance.",
+          "q3OptionCRight": "\"Good\" properly describes that the time is suitable.",
+          "q5OptionCWrong": "\"I can create a meeting\" doesn't fit as a response about preparing materials.",
+          "q1AnswerExplanation": "\"Finish\" is the only verb that fits grammatically to complete a task.",
+          "q4OptionBWrong": "\"We'll be presentation\" is grammatically incorrect.",
+          "q2OptionCWrong": "\"Schedule\" doesn't fit the context of providing assistance.",
+          "q2AnswerExplanation": "\"Help\" is the only appropriate verb describing assistance.",
+          "q3OptionARight": "\"Good\" is the only adjective that logically describes a suitable time.",
+          "q4OptionCWrong": "\"We'll be feedback\" doesn't make sense grammatically or contextually.",
+          "q5AnswerExplanation": "\"Summary\" is the only noun describing a document showing results.",
+          "q4AnswerExplanation": "\"Prepared\" is the only word expressing readiness.",
+          "q5OptionBRight": "\"Summary\" correctly describes a concise overview of results.",
+          "q4OptionARight": "\"Prepared\" is the only word expressing readiness.",
+          "q2OptionCRight": "\"Help\" correctly describes the assistance needed with graphics.",
+          "q1OptionCWrong": "\"Project\" is a noun, not a verb.",
+          "q4OptionCRight": "\"Prepared\" properly indicates readiness for the meeting.",
+          "q3AnswerExplanation": "\"Good\" is the only adjective that logically describes a suitable time.",
+          "q5OptionCRight": "\"Summary\" appropriately describes the document being offered.",
+          "q3OptionCWrong": "\"Calendar\" doesn't fit grammatically or logically in this context.",
+          "q1OptionCRight": "You need a verb like \"finish\" to describe the action of completing the designs.",
+          "q5OptionARight": "\"Summary\" is the only noun describing a document showing results.",
+          "q1OptionBWrong": "\"Deadline\" doesn't work grammatically in this sentence.",
+          "q5OptionBWrong": "\"I can create a discussion\" doesn't make sense in this context.",
+          "q2OptionBRight": "The sentence requires a verb like \"help\" to describe what Carlos will do."
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q2AnswerExplanation": "A \"contribution\" is a valuable idea or input shared during a discussion.",
+          "q5AnswerExplanation": "\"Collaboration\" means working together to achieve a common goal.",
+          "q3AnswerExplanation": "An \"action item\" is a specific task assigned to someone with a deadline.",
+          "q1AnswerExplanation": "An \"agenda\" is the list of topics to be discussed during a meeting.",
+          "q4AnswerExplanation": "An \"update\" is information about recent progress or changes."
+        }
+      }
+    },
+    "version10": {
+      "exercise2": {
+        "id": {
+          "q2OptionCWrong": "John didn't specifically ask for an appetizer.",
+          "q2AnswerExplanation": "Placing an order means telling the server which food and drinks you want.",
+          "q3OptionARight": "She asked for small dishes to eat while waiting (appetizers).",
+          "q4OptionCWrong": "\"Billed\" relates to payment, not food taste.",
+          "q5AnswerExplanation": "The bill shows how much you need to pay for your food at a restaurant.",
+          "q4AnswerExplanation": "Delicious means food that tastes extremely good.",
+          "q5OptionBRight": "Lisa should ask for the bill - the document showing how much she needs to pay for her food.",
+          "q4OptionARight": "Carlos described his pasta as delicious - meaning the food tastes extremely good.",
+          "q2OptionCRight": "He told the server his food selection (placed an order).",
+          "q1OptionCWrong": "Sarah isn't looking at an appetizer, which is a small dish of food.",
+          "q4OptionCRight": "Carlos was describing how good his pasta tasted (delicious).",
+          "q3AnswerExplanation": "Appetizers are small dishes served before the main meal.",
+          "q5OptionCRight": "She wants to pay for her meal (the bill).",
+          "q3OptionCWrong": "Maria didn't ask for a menu, which lists food options.",
+          "q1OptionCRight": "She's looking at the complete list of available food (menu).",
+          "q5OptionBWrong": "Lisa doesn't need a menu, which shows food options, since she's finished eating.",
+          "q2OptionBRight": "John placed an order - telling the server which food and drinks he wants.",
+          "q1OptionARight": "Sarah is reading a menu - a list of food and drink items available at a restaurant.",
+          "q1OptionBRight": "She's looking at food options before ordering (menu).",
+          "q3OptionBRight": "She asked for small dishes to eat before her main course (appetizers).",
+          "q2OptionBWrong": "John didn't ask for the bill, which is requested after finishing the meal.",
+          "q4OptionBRight": "Carlos described the taste of his pasta as extremely good (delicious).",
+          "q3OptionBWrong": "Maria didn't ask for the bill, which is requested after eating.",
+          "q5OptionARight": "She needs to know how much to pay (the bill).",
+          "q1OptionBWrong": "Sarah isn't looking at the bill, which shows how much to pay after eating.",
+          "q2OptionARight": "He told the server what food he wants (placed an order).",
+          "q3OptionCRight": "Maria requested appetizers - small dishes served before the main meal.",
+          "q5OptionCWrong": "Lisa doesn't need an appetizer, which is a starter dish, as she's finished eating.",
+          "q1AnswerExplanation": "A menu is a list of food and drink items available at a restaurant.",
+          "q4OptionBWrong": "\"Ordered\" describes the action of selecting food, not how it tastes."
+        }
+      }
+    },
+    "version12": {
+      "exercise3": {
+        "q4AnswerExplanation": "A bill (or check) is the document showing the total cost of the meal that customers need to pay at a restaurant.",
+        "q2AnswerExplanation": "Ordering means telling the server which food items you want to purchase and eat.",
+        "q3AnswerExplanation": "Delicious describes food that tastes extremely good and provides a pleasurable eating experience.",
+        "q1AnswerExplanation": "A menu is a list of dishes available at a restaurant, typically presented in a booklet or on a board."
+      },
+      "exercise2": {
+        "es": {
+          "q4AnswerExplanation": "\"Delicious\" is the adjective that describes food that tastes very good.",
+          "q2AnswerExplanation": "\"Order\" is the verb that describes selecting and requesting food in a restaurant.",
+          "q5AnswerExplanation": "\"Bill\" refers to the document showing how much a customer needs to pay for their meal.",
+          "q3AnswerExplanation": "\"Appetizer\" refers to a small dish served before the main course.",
+          "q1AnswerExplanation": "\"Menu\" is the document that lists all available food and drink options at a restaurant."
+        }
+      }
+    },
+    "version13": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Agree\" means to have the same opinion or to accept a suggestion made by someone else.",
+        "q3AnswerExplanation": "\"Clarify\" means to make a statement or situation less confused and more comprehensible by confirming details.",
+        "q1AnswerExplanation": "\"Suggestion\" refers to an idea or proposal put forward for consideration by others."
+      },
+      "exercise3": {
+        "q2AnswerExplanation": "\"Clarify\" is used to request more explanation. \"Agree\" is irrelevant here, and \"suggest\" doesn’t apply when asking for clarity.",
+        "q5AnswerExplanation": "\"Clarify\" means making something clear. \"Sure\" isn’t a verb, and \"told\" is the wrong tense. Only \"clarify\" works to express clearing up confusion.",
+        "q4AnswerExplanation": "\"Couldn't agree\" expresses failed consensus. \"Make\" needs an object, and \"suggest\" doesn’t describe disagreement. \"Agree\" fits when discussing shared viewpoints.",
+        "q3AnswerExplanation": "\"Let me suggest\" introduces a proposal. \"Do\" and \"start\" don’t fit logically. Only \"suggest\" works when offering ideas like postponing a meeting.",
+        "q1AnswerExplanation": "\"Strongly agree with\" shows strong support for an opinion. Only \"agree\" works with \"strongly\" and \"with\"; \"pause\" is ungrammatical, and \"clarify\" doesn’t show support."
+      }
+    }
+  },
+  "day2_2": {
+    "version14": {
+      "whenYouAskingForRequest": "When you are asking for a request you can say -",
+      "q6AnswerExplanation": "'Yours' is correct since Sarah is asking if the book belongs to Alex.",
+      "q2AnswerExplanation2": "\"Me\" is the object pronoun receiving the action of being invited.",
+      "q1AnswerExplanation2": "\"She\" is the subject pronoun that shows who is doing the action.",
+      "q1AnswerExplanation": "We use 'He' because Joe is a singular male subject, and the pronoun must match the gender and number.",
+      "funWithTongueTwister": "Fun with a Tongue Twister",
+      "letPracticeSomeGrammar": "Let's practice some grammar",
+      "pronunciationExercise": "Pronunciation Exercise",
+      "grammarExercise": "Grammar Exercise",
+      "grammarLesson": "Grammar Lesson",
+      "task4": "Task 4",
+      "whenYouAskingRequestCouldWeFindTime": "When you are asking for a request you can say - Could we find a time after the meeting to talk about the idea?",
+      "socialIntroductions": "Social Introductions",
+      "q7AnswerExplanation": "'This' is appropriate as Alex is referring to the specific book he is holding.",
+      "describeMemorableTripYouTook": "Describe a memorable trip you took. What made it special?",
+      "q4AnswerExplanation": "Since Jon Snow is referring to a specific sword close to him, 'this' is appropriate for something singular and close to him.",
+      "letReadTogether": "Let's read together",
+      "q4AnswerExplanation3": "\"She\" is a subject pronoun for the person doing the action, and \"it\" is an object pronoun for the food.",
+      "speaking": "Speaking",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "Talk about a time you enjoyed working with your team. What made it special?",
+      "q2AnswerExplanation3": "\"Mine\" is a possessive pronoun showing ownership without repeating the noun. \"Them\" is an object pronoun referring to multiple items.",
+      "letStartYourRoadmap": "Let's start your roadmap",
+      "masteringPronouns": "Mastering Pronouns",
+      "q5AnswerExplanation3": "\"Myself\" is a reflexive pronoun referring back to \"I\", and \"my\" is a possessive adjective that comes before a noun.",
+      "day1Revision": "Day 1 : Revision",
+      "q3AnswerExplanation2": "\"Their\" is the possessive adjective showing who owns the house.",
+      "pronounciation": "Pronounciation",
+      "q1AnswerExplanation3": "\"Her/him\" are object pronouns used when someone receives an action.",
+      "q2AnswerExplanation": "Since Daenerys (a female) is the owner, “hers” is the correct answer.",
+      "q5AnswerExplanation": "'He' is used because the sentence identifies Alex as a boy, so the pronoun should match that context.",
+      "letTestYourSentenceStructure": "Let's test your sentence structure",
+      "letJumpIntoLearningPronunciations": "Let's jump into learning pronunciations",
+      "politelyAnnounceThatYouAreLeaving": "Politely announce that you are leaving - Sorry, I have to leave for another meeting.",
+      "readAloud": "Read Aloud",
+      "ieltsPart2": "IELTS Part 2",
+      "describeTheImage": "Describe the Image",
+      "repeatAfterMe": "Repeat after me",
+      "q3AnswerExplanation3": "\"We\" is a subject pronoun (doing the action), while \"us\" is an object pronoun (receiving the invitation).",
+      "summarizeLecture": "Summarize Lecture",
+      "introductionSpeakingTest": "Introduction : Speaking Test",
+      "letJumpIntoRealLifeConversationToday": "Let's jump into a real-life conversation today, we will also practice some vocabulary",
+      "q3AnswerExplanation": "The pronoun 'herself' is used because the subject of the sentence is 'She,' and the action of making the sandwich reflects back on her.",
+      "politelyAnnounceThatLeaving": "Politely announce that you are leaving -",
+      "pronunciationReview": "Pronunciation Review",
+      "readOutLoud": "Read out loud!!"
+    }
+  },
+  "onBoarding": {
+    "helpYouPractice": "Hey! I'm Sarah. I'm here to help you practice and improve your English through friendly conversations.",
+    "togetherWeWillWork": "Together, we'll work on your speaking skills in a comfortable, relaxed way.",
+    "whetherYouAreJustStarting": "Whether you're just beginning or already comfortable with English,I'll adapt to help you learn better in your native language when needed, at your own pace.",
+    "whatShouldICallYou": "So, what should I call you?",
+    "thatsImpressiveMentoredJob": "That's impressive! I've helped over a million people land their dream job by helping them stand out in their interviews.",
+    "thatsImpressiveMentoredSocializing": "Great! We can have fun and engaging conversations. This will help you master communication for everyday tasks.",
+    "thatsImpressiveMentoredSubPurpose": "That's great! I've guided over a million professionals to advance their careers by practising real-world conversations with them.",
+    "seeDetailedResults": "See detailed report",
+    "continueButtonLabel": "Continue",
+    "soWhatsYourNativeLanguage": "So, what's your native language? This helps me support you better.",
+    "canIknowYourName": "I am so excited, Can I know what’s your name ?",
+    "letsGetToKnowEachOther": "Let’s get to know each other!",
+    "whatsYourNativeLanguage": "What’s your native language?",
+    "gotItWillUseTheLanguageToExplainEnglish": "Got it! We'll use your language to explain English inside the app",
+    "wantToChangeAppLanguageTo": "Do you want to change app language to your native tongue?",
+    "youWillLearnEnglishThrough": "You will learn English through $language",
+    "weUseEnglishAsTheAppsLanguage": "We use English as the app’s language",
+    "awesomeCanIKnowYourName": "Awesome, Can I know what’s your name ? ",
+    "selectYourLanguagePreferance": "Please select your language preference",
+    "hiIAmPersonalEnglishSpeakingPartner": "Hi! I am your Personal English Speaking Partner",
+    "callMeSarahWhatsYourName": "You can call me Sarah. What is your name?",
+    "thatsVeryCoolName": "That's a very cool name! We are going to have so much fun practising English together!",
+    "toEnsureYouGetLatestLessons": "To ensure you get the latest lessons and personalised tips, can I have your phone number?",
+    "niceToMeetYouGetLatestLessons": "Nice to meet you! To ensure you get the latest lessons, can I have your phone number?",
+    "whichAgeGroupAreYouIn": "Which age group are you in?",
+    "ageGroup": {
+      "under18": "Under 18",
+      "age18to24": "18-24",
+      "age25to34": "25-34",
+      "age35to44": "35-44",
+      "age45plus": "45+"
+    },
+    "whatIsYourGender": "What is your gender?",
+    "gender": {
+      "male": "Male",
+      "female": "Female",
+      "nonBinary": "Non-Binary"
+    },
+    "dailyPracticeHelpsAchieveGoals": "Daily practice will help you achieve your goals faster",
+    "whatBestDescribesYourSituation": "What best describes your current situation?",
+    "imGladWeMetWhatsYourGoal": "I'm glad we met. What's your main goal for learning English?",
+    "mainGoal": {
+      "ielts": "Prepare for an English exam",
+      "growInMyCareer": "Grow in my career",
+      "personalGrowth": "Personal growth",
+      "travelConfidently": "Travel confidently",
+      "excelAtMySchool": "Excel at my school",
+      "other": "Other"
+    },
+    "typeYourGoalHint": "Type your goal here",
+    "typeYourExamHint": "Type the exam name here",
+    "examType": {
+      "ielts": "IELTS",
+      "toefl": "TOEFL",
+      "pte": "PTE",
+      "toeic": "TOEIC",
+      "other": "Others"
+    },
+    "ieltsModule": {
+      "academic": "Academic",
+      "general": "General",
+      "notSure": "I am not sure"
+    },
+    "examTime": {
+      "thisMonth": "I will take IELTS this month",
+      "nextMonth": "I will take IELTS next month",
+      "moreThanTwo": "I have more than two months to prepare",
+      "after": "After {month}"
+    },
+    "moveTheSliderToPickYourScore": "Move the slider to pick your score",
+    "bandScore": "Band Score",
+    "skill": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "speaking": "Speaking",
+      "listening": "Listening"
+    },
+    "journeyGraph": {
+      "yourJourney": "Your journey",
+      "toAceIeltsStarts": "to ace IELTS starts",
+      "curatingContent": "Curating content",
+      "forYourIeltsJourney": "for your IELTS journey",
+      "aPlanForYouToReach": "A plan for you to reach",
+      "yourGoal4xFaster": "your goal 4x faster",
+      "planForYou": "PLAN FOR YOU",
+      "practice20MinsPerDay": "Practice 20mins/day",
+      "oneMockTestPerDay": "One Mock Test/day",
+      "ieltsConversationPerDay": "IELTS Conversation/day",
+      "weeklyReviews": "Weekly Reviews",
+      "youTookThe": "YOU TOOK THE",
+      "firstStep": "First Step",
+      "inOneMonth": "IN 1 MONTH",
+      "inTwoMonths": "IN 2 MONTHS",
+      "inMoreThanTwoMonths": "IN 2+ MONTHS",
+      "paywall": {
+        "getYourDreamBandScore": "Get your dream band score",
+        "forIelts": "for IELTS",
+        "featurePreviousYearQuestions": "Previous year questions",
+        "feature100MockTests": "100+ Mock Tests",
+        "feature170WritingExercises": "170+ IELTS Writing exercises",
+        "feature30ReadingExercises": "30+ IELTS Reading exercises",
+        "feature100HoursSpeaking": "100+ hours of Speaking practice"
+      }
+    },
+    "hintPlayback": {
+      "youDidGreatFirstStep": "Well done! You have started your IELTS journey.",
+      "improvePronunciation": "Let's improve pronunciation"
+    },
+    "currentSituation": {
+      "student": "Student",
+      "workingProfessional": "Working Professional",
+      "freelancer": "Freelancer",
+      "businessOwner": "Business Owner",
+      "homeMaker": "Homemaker",
+      "careerBreak": "Career Break",
+      "lookingForWork": "Looking for Work",
+      "parent": "Parent"
+    },
+    "amazingWhereDidHearAboutStimuler": "Thank you! May I know where you heard about us?",
+    "noProblemWhereDidYouHearAboutUs": "No problem! May I know where you heard about us?",
+    "iAmGladWeMet": "I'm so glad we met!",
+    "enterReferralCode": "Enter the referral code that you have",
+    "letsCreateAPlanForJustYou": "Let's create a plan just for you so you can achieve your goals faster! Tell me, why are you learning English?",
+    "thatsImpressiveMentoredIels": "That's impressive! I've guided over a million candidates from all over the world to achieve their dream band score.",
+    "whatTypeOfSituationsDoYouWant": "What type of situations do you want to be good in?",
+    "thatsImpressiveMentoredTravel": "Awesome! Be it a business trip or you working abroad, we'll cover all situations.",
+    "thatsImpressiveMentoredEducation": "Okay! You know what? I've helped over a million people speak English fluently and confidently.",
+    "greatMentoredOthers": "That's impressive! I've helped over a million people speak English fluently and confidently.",
+    "thatsImpressiveMentoredBusiness": "That's impressive! I've mentored over a million working professionals to improve their careers by practising real-world conversations with them.",
+    "lookWhatLearnersHaveToSay": "Look what these successful learners have to say:",
+    "thesePeoplePracticedDaily": "These people practised daily to achieve great progress and I helped them stay on track!",
+    "iWillRemindYouToo": "I will remind you too, so that you don't miss practice. Just turn on your notifications.",
+    "thanksForThatTogether": "Thanks for that! Together let's make English a daily learning habit.",
+    "noIssuesIWill": "No issues! I will ask you some other time.",
+    "awesomeThousandsOfEnglishLearners": "Awesome! Thousands of English learners I teach start their journey as beginners and I turn them into fluent English speakers.",
+    "whatIsCurrentEnglishLevel": "What would you say is your current English level?",
+    "reviewSarahFeedbackOnVocab": "Sarah's feedback on vocabulary is incredible... I owe my 8.0 band score to Stimuler.",
+    "reviewSarahFeedbackOnVocabIELTS": "Sarah's feedback on vocabulary is incredible... I owe my 8.0 band score to Stimuler.",
+    "reviewCommunityActive": "The pro community members at Stimuler are always active, which keeps me motivated.",
+    "reviewSpendingTwentyMinutes": "Spending 20 minutes every day with Sarah has dramatically improved my fluency.",
+    "reviewBoostedMyConfidenceIELTS": "Conversations with Sarah improved my English and boosted my confidence for my IELTS exam.",
+    "reviewBoostedMyConfidence": "Conversations with Sarah improved my English and boosted my confidence for my exam.",
+    "reviewBoostedConfidenceOffice": "Conversations with Sarah improved my English and boosted my confidence at my office.",
+    "reviewAppIsAGoldenEgg": "This app is a golden egg. It helps you speak better. Amazing, I'd rate it 10/5!",
+    "reviewAppIsAGoldenEggIELTS": "This app is a golden egg for IELTS. It helps you speak better. Amazing, I'd rate it 10/5!",
+    "perfectEvenWithJustAFewWords": "Perfect! Even with just a few words, you're ready to start. I'll guide you to confident conversations step by step.",
+    "awesomeAlreadyHalfwayThere": "Awesome! You're already halfway there. Some more practice with me and you'll do wonders!",
+    "awesomeSkysTheLimit": "Awesome! Sky's the limit for you. We'll take on tough challenges and achieve greater heights.",
+    "almostDoneAnswerAQuestionBeginner": "We're almost done! As a last step I'd like you to read the following passage.",
+    "almostDoneAnswerAQuestion": "We're almost done! As a last step I'd like you to answer a question for me.",
+    "dontKnowWhatToSpeak": "Don't know what to speak? No worries, you can read the hint below!",
+    "didNotSpeakAlot": "Looks like you didn't speak a lot.",
+    "letsTrySomethingElse": "Let's try something else, shall we?",
+    "greatReasonExperienceBestAiApp": "That was great! Now it's time for you to experience the reason why we won Google's Best AI App 2023.",
+    "reasonExperienceBestAiApp": "Now it's time for you to experience the reason why we won Google's Best AI App 2023.",
+    "tapOnButtonBelow": "Tap on the button below to see your mispronunciations, awkward pauses and other suggestions from our side.",
+    "curiousHowWellYou": "Curious how well you spoke? Tap to see how you performed!",
+    "purpose": {
+      "ielts": "IELTS",
+      "talkToColleaguesClients": "Talk to colleagues/clients",
+      "clearJobInterview": "Clear job interview",
+      "everydayConvo": "Everyday conversation",
+      "excelAtSchool": "Excel at my school",
+      "travel": "Travel",
+      "anyOtherGoal": "Any other goal",
+      "improveMyCareer": "Improve my career"
+    },
+    "workplaceSubPurpose": {
+      "jobInterview": "Job Interview",
+      "teamMeeting": "Team Meetings",
+      "presentations": "Presentations",
+      "networking": "Networking",
+      "smallTalk": "Small Talk with Colleagues"
+    },
+    "HowDidUserHearAboutApp": {
+      "tiktok": "Tiktok",
+      "instagram": "Instagram Reel",
+      "googleAds": "Google Ads",
+      "friend": "Friends",
+      "facebook": "Facebook",
+      "youtube": "Youtube",
+      "haveAReferralCode": "Have a Referral Code?",
+      "other": {
+        "playStore": "Just searched on Play Store",
+        "appStore": "Just searched on App Store"
+      },
+      "twitterX": "Twitter/X",
+      "sevenDayChallenge": "7 Day Challenge"
+    },
+    "levelDescription": {
+      "beginner": "I know a few words, but I can't make sentences.",
+      "intermediate": "I can make short sentences about simple things.",
+      "advance": "I can have short conversations and understand others."
+    }
+  },
+  "day4_2": {
+    "version13": {
+      "meetingVocabularyPractice": "Meeting Vocabulary Practice",
+      "countryCityAndTravelVocabulary": "Country, City and Travel Vocabulary ",
+      "summarizeLecture": "Summarize Lecture",
+      "q3AnswerExplanation": "\"Dog\" is a noun, naming an animal performing the action of barking. Nouns identify people, places, or things, making \"dog\" the subject of this sentence.",
+      "teamMeetingPractice": "Team Meeting Practice",
+      "q3AnswerExplanation2_3": "\"Deserted\" means abandoned and empty, not famous.",
+      "readItOutLoud": "Read it out loud",
+      "q2AnswerExplanation2": "Bustling describes a place that is full of energetic activity, movement, and noise.",
+      "q1AnswerExplanation2": "Heritage refers to traditions and valuable cultural elements passed down from previous generations.",
+      "q1AnswerExplanation": "\"Beautiful\" is an adjective that describes the noun \"dress.\" The other options, \"beautifully\" (an adverb) and \"beauty\" (a noun), do not correctly describe the dress.",
+      "orderingFoodVocabRevision": "Ordering food vocab revision",
+      "q1AnswerExplanation2_3": "\"Population\" refers to the people living in an area, not the traditions.",
+      "yourTurnToPracticeThisWord": "Your turn to practice this word!",
+      "mockTest1": "Mock Test 1",
+      "mockTest2": "Mock Test 2",
+      "grammarPractice": "Grammar Practice",
+      "task4": "Task 4",
+      "readingFast": "Reading : fast",
+      "letPracticeMore": "Let's practice - MORE!",
+      "yourTurnReadThisAloud": "Your turn! Read this aloud!",
+      "q4AnswerExplanation": "\"Under\" is a preposition that correctly describes the relationship between the cat and the bed. The other options, \"below\" (which is more spatially general) and \"down\" (which is an adverb), do not accurately fit the context.",
+      "showMeWhatYouGot": "Show me what you've got! Read this sentence out loud!",
+      "task1": "Task 1",
+      "weGetBackToReadingToday": "We get back to reading today, albeit a bit advanced this time.",
+      "speaking": "Speaking",
+      "q4AnswerExplanation2": "Authentic means original and true to traditional origins.",
+      "describeTheImage": "Describe the Image",
+      "roleplayExercise": "Roleplay Exercise",
+      "itAgainTimeToPracticeYourConversational": "It's again time to practice your conversational as well as tongue-twisting skills",
+      "letStartYourRoadmap": "Let's start your roadmap",
+      "ieltsPart2Lesson": "IELTS Part 2 Lesson",
+      "themeTravel": "Theme : Travel",
+      "workplaceMeetingRoleplay": "Workplace Meeting Roleplay",
+      "q4AnswerExplanation2_2": "\"Modified\" means changed from the original, not traditional.",
+      "letsPracticeSomeGrammar": "Let's practice some grammar",
+      "q2AnswerExplanation2_3": "\"Silent\" means calm without noise, the opposite of busy. ",
+      "q3AnswerExplanation2": "Renowned means well-known and widely respected for excellence.",
+      "nowYouTryReadThisSentence": "Now you try! Read this sentence!",
+      "q2AnswerExplanation": "\"Extremely\" is an adverb modifying the adjective \"fast.\" The other options, \"extreme\" (an adjective) and \"extremeness\" (a noun), do not correctly modify \"fast.\"",
+      "nowItsTheTimeToPracticeYourThinkingSkills": "Now, its the time to practice your question-answering & on-the-spot thinking skills.",
+      "haveFunWithThisTongueTwister": "Have fun with this tongue-twister",
+      "q5AnswerExplanation": "\"They\" is a pronoun used as the subject of the sentence. The other options, \"Their\" (a possessive pronoun) and \"Them\" (an object pronoun), do not fit the subject position.",
+      "q2AnswerExplanation2_2": "\"Declining\" means getting worse or smaller, not active.",
+      "q3AnswerExplanation2_2": "\"Deserted\" means abandoned and empty, not famous.",
+      "lastOneReadThisSentenceAloud": "Last one! Read this sentence aloud!",
+      "orderingFood": "Ordering food",
+      "vocabularyExercise": "Vocabulary Exercise",
+      "nowItYourMomentToShine": "Now it's your moment to shine! Try reading this sentence! ",
+      "readAloud": "Read Aloud",
+      "q1AnswerExplanation2_2": "\"Scenery\" refers to natural landscape features, not cultural traditions.",
+      "essentialVocabularyForDescribingYourCountry": "Essential Vocabulary for Describing Your Country, City, and Travel",
+      "task3": "Task 3",
+      "q4AnswerExplanation2_3": "\"Foreign\" means from another country, not always traditional. ",
+      "task2": "Task 2",
+      "repeatAfterMe": "Repeat after me",
+      "lastOneYouveGotThis": "Last one—you've got this! Read the final sentence out loud!"
+    },
+    "version16": {
+      "q1AnswerExplanation": "\"Meeting\" and \"meets\" are incorrect forms here. After the phrase \"Nice to\", we always use the base verb \"meet\"",
+      "q2AnswerExplanation": "\"Are\" and \"am\" cannot be used with the subject \"today\". Only \"is\" is grammatically correct here.",
+      "q3AnswerExplanation": "\"Gets\" and \"getting\" are not correct after \"hope we\". We use the base verb form \"get\" with the subject \"we\"."
+    }
+  },
+  "day4_3": {
+    "version16": {
+      "q1AnswerExplanation": "\"Separately alone\" and \"fighting each\" are incorrect and don’t fit the sentence. The sentence needs a word that means teamwork, and that word is \"together\".",
+      "q2AnswerExplanation": "\"Friendly\" is an adjective that means kind and pleasant to others.",
+      "q3AnswerExplanation": "\"Goodbye from here\" and \"Please leaving now\" don’t make sense when someone is joining. They are incorrect phrases, while \"Welcome to the team\" is the appropriate greeting.",
+      "q4AnswerExplanation": "\"Never meeting again\" and \"staying here forever\" are incorrect and don’t fit a friendly goodbye. \"See you soon\" is the natural phrase when someone leaves for a short time.",
+      "q5AnswerExplanation": "\"Ignore completely\" and \"working separate ways\" don’t fit the meaning and are grammatically incorrect. After \"let’s\", we use the base form \"work\", making \"work together\" the correct choice."
+    }
+  },
+  "day6": {
+    "version9": {
+      "exercise2": {
+        "es": {
+          "q1OptionCRight": "Maria feels overwhelmed by having too many tasks.",
+          "q5OptionARight": "Lisa is organizing her own work by importance (prioritizing).",
+          "q5OptionBWrong": "Taking initiative means acting without being prompted.",
+          "q3OptionCRight": "Sarah showed positive engagement by taking action (initiative).",
+          "q2OptionBRight": "John is delegating - assigning a task to someone else.",
+          "q1OptionARight": "Maria is feeling overwhelmed by too many tasks.",
+          "q1AnswerExplanation": "Being overwhelmed means having too many tasks to handle comfortably",
+          "q4OptionBWrong": "Delegation is assigning tasks to others.",
+          "q3OptionBRight": "Sarah proactively solved a problem herself (initiative).",
+          "q4OptionBRight": "Alex is suffering from prolonged exhaustion (burnout).",
+          "q3OptionBWrong": "Delegation is assigning tasks to others.",
+          "q4AnswerExplanation": "Burnout is exhaustion caused by prolonged stress",
+          "q1OptionAWrong": "Motivated means feeling eager or enthusiastic about work.",
+          "q2OptionARight": "John is assigning work to others (delegating).",
+          "q2OptionAWrong": "Taking initiative means acting without being asked.",
+          "q2OptionCWrong": "Prioritizing means ranking tasks by importance.",
+          "q2AnswerExplanation": "Delegating means assigning tasks to someone else",
+          "q3OptionARight": "Sarah showed initiative - solving a problem without being prompted.",
+          "q5AnswerExplanation": "Prioritizing means handling tasks in order of importance",
+          "q5OptionBRight": "Lisa is determining which tasks matter most (prioritizing).",
+          "q4OptionARight": "Alex is experiencing burnout - exhaustion from prolonged stress.",
+          "q2OptionCRight": "John is giving a task to someone else (delegating).",
+          "q1OptionCWrong": "Organized means having everything arranged in a structured way.",
+          "q4OptionCRight": "Alex is experiencing burnout - exhaustion caused by prolonged stress.",
+          "q4OptionAWrong": "Progress means positive advancement in work or career.",
+          "q3AnswerExplanation": "Taking initiative means identifying and solving problems without being prompted",
+          "q5OptionCRight": "Lisa is prioritizing - handling tasks in order of importance.",
+          "q5OptionAWrong": "Delegating is assigning tasks to others.",
+          "q3OptionCWrong": "Burnout is exhaustion from chronic stress."
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q3AnswerExplanation": "\"Did not\" is a helping verb that makes \"understand\" negative. It tells us Forrest didn't understand something in the past.",
+          "q6AnswerExplanation": "\"Discovers\" is an action verb showing what Indiana Jones does. \"Should\" is a helping verb showing what is right or proper.  ",
+          "q1AnswerExplanation": "\"Brought\" is an action verb showing what the scientists did. \"Was\" is a linking verb connecting \"decision\" to \"dangerous.\"",
+          "q2AnswerExplanation": "Both \"questioned\" and \"swallowed\" are action verbs. One shows mental action, the other shows physical action.",
+          "q5AnswerExplanation": "Both \"appears\" and \"remains\" are linking verbs in present tense. They connect the subject \"factory\" to the descriptions \"magical\" and \"full of surprises\" without showing action.",
+          "q4AnswerExplanation": "\"Was playing\" shows an action happening at that exact moment in the past. \"Was\" helps the main verb \"playing\" show ongoing action."
+        }
+      }
+    },
+    "version8": {
+      "exercise1": {
+        "id": {
+          "q3AnswerExplanation": "\"Team\" starts with a 't' sound, not 'th' (as in theme), 'c' (as in cream)",
+          "q1AnswerExplanation": "In English business vocabulary, \"presentation\" is pronounced pre-SEN-ta-tion, with stress on the second syllable",
+          "q2AnswerExplanation": "\"Action items\" refers to tasks that need to be completed, while \"action limits\" is not a common business term"
+        }
+      },
+      "exercise3": {
+        "id": {
+          "q3AnswerExplanation": "\"Explain\" fosters collaboration and respect. Requesting details shows you value different perspectives and creates space for innovation through open dialogue",
+          "q1AnswerExplanation": "\"Start\" shows leadership and initiative. Volunteering first sets a positive tone and demonstrates confidence, encouraging team participation.",
+          "q2AnswerExplanation": "\"Know\" demonstrates proactive planning. Asking about material availability identifies potential roadblocks early, showing foresight and commitment to meeting deadlines."
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q4AnswerExplanation": "\"Their\" is the correct possessive pronoun referring back to \"everyone\". \"Contribution\" means something given or supplied to a common fund or cause, which fits the context of adding to a project.",
+          "q2AnswerExplanation": "In this sentence, \"me\" is the object pronoun following \"asked\". \"I\" is a subject pronoun and would be incorrect here.",
+          "q5AnswerExplanation": "\"Those\" is a demonstrative pronoun correctly used to refer to people who missed the meeting. \"Action items\" are specific tasks assigned for completion, which fits the context of assignments needing review.",
+          "q3AnswerExplanation": "An \"agenda\" is a list of topics to be discussed in a meeting. \"Contribution\" refers to something given or supplied, while an \"action item\" is a specific task assigned for completion.",
+          "q6AnswerExplanation": "While traditionally \"his or her\" was used for singular antecedents joined by \"or/nor\", modern English accepts the singular \"their\" as gender-neutral and less awkward, especially when referring to specific people.",
+          "q1AnswerExplanation": "\"Collaborate\" means to work together toward a common goal, which fits the context of meeting a deadline"
+        }
+      }
+    }
+  },
+  "day11": {
+    "exercise2": {
+      "id": {
+        "q6AnswerExplanation": "An \"itinerary\" is a detailed plan or schedule for a trip that includes activities, times, and places.",
+        "q3AnswerExplanation": "\"Gets\" is the correct third-person singular form that agrees with the singular subject \"beach club.\"",
+        "q1AnswerExplanation": "The base form \"plan\" is needed after the modal verb \"need to.\"",
+        "q4AnswerExplanation": "\"Budget\" specifically refers to a planned amount of money allocated for spending.",
+        "q2AnswerExplanation": "\"Accommodation\" refers to places like hotels, villas, or hostels where travelers stay.",
+        "q5AnswerExplanation": "\"Have\" is the correct form to use with the plural subject \"my friends and I.\""
+      },
+      "q1AnswerExplanation": "\"Delegate\" is the correct verb meaning to assign tasks to others, while \"burnout\" and \"overwhelm\" don't function as verbs in this context.",
+      "q2AnswerExplanation": "\"Initiative\" fits logically in this sentence, and \"is\" serves as a linking verb connecting the subject to information about it.",
+      "q5AnswerExplanation": "\"Prioritizing\" means arranging tasks by importance, which logically helps prevent burnout.",
+      "q4AnswerExplanation": "\"Plans\" is an action verb showing something the subject does, matching the other action verbs in the series (answers, solves).",
+      "q6AnswerExplanation": "\"Is\" functions as a linking verb connecting \"presentation\" to information about it, while \"are\" links \"clients\" to their state.",
+      "q3AnswerExplanation": "\"Should\" is a helping verb that adds meaning to \"complete,\" and \"overwhelmed\" means stressed by too much work."
+    },
+    "exercise3": {
+      "q2AnswerExplanation": "\"Ask\" reflects willingness to seek assistance when needed. Recognizing when you need help and being open to requesting it shows professionalism and prevents burnout, contributing to a collaborative work environment.",
+      "id": {
+        "q3AnswerExplanation": "Using \"reservation\" reflects smart planning and travel savvy by securing spots at popular attractions, ensuring your group doesn’t miss out on key experiences.",
+        "q1AnswerExplanation": "Using \"perfect\" shows genuine enthusiasm and interest in your friend's travel plans, helping build excitement and a sense of shared anticipation for the trip.",
+        "q2AnswerExplanation": "Using \"practical\" shows thoughtful decision-making by balancing social bonding and cost-sharing, highlighting an important skill in group travel planning."
+      },
+      "q3AnswerExplanation": "\"Join\" indicates commitment to building workplace relationships. Following through on social invitations helps create a supportive network beyond immediate work tasks, which improves overall workplace satisfaction and teamwork.",
+      "q1AnswerExplanation": "\"Honest\" communication builds trust in workplace relationships. Sharing genuine feelings about workload creates an opportunity for support and shows authenticity, which strengthens collegial bonds."
+    }
+  },
+  "day5": {
+    "version10": {
+      "exercise3": {
+        "es": {
+          "q1AnswerExplanation": "\"Start\" shows leadership and initiative. Volunteering first sets a positive tone and demonstrates confidence, encouraging team participation.",
+          "q4AnswerExplanation": "\"Help\" prioritizes team success over individual concerns. Offering assistance shows accountability and solution-focused thinking instead of blame or negativity.",
+          "q2AnswerExplanation": "\"Know\" demonstrates proactive planning. Asking about material availability identifies potential roadblocks early, showing foresight and commitment to meeting deadlines.",
+          "q5AnswerExplanation": "\"Discuss\" focuses on understanding before acting. Seeking specifics about client requests shows professionalism and leads to more effective solutions and stronger client relationships.",
+          "q3AnswerExplanation": "\"Explain\" fosters collaboration and respect. Requesting details shows you value different perspectives and creates space for innovation through open dialogue"
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q2AnswerExplanation": "'Help' is the verb that means to assist someone, so it fits in 'help me with the graphics.'",
+          "q3AnswerExplanation": "'Good' means suitable or acceptable, so it fits when agreeing on a meeting time.",
+          "q1AnswerExplanation": "'Finish' is a verb meaning to complete something, so it fits after 'can' in this sentence."
+        },
+        "es": {
+          "q2AnswerExplanation": "\"Is\" is a linking verb because it connects the subject \"Upside Down\" to the description \"a dark and dangerous dimension.\" Linking verbs don't show action but instead connect subjects to descriptions.",
+          "q5AnswerExplanation": "\"Can\" is a helping verb that shows Tony's ability. Helping verbs like \"can,\" \"will,\" and \"should\" modify main verbs to express ability, necessity, or future actions.",
+          "q3AnswerExplanation": "\"Can\" is a helping verb that shows ability. It works with the main verb \"defeat\" to show that Harry has the ability to overcome Voldemort. Helping verbs add meaning about possibility, necessity, or time.",
+          "q1AnswerExplanation": "\"Throws\" is an action verb because it shows a physical action that Thor performs. Action verbs express what someone does, whether physical or mental.",
+          "q4AnswerExplanation": "\"Plays\" is an action verb showing what Jim does. Action verbs are essential for describing activities and behaviors, whether at work or in daily life."
+        }
+      }
+    }
+  },
+  "roadmapIntermediateStates": {
+    "letsReview": "let's review ",
+    "ontoTheNextOne": "ONTO THE NEXT ONE!",
+    "part2OfDay2": "Part 2 of Day 2 is complete ",
+    "part3OfDay3": "Part 3 of Day 3 is complete",
+    "meetingRoleplay": "Meeting Roleplay done✨",
+    "teamMeeting": "team meeting",
+    "restaurantRoleplayMastered": "Restaurant roleplay mastered!",
+    "part1OfDay4": "Part 1 of Day 4 complete",
+    "weLearnt": "we learnt!",
+    "again": "again!",
+    "sentenceStructureMastered": "Sentence Structure Mastered !",
+    "youBelongTo": "You belong to top 10% of users to finish Day 1 !",
+    "youLearnt": "you learnt ",
+    "youLearnedPronounciations": "You learned Pronouns!",
+    "practicing": "practicing 2 words",
+    "day1Completed": "DAY 1 COMPLETED",
+    "letsReviewPronouns": "let's review pronouns as conversation",
+    "readingDone": "READING DONE!",
+    "lets": "Let's ",
+    "scoreImproved": "score improved by 25% ",
+    "letsRevise": "let's revise ",
+    "yourLearningFrom": "your learning from roleplay ",
+    "oneLastLesson": "ONE LAST LESSON!",
+    "part2OfDay3": "Part 2 of Day 3 is complete",
+    "restaurantRoleplayDone": "Restaurant Roleplay done✨"
+  },
+  "day2McqExercise": {
+    "q1AnswerExplanation": "We use \"He\" because Joe is a singular male subject, and the pronoun must match the gender and number.",
+    "q2AnswerExplanation": "Since Daenerys (a female) is the owner, \"Hers\" is the correct answer.",
+    "q5AnswerExplanation": "\"We\" is the correct subject pronoun needed before the verb \"like\" in this sentence.",
+    "q4AnswerExplanation": "Since Jon Snow is referring to a specific sword close to him, \"this\" is appropriate for something singular and close to him.",
+    "q3AnswerExplanation": "The pronoun 'herself' is used because the subject of the sentence is \"She\", and the action of making the sandwich reflects back on her."
+  },
+  "mergedFilter": {
+    "job": {
+      "administrativeOfficialMatters": "Administrative & Official Matters",
+      "practiceSmallTalkInInterviews": "Practice small talk in interviews",
+      "negotiationProfessionalDiscussions": "Negotiation & Professional Discussions",
+      "talkOnDailyActivities": "Talk on Daily activities",
+      "workplaceCommunicationCulture": "Workplace Communication & Culture",
+      "preparingYourselfForJobInterview": "Preparing yourself for Job interview"
+    },
+    "ielts": {
+      "professionalLifeWorkplaceCommunication": "Professional Life & Workplace Communication",
+      "talkAboutYourPreferences": "Talk about your preferences",
+      "demonstrateYourCriticalThinking": "Demonstrate your critical thinking",
+      "expressOpinionsOnSocialLife": "Express opinions on social life",
+      "expressHowYouHandleDailyTasks": "Express how you handle daily tasks"
+    },
+    "defaultFilter": {
+      "personalGrowthLeadership": "Personal Growth & Leadership",
+      "casualConversations": "Casual Conversations",
+      "professionalCommunication": "Professional Communication",
+      "talkOnYourPersonalInterests": "Talk on your Personal Interests",
+      "dailyTasksErrands": "Daily Tasks & Errands"
+    },
+    "business": {
+      "professionalCommunicationProjectManagement": "Professional Communication & Project Management",
+      "careerDevelopmentGrowth": "Career Development & Growth",
+      "teamCollaborationConflictResolution": "Team Collaboration & Conflict Resolution",
+      "personalTimeManagementWorkLifeBalance": "Personal Time Management & Work-Life Balance",
+      "dailyWorkplaceInteractions": "Daily workplace interactions",
+      "businessSocialSettings": "Business Social Settings"
+    }
+  },
+  "conversationFeedbacks": {
+    "userLeftMidway": {
+      "didNotKnowWhatToSay": "Did not know what to say",
+      "technicalIssues": "Technical issues",
+      "needMoreTimeToSpeak": "Need more time",
+      "micHeardWrongWords": "Mic heard wrong words",
+      "repetitive": "Repetitive",
+      "replyWasTooBoring": "Reply was too boring",
+      "didntLikeVoice": "Didn't like voice",
+      "spokeTooFast": "Spoke too fast",
+      "responseToughAndLong": "Response tough and long",
+      "responseWasIrrelevant": "Response was irrelevant"
+    },
+    "normal": {
+      "repetitive": "Repetitive",
+      "bugsOrTechnicalIssue": "Bugs / Technical issue",
+      "chatRepetitive": "Chat repetitive",
+      "poorResponsesFromSarah": "Poor Responses from Sarah",
+      "chatTooBoring": "Reply was too boring"
+    }
+  },
+  "chat_onboarding_v2_feature2": {
+    "moreThanTenThousandPeopleHaveBenefited": "More than ten thousand people have benefited from the Stimuler app every day. I hope you too can be one of them. Shall we start?",
+    "helloIamYourSara": "Hello! I'm your Sara! I'll help you improve your English.",
+    "firstOfAllWhatIsYourName": "First of all, what is your name?",
+    "letsImproveYourEnglishSkills": "Let's improve your English skills together. Are you ready?"
+  },
+  "roadmap_models2": {
+    "aQuestionAppearsAnswerInRealTime": "A question appears. Answer it in real time, in the next 60 seconds, with no script or preparation.",
+    "aPictureAppearsSayWhatMakesSense": "A picture appears. Say whatever makes sense to you.",
+    "practiceRealTimeQuestion": "Practice real time question answers without any script or formal preparation",
+    "identifyTheCorrectSentence": "Identify the correct sentence",
+    "repeatAfterMe": "Repeat after me",
+    "timeForAGameSpeakAsManyWords": "Time for a game, speak as many words starting from the letter given!  Ready to play...",
+    "tongueTwister": "Tongue Twister",
+    "AllOptionsMustBeDifferent": "All options must be different",
+    "oneAndOnlyOneOptionMustBeRight": "One and only one option must be right",
+    "youWillBeGivenAnImage": "You will be given an image, try describing with as much detail under a minute!"
+  },
+  "customeFeedbackBottomsheet": {
+    "goodNewsYouCanNow": "Good news! 🎉 You can now..."
+  },
+  "mcq_result2": {
+    "well_done2": "Well Done! 👏🏻",
+    "your_focus_areas2": "Your focus areas"
+  },
+  "day5_2": {
+    "version11": {
+      "q3AnswerExplanation2": " 'Some' is a determiner used with plural countable nouns like 'apples.' 'Any' is often used in questions or negative sentences, and 'much' is used with uncountable nouns, so they do not fit the context.",
+      "q1AnswerExplanation3": " 'Beautiful' is an adjective that describes the noun 'dress.' The other options, 'beautifully' (an adverb) and 'beauty' (a noun), do not correctly describe the dress.",
+      "q2AnswerExplanation": "The linking verb 'is' connects the subject 'potion' to the adjective 'ready,' describing its state.",
+      "q5AnswerExplanation": "'Went' is the past tense of 'go,' describing a completed action.",
+      "roleplayMocktest": "Roleplay Mocktest",
+      "q4AnswerExplanation4": "'Takes' is the correct form of the verb 'take' in the third person singular present tense.",
+      "q3AnswerExplanation3": " 'Dog' is a noun, naming an animal performing the action of barking. Nouns identify people, places, or things, making 'dog' the subject of this sentence.",
+      "ieltsRoleplayPracticeExercise": "IELTS Roleplay Practice Exercise",
+      "q3AnswerExplanation": "The auxiliary verb 'have' helps to form the perfect tense, indicating that the action of finishing homework is completed.",
+      "fillInTheBlankResponses": "Fill in the Blank Responses",
+      "q1AnswerExplanation4": " 'Them' is the correct object pronoun when referring to visitors.",
+      "q8AnswerExplanation": "'Showed' is the past tense of 'show,' indicating what John did at the market.",
+      "q6AnswerExplanation": " 'Needed' is the past tense of 'need,' indicating a reason for going to the market.",
+      "q2AnswerExplanation2": " 'Placed' is the past tense of 'place,' fitting the past action in the sentence. 'Placing' is a present participle, and 'place' is the base form, both of which do not fit the past tense required by the sentence context.",
+      "after4DaysOfSpeakingLetsTakeAShortGrammarBreakHaveFun": "After 4 days of speaking, let's take a short 'grammar break'. Have fun!",
+      "q1AnswerExplanation2": " 'But' is a conjunction that shows contrast between wanting to go to the concert and having to work late. 'And' adds information without contrast, and 'so' shows a cause-and-effect relationship, neither of which fit the context.",
+      "q1AnswerExplanation": "The simple-present verb 'runs' describes Ken's habitual action of running to catch the bus.",
+      "q3AnswerExplanation4": "'Staying' is the correct gerund form after the verb 'recommend' in this context.",
+      "q5AnswerExplanation4": "'Several' is the correct quantifier for countable nouns like 'festivals.'",
+      "q5AnswerExplanation2": " 'Has' is an auxiliary verb used with the past participle 'been' to form the present perfect tense, indicating an action that started in the past and continues to the present. 'Have' would be incorrect as the subject 'She' requires a singular auxiliary verb, and 'is' is not used with 'been' in this context.",
+      "q7AnswerExplanation": " 'Met' is the past tense of 'meet,' describing an event at the market.",
+      "q2AnswerExplanation4": "'From' is the correct preposition when showing the starting point of a time period.",
+      "q4AnswerExplanation": "The modal verb 'can' is used to show ability or possibility.",
+      "q4AnswerExplanation3": " 'Under' is a preposition that correctly describes the relationship between the cat and the bed. The other options, 'below' (which is more spatially general) and 'down' (which is an adverb), do not accurately fit the context.",
+      "speakingImpromptu": "Speaking: Impromptu",
+      "q4AnswerExplanation2": " 'Oops' is an interjection expressing a mistake or minor accident, fitting the context of forgetting keys. 'Wow' expresses surprise or admiration, and 'However' is a conjunction, neither fitting the context of making a mistake.",
+      "q2AnswerExplanation3": " 'Extremely' is an adverb modifying the adjective 'fast.' The other options, 'extreme' (an adjective) and 'extremeness' (a noun), do not correctly modify 'fast.'",
+      "q5AnswerExplanation3": " 'They' is a pronoun used as the subject of the sentence. The other options, 'Their' (a possessive pronoun) and 'Them' (an object pronoun), do not fit the subject position."
+    }
+  },
+  "day1_2": {
+    "version29": {
+      "task3": "Task 3",
+      "task2": "Task 2",
+      "summarizeLecture": "Summarize Lecture",
+      "introductionSpeakingTest": "Introduction : Speaking Test",
+      "readTheParagraphWithProperPronunciation": "Read the paragraph with proper pronunciation",
+      "firstExerciseForToday": "First Exercise for today",
+      "introduceYourself": "Introduce yourself ",
+      "youNailedYourFirstSelfIntroductionAtWorkplace": "You Nailed your first\nSelf-Introduction at workplace",
+      "selfIntroSuperstar": "Self Intro - Superstar!",
+      "andPracticed2Execises": "and practiced 2 execises ",
+      "letReadTogether": "Let's read together",
+      "letBuildYourGrammar": "Let's build your grammar",
+      "practiceOnMistakes": "Practice on Mistakes",
+      "tongueTwister": "Tongue Twister",
+      "welcomeToPTEMockTest": "Welcome to PTE Mock Test!",
+      "continueLiteral": "Continue",
+      "howDoYouKnowPeopleHere": "How do you know people here?",
+      "task4": "Task 4",
+      "haveFunWithThisTongueTwister": "Have fun with this tongue-twister",
+      "grammar": "Grammar",
+      "speaking": "Speaking",
+      "readingExercise": "Reading Exercise",
+      "grammarDone": "Grammar done!",
+      "readAloud": "Read Aloud",
+      "describeTheImage": "Describe the Image",
+      "introduction": "Introduction",
+      "letStartYourRoadmap": "Let's start your roadmap",
+      "ieltsPart1": "IELTS Part 1",
+      "whatIsAHobbyYouLoveDoing": "What is a hobby you love doing in your free time?",
+      "repeatAfterMe": "Repeat after me",
+      "whatIsHobbyYouLoveDoing": "What is a hobby you love doing in your free time?",
+      "grammarBuilder": "Grammar builder",
+      "youLearntTo": "You learnt to "
+    }
+  },
+  "day2": {
+    "version14": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Share\" naturally introduces thoughts or information in a discussion. \"Suggest\" would need an idea or proposal as its object.",
+        "q5AnswerExplanation": "\"Suggest\" proposes ideas without imposing. \"Speak\" lacks proposal intent; \"show\" implies visual presentation.",
+        "q4AnswerExplanation": "\"Sorry\" politely introduces an interruption. \"Okay\" acknowledges others; \"Listen\" introduces new topics, not departures.",
+        "q3AnswerExplanation": "\"Could we\" makes polite, collaborative suggestions. \"May\" is too formal; \"Must\" sounds commanding rather than suggestive.",
+        "q1AnswerExplanation": "\"Sorry\" politely signals an unexpected departure from conversation. \"Maybe\" shows uncertainty; \"Hello\" is for greetings only."
+      }
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "\"I\" is the first-person singular pronoun for self-reference.",
+      "q2AnswerExplanation": "\"They\" is the third-person plural subject pronoun for referring to others who performed the action.",
+      "q3AnswerExplanation": "\"My\" is the first-person possessive adjective showing ownership."
+    }
+  },
+  "day10": {
+    "exercise2": {
+      "id": {
+        "q3AnswerExplanation": "\"Practical\" suggests the villa is a sensible, useful choice because it offers advantages (staying together and sharing costs).",
+        "q1AnswerExplanation": "\"Ideal\" expresses that something is perfect for a situation - in this case, Bali is perfect for a weekend beach trip.",
+        "q2AnswerExplanation": "\"Combine\" means to join different things together, suggesting a balanced mix of beach and cultural activities each day."
+      },
+      "q3AnswerExplanation": "\"Goals\" logically completes the sentence about managing work stress through prioritization, while the other options would worsen the situation.",
+      "es": {
+        "q1AnswerExplanation": "\"Guidance\" is a professional term for requesting help or direction on a work task.",
+        "q5AnswerExplanation": "\"Assist\" means to help someone, so it fits an offer to help with the graphics.",
+        "q4AnswerExplanation": "\"Clarification\" explicitly asks for a better understanding of confusing information.",
+        "q2AnswerExplanation": "\"Do me a favor\" is the natural phrase for politely asking someone to help.",
+        "q3AnswerExplanation": "\"Resources\" refers to helpful materials or information you could use to understand the technical specs."
+      },
+      "ielts": {
+        "q2AnswerExplanation": "\"Will\" is the correct modal verb to express a future consequence in this factual context",
+        "q3AnswerExplanation": "\"Have started\" is the correct present perfect form for actions beginning in the past that continue or have present relevance",
+        "q1AnswerExplanation": "\"Being cleared\" is the correct passive continuous form to describe an ongoing process"
+      },
+      "q1AnswerExplanation": "\"Break\" is the only logical option that would help someone who is overwhelmed, while the other options would potentially make the situation worse.",
+      "q2AnswerExplanation": "\"Thoughtful\" is the only positive and appropriate response to someone taking initiative to help the team, while the other options are negative and inappropriate."
+    },
+    "exercise3": {
+      "es": {
+        "q3AnswerExplanation": "\"Clarification\" directly addresses confusion about contradictory information. \"Guidance\" would be for advice on what to do next, not fixing confusion. \"Assistance\" implies you need help completing a task, but your issue is understanding the information first.",
+        "q1AnswerExplanation": "\"Guidance\" is perfect when seeking expert direction to improve your skills. \"Favor\" is for requesting outside help, not learning. \"Clarification\" would only explain confusion, not provide the expertise you need.",
+        "q4AnswerExplanation": "\"Assistance\" means direct, hands-on help with a specific ongoing task. \"Clarification\" would only explain points of confusion, not provide ongoing support. \"Resources\" would give materials for self-learning rather than the personal review they're requesting.",
+        "q2AnswerExplanation": "\"Favor\" is right for quick, urgent help outside someone's regular duties. \"Resources\" would mean materials to fix it yourself, too slow for this emergency. \"Assistance\" implies a formal support request, not this quick hallway interaction.",
+        "q5AnswerExplanation": "\"Resources\" refers to materials that help people learn independently. \"Clarification\" would only address specific questions, not provide comprehensive training. \"Guidance\" implies personal direction rather than self-service learning materials."
+      }
+    }
+  },
+  "firebase_service": {
+    "enterThePassword": "Enter the password",
+    "password": "Password",
+    "emailAddress": "Email Address",
+    "confirm": "Confirm"
+  },
+  "withinConversation": {
+    "bugsOrTechnicalIssues": "Bugs or Technical issues  🚩",
+    "iDidntKnowWhatToSpeak": "I didn’t know what to speak 😓",
+    "sarahsMessageWasBoring": "Sarah’s Message was Boring 🥱",
+    "exploringOrFindingADifferentTopic": "Exploring / Finding a different topic  🔍"
+  },
+  "roadmapTab": {
+    "premiumLessons": "Premium Lessons",
+    "suggestionsTitle": "More Mock Tests & Lessons",
+    "hey": "Hey",
+    "suggestionsCta": "Have Recommendations?",
+    "startYourLearningJourney": "Start your learning journey",
+    "start": "Start",
+    "comingSoon": "Coming Soon"
+  },
+  "pick_a_word_to_practice_screen": {
+    "toMakeSomethingBetterValuableGoodWay": "To make something better or more valuable in a good way"
+  },
+  "roadmapIntermediateStates2": {
+    "continueLiteral2": "Continue"
+  },
+  "day8": {
+    "exercise2": {
+      "q2AnswerExplanation": "\"Is\" is a linking verb because it connects the subject \"Upside Down\" to the description \"a dark and dangerous dimension.\" Linking verbs don't show action but instead connect subjects to descriptions.",
+      "q5AnswerExplanation": "\"Can\" is a helping verb that shows Tony's ability. Helping verbs like \"can,\" \"will,\" and \"should\" modify main verbs to express ability, necessity, or future actions.",
+      "q4AnswerExplanation": "\"Plays\" is an action verb showing what Jim does. Action verbs are essential for describing activities and behaviors, whether at work or in daily life.",
+      "q3AnswerExplanation": "\"Can\" is a helping verb that shows ability. It works with the main verb \"defeat\" to show that Harry has the ability to overcome Voldemort. Helping verbs add meaning about possibility, necessity, or time.",
+      "q1AnswerExplanation": "\"Throws\" is an action verb because it shows a physical action that Thor performs. Action verbs express what someone does, whether physical or mental."
+    }
+  },
+  "feedback_recorders": {
+    "iWantTo": "I want to ....."
+  },
+  "flow_a01_rollout_v4_tn": {
+    "veryGoodNameTypeYourMobileNumber": "Very good name. Type your mobile number. I will send you relevant tips and lessons daily.",
+    "thankyouVeryMuch": "Thank you very much. How do you like to know about stimuler?",
+    "itsOkHowDidYouKnowAbout": "It's okay. How did you know about Stimuler?",
+    "niceToMeetYouSelectYourEnglish": "Nice to meet you. Select your English goal to prepare a personalized plan for you.",
+    "greatIWillPrepareLessons": "Great! I will prepare lessons and exercises to increase your IELTS score. This will help you perform without exam pressure.",
+    "ohGreatIAmHelpingMillions": "Oh great! I'm helping millions of working professionals who download and use Stimuler by creating lessons and exercises to handle their office-related situations. Don't worry, I'll prepare great lessons for you too.",
+    "greatIHaveHelpedOver": "Great! I have helped over a lakh job seekers with their interview and related doubts, increasing their Interview English confidence manifold.",
+    "greatAlmost1Million": "Great! Almost 1 million people have used Stimuler to get the practice they need to handle everyday situations",
+    "ohGreateYouCanQuicklyLearn": "Oh great! You can quickly learn all the words and phrases you need to travel with Stimuler. I have created lessons that are suitable for millions of foreign travelers and out-of-towners, boosting their confidence.",
+    "greatMoreThanTenThousand": "Great! More than ten thousand people are easily learning the English required for college and school through Stimuler. You can join them too.",
+    "greatIHaveHelpedMillionsOfPeople": "Great! I've helped millions of people improve their English. You can be one of them.",
+    "whatKindOfSituations": "What kinds of situations do you want to be good at?",
+    "thatsAwesome": "That's awesome! I've helped over a million professionals improve their careers by practicing real-world conversations.",
+    "dontBeleiveMe": "Don't believe me. Millions of Indians like you have benefited from Stimuler.",
+    "okayWhatDoYouThinkYourEnglishLevelIs": "Okay! What do you think your English level is?",
+    "greatEvenWithFewWords": "Great! Even with just a few words, you're ready to start. I'll gradually guide you to confident conversations.",
+    "ohIamSoGlad": "Oh, I'm so glad. Since you already know how to read, it's easy to practice daily and you can speak English confidently.",
+    "greatIWillHelpYou": "Great! I'll help you practice speaking your English like a native. All you need to do is practice 10 minutes daily.",
+    "letsStartYourEnglishJourney": "Let's start your English journey. As a first step, answer this question.",
+    "readTheHintBelowLoud": "Read the hint below aloud.",
+    "greatNowYouKnowWhyWeWon": "Great! Now you know why we won Google's Best AI app of 2023. Press the result button below.",
+    "ifYouPressThisButton": "If you press this button, we will let you know all the feedback in your speech."
+  },
+  "streak_freeze_intro_flow": {
+    "whatsAStreakFreeze": "What's a streak freeze?",
+    "streakFreezePreventsStreakFromBreaking": "Streak freeze prevents your streak from breaking",
+    "next": "Next",
+    "howDoesItWork": "How Does It Work?",
+    "ifYouSkipADayItAutoActivatesAndProtectsYourStreak": "If you skip a day, it auto-activates and protects your streak",
+    "day": "day",
+    "streak": "streak",
+    "used": "used",
+    "freezes": "Freezes",
+    "howDoIUseStreakFreezes": "How Do I Use Streak Freezes?",
+    "youDontHaveToItKicksInOnItsOwnWhenYouNeedIt": "You don't have to. It kicks in on its own when you need it",
+    "howDoIEarnStreakFreezes": "How Do I Earn Streak Freezes?",
+    "justKeepLearningYoullEarnThemAsRewardsYouGetMaximumOf3StreakFreezes": "Just keep learning — you'll earn them as rewards. You get maximum of 3 streak freezes",
+    "youllGet": "You'll get ",
+    "threeStreakFreezeOverall": "3 streak freeze overall",
+    "asYouDoTheLessons": "as you do the lessons",
+    "keepGoing": "Keep going →"
+  },
+  "streaks_share_screen_new": {
+    "shareMilestone": "Share Milestone",
+    "iAchievedA": "I achieved a",
+    "dayStreakBadgeForEnglishFluency": "Day streak badge\nfor English\nFluency!",
+    "stimuler": "Stimuler",
+    "download": "Download",
+    "whatsapp": "Whatsapp",
+    "instagram": "Instagram",
+    "x": "X",
+    "messages": "Messages",
+    "more": "More"
+  },
+  "milestone_achieved_screen": {
+    "continueLearning": "Continue Learning",
+    "shareTheMilestone": "Share the Milestone!",
+    "sevenDaysNoSkipsThatsRealConsistency": "7 days, no skips – that's real consistency.",
+    "twoWeeksStrongYoureBuildingAHabit": "2 weeks strong! You're building a habit.",
+    "thirtyDaysYouveMasteredConsistency": "30 days! You've mastered consistency.",
+    "fortyFiveDaysOfDedicationImpressive": "45 days of dedication. Impressive!",
+    "sixtyDaysYoureUnstoppable": "60 days! You're unstoppable.",
+    "seventyFiveDaysOfExcellenceKeepGoing": "75 days of excellence. Keep going!",
+    "ninetyDaysYouveTransformedThisIntoALifestyle": "90 days! You've transformed this into a lifestyle.",
+    "oneHundredDaysYoureATrueChampion": "100 days! You're a true champion.",
+    "daysYourDedicationIsInspiring": "days! Your dedication is inspiring."
+  },
+  "streaks_screen_v2": {
+    "dayStreak": "day streak",
+    "redHatDisplay": "Red Hat Display",
+    "mileStoneReached": "Milestone reached! 🎉",
+    "lookAtYouShowingUp": "Look at you showing up 👏",
+    "only": "Only ",
+    "toHitYourMilestone": "to hit your milestone",
+    "days": "days",
+    "day": "day",
+    "shareYourFirstStreak": "Share your first streak",
+    "shareYourStreak": "Share your streak",
+    "letsGo": "Let's Go!",
+    "continueLiteral": "Continue"
+  },
+  "streak_commitment_set_screen": {
+    "pushYourStreakFurther": "Push your streak further 🚀",
+    "pickYourFirstChallenge": "Pick your first challenge 🔥",
+    "readyToGoBeyond": "Ready to go beyond?",
+    "buildMomentumBuildFluency": "Build momentum. Build fluency.",
+    "mostPickedByBeginners": "Most picked by beginners",
+    "iCommitFor": "I commit for ",
+    "days": "days!",
+    "dayStreak": "day streak"
+  },
+  "streak_freeze_info_screen": {
+    "streakFreeze": "Streak Freezes",
+    "availableStreakFreezes": "Available Streak Freezes:",
+    "whatIsAStreakFreeze": "What is a streak freeze?",
+    "streakFreezeAllowsYouToKeepYourStreakAliveEvenIfYouMissADay": "Streak freeze allows you to keep your streak alive, even if you miss a day.",
+    "howDoesItWork": "How does it work?",
+    "ifYouSkipADayItAutoActivatesAndProtectsYourStreak2": "If you skip a day, it auto-activates and protects your streak.",
+    "howDoIUseStreakFreezes": "How do I use streak freezes?",
+    "youDontHaveToItKicksInOnItsOwnWhenYouNeedIt": "You don't have to. It kicks in on its own when you need it",
+    "howDoIEarnStreakFreezes": "How do I earn streak freezes?",
+    "justKeepLearningYoullEarnThemAsRewardsOverTime": "Just keep learning. You'll earn them as rewards over time."
+  },
+  "new_streak_bottomsheet": {
+    "keepGoing": "KEEP GOING →",
+    "gotItLetsBounceBack": "GOT IT! LET'S BOUNCE BACK",
+    "letsGetIt": "LET'S GET IT",
+    "today": "Today",
+    "streakEndedAt": "Streak Ended at",
+    "doAnyActivityTodayToStartANewStreak": "Do any activity today to start a new streak.",
+    "streakFrozenYesterday": "Streak Frozen Yesterday",
+    "startYourFirstStreak": "Start Your First Streak!",
+    "keepTheStreakAlive": "Keep the Streak Alive",
+    "doAnyActivityTodayToExtendIt": "Do any activity today to extend it!",
+    "doAnyActivityToday": "Do any activity today!"
+  },
+  "streak_gift_screen": {
+    "thisRewardWillHelpYouGetThere": "This reward will help you get there 💪",
+    "streakFreezeUnlocked": "Streak Freeze unlocked!",
+    "itFreezesAndPreventsStreakFromBreaking": "It Freezes & prevents streak from breaking!",
+    "knowMore": "Know more",
+    "unlockReward": "Unlock Reward",
+    "keepGoing": "Keep going →",
+    "chasingStreakGoal": "Chasing $currentTarget-day streak goal?"
+  },
+  "way_call_with_sarah_card": {
+    "fifteenMinuteCallWithSarah": "15 MINUTE CALL WITH SARAH"
+  },
+  "way_conversation_with_sarah_card": {
+    "conversationWithSarah": "CONVERSATION WITH SARAH",
+    "or": "OR"
+  },
+  "way_roadmap_lesson_card": {
+    "roadmapLesson": "ROADMAP LESSON",
+    "or": "OR"
+  },
+  "ways_to_gain_streak": {
+    "doAny1ActivityDailyToKeepYourStreakAlive": "Do any 1 activity daily to keep your streak alive 🔥",
+    "iImIn": "I'm in!"
+  },
+  "streaks_detail": {
+    "streak": "Streak",
+    "dayStreak": "day streak",
+    "weSavedYourStreakYesterdayKeepItAliveToday": "We saved your streak yesterday. Keep it alive today.",
+    "youllAchieveYourNextMilestoneOn": "You'll achieve your next milestone on",
+    "doAnyActivityTodayToStartYourStreak": "Do any activity today to start your streak.",
+    "doAnyActivityTodayToKeepYourStreakAlive": "Do any activity today to keep your streak alive.",
+    "streakGoal": "Streak Goal"
+  },
+  "profile": {
+    "pro": "PRO",
+    "streakCalendar": "Streak Calendar",
+    "practiceImpromptu": "Practice Impromptu",
+    "practiceSpeakingOn100sOfRandomTopics": "Practice Speaking On 100’s of Random Topics",
+    "facingAnyIssuesWithOurApp": "Facing any issues with our app?"
+  },
+  "streak_freeze_unlocked_screen": {
+    "knowMore": "Know more",
+    "keepGoing": "Keep going →",
+    "streakFreezeUnlocked": "Streak Freeze unlocked!",
+    "streakFreezePreventsStreakFromBreaking": "Streak freeze prevents your streak from breaking!",
+    "itFreezesAndPreventsStreakFromBreaking": "It Freezes & prevents streak from breaking!"
+  },
+  "streak_common": {
+    "good": "Good",
+    "great": "Great",
+    "brilliant": "BRILLIANT",
+    "amazing": "AMAZING",
+    "incredible": "INCREDIBLE",
+    "continueButton": "Continue",
+    "continueLearning": "Continue Learning",
+    "day": "Day"
+  },
+  "first_streak_increment": {
+    "seeWhatOurUsersSay": "See what our users say\nabout Streaks!",
+    "testimonial": "The streak feature kept me motivated to\npractice English daily. I am now consistently\nscore > 90% fluency scores !!"
+  },
+  "streak_increment_screen_builder": {
+    "fiveDaysInARow": "Five days in a row🔥\nAwesome job!",
+    "oneWeekConsistency": "One week of consistency🔥\nKeep it up!",
+    "twoWeeksInARow": "Two weeks in a row 🔥\nKeep shining!",
+    "threeWeeksInARow": "Three weeks in a row! 🔥\nKeep shining!"
+  },
+  "streak_target_set_screen": {
+    "settingStreakGoalHelps": "Setting a streak goal helps\nin staying consistent",
+    "youAreLikelyToProgress": "You are likely to progress "
+  },
+  "streaks_share_screen": {
+    "shareMessage": " Day Streak of Mastering my Speaking Fluency!\n\nYou can join me on this journey on Stimuler app - ",
+    "dayStreakBadge": "Day streak badge\nfor English\nFluency!",
+    "dayEnglishLearningStreak": "day English\nLearning streak!"
+  },
+  "streak_increment_screen": {
+    "appWillNotifyDanger": "The app will notify you when you are in danger of missing your goal"
+  },
+  "videoLanguageSettings": {
+    "lessonSettingsTitle": "Lesson settings",
+    "videoLanguageRow": "Video language",
+    "subtitlesRow": "Native subtitles",
+    "subtitleOn": "On",
+    "subtitleOff": "Off",
+    "switchDialogTitle": "Switch video language to $display?",
+    "switchDialogBody": "This video will restart from the beginning in $display. Your lesson progress is saved.",
+    "switchDialogConfirm": "Yes, switch to $display",
+    "switchDialogKeep": "Keep $display",
+    "promptTitle": "Do you want to switch video language?",
+    "promptChangeTo": "Change to $display",
+    "promptKeep": "Keep $display",
+    "switchLoader": "Loading your $display lesson…",
+    "languageSectionHeader": "LANGUAGE",
+    "learningSectionHeader": "LEARNING",
+    "accountSectionHeader": "ACCOUNT",
+    "appSectionHeader": "APP",
+    "nativeLanguageRow": "Native language",
+    "appLanguageRow": "App language",
+    "englishOnly": "English",
+    "searchHint": "Search",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "appSwitchTitle": "Switch app language to $display?",
+    "appSwitchBody": "Your subtitles and all in-app guidance will change to $display.",
+    "cardVideoSwitchBody": "Your guided video lessons will switch to $display and your current lesson will restart from the beginning."
+  },
+  "wordMeaning": {
+    "pronunciation": "Pronunciation",
+    "tapToListen": "Tap to listen",
+    "loading": "Loading...",
+    "saveWord": "Save word to dictionary",
+    "definitionPlaceholder": "Definition will be shown here"
+  },
+  "roadmapCta": {
+    "continueLabel": "Continue",
+    "retry": "Retry",
+    "tryAgain": "Try again",
+    "next": "Next",
+    "error": "Error",
+    "tapToRetry": "Tap to retry",
+    "tapToSpeak": "Tap to speak",
+    "skip": "Skip",
+    "skipUnit": "Skip Unit",
+    "skipPractice": "Skip practice",
+    "goBack": "Go Back",
+    "submit": "Submit",
+    "refresh": "Refresh",
+    "exitStay": "No, let's continue",
+    "exitLeave": "Yes, I will see you later",
+    "startFromBeginning": "Start from beginning",
+    "backToRoadmap": "Back to roadmap",
+    "reconnect": "Sure! Reconnect",
+    "stillOffline": "Still offline, try again...",
+    "previousDayLock": {
+      "titleDay": "Unlock this personalised exercise after Day $dayNumber",
+      "titleGeneric": "Unlock this personalised exercise after previous Day",
+      "startDay": "Start Day $dayNumber",
+      "startGeneric": "Start previous Day",
+      "goToDay": "Go to Day $dayNumber",
+      "goToGeneric": "Go to previous Day"
+    }
+  },
+  "roadmapCoach": {
+    "missedAFewWords": "You missed a few words",
+    "listenAndTryAgain": "Listen & try again"
+  },
+  "roadmapOutcome": {
+    "savedTitle": "Saved to your roadmap",
+    "savedSubtitle": "We'll bring this phrase back later"
+  },
+  "roadmapErrors": {
+    "contentNotSupportedTitle": "Content Not Supported",
+    "contentNotSupportedBody": "This content type is not yet supported in the app. Please update to the latest version or contact support.",
+    "chapterNotAvailable": "Chapter not available",
+    "moduleNotAvailable": "Module not available",
+    "noCurrentUnit": "No current unit available",
+    "errorTitle": "Error",
+    "loadingModule": "Loading module content...",
+    "exitingModule": "Exiting Module...",
+    "noLessonsTitle": "No Roadmap Lessons Found",
+    "noLessonsBody": "We're preparing your courses. Check back in a moment.",
+    "couldntPrepareExercise": "Couldn't prepare exercise",
+    "offlineBody": "Your Internet connection is weak, Can you check it & reconnect again?",
+    "unitEmpty": "This unit is empty",
+    "genericTryAgain": "Something went wrong. Please try again.",
+    "networkCheckConnection": "Network error. Please check your connection.",
+    "discoveryUnreachable": "We couldn't reach our servers. Check your internet connection and tap Retry.",
+    "videoLoadFailed": "Failed to load video: $error",
+    "videoUnavailableMovingOn": "This video isn't available right now. Moving on…",
+    "recordingFailed": "Recording failed to process. Please try recording again.",
+    "connectionError": "Connection error. Please try again.",
+    "contentLoadError": "Error loading content",
+    "noAudioDetected": "No audio detected. Please try again.",
+    "didntHearAnything": "We didn't hear anything. Please try again.",
+    "minRecordingDuration": "Have to record for at least 3 seconds",
+    "cannotStartRecording": "Cannot start recording",
+    "reportOthersValidation": "Please provide details for 'Others' category",
+    "reportSendFailedWith": "Couldn't send your report: $message",
+    "reportSendFailed": "Couldn't send your report. Please try again.",
+    "reportThanks": "Thank you for your feedback!"
+  },
+  "callingV3": {
+    "home": {
+      "greeting": "Hi! I am Sarah. You can speak freely with me. I will support you if you get stuck.",
+      "history": "History",
+      "timeUnavailable": "Unavailable",
+      "unlimitedTalktime": "Unlimited",
+      "startCall": "Start Call",
+      "surveySubmit": "Submit",
+      "surveySkip": "Not now",
+      "surveyOption": "OPTION $letter",
+      "surveyAnsweredTag": "We'll use your response for personalisation later",
+      "yourEnglishTutor": "Your English tutor",
+      "minLeft": "$minutes min left",
+      "outOfTimeFree": "You're out of call time for today. Upgrade to keep practicing with Sarah.",
+      "outOfTimePremium": "Looks like you've used all your talktime for today. Want more? Tap below and message us.",
+      "upgradeCta": "Get more call time",
+      "requestMoreTalktimeCta": "Request more talktime",
+      "moreTalktimeSheetTitle": "Out of talktime for today",
+      "moreTalktimeSheetBody": "You've used your daily talktime with Sarah. Message us on WhatsApp and we'll sort you out with more.",
+      "moreTalktimeSheetCta": "Message us on WhatsApp",
+      "micPermissionNeeded": "Microphone permission is needed to start a call",
+      "minLeftUnder": "<$minutes min left",
+      "secondsLeft": "${seconds}s left",
+      "callWithSarah": "Call with Sarah"
+    },
+    "active": {
+      "calling": "Calling…",
+      "sarahSpeaking": "Sarah is speaking",
+      "yourTurn": "Your turn",
+      "mute": "Mute",
+      "endCall": "End",
+      "cancel": "Cancel",
+      "speaker": "Speaker",
+      "earpiece": "Earpiece",
+      "wired": "Wired",
+      "bluetooth": "Bluetooth",
+      "audioOutput": "Audio output",
+      "reconnecting": "Reconnecting…",
+      "paused": "paused",
+      "minutesLeft": "<$minutes min left"
+    },
+    "exit": {
+      "title": "Leave your call with Sarah?",
+      "body": "Your call is still running. Leaving now ends it.",
+      "stay": "Stay in call",
+      "end": "End call"
+    },
+    "feedback": {
+      "title": "How was the call?",
+      "ratingPrompt": "Rate this call",
+      "optionsPrompt": "What stood out?",
+      "textHint": "Add anything else (optional)",
+      "submit": "Submit",
+      "dismiss": "Not now",
+      "optionNatural": "Felt natural",
+      "optionUnderstoodMe": "Sarah understood me",
+      "optionHelpful": "Helpful for practice",
+      "optionHardToUnderstand": "Hard to understand Sarah",
+      "optionTooSlow": "Responses too slow",
+      "optionAudioIssues": "Audio problems"
+    },
+    "failure": {
+      "title": "Something went wrong",
+      "generic": "Couldn't start the call. Please try again.",
+      "noTalktime": "You're out of call time for today. Come back tomorrow!",
+      "agentLeft": "Sarah has unexpectedly left the call.",
+      "errorCodeLabel": "Error code",
+      "tryAgain": "Try again",
+      "network": "Network error. Please check your connection.",
+      "serverUnavailable": "We couldn't reach Sarah. Please try again.",
+      "outdatedApp": "This screen needs an update to load. Please update the app.",
+      "talktimeUnavailable": "Couldn't fetch remaining talktime",
+      "noTalktimeTitle": "You're out of talktime",
+      "noTalktimeBody": "You've used all $minutes minutes. Your call will reset in the next",
+      "noTalktimeLifetime": "You've used all your free talktime. Get Stimuler Pro to keep talking with Sarah.",
+      "noTalktimeCta": "Get more talktime",
+      "capacityTitle": "The line's busy",
+      "capacityBody": "Sarah's on another call right now. Give it a moment and try her again.",
+      "capacityCta": "Try calling again",
+      "rateLimitedTitle": "Let's slow down a moment",
+      "rateLimitedBody": "You've tried a few times in a row. Take a short breather and we'll reconnect you.",
+      "rateLimitedCtaLocked": "Call again in $time",
+      "connectionLostTitle": "Connection lost",
+      "connectionLostBody": "Your internet dropped mid-call. Reconnect to Wi-Fi or data and try again.",
+      "agentTimeoutTitle": "Sarah couldn't pick up",
+      "agentTimeoutBody": "She didn't answer this time. Give her a moment and call again.",
+      "agentFatalTitle": "The call broke off",
+      "agentFatalBody": "Something went wrong on our end and the call dropped. Try starting a fresh one.",
+      "connectFailureTitle": "The call timed out",
+      "connectFailureBody": "We couldn't reach Sarah in time. Check your connection and try again.",
+      "goHome": "Go back to home"
+    },
+    "history": {
+      "title": "Recent Calls",
+      "empty": "No calls yet — your finished calls will show up here.",
+      "loadFailed": "Couldn't load your calls",
+      "retry": "Retry",
+      "loadingOlder": "Loading older calls...",
+      "sectionToday": "TODAY",
+      "sectionThisWeek": "THIS WEEK",
+      "sectionEarlier": "EARLIER",
+      "today": "Today",
+      "yesterday": "Yesterday",
+      "feedbackUnavailable": "Feedback unavailable",
+      "emptyTitle": "No calls yet",
+      "emptyBody": "Every call you finish lands here: how long you spoke, and what you earned.",
+      "emptyCta": "Call Sarah",
+      "loadMoreFailed": "Couldn't load older calls"
+    },
+    "report": {
+      "title": "Report an issue",
+      "subtitle": "Tap what went wrong — add a note if you can.",
+      "submit": "Send report",
+      "sendLogs": "Send diagnostic logs",
+      "sendLogsHint": "Helps us find the problem faster",
+      "thanks": "Thanks — report sent!",
+      "issueDidntUnderstand": "I didn't understand Sarah",
+      "hintDidntUnderstand": "Which word or question was confusing?",
+      "issueMishearedMe": "Sarah misheard me",
+      "hintMishearedMe": "What did she hear wrong?",
+      "issueMadeThingsUp": "She made up something I never said",
+      "hintMadeThingsUp": "What did she invent?",
+      "issueWrongCorrection": "Wrong correction",
+      "hintWrongCorrection": "What should it have been?",
+      "issueIgnoredMe": "She ignored what I said",
+      "hintIgnoredMe": "What did you say that she skipped?",
+      "issueRepeating": "She keeps asking the same thing",
+      "hintRepeating": "What is she repeating?",
+      "issueTooHard": "Too hard for my level",
+      "hintTooHard": "Which part felt too advanced?",
+      "issueRobotic": "Her reply felt generic / robotic",
+      "hintRobotic": "What felt off?",
+      "issueAudioProblem": "I couldn't hear her properly",
+      "hintAudioProblem": "What did the audio sound like?",
+      "issueOther": "Something else",
+      "hintOther": "Tell us what happened"
+    }
+  },
+  "conversationV4": {
+    "ui": {
+      "exitTitle": "Are you sure, you want\nto end this session ?",
+      "endSession": "End Session",
+      "exhaustedTitle": "You've used all your free attempts",
+      "exhaustedSubtitle": "Upgrade to Pro for unlimited conversations",
+      "upgradeToPro": "Upgrade to Pro",
+      "introLockedTitle": "Unlock next conversation topics after Introduction",
+      "gotIt": "Got it",
+      "startIntroduction": "Start Introduction",
+      "noConversationsYet": "No conversations yet",
+      "loadingOlderConversations": "Loading older conversations…",
+      "translationFailed": "Translation failed. Please try again.",
+      "analyzingResponse": "Analyzing your response…",
+      "analysisLoadFailed": "Couldn't load the analysis. Please try again.",
+      "analysisUnscoredTitle": "We couldn't analyse this one",
+      "reasonForError": "Reason for error",
+      "tabGrammar": "Grammar",
+      "tabPronunciation": "Pronunciation",
+      "tabVocabulary": "Vocabulary",
+      "tabFluency": "Fluency",
+      "hintLoadFailed": "Couldn't load the hint. Tap retry.",
+      "viewMistakes": "View Mistakes",
+      "viewResultsAndEnd": "View Results & End",
+      "translateNeedsNativeLanguage": "Set a native language other than English in Settings to get translations."
+    },
+    "failure": {
+      "sessionExpired": "Your session expired. Please sign in again.",
+      "purchaseFailed": "We couldn't complete that purchase. You haven't been charged — please try again.",
+      "fatalTitle": "The conversation ended",
+      "fatal": "The conversation ended unexpectedly. Please try again.",
+      "startTitle": "Couldn't start the conversation",
+      "start": "We couldn't start this conversation. Please try again.",
+      "topicsTitle": "Couldn't load topics",
+      "historyTitle": "Couldn't load your conversations",
+      "chatTitle": "Couldn't load this conversation",
+      "resultPrep": "We couldn't prepare your result.",
+      "asrFailed": "I couldn't hear you clearly.",
+      "analysisFailed": "I couldn't analyse that — let's try again.",
+      "ttsFailed": "Couldn't play the audio.",
+      "errorCodeLabel": "Error code",
+      "tryAgain": "Try again",
+      "backHome": "Back to home",
+      "close": "Close",
+      "replay": "Tap to replay",
+      "tapToRetry": "Tap to retry"
+    },
+    "connection": {
+      "initiating": "Initiating conversation…",
+      "connecting": "Connecting…",
+      "reconnecting": "Reconnecting…",
+      "disconnected": "Disconnected",
+      "error": "Connection error",
+      "retry": "Retry"
+    },
+    "drill": {
+      "listening": "Listening…",
+      "scoring": "Scoring your pronunciation…",
+      "needsPractice": "Needs Practice!",
+      "wellDone": "Well Done 👏",
+      "listen": "Listen…",
+      "getReady": "Get ready…",
+      "learntToPronounce": "You learnt to pronounce “$word”."
+    },
+    "topics": {
+      "loadMoreFailed": "Couldn't load more topics. Check your connection.",
+      "refreshFailed": "Couldn't refresh your topics — showing older data.",
+      "pickATopic": "Pick a topic and start chatting!"
+    },
+    "chat": {
+      "translateThisLine": "Translate this line",
+      "closeConversation": "Close conversation",
+      "challengesStars": "Challenges: $stars of $total stars",
+      "allChallengesCompleted": "All Challenges Completed!",
+      "youGotThis": "You got this",
+      "oneChallengeToGo": "! 1 more challenge to go",
+      "challengesToGo": "! $count more challenges to go",
+      "starEarned": "You earned a star!",
+      "perfectResponse": "Perfect response",
+      "continueLabel": "Continue",
+      "selectAtLeast": "Select at least $count",
+      "removeCount": "Remove $count",
+      "conversationMode": "Conversation Mode",
+      "practiceMode": "Practice Mode",
+      "discardRecording": "Discard recording",
+      "submitRecording": "Submit recording"
+    },
+    "hint": {
+      "tapToSeeHint": "Tap to see hint",
+      "youCanSpeakLikeThis": "You can speak like this",
+      "gettingHint": "Getting a hint…"
+    },
+    "translation": {
+      "sarahResponseEnglish": "Sarah response ( English )",
+      "translating": "Translating",
+      "translated": "Translated",
+      "translatingIn": "Translating in $language",
+      "translatedIn": "Translated in $language"
+    },
+    "mistakes": {
+      "noGrammarNotes": "No grammar notes this time.",
+      "noPronunciationNotes": "No pronunciation notes this time.",
+      "noVocabularyNotes": "No vocabulary notes this time.",
+      "noFluencyNotes": "No fluency notes this time.",
+      "recordingExpired": "Couldn't play that recording. It may have expired.",
+      "pronunciationPlayFailed": "Couldn't play the pronunciation. Please try again.",
+      "topMispronouncedWords": "Top mispronounced words",
+      "betterVocabulary": "Better Vocabulary suggestions",
+      "improvedVersion": "Improved Version of Your Speech:",
+      "lockedGrammarHeadline": "Practice grammar\nthat sounds natural",
+      "lockedGrammarSubtitle": "See personalised feedback\nafter every message.",
+      "lockedPronunciationHeadline": "Speak more\nnaturally.",
+      "lockedPronunciationSubtitle": "Refine your pronunciation\nafter every message.",
+      "lockedVocabularyHeadline": "Say more.\nSay it better.",
+      "lockedVocabularySubtitle": "Expand your vocabulary\nwith every conversation.",
+      "lockedFluencyHeadline": "Fix it. Practice it.\nRemember it.",
+      "lockedFluencySubtitle": "Practice from feedback\nmade just for you."
+    },
+    "paywall": {
+      "unlock": "Unlock",
+      "atPercentOff": "@ $discount% OFF",
+      "percentOff": "$discount% off",
+      "onPremiumPass": "on Premium pass"
+    }
+  },
+  "roadmapReport": {
+    "sendLogs": "Send diagnostic logs",
+    "sendLogsDetail": "These are your app's usage logs. They help us fix the issue you're reporting.",
+    "header": "Can you tell us what was wrong?"
+  },
+  "roadmapReportOptions": {
+    "app_not_responding": "The app stopped responding",
+    "audio_didnt_play": "The audio didn't play",
+    "did_not_understand_video": "I didn't understand the video",
+    "didnt_understand_instructions": "I didn't know what to do",
+    "exercise_too_difficult": "This exercise was too hard",
+    "grammar_explanation_wrong": "The grammar explanation was wrong",
+    "lesson_too_difficult": "This lesson was too hard",
+    "highlight_issue": "My words are not being highlighted properly",
+    "mic_didnt_work": "My mic is not working properly",
+    "speech_not_understood": "The app didn't understand my speech",
+    "sentence_has_error": "There's a mistake in the text",
+    "technical_issue": "Technical issue / bugs",
+    "video_screen_froze": "Video didn't play or froze",
+    "wrong_question": "The question or answer was wrong",
+    "wrong_subtitles": "The subtitles were wrong",
+    "wrong_translation": "The translation in my language was wrong",
+    "others": "Something else",
+    "sendLogsDetail": "These are your app's usage logs. They help us fix the issue you're reporting."
+  },
+  "errors": {
+    "title": "Something went wrong",
+    "generic": "Something got in the way. Please try again.",
+    "network": "We couldn't reach the server. Check your connection and try again.",
+    "serviceUnavailable": "Our servers are having a moment. Try again shortly.",
+    "outdatedApp": "This screen needs an update to load. Please update the app.",
+    "retry": "Retry",
+    "goBack": "Go back",
+    "openSettings": "Open settings",
+    "micPermission": "Microphone access is needed to speak. Enable it in Settings.",
+    "goalSavePending": "Still saving your goal. It will update once you're back online."
+  },
+  "analysis": {
+    "failure": {
+      "title": "We couldn't load your results",
+      "outdatedApp": "This screen needs an update to show your results.",
+      "tryAgain": "Try again",
+      "goBack": "Go back",
+      "close": "Close",
+      "sessionFailedTitle": "We couldn't analyse this session",
+      "sessionFailedBody": "Nothing went wrong on your side — this one just didn't come through. Your next session will still be analysed."
+    },
+    "summary": {
+      "timeoutTitle": "This is taking longer than usual",
+      "timeoutBody": "Your summary is still being prepared. Give it a moment and try again.",
+      "abandonedTitle": "We couldn't load your summary",
+      "abandonedBody": "The request timed out before your results were ready. Please try again."
+    },
+    "progress": {
+      "title": "Sarah is analysing your call",
+      "titleCompleted": "The analysis is complete",
+      "seeReport": "See your report",
+      "turnOf": "Turn $current of $total",
+      "turnsCheckedCount": "Turns checked: $count",
+      "tallyCaption": "Mistakes found so far in",
+      "grammar": "Grammar",
+      "fillers": "Filler words",
+      "pronunciation": "Pronunciation",
+      "vocabulary": "Vocabulary",
+      "fluency": "Fluency",
+      "glimpseCaption": "A glimpse of what she found",
+      "turn": "Turn $n",
+      "youSaid": "You said",
+      "sayItLikeThis": "Say it like this",
+      "itSounds": "It's said"
+    },
+    "detail": {
+      "timeoutTitle": "This is taking longer than usual",
+      "timeoutBody": "Your analysis is still being prepared. Give it a moment and try again.",
+      "abandonedTitle": "We couldn't load your analysis",
+      "abandonedBody": "The request timed out before your analysis was ready. Please try again."
+    },
+    "gauge": {
+      "score": "Score",
+      "bandScore": "Band Score"
+    },
+    "practiceWord": {
+      "micPermissionDenied": "Stimuler needs microphone access to score your pronunciation.",
+      "micUnavailable": "Your mic is busy — close anything else using it and try again.",
+      "noAudio": "We didn't catch that — check your mic and try again.",
+      "tooLong": "That recording was too long. Try saying just the word.",
+      "unavailable": "Practice isn't available right now. Please try again later.",
+      "timedOut": "That took too long. Please try again.",
+      "scoringFailed": "Processing Failed, Please Try Again!",
+      "leftApp": "Recording stopped when you left the app.",
+      "openSettings": "Open Settings",
+      "tryAgain": "Try again"
+    },
+    "recordedBeforePro": "This speech was recorded before you upgraded, so there's no feedback for it. Every new speech you record now gets full feedback.",
+    "fluency": {
+      "speechCounter": "Speech ${current}/${total}",
+      "play": "Play"
+    }
+  },
+  "indiaOnboarding": {
+    "helpYouPractice": "Hey! I’m Sarah. I’m here to help you practice and improve your English through friendly conversations.",
+    "togetherWeWillWork": "Together, we’ll work on your speaking skills in a comfortable, relaxed way.",
+    "whetherYouAreJustStarting": "Whether you're just beginning or already comfortable with English,I'll adapt to help you learn better in your native language when needed, at your own pace.",
+    "whatShouldICallYou": "So, what should I call you?",
+    "thatsImpressiveMentoredJob": "That's impressive! I've helped over a million people land their dream job by helping them stand out in their interviews.",
+    "thatsImpressiveMentoredSocializing": "Great! We can have fun and engaging conversations. This will help you master communication for everyday chores",
+    "thatsImpressiveMentoredSubPurpose": "That's great! I've guided over a million professionals to advance their careers by practising real-world conversations with them.",
+    "seeDetailedResults": "See detailed report",
+    "continueButtonLabel": "Continue",
+    "soWhatsYourNativeLanguage": "So, what’s your native language? This helps me support you better.",
+    "canIknowYourName": "I am so excited, Can I know what’s your name ?",
+    "letsGetToKnowEachOther": "Let’s get to know each other!",
+    "whatsYourNativeLanguage": "What’s your native language?",
+    "gotItWillUseTheLanguageToExplainEnglish": "Got it! We'll use your language to explain English inside the app",
+    "wantToChangeAppLanguageTo": "Do you want to change app language to your native tongue?",
+    "youWillLearnEnglishThrough": "You will learn English through English.",
+    "weUseEnglishAsTheAppsLanguage": "You will learn English through English.",
+    "awesomeCanIKnowYourName": "Awesome, Can I know what’s your name ? ",
+    "selectYourLanguagePreferance": "Please select your language preference",
+    "hiIAmPersonalEnglishSpeakingPartner": "Hi! I am your Personal English Speaking Partner",
+    "callMeSarahWhatsYourName": "You can call me Sarah. What is your name?",
+    "thatsVeryCoolName": "That’s a very cool name! We are going to have so much fun practicing English together!",
+    "toEnsureYouGetLatestLessons": "To ensure you get the latest lessons and personalised tips, can I have your phone number?",
+    "niceToMeetYouGetLatestLessons": "Nice to meet you! To ensure you get the latest lessons, can I have your phone number?",
+    "whichAgeGroupAreYouIn": "Which age group are you in?",
+    "ageGroup": {
+      "under18": "Under 18",
+      "age18to24": "18-24",
+      "age25to34": "25-34",
+      "age35to44": "35-44",
+      "age45plus": "45+"
+    },
+    "whatIsYourGender": "What is your gender?",
+    "gender": {
+      "male": "Male",
+      "female": "Female",
+      "nonBinary": "Non-Binary"
+    },
+    "dailyPracticeHelpsAchieveGoals": "Daily practice will help you achieve your goals faster",
+    "whatBestDescribesYourSituation": "What best describes your current situation?",
+    "imGladWeMetWhatsYourGoal": "I'm glad we met. What's your main goal for learning English?",
+    "mainGoal": {
+      "ielts": "Prepare for an English exam",
+      "growInMyCareer": "Grow in my career",
+      "personalGrowth": "Personal growth",
+      "travelConfidently": "Travel confidently",
+      "excelAtMySchool": "Excel at my school",
+      "other": "Other"
+    },
+    "typeYourGoalHint": "Type your goal here",
+    "typeYourExamHint": "Type the exam name here",
+    "examType": {
+      "ielts": "IELTS",
+      "toefl": "TOEFL",
+      "pte": "PTE",
+      "toeic": "TOEIC",
+      "other": "Others"
+    },
+    "ieltsModule": {
+      "academic": "Academic",
+      "general": "General",
+      "notSure": "I am not sure"
+    },
+    "examTime": {
+      "thisMonth": "I will take IELTS this month",
+      "nextMonth": "I will take IELTS next month",
+      "moreThanTwo": "I have more than two months to prepare",
+      "after": "After {month}"
+    },
+    "moveTheSliderToPickYourScore": "Move the slider to pick your score",
+    "bandScore": "Band Score",
+    "skill": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "speaking": "Speaking",
+      "listening": "Listening"
+    },
+    "journeyGraph": {
+      "yourJourney": "Your journey",
+      "toAceIeltsStarts": "to ace IELTS starts",
+      "curatingContent": "Curating content",
+      "forYourIeltsJourney": "for your IELTS journey",
+      "aPlanForYouToReach": "A plan for you to reach",
+      "yourGoal4xFaster": "your goal 4x faster",
+      "planForYou": "PLAN FOR YOU",
+      "practice20MinsPerDay": "Practice 20mins/day",
+      "oneMockTestPerDay": "One Mock Test/day",
+      "ieltsConversationPerDay": "IELTS Conversation/day",
+      "weeklyReviews": "Weekly Reviews",
+      "youTookThe": "YOU TOOK THE",
+      "firstStep": "First Step",
+      "inOneMonth": "IN 1 MONTH",
+      "inTwoMonths": "IN 2 MONTHS",
+      "inMoreThanTwoMonths": "IN 2+ MONTHS",
+      "paywall": {
+        "getYourDreamBandScore": "Get your dream band score",
+        "forIelts": "for IELTS",
+        "featurePreviousYearQuestions": "Previous year questions",
+        "feature100MockTests": "100+ Mock Tests",
+        "feature170WritingExercises": "170+ IELTS Writing exercises",
+        "feature30ReadingExercises": "30+ IELTS Reading exercises",
+        "feature100HoursSpeaking": "100+ hours of Speaking practice"
+      }
+    },
+    "hintPlayback": {
+      "youDidGreatFirstStep": "Well done! You have started your IELTS journey.",
+      "improvePronunciation": "Let's improve pronunciation"
+    },
+    "currentSituation": {
+      "student": "Student",
+      "workingProfessional": "Working Professional",
+      "freelancer": "Freelancer",
+      "businessOwner": "Business Owner",
+      "homeMaker": "Homemaker",
+      "careerBreak": "Career Break",
+      "lookingForWork": "Looking for Work"
+    },
+    "amazingWhereDidHearAboutStimuler": "Thank You! May I know where did you hear about us?",
+    "noProblemWhereDidYouHearAboutUs": "No problem! May I know where did you hear about us?",
+    "iAmGladWeMet": "I’m so glad we met!",
+    "enterReferralCode": "Enter the referral code that you have",
+    "letsCreateAPlanForJustYou": "Let’s create a plan just for you so you can achieve your goals faster! Tell me, why are you learning English?",
+    "thatsImpressiveMentoredIels": "That’s impressive! I’ve guided over a million candidates from all over the world to achieve their dream band score",
+    "whatTypeOfSituationsDoYouWant": "What type of situations do you want to be good in?",
+    "thatsImpressiveMentoredTravel": "Awesome! Be it a business trip or you working abroad, we’ll cover all situations.",
+    "thatsImpressiveMentoredEducation": "Ok! You know what, I’ve helped over a million people speak English fluently and confidently",
+    "greatMentoredOthers": "That’s impressive! I’ve helped over a million people speak English fluently and confidently",
+    "thatsImpressiveMentoredBusiness": "That’s impressive! I’ve mentored over a million working professionals improve their career by practicing real-world conversations with them",
+    "lookWhatLearnersHaveToSay": "Look what these successful learners have to say:",
+    "thesePeoplePracticedDaily": "These people practised daily to achieve great progress and I helped them stay on track!",
+    "iWillRemindYouToo": "I’ll remind you too, so you never miss practice. Just turn on your notifications.",
+    "thanksForThatTogether": "Thanks for that! Together let’s make English a daily learning habit",
+    "noIssuesIWill": "No issues! I’ll ask you some other time.",
+    "awesomeThousandsOfEnglishLearners": "Awesome! Thousands of English learners I teach start their journey as beginners and I turn them into fluent English speakers.",
+    "whatIsCurrentEnglishLevel": "What would you say is your current English level?",
+    "reviewSarahFeedbackOnVocab": "Sarah's feedback on vocabulary is incredible... I owe my 8.0 band score to Stimuler.",
+    "reviewSarahFeedbackOnVocabIELTS": "Sarah's feedback on vocabulary is incredible... I owe my 8.0 band score to Stimuler.",
+    "reviewCommunityActive": "The pro community members at Stimuler are always active, which keeps me motivated.",
+    "reviewSpendingTwentyMinutes": "Spending 20 minutes every day with Sarah has dramatically improved my fluency.",
+    "reviewBoostedMyConfidenceIELTS": "Conversations with Sarah improved my English and boosted my confidence for my IELTS exam.",
+    "reviewBoostedMyConfidence": "Conversations with Sarah improved my English and boosted my confidence for my exam.",
+    "reviewBoostedConfidenceOffice": "Conversations with Sarah improved my English and boosted my confidence at my office.",
+    "reviewAppIsAGoldenEgg": "This app is a golden egg. It helps you speak better. Amazing, I'd rate it 10/5!",
+    "reviewAppIsAGoldenEggIELTS": "This app is a golden egg for IELTS. It helps you speak better. Amazing, I'd rate it 10/5!",
+    "perfectEvenWithJustAFewWords": "Perfect! Even with just a few words, you’re ready to start. I’ll guide you to confident conversations step by step",
+    "awesomeAlreadyHalfwayThere": "Awesome! You’re already halfway there. Some more practice with me and you will do wonders!",
+    "awesomeSkysTheLimit": "Awesome! Sky’s the limit for you. We will take on tough challenges and achieve greater heights.",
+    "almostDoneAnswerAQuestionBeginner": "We’re almost done! As a last step I’d like you to read the following passage",
+    "almostDoneAnswerAQuestion": "We’re almost done! As a last step I’d like you to answer a question for me",
+    "dontKnowWhatToSpeak": "Don’t know what to speak? No worries, you can read the hint below!",
+    "didNotSpeakAlot": "Looks like you didn’t speak a lot",
+    "letsTrySomethingElse": "Let’s try something else, shall we?",
+    "greatReasonExperienceBestAiApp": "That was great! Now it’s time for you to experience the reason why we won the Best AI App 2023 by Google.",
+    "reasonExperienceBestAiApp": "Now it’s time for you to experience the reason why we won the Best AI App 2023 by Google.",
+    "tapOnButtonBelow": "Tap on the button below to see your mispronunciations, awkward pauses and other suggestions from our side.",
+    "curiousHowWellYou": "Curious how well you spoke? Tap to see how you performed!",
+    "purpose": {
+      "ielts": "IELTS",
+      "talkToColleaguesClients": "Talk to colleagues/clients",
+      "clearJobInterview": "Clear job interview",
+      "everydayConvo": "Everyday conversation",
+      "excelAtSchool": "Excel at my school",
+      "travel": "Travel",
+      "anyOtherGoal": "Any other goal",
+      "improveMyCareer": "Improve my career"
+    },
+    "workplaceSubPurpose": {
+      "jobInterview": "Job Interview",
+      "teamMeeting": "Team Meetings",
+      "presentations": "Presentations",
+      "networking": "Networking",
+      "smallTalk": "Small Talk with Colleagues"
+    },
+    "HowDidUserHearAboutApp": {
+      "tiktok": "Tiktok",
+      "instagram": "Instagram Reel",
+      "googleAds": "Google Ads",
+      "friend": "Friends",
+      "facebook": "Facebook",
+      "youtube": "Youtube",
+      "haveAReferralCode": "Have a Referral Code?",
+      "other": {
+        "playStore": "Just searched on Play Store",
+        "appStore": "Just searched on App Store"
+      },
+      "twitterX": "Twitter/X",
+      "sevenDayChallenge": "7 Day Challenge"
+    },
+    "levelDescription": {
+      "beginner": "I know a few words, but I can’t make sentences.",
+      "intermediate": "I can make short sentences about simple things.",
+      "advance": "I can have short conversations and understand others."
+    },
+    "itsOkayWeWillTryThisLater": "It's okay, we'll try this later",
+    "readItOutLoud": "Read it out loud:",
+    "selectAnOption": "Select an option",
+    "otherLanguages": "Other languages",
+    "selectSomeOtherLanguage": "Select some other language",
+    "skipForNow": "Skip for now",
+    "toast": {
+      "wellDone": "Well done !",
+      "youFinishedYourFirstPhrase": "You finished reading your first English phrase",
+      "noWorriesWeNotedIt": "No worries, we noted it !",
+      "weWillPracticeTheseLater": "We will practice phrases like this later, let's move ahead"
+    },
+    "bottomBar": {
+      "skip": "Skip",
+      "mute": "Mute",
+      "unmute": "Unmute"
+    },
+    "label": {
+      "letsGetStarted": "Let’s get started",
+      "great": "Great!",
+      "coolName": "Cool name!",
+      "letsCreateAPlan": "Let’s create a plan for you!",
+      "letsGetToKnowYou": "Let’s Get to know you!",
+      "ontoTheLastStep": "Onto the last step",
+      "impressive": "“$goal” - Impressive!"
+    },
+    "speechMeter": {
+      "yourSpeechLevel": "Your<br>speech<br>level",
+      "hereIsWhereYouStand": "I listened to how you read. Here is where you stand.",
+      "youPlacedYourselfAt": "You placed yourself at $level. Under pressure you came in just below it. That gap is the whole game.",
+      "andThisIsWhereWeAreTakingYou": "And this is where we are taking you. $target, over the next 8 months.",
+      "letsTakeYouTo": "Let’s take<br>you to<br><em>$target</em>"
+    },
+    "pronunciation": {
+      "firstLetsFixYourPronunciation": "First, let’s fix your<br><em>pronunciation</em>.",
+      "twoWordsNeedWork": "Two words from your reading need work.",
+      "letsCorrectThem": "Let’s correct them",
+      "readTheWordOutLoud": "Read the word <b>out loud</b>",
+      "letsPracticeThisWord": "Let’s practice this word",
+      "speakTheWordClearly": "Speak the word clearly…",
+      "thatSoundedClear": "Nice. That sounded clear.",
+      "skipTheWord": "Skip the word",
+      "tapToSpeak": "Tap to speak",
+      "listening": "Listening…",
+      "completed": "Completed",
+      "currentScore": "Current score",
+      "speakOutTheWord": "Speak out the word ",
+      "gettingReady": "Getting Ready",
+      "tryAgain": "Try Again",
+      "stressOverTheSound": "Stressed over the sound '$sound'",
+      "letsImproveSoundPronunciation": "Let's improve <sound>'$sound'</sound> pronunciation",
+      "letsTryThisSentence": "Let's try this sentence",
+      "readTheSentenceOutLoud": "Read the sentence out loud",
+      "tryToReadTheEntireSentence": "Try to read the entire sentence",
+      "wellDoneYouSoundedLikeANative": "Welldone 🎉 You sounded like a native!",
+      "youLearntToPronounceTheWords": "You learnt to pronounce the words $words",
+      "youLearntToPronounceTheSounds": "You learnt to pronounce $sounds sounds",
+      "andTheSound": "and '$sound'",
+      "firstStepRich": "✅ You took the <highlight>first step</highlight> to learning English !"
+    },
+    "offer": {
+      "youveUnlockedAnOffer": "YOU’VE<br>UNLOCKED AN<br>OFFER",
+      "tapToOpenTheBox": "Tap to open the box",
+      "welcomeOffer": "WELCOME OFFER",
+      "limitedTimeOffer": "Limited Time<br><em>50%</em> Offer Today",
+      "whatIndianUsersSay": "What 30Lakh+ Indian users say!",
+      "oneTimeWelcomeOffer": "ONE TIME WELCOME 50% OFFER",
+      "perMonthPaidForAWholeYear": "Just $price per month paid for a whole year",
+      "billedOnceAYear": "Billed once a year",
+      "billedEveryMonth": "Billed every month",
+      "chooseYourPlan": "Choose your plan",
+      "tryProForAnYear": "Try Stimuler PRO for an year",
+      "tryProForAMonth": "Try Stimuler PRO for a month",
+      "proYearly": "PRO Yearly",
+      "proYearlyUpper": "PRO YEARLY",
+      "proMonthly": "PRO Monthly",
+      "getStimulerPro": "Get Stimuler PRO",
+      "seeAllPlans": "See all plans"
+    },
+    "testimonialQuotes": [
+      "Every week I could see my mistakes going down little by little.",
+      "The real and instant feedback made all the difference for me.",
+      "I just rehearse the real format, not just something generalised.",
+      "Leveling up your words does level up your confidence.",
+      "Daily habit beats hesitation every time.",
+      "It really helps you find your voice.",
+      "Nobody's listening or judging when I talk to it.",
+      "So honestly, consistent practice does change everything.",
+      "Now I'm usually the one starting the conversation."
+    ],
+    "paywallTitle": {
+      "ielts": "<em>Ace your IELTS</em><br>with English practice",
+      "improveMyCareer": "<em>Improve your career</em><br>with English practice",
+      "everydayConvo": "<em>Speak fluently</em><br>with confidence",
+      "travel": "<em>Travel the world</em><br>with English practice",
+      "excelAtSchool": "<em>Excel at school</em><br>with English practice",
+      "anyOtherGoal": "<em>Reach your goals</em><br>with English practice"
+    }
+  },
+  "buddyStreak": {
+    "startTitle": "Start a buddy streak",
+    "startBody": "Keep each other accountable and build longer streaks together.",
+    "inviteCta": "Invite a buddy",
+    "maybeLater": "Maybe later",
+    "yourCode": "YOUR BUDDY CODE",
+    "codeCopied": "Code copied",
+    "shareCta": "Share invite link",
+    "shareMessage": "Let's keep a streak going together on Stimuler. Tap to be my buddy: $link",
+    "or": "OR",
+    "haveCode": "I have a code",
+    "codeMissingTitle": "We couldn't load your code",
+    "codeMissingBody": "Check your connection and try again.",
+    "retry": "Try again",
+    "enterTitle": "Enter your buddy's code",
+    "enterBody": "Type the code shown on your friend's screen.",
+    "join": "Join",
+    "paste": "Paste from clipboard",
+    "pairedTitle": "You and $name started a buddy streak",
+    "pairedTitleNoName": "You started a buddy streak",
+    "requestSentTitle": "Request sent to $name",
+    "requestSentTitleNoName": "Request sent",
+    "requestSentBody": "Your buddy streak starts once they accept.",
+    "requestTitle": "$name wants to be your buddy",
+    "requestTitleNoName": "You have a buddy request",
+    "requestBody": "Accept to start a streak together and keep both fires burning.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "requestsTitle": "$count buddy requests",
+    "requestsTitleOne": "1 buddy request",
+    "requestsBody": "They used your buddy code.",
+    "acceptAll": "Accept all",
+    "later": "Later",
+    "startedManyTitle": "Your buddy streaks have started",
+    "someone": "Someone",
+    "couldNotLoad": "Couldn't load",
+    "practiceNow": "Practice now",
+    "hookBody": "You both show up, or it resets.",
+    "leftTitle": "Waiting for $name",
+    "leftTitleNoName": "Waiting for your buddy",
+    "leftBody": "We'll remind $name to complete today's lesson and keep your streak going.",
+    "leftBodyNoName": "We'll remind your buddy to complete today's lesson and keep your streak going.",
+    "continueCta": "Continue",
+    "togetherTitle": "$count days together",
+    "togetherTitleOne": "1 day together",
+    "daysWith": "$count days with $name",
+    "dayWithOne": "1 day with $name",
+    "togetherBody": "You both showed up today. Same again tomorrow.",
+    "firesTitle": "Your buddy fires",
+    "firesBody": "We'll remind your friends to keep the streak alive.",
+    "streaksTitle": "Buddy streaks",
+    "streakTitle": "Buddy streak",
+    "invitePlus": "+ Invite",
+    "emptyTitle": "Streak with a buddy",
+    "emptyBody": "You both practice, you both keep it.",
+    "thisWeek": "This week",
+    "you": "You",
+    "roadmapDay": "Roadmap day",
+    "conversations": "Conversations",
+    "calls": "Calls",
+    "daysTogether": "Days together",
+    "sentRequests": "Sent requests",
+    "pendingRequest": "Pending request",
+    "pendingRequests": "Pending requests",
+    "pending": "Pending",
+    "removeCta": "Remove buddy",
+    "removeTitle": "Remove $name?",
+    "removeTitleNoName": "Remove this buddy?",
+    "removeBody": "Your buddy streak ends for both of you.",
+    "removeConfirm": "Remove",
+    "removeEnds": "Your $count-day streak together ends.",
+    "removeKeep": "Keep the streak",
+    "removeNamed": "Remove $name",
+    "cancel": "Cancel",
+    "removeFailed": "We couldn't remove your buddy. Try again.",
+    "errors": {
+      "invalidTitle": "That code didn't work",
+      "invalidBody": "Check the code with your buddy and try again.",
+      "checkTitle": "Check the code",
+      "checkBody": "Codes are 8 letters and numbers. Try entering it again.",
+      "ownTitle": "That's your own code",
+      "ownBody": "Ask your buddy for their code instead.",
+      "alreadyTitle": "You're already buddies",
+      "alreadyBody": "You can find them in your buddy streaks.",
+      "limitTitle": "Buddy limit reached",
+      "limitBody": "You or your buddy already have the most buddies allowed.",
+      "disabledTitle": "Buddy streaks aren't available yet",
+      "disabledBody": "We'll let you know when you can join.",
+      "genericTitle": "Something went wrong",
+      "genericBody": "Check your connection and try again."
+    }
+  },
+  "indiaOnboardingV16": {
+    "helloSarah": "Hi! I'm Sarah, your personal English speaking partner.",
+    "whatShouldICallYou": "Let's get to know each other! What should I call you?",
+    "enterYourName": "Enter your name",
+    "nativeLanguageQuestion": "Lovely to meet you, {{name}}! What's your native language?",
+    "heardFromQuestion": "Quick one, {{name}}. Where did you hear about us?",
+    "ageGenderQuestion": "Let's get to know more about you! What's your age and gender?",
+    "ageLabel": "Age",
+    "genderLabel": "Gender",
+    "preferNotToSay": "Prefer not to say",
+    "done": "Done",
+    "phoneQuestion": "Thanks, {{name}}! To make sure you get the latest lessons, can I have your phone number?",
+    "phoneSkipped": "No problem! You can add it anytime in Profile settings.",
+    "situationQuestion": "What best describes you right now?",
+    "situation": {
+      "student": "Student",
+      "workingProfessional": "Working professional",
+      "freelancer": "Self-employed / Freelancer",
+      "businessOwner": "Business owner",
+      "lookingForWork": "Looking for work",
+      "homeMaker": "Homemaker",
+      "careerBreak": "Career break",
+      "parent": "Parent"
+    },
+    "goalQuestion": "I'm glad we met, {{name}}. What's your main goal for learning English?",
+    "goalReply": {
+      "ielts": {
+        "student": "Great! Speaking is the part most students fear, and the one you can improve fastest. We'll practise all three parts of the test.",
+        "workingProfessional": "Smart! Whether it's for work abroad or PR, we'll lift your speaking band with practice that fits around your job.",
+        "freelancer": "Good plan. We'll practise each IELTS speaking part in short daily sessions that fit around your client work.",
+        "businessOwner": "Great! We'll build the fluency and range examiners look for, in 10 minutes a day.",
+        "lookingForWork": "A strong move. A good band opens doors. We'll practise the speaking test until it feels routine.",
+        "homeMaker": "That's a big goal, and a great one. We'll practise the speaking test step by step, at your pace.",
+        "careerBreak": "Good use of the time! We'll get you exam-ready on speaking with steady daily practice.",
+        "parent": "Wonderful! We'll fit IELTS speaking practice into short sessions around family time."
+      },
+      "business": {
+        "student": "Smart to start early! Placements reward people who speak clearly. We'll practise introductions, HR questions and group discussions.",
+        "workingProfessional": "Love it. Clear English shows up in every meeting, review and promotion talk. We'll practise the conversations you actually have at work.",
+        "freelancer": "Great! Clients trust people who explain clearly. We'll practise pitching, negotiating and client calls.",
+        "businessOwner": "Brilliant. Confident English helps you win clients and lead your team. We'll practise pitches, meetings and negotiations.",
+        "lookingForWork": "You've got this! Confident English can change how an interview goes. We'll practise the questions you're most likely to hear.",
+        "homeMaker": "That's exciting! Restarting a career is a big step. We'll practise interviews and introductions so you walk in confident.",
+        "careerBreak": "Welcome back! We'll help you walk into interviews sounding like you never left, gap questions and all.",
+        "parent": "Great goal! You're balancing a lot, so we'll keep practice short and focused on the conversations that move you forward."
+      },
+      "socializing": {
+        "student": "Love that! Confidence in English spills into everything: friendships, classes, even your reels. We'll start with everyday conversations.",
+        "workingProfessional": "Great! Speaking freely, without rehearsing every sentence in your head, is something we can build together.",
+        "freelancer": "Nice! We'll practise everyday conversations so English feels natural, not like work.",
+        "businessOwner": "Wonderful. We'll build easy, everyday confidence, the kind that shows in every conversation.",
+        "lookingForWork": "Great choice. Confidence built now helps everywhere, including your next interview. We'll start with everyday talk.",
+        "homeMaker": "That's lovely! We'll practise the everyday conversations that matter to you, at your own pace.",
+        "careerBreak": "A great way to use this time! We'll make speaking English feel natural, one short session a day.",
+        "parent": "Wonderful! Kids pick up on confidence. We'll practise everyday English you can use with them and everyone else."
+      },
+      "travel": {
+        "student": "How exciting! We'll practise airports, hostels and making friends abroad, so you enjoy the trip instead of worrying.",
+        "workingProfessional": "Nice! Work trips and holidays both go better when you can just talk. We'll practise check-ins, directions and small talk.",
+        "freelancer": "Love it. Client visit or workcation, we'll make everyday travel conversations feel easy.",
+        "businessOwner": "Great! From client visits to trade fairs, we'll practise the conversations you'll have on the road.",
+        "lookingForWork": "Lovely! We'll practise the everyday English that makes travel easy: airports, hotels and asking for help.",
+        "homeMaker": "How wonderful! We'll practise ordering food, asking for directions and chatting with people, so you can travel with ease.",
+        "careerBreak": "Perfect time for it! We'll get you comfortable with airports, hotels and new people, so you enjoy every trip.",
+        "parent": "Family trips are the best! We'll practise what you'll actually face, from the check-in counter to the hotel desk."
+      },
+      "education": {
+        "student": "Love that! Speaking up in class gets so much easier once English stops feeling like a test. We'll practise the real moments: answering your teacher, presentations and group work.",
+        "workingProfessional": "Studying while you work takes grit. We'll make sure you can speak up in lectures and present with confidence.",
+        "freelancer": "Great choice. Courses move faster when you can discuss ideas out loud, so that's exactly what we'll practise.",
+        "businessOwner": "Smart move. Learning while running a business is hard work, so we'll keep it short and focused on speaking up in class.",
+        "lookingForWork": "Good thinking. A course plus confident English is a strong mix for later interviews. We'll start with class discussions.",
+        "homeMaker": "That's wonderful! Going back to learning takes courage. We'll help you speak up in class without second-guessing yourself.",
+        "careerBreak": "A great way to use your break. We'll get you comfortable speaking in class, so the course feels easy from day one.",
+        "parent": "Lovely! Whether it's your own classes or helping your child with school, we'll build the confidence to speak clearly."
+      },
+      "others": {
+        "student": "Got it! We'll build confidence for the conversations you have every day, in class and out of it.",
+        "workingProfessional": "Got it! We'll focus on clear, confident speaking you can use at work and beyond.",
+        "freelancer": "Got it! We'll build the confident English that helps with clients and everyday life.",
+        "businessOwner": "Got it! We'll build confident English for customers, partners and everyday life.",
+        "lookingForWork": "Got it! We'll build speaking confidence that helps in interviews and beyond.",
+        "homeMaker": "Got it! We'll build everyday speaking confidence at your own pace.",
+        "careerBreak": "Got it! We'll use this time to make speaking English feel natural.",
+        "parent": "Got it! We'll build everyday confidence you can use with your kids and everyone else."
+      }
+    },
+    "painPointQuestion": "Be honest. What happens when you have to speak English?",
+    "painPoint": {
+      "cantReplyFast": "I understand but can't reply fast enough",
+      "translateInHead": "I translate from $lang in my head",
+      "scaredOfMistakes": "I'm scared of mistakes in front of people",
+      "runOutOfWords": "I run out of words",
+      "accent": "My accent",
+      "soundPolished": "I want to sound more polished",
+      "other": "Something else"
+    },
+    "painPointMyLanguage": "my language",
+    "painPointOtherPrompt": "Tell me in a few words. It helps me plan your practice.",
+    "painPointOtherHint": "e.g. I lose confidence midway",
+    "painPointReply": {
+      "cantReplyFast": "That gap between understanding and replying closes fast with practice. We'll train quick replies.",
+      "translateInHead": "Very common! We'll help you think directly in English, one step at a time.",
+      "scaredOfMistakes": "Mistakes are how we learn. Here it's just you and me, no judgement.",
+      "runOutOfWords": "We'll build the words you need for the moments that matter to you.",
+      "accent": "Being clear matters more than any accent. We'll work on the sounds that trip you up.",
+      "soundPolished": "Love that. We'll sharpen your fluency and range so you sound natural.",
+      "other": "Thanks for telling me. I'll keep that in mind as we practise."
+    },
+    "levelQuestion": "What would you say is your current English level?",
+    "testimonialsIntro": "You're in good hands, {{name}}! Discover why we won Google Play’s Best AI App 2023 and hear from learners like you.",
+    "notifPriming": "Daily practice will help you achieve your goals faster.",
+    "notifGranted": "Thanks for that! Together let's make English a daily learning habit.",
+    "notifDenied": "No problem. You can turn reminders on later in Profile settings.",
+    "readIntro": "We're almost done! As a last step, read this out loud for me.",
+    "answerIntro": "We're almost done! As a last step I'd like you to answer a question for me.",
+    "hintIntro": "Here's one way to say it. Read it out loud:",
+    "didNotSpeakAlot": "Looks like you didn't speak a lot.",
+    "letsTrySomethingElse": "Let's try something else, shall we?",
+    "wellDoneRead": "Well done, {{name}}! You read that in one go.",
+    "wellDoneAnswered": "Well done, {{name}}! You answered in full sentences.",
+    "curiousHowWellYouSpoke": "Curious how well you spoke? Tap to see how you did!",
+    "seeDetailedReport": "See detailed report",
+    "subPurposeQuestion": "What type of situations do you want to be good in?",
+    "enterReferralCode": "Enter the referral code that you have",
+    "testimonialsIntroIos": "You're in good hands, {{name}}! Hear from learners like you.",
+    "helloBubble": "Hi, I'm Sarah 👋",
+    "selectAnOption": "Select an option",
+    "continueCta": "Continue",
+    "skipForNow": "Skip for now",
+    "phoneHint": "Phone number",
+    "goalOtherHint": "Type your goal here",
+    "seeMoreLanguages": "See more languages",
+    "selectAnotherLanguage": "Select some other language",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "skip": "Skip",
+    "readItOutLoud": "Read it out loud",
+    "modelAnswer": "Model answer",
+    "answerOutLoud": "Answer out loud",
+    "micTipRead": "Tap the mic and read",
+    "micTipAnswer": "Tap the mic and answer",
+    "micTipHint": "Stuck? Tap the bulb for a model answer",
+    "progress": {
+      "letsGetStarted": "Let's get started!",
+      "percentCompleted": "$percent% completed",
+      "niceToMeetYou": "Nice to meet you, $name!",
+      "gotIt": "Got it!",
+      "thanksForTellingUs": "Thanks for telling us!",
+      "thatHelps": "That helps, thank you!",
+      "youreAllSet": "You're all set!",
+      "notAlone": "You're not alone in this.",
+      "almostThere": "Almost there!",
+      "firstSpeechDone": "First speech done!",
+      "goalCaption": "“$goal” – $cheer",
+      "goalCheer": {
+        "ielts": "Great choice!",
+        "business": "Impressive!",
+        "socializing": "Love that!",
+        "travel": "How exciting!",
+        "education": "Impressive!",
+        "others": "Got it!"
+      }
+    },
+    "report": {
+      "title": "Putting your report\ntogether…",
+      "tickPronunciation": "Checking pronunciation",
+      "tickFluency": "Checking fluency and pauses",
+      "tickGrammar": "Checking grammar",
+      "tickGoal": "Matching this to your goal: $goal",
+      "foot": "Takes about 5 seconds, yep we're that fast!",
+      "answersCaption": "Built from your answers.",
+      "tapHint": "Tap one to change it.",
+      "cta": "Continue",
+      "sheetSituation": "What best describes you?",
+      "sheetGoal": "Your main goal",
+      "sheetPain": "What gets in the way?",
+      "painShort": {
+        "cantReplyFast": "Slow replies",
+        "translateInHead": "Translating in head",
+        "scaredOfMistakes": "Fear of mistakes",
+        "runOutOfWords": "Running out of words",
+        "accent": "Accent",
+        "soundPolished": "Sounding polished",
+        "other": "Something else"
+      }
+    },
+    "level": {
+      "kicker": "Your level",
+      "titleBeginner": "You're a $level",
+      "titleOther": "You're $level",
+      "rungs": {
+        "a1": "Novice",
+        "a2": "Beginner",
+        "b1": "Intermediate",
+        "b2": "Advanced",
+        "c1": "Proficient",
+        "c2": "Native"
+      },
+      "hereTitle": "You're here",
+      "hereBeginner": "“Short sentences”",
+      "hereIntermediate": "“Everyday talk”",
+      "hereAdvanced": "“Fluent, with polish”",
+      "nextTitle": "Next stop",
+      "nextBeginner": "Fewer pauses",
+      "nextIntermediate": "Quicker replies",
+      "nextAdvanced": "Natural, precise",
+      "wellHeading": "What you did well",
+      "improveHeading": "To improve",
+      "wellReadWhole": "You read the whole passage without stopping.",
+      "improveOne": "'$first' needs a little work. We'll fix it next.",
+      "improveTwo": "'$first' and '$second' need a little work. We'll fix them next.",
+      "improveThree": "'$first', '$second' and '$third' need a little work. We'll fix them next.",
+      "cta": "Continue"
+    },
+    "fix": {
+      "errorsKicker": "Quick fix",
+      "errorsTitleOne": "One word needs\na little work",
+      "errorsTitleTwo": "Two words need\na little work",
+      "errorsTitleThree": "Three words need\na little work",
+      "errorsTitleMany": "$count words need\na little work",
+      "errorsSub": "Let's correct them before we build your plan.",
+      "passageLabel": "From your reading",
+      "whatToFix": "What to fix",
+      "practiseSound": "Practise the '$sound' sound",
+      "errorsCta": "Let's correct them",
+      "practiceKicker": "Practice",
+      "practiceTitle": "Let's improve the '$sound' sound in <em>'$word'</em>",
+      "cue": "Read the word <b>out loud</b>",
+      "currentScore": "Current score",
+      "newScore": "New score",
+      "tapToSpeak": "Tap to speak",
+      "tryAgain": "Try again",
+      "analysing": "Analysing…",
+      "soundsClear": "Sounds clear",
+      "skipWord": "Skip this word",
+      "continueCta": "Continue",
+      "listen": "Listen",
+      "exitTitle": "Wait, You are almost there!",
+      "exitBody": "You're just moments away from unlocking personalized learning. Let's finish up!",
+      "exitStay": "Continue",
+      "exitLeave": "Do it later"
+    },
+    "win": {
+      "headerCaption": "Nice work!",
+      "firstLineCard": "Look at that, $name! One try and '$word' already sounds clearer.",
+      "firstLineNoCard": "Great work, $name! You just spoke English out loud with real feedback.",
+      "secondLine": "That's what 10 minutes a day does. Your first lesson is ready and waiting for you.",
+      "gainCaption": "points in one try",
+      "before": "Before",
+      "after": "After",
+      "cta": "Start my plan"
+    },
+    "plan": {
+      "kicker": "Your plan",
+      "learners": "13Mn+ learners are on this journey with you",
+      "body": "With your current level ($cefr), here’s what\n10 min of daily practice can do.",
+      "today": "Today",
+      "week1": "Week 1",
+      "week4": "Week 4",
+      "week8": "Week 8",
+      "cta": "Start my plan",
+      "school": {
+        "title": "Speak up in class with confidence",
+        "m1": "Introduce yourself in class without pausing",
+        "m2": "Answer your teacher in full sentences",
+        "m3": "Give a 2-minute class presentation"
+      },
+      "career": {
+        "title": "Walk into your next interview ready",
+        "m1": "Introduce yourself without pausing",
+        "m2": "Answer 'Tell me about yourself' in one minute",
+        "m3": "Handle a full mock HR round"
+      },
+      "ielts": {
+        "title": "Get closer to your target band",
+        "m1": "Answer Part 1 questions without long pauses",
+        "m2": "Speak for 2 full minutes on a Part 2 cue card",
+        "m3": "Take a full speaking mock test"
+      },
+      "travel": {
+        "title": "Travel without the language worry",
+        "m1": "Get through airport and hotel check-in",
+        "m2": "Order food and ask locals for directions",
+        "m3": "Chat comfortably with locals"
+      },
+      "personal": {
+        "title": "Speak English with everyday confidence",
+        "m1": "Talk about your day without pausing",
+        "m2": "Hold a 5-minute conversation",
+        "m3": "Share your opinion clearly in a group"
+      }
+    }
+  }
+}

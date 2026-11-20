@@ -1,0 +1,1713 @@
+{
+  "day1McqExercise": {
+    "questionsRight": "pertanyaan benar dalam",
+    "q2AnswerExplanation": "\"Me\" benar karena kata ini menerima waktu tambahan.",
+    "others": {
+      "q1AnswerExplanation": "\"I\" benar karena kata ini adalah orang yang melakukan tindakan memesan.",
+      "q7AnswerExplanation": "\"Them\" benar karena mereka menerima hidangan tersebut.",
+      "q10AnswerExplanation": "\"Everyone\" benar karena kata ini merujuk pada semua orang di meja.",
+      "q9AnswerExplanation": "\"Themselves\" benar karena menunjukkan mereka melakukannya tanpa bantuan dari luar.",
+      "q2AnswerExplanation": "\"Me\" benar karena kata ini menerima makanan.",
+      "q5AnswerExplanation": "\"Either\" benar karena artinya salah satu dari dua pilihan dapat diterima.",
+      "q4AnswerExplanation": "\"Himself\" benar karena dia memasak sendiri tanpa bantuan.",
+      "q3AnswerExplanation": "\"Our\" benar karena menunjukkan meja itu milik kita.",
+      "q8AnswerExplanation": "\"Ours\" benar karena menunjukkan bahwa meja tersebut milik kita.",
+      "q6AnswerExplanation": "\"We\" benar karena ini adalah orang-orang yang melakukan permintaan."
+    },
+    "q5AnswerExplanation": "\"Either\" benar karena artinya salah satu dari dua pilihan tidak masalah.",
+    "mistakeIn": "kesalahan dalam",
+    "q3AnswerExplanation": "\"Our\" benar karena menunjukkan bahwa tim tersebut milik kita.",
+    "possPronMeaning": "Kata ganti kepemilikan (his, her, your) digunakan untuk menunjukkan kepemilikan.",
+    "youAnswered": "Anda menjawab",
+    "q8AnswerExplanation": "\"Ours\" benar karena menunjukkan tenggat waktu milik kita.",
+    "q6AnswerExplanation": "\"We\" benar karena ini adalah orang-orang yang melakukan usulan.",
+    "q1AnswerExplanation": "\"I\" benar karena ini adalah orang yang melakukan tindakan.",
+    "reflexivePronMeaning": "Kata ganti refleksif (himself, herself, yourself) digunakan ketika subjek dan objek adalah sama.",
+    "youMade": "Anda membuat",
+    "q7AnswerExplanation": "\"Them\" benar karena mereka menerima jadwal tersebut.",
+    "q10AnswerExplanation": "\"Everyone\" benar karena mengacu pada semua orang di kantor.",
+    "q9AnswerExplanation": "\"Ourselves\" benar karena menunjukkan kita melakukannya tanpa bantuan luar.",
+    "q4AnswerExplanation": "\"Herself\" benar karena dia melakukannya sendiri tanpa bantuan.",
+    "objPronMeaning": "Kata ganti objek (him, her, you) digunakan ketika seseorang menerima suatu tindakan.",
+    "subjPronMeaning": "Kata ganti subjek (he, she, you) digunakan ketika seseorang melakukan suatu tindakan.",
+    "indefPronMeaning": "Kata ganti tak tentu (anyone, everyone, someone) digunakan ketika subjeknya tidak spesifik."
+  },
+  "day3": {
+    "exercise2": {
+      "q3AnswerExplanation": "Item tindakan adalah tugas spesifik yang diberikan kepada seseorang dengan tenggat waktu.",
+      "q5OptionCRight": "Eva memberikan update - informasi tentang kemajuan terbaru atau perubahan pada suatu proyek.",
+      "q5OptionAWrong": "Eva tidak memberikan tugas-tugas spesifik (item tindakan).",
+      "q1OptionCRight": "Dia menyajikan daftar topik rapat yang terorganisir (agenda).",
+      "q5OptionARight": "Dia melaporkan kemajuan terbaru (update)",
+      "q1OptionBWrong": "Joe tidak berbagi ide atau saran (kontribusi).",
+      "q2OptionAWrong": "Carlos tidak membuat daftar topik (agenda).",
+      "q5OptionBWrong": "Eva tidak sedang mempresentasikan daftar topik untuk didiskusikan (agenda)",
+      "q3OptionCRight": "Sarah menerima action item - tugas spesifik yang diberikan kepada seseorang dengan tenggat waktu.",
+      "q1OptionARight": "Joe membagikan agenda - daftar topik yang akan dibahas selama rapat.",
+      "q1OptionBRight": "Dia menunjukkan daftar topik rapat (agenda).",
+      "q1AnswerExplanation": "Agenda adalah daftar topik yang akan dibahas selama rapat",
+      "q4OptionBWrong": "Mereka tidak sekadar berbagi informasi (memperbarui).",
+      "q3OptionBRight": "Dia diberi tugas konkret dengan tenggat waktu (butir tindakan).",
+      "q2OptionCWrong": "Carlos tidak memberikan tugas spesifik (butir tindakan).",
+      "q4OptionBRight": "Mereka bergabung untuk bekerja sama (berkolaborasi).",
+      "q3OptionARight": "Dia mendapat tugas spesifik untuk diselesaikan (item tindakan).",
+      "q3OptionBWrong": "Sarah tidak menerima ide atau saran (kontribusi).",
+      "q4AnswerExplanation": "Berkolaborasi berarti bekerja sama untuk mencapai tujuan bersama.",
+      "q2OptionARight": "Dia memberikan solusi untuk proyek tersebut (kontribusi).",
+      "q2OptionCRight": "Dia berbagi ide yang membantu (kontribusi).",
+      "q4OptionCRight": "Mereka berkolaborasi - bekerja sama dengan orang lain untuk mencapai tujuan bersama.",
+      "q2AnswerExplanation": "Kontribusi adalah ide berharga atau masukan yang dibagikan selama diskusi.",
+      "q5AnswerExplanation": "Update adalah informasi tentang kemajuan atau perubahan terbaru.",
+      "q3OptionAWrong": "Sarah tidak menerima informasi kemajuan (update)",
+      "q5OptionBRight": "Dia membagikan informasi tentang perkembangan terbaru (update).",
+      "q4OptionARight": "Mereka bekerja sama menuju tujuan yang sama (berkolaborasi).",
+      "q1OptionCWrong": "Joe tidak sedang membuat penawaran.",
+      "q2OptionBRight": "Carlos memberikan kontribusi - sebuah ide berharga atau masukan yang dibagikan selama diskusi.",
+      "q4OptionAWrong": "Mereka tidak hanya berbicara."
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "\"He\" adalah kata ganti subjek yang benar untuk menggantikan \"Harry\" sebagai orang yang melakukan tindakan.",
+      "q4AnswerExplanation": "\"His\" adalah kata ganti kepemilikan yang tepat untuk menunjukkan bahwa tongkat yang patah tersebut milik Ron.",
+      "q2AnswerExplanation": "\"Herself\" adalah kata ganti refleksif objek yang tepat karena Profesor McGonagall melakukan sekaligus menerima tindakan transformasi tersebut.",
+      "q5AnswerExplanation": "\"Himself\" adalah kata ganti refleksif yang tepat ketika Harry melakukan sekaligus menerima tindakan tersebut.",
+      "q3AnswerExplanation": "\"His\" adalah kata ganti kepemilikan yang tepat untuk menunjukkan bahwa mulut tersebut milik Harry."
+    },
+    "version12": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Can you clarify\" meminta penjelasan ketika sesuatu tidak jelas. Hanya \"clarify\" yang berfungsi dalam struktur permintaan ini.",
+        "q5AnswerExplanation": "Setelah \"I have an idea,\" \"I suggest we...\" memperkenalkan proposal baru. \"Agree\" dan \"clarify\" tidak cocok ketika mengusulkan ide baru.",
+        "q3AnswerExplanation": "\"I suggest we...\" mengusulkan tindakan spesifik. \"Agree\" memerlukan ide sebelumnya; \"clarify\" menjelaskan, bukan mengusulkan.",
+        "q1AnswerExplanation": "\"I agree with pam\" mengekspresikan dukungan terhadap ide seseorang. Pilihan lain tidak sesuai dengan struktur ini.",
+        "q4AnswerExplanation": "\"I agree with [person]\" menunjukkan keselarasan dengan pendapat orang lain. Hanya \"agree\" yang cocok dengan \"with Diana.\""
+      }
+    }
+  },
+  "day9": {
+    "exercise2": {
+      "es": {
+        "q3AnswerExplanation": "\"Clarification\" di tempat kerja berarti meminta penjelasan yang lebih jelas untuk menghindari kesalahpahaman.",
+        "q1AnswerExplanation": "Sebuah \"bantuan\" di tempat kerja adalah ketika Anda meminta seseorang untuk membantu Anda dengan sesuatu di luar tugas biasa mereka.",
+        "q4AnswerExplanation": "\"Bantuan\" di tempat kerja berarti pertolongan langsung dari seseorang untuk menyelesaikan tugas atau memecahkan masalah.",
+        "q2AnswerExplanation": "Sebuah \"sumber daya\" di kantor adalah alat, materi, atau informasi apa pun yang membantu karyawan melakukan pekerjaan mereka.",
+        "q5AnswerExplanation": "\"Bimbingan\" dalam lingkungan profesional berarti menerima saran atau arahan untuk meningkatkan keterampilan atau pengambilan keputusan."
+      },
+      "q5OptionBRight": "Lisa sedang menentukan tugas mana yang paling penting (memprioritaskan).",
+      "q4OptionARight": "Alex mengalami burnout - kelelahan akibat stres yang berkepanjangan.",
+      "ielts": {
+        "q1AnswerExplanation": "Sustainable mengacu pada praktik yang dapat berlanjut tanpa menghabiskan sumber daya",
+        "q2AnswerExplanation": "Biodiversity mengacu pada keragaman spesies dalam suatu habitat",
+        "q5AnswerExplanation": "Biodiversity hotspots adalah area dengan keragaman spesies yang luar biasa tinggi, sering kali terancam punah",
+        "q4AnswerExplanation": "Conservation mengacu pada perlindungan sumber daya untuk mencegah penipisan",
+        "q3AnswerExplanation": "Deforestasi mengacu pada pembukaan hutan dalam skala besar"
+      },
+      "q2OptionCRight": "John memberikan tugas kepada orang lain (mendelegasikan).",
+      "q1OptionCWrong": "Organized berarti memiliki segala sesuatu yang diatur secara terstruktur.",
+      "q4OptionCRight": "Alex mengalami burnout - kelelahan yang disebabkan oleh stres berkepanjangan.",
+      "q4OptionAWrong": "Progress berarti kemajuan positif dalam pekerjaan atau karier.",
+      "q3AnswerExplanation": "Mengambil inisiatif berarti mengidentifikasi dan menyelesaikan masalah tanpa diminta.",
+      "q5OptionCRight": "Lisa memprioritaskan - menangani tugas berdasarkan urutan kepentingan.",
+      "q5OptionAWrong": "Mendelegasikan adalah memberikan tugas kepada orang lain.",
+      "q3OptionCWrong": "Burnout adalah kelelahan akibat stres kronis.",
+      "q1OptionCRight": "Maria merasa kewalahan karena memiliki terlalu banyak tugas.",
+      "q5OptionARight": "Lisa mengatur pekerjaannya sendiri berdasarkan tingkat kepentingan (memprioritaskan).",
+      "q5OptionBWrong": "Mengambil inisiatif berarti bertindak tanpa diminta atau dipicu.",
+      "q3OptionCRight": "Sarah menunjukkan keterlibatan positif dengan mengambil tindakan (inisiatif).",
+      "q2OptionBRight": "John sedang mendelegasikan - memberikan tugas kepada orang lain.",
+      "q1OptionARight": "Maria merasa kewalahan karena terlalu banyak tugas.",
+      "q1AnswerExplanation": "Kewalahan berarti memiliki terlalu banyak tugas untuk ditangani dengan nyaman.",
+      "q4OptionBWrong": "Delegasi adalah menugaskan tugas kepada orang lain.",
+      "q3OptionBRight": "Sarah secara proaktif menyelesaikan masalah sendiri (inisiatif).",
+      "q4OptionBRight": "Alex mengalami kelelahan yang berkepanjangan (burnout).",
+      "q3OptionBWrong": "Delegasi adalah menugaskan tugas kepada orang lain.",
+      "q4AnswerExplanation": "Burnout adalah kelelahan yang disebabkan oleh stres berkepanjangan.",
+      "q1OptionAWrong": "Motivated berarti merasa bersemangat atau antusias terhadap pekerjaan.",
+      "q2OptionARight": "John sedang memberikan pekerjaan kepada orang lain (mendelegasikan).",
+      "q2OptionAWrong": "Taking initiative berarti bertindak tanpa diminta.",
+      "q2OptionCWrong": "Prioritizing berarti mengurutkan tugas berdasarkan tingkat kepentingan.",
+      "q2AnswerExplanation": "Mendelegasikan berarti memberikan tugas kepada orang lain.",
+      "q3OptionARight": "Sarah menunjukkan inisiatif - memecahkan masalah tanpa diminta.",
+      "q5AnswerExplanation": "Memprioritaskan berarti menangani tugas berdasarkan urutan kepentingan."
+    },
+    "exercise3": {
+      "es": {
+        "q1AnswerExplanation": "Aturan Kata Sifat Superlatif: Gunakan \"the most + kata sifat\" untuk kata dengan 3+ suku kata (contoh: dangerous → the most dangerous) ketika membandingkan tiga hal atau lebih (semua gunung berapi di Middle-earth).",
+        "q2AnswerExplanation": "Aturan Kata Sifat Komparatif: Gunakan \"-er than\" untuk kata sifat pendek (contoh: sharp → sharper than) ketika membandingkan dua hal (Black Widow vs. Hawkeye).",
+        "q5AnswerExplanation": "Aturan Kata Sifat Superlatif: Gunakan \"the + -est\" untuk kata sifat pendek (wise → the wisest) ketika membandingkan tiga atau lebih hal (semua Jedi).",
+        "q4AnswerExplanation": "Aturan Kata Sifat Komparatif: Gunakan \"-er than\" untuk kata sifat pendek (strong → stronger than) untuk membandingkan dua hubungan (persahabatan dengan Rocket vs. yang lain).",
+        "q3AnswerExplanation": "Aturan Kata Sifat Deskriptif: Gunakan bentuk dasar (misalnya, unique) ketika mendeskripsikan satu hal (vibranium) tanpa perbandingan."
+      }
+    }
+  },
+  "day3_2": {
+    "version12": {
+      "vocabularyExercise": "Latihan Kosakata",
+      "readAloud": "Baca Keras",
+      "ieltsPart2": "IELTS Bagian 2",
+      "describeTheImage": "Deskripsikan gambar",
+      "tryReadingThisSentence": "Coba baca kalimat ini!",
+      "q5AnswerExplanation2_3": "Lisa tidak memerlukan appetizer, yaitu hidangan pembuka, karena dia sudah selesai makan.",
+      "letTestYourMeetingVocabulary": "Mari kita uji kosakata meeting Anda",
+      "practiceThisPoliteRequest": "Praktikkan permintaan sopan ini!",
+      "haveFunWhileTestingYourImagination": "Bersenang-senanglah sambil menguji imajinasi & kemampuan menyusun kalimat Anda dengan gambar ini",
+      "task3": "Tugas 3",
+      "q4AnswerExplanation2_3": "\"Ordered\" menggambarkan tindakan memilih makanan, bukan bagaimana rasanya.",
+      "task2": "Tugas 2",
+      "repeatAfterMe": "Ulangi setelah saya",
+      "summarizeLecture": "Ringkas Kuliah",
+      "introductionSpeakingTest": "Pengenalan: Tes Berbicara",
+      "letJumpIntoRealLifeConversationToday": "Mari kita mulai percakapan kehidupan nyata hari ini, kita juga akan berlatih kosakata",
+      "q3AnswerExplanation": "Appetizer adalah hidangan kecil yang disajikan sebelum makanan utama.",
+      "q3AnswerExplanation2_3": "Maria tidak meminta menu, yang berisi daftar pilihan makanan.",
+      "weGetBackReadingToday": "Hari ini kita kembali ke kegiatan membaca, meskipun kali ini sedikit lebih sulit.",
+      "funWithVocabulary": "Seru dengan kosakata!",
+      "readingWithStressModerate": "Membaca dengan tekanan: Sedang",
+      "q1AnswerExplanation2_2": "Sarah tidak melihat tagihan, yang menunjukkan berapa jumlah yang harus dibayar setelah makan.",
+      "q2AnswerExplanation2": "John memesan makanan - memberitahu pelayan makanan dan minuman yang dia inginkan.",
+      "readTheParagraphLoudlyStressingTheHighlightedWords": "Bacalah paragraf dengan keras sambil menekankan kata-kata yang disorot",
+      "q1AnswerExplanation2": "Sarah sedang membaca menu - daftar makanan dan minuman yang tersedia di restoran.",
+      "q1AnswerExplanation": "Menu adalah daftar makanan dan minuman yang tersedia di restoran.",
+      "readingAtHighPaceAdvanced": "Membaca dengan kecepatan tinggi: Lanjutan",
+      "funWithTongueTwister": "Bersenang-senang dengan Tongue Twister",
+      "letPracticeSomeGrammar": "Mari berlatih tata bahasa",
+      "q1AnswerExplanation2_3": "Sarah tidak sedang melihat appetizer, yaitu hidangan kecil.",
+      "pronunciationExercise": "Latihan Pelafalan",
+      "q5AnswerExplanation2": "Lisa sebaiknya meminta bon - dokumen yang menunjukkan berapa yang harus dibayar untuk makanannya.",
+      "practiceQuestions": "Soal Latihan",
+      "task4": "Tugas 4",
+      "readThisSentenceOutLoud": "Bacakan kalimat ini dengan keras!",
+      "q4AnswerExplanation": "Delicious artinya makanan yang rasanya sangat enak.",
+      "task1": "Tugas 1",
+      "testYourPronounKnowledgeMagicalHarryPotterScenarios": "Uji pengetahuan kata ganti Anda dengan skenario magis Harry Potter ini!",
+      "speaking": "Berbicara",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "Ceritakan tentang saat Anda menikmati bekerja dengan tim Anda. Apa yang membuatnya istimewa?",
+      "q4AnswerExplanation2": "Carlos menggambarkan pastanya sebagai lezat - artinya makanan tersebut rasanya sangat enak.",
+      "q5AnswerExplanation2_2": "Lisa tidak memerlukan menu, yang menunjukkan pilihan makanan, karena dia sudah selesai makan.",
+      "letStartYourRoadmap": "Mari mulai Roadmap Anda",
+      "masteringPronouns": "Menguasai Kata Ganti",
+      "q4AnswerExplanation2_2": "\"Ordered\" menggambarkan tindakan memilih makanan, bukan bagaimana rasanya.",
+      "day1Revision": "Hari 1: Revisi",
+      "q2AnswerExplanation2_3": "John tidak secara khusus meminta appetizer.",
+      "q3AnswerExplanation2": "Maria memesan appetizer - hidangan kecil yang disajikan sebelum makanan utama.",
+      "vocabularyLesson": "Pelajaran Kosakata",
+      "q2AnswerExplanation": "Placing an order berarti memberi tahu pelayan makanan dan minuman apa yang Anda inginkan.",
+      "q5AnswerExplanation": "Tagihan menunjukkan berapa banyak yang perlu Anda bayar untuk makanan di restoran.",
+      "q2AnswerExplanation2_2": "John tidak meminta tagihan, yang diminta setelah selesai makan.",
+      "readWithEnthusiasm": "Baca dengan antusias!",
+      "q3AnswerExplanation2_2": "Maria tidak meminta tagihan, yang diminta setelah makan.",
+      "orderingFood": "Memesan makanan"
+    }
+  },
+  "roadmapDaysLocalization": {
+    "workplace": {
+      "day3": {
+        "vocabularyLesson": "Pelajaran kosakata",
+        "wordQuiz": "Kuis kata",
+        "descriptiveSpeaking": "Berbicara Deskriptif",
+        "meetingVocabulary": "Kosakata Rapat",
+        "pronounRevision": "Revisi Kata Ganti",
+        "negotiatingDeadlines": "Negosiasi Tenggat Waktu"
+      },
+      "day18": {
+        "summarizingMeetings": "Merangkum Rapat",
+        "wordQuiz": "Kuis Kata",
+        "descriptiveSpeaking": "Berbicara Deskriptif"
+      },
+      "day8": {
+        "adjectivePractice": "Latihan Kata Sifat",
+        "wordQuiz": "Kuis Kata",
+        "masteringAdjectives": "Menguasai Kata Sifat",
+        "descriptiveSpeaking": "Berbicara Deskriptif",
+        "roleplayRevision": "Revisi Bermain Peran"
+      },
+      "day12": {
+        "questionAnswering": "Tanya Jawab",
+        "talkingToClients": "Berbicara dengan Klien",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day5": {
+        "masteringVerbs": "Menguasai Kata Kerja",
+        "teamMeetingReview": "Tinjauan Rapat Tim",
+        "questionAnswering": "Tanya Jawab",
+        "grammarPractice": "Latihan Tata Bahasa",
+        "verbBuilder": "Pembentuk Kata Kerja"
+      },
+      "day9": {
+        "givingPresentation": "Memberikan Presentasi",
+        "askingForHelp": "Meminta Bantuan",
+        "tongueTwister": "Tongue Twister",
+        "grammarPractice": "Latihan Tata Bahasa",
+        "adjectiveReview": "Ulasan Kata Sifat"
+      },
+      "day7": {
+        "smallTalkPractice": "Latihan Percakapan Ringan",
+        "tongueTwister": "Tongue Twister",
+        "vocabRevision": "Revisi Kosakata",
+        "teamMeeting": "Rapat Tim",
+        "smallTalkWithColleagues": "Percakapan Ringan dengan Rekan Kerja",
+        "readAloud": "Baca Keras"
+      },
+      "day4": {
+        "meetingVocabularyPractice": "Latihan Kosakata Rapat",
+        "vocabularyRevision": "Ulasan Kosakata",
+        "teamMeeting": "Rapat Tim",
+        "negotiatingDeadlines": "Negosiasi Tenggat Waktu",
+        "grammarPractice": "Latihan Tata Bahasa",
+        "readingFast": "Membaca Cepat",
+        "workplaceMeetingRoleplay": "Roleplay Rapat Kerja",
+        "meetingPractice": "Latihan Rapat",
+        "teamMeetingPractice": "Latihan Rapat Tim",
+        "restaurantRoleplay": "Bermain Peran Restoran"
+      },
+      "day1": {
+        "grammarBuilder": "Pembangun Tata Bahasa",
+        "intro": "Pengenalan",
+        "readingExercise": "Latihan Membaca"
+      },
+      "day10": {
+        "readAloud": "Baca Keras",
+        "howToAskForHelp": "Cara meminta bantuan",
+        "givingPresentation": "Memberikan presentasi",
+        "day9Revision": "Hari 9: Revisi"
+      },
+      "day16": {
+        "planningYourTasks": "Merencanakan tugas Anda",
+        "stressTest": "Tes stres",
+        "advancedReading": "Membaca Tingkat Lanjut"
+      },
+      "day2": {
+        "masteringPronoun": "Menguasai Kata Ganti",
+        "tongueTwister": "Tongue Twister",
+        "pronounPractice": "Latihan Kata Ganti",
+        "grammarLesson": "Pelajaran Tata Bahasa",
+        "sentenceStructurePractice": "Latihan Struktur Kalimat",
+        "day1Revision": "Hari 1: Revisi"
+      },
+      "day20": {
+        "artciles": "Artikel",
+        "grammarPractice": "Latihan Tata Bahasa",
+        "poem": "Puisi"
+      },
+      "day15": {
+        "wordQuiz": "Kuis Kata",
+        "grammarPractice": "Latihan Tata Bahasa",
+        "planningYourTasks": "Merencanakan Tugas Anda"
+      },
+      "day14": {
+        "sentenceStructure": "Struktur Kalimat",
+        "poem": "Puisi",
+        "tongueTwister": "Latihan Pelafalan Sulit"
+      },
+      "day19": {
+        "tongueTwister": "Latihan Pelafalan Sulit",
+        "summarizingMeetingsMinutes": "Merangkum Notulen Rapat",
+        "questionAnswering": "Tanya Jawab"
+      },
+      "day11": {
+        "masteringAdverbs": "Menguasai Kata Keterangan",
+        "grammarPractice": "Latihan Tata Bahasa",
+        "readingPoemExercise": "Latihan Membaca Puisi"
+      },
+      "day17": {
+        "preposition": "Kata Depan",
+        "questionAnswering": "Tanya Jawab",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day6": {
+        "smallTalkVocab": "Kosakata Percakapan Ringan",
+        "vocabularyPractice": "Latihan Kosakata",
+        "teamMeeting": "Rapat Tim",
+        "pacedReading": "Membaca Terpandu",
+        "verbsReview": "Tinjauan Kata Kerja",
+        "stressTest": "Tes Stres"
+      },
+      "day13": {
+        "stressTest": "Tes Stres",
+        "wordQuiz": "Kuis Kata",
+        "talkingToClients": "Berbicara dengan Klien"
+      }
+    },
+    "socialising": {
+      "day5": {
+        "orderingFood": "Memesan Makanan",
+        "roleplayMCQ": "Roleplay Pilihan Ganda"
+      },
+      "day1": {
+        "grammarBuilder": "Pembentuk Tata Bahasa",
+        "intro": "Pengenalan",
+        "readingExercise": "Latihan Membaca"
+      },
+      "day4": {
+        "restaurantVocabulary": "Kosakata Restoran",
+        "orderingFood": "Memesan makanan",
+        "restaurantVocabularyPractice": "Latihan kosakata restoran"
+      },
+      "day2": {
+        "masteringPronoun": "Menguasai kata ganti",
+        "conversationPractice": "Latihan percakapan",
+        "pronounciationReview": "Tinjauan pelafalan",
+        "readingExercise": "Latihan Membaca"
+      },
+      "day3": {
+        "pronounsVideoLesson": "Pelajaran Video Kata Ganti",
+        "restaurantVocabulary": "Kosakata Restoran",
+        "learnOrderingFood": "Belajar Memesan Makanan",
+        "pronounRevision": "Revisi Kata Ganti"
+      }
+    }
+  },
+  "day4": {
+    "version8": {
+      "exercise2": {
+        "id": {
+          "q2OptionBRight": "Kalimat ini memerlukan kata kerja seperti \"help\" untuk menjelaskan apa yang akan Carlos lakukan.",
+          "q3AnswerExplanation": "\"Good\" adalah satu-satunya kata sifat yang secara logis menggambarkan waktu yang tepat.",
+          "q2OptionBWrong": "\"Team\" adalah kata benda, bukan kata kerja.",
+          "q5OptionCRight": "\"Summary\" secara tepat menggambarkan dokumen yang ditawarkan.",
+          "q3OptionCWrong": "\"Calendar\" tidak cocok secara tata bahasa maupun logika dalam konteks ini.",
+          "q1OptionCRight": "Anda memerlukan kata kerja seperti \"selesai\" untuk menggambarkan tindakan menyelesaikan desain.",
+          "q5OptionARight": "\"Ringkasan\" adalah satu-satunya kata benda yang menggambarkan dokumen yang menunjukkan hasil.",
+          "q1OptionBWrong": "\"Tenggat waktu\" tidak berfungsi secara tata bahasa dalam kalimat ini.",
+          "q5OptionBWrong": "\"Saya dapat membuat diskusi\" tidak masuk akal dalam konteks ini.",
+          "q3OptionCRight": "\"Baik\" dengan tepat menggambarkan bahwa waktunya sesuai.",
+          "q1OptionARight": "\"Finish\" adalah satu-satunya kata kerja yang sesuai secara tata bahasa untuk menyelesaikan suatu tugas.",
+          "q1OptionBRight": "Anda memerlukan kata kerja seperti \"finish\" untuk menggambarkan penyelesaian desain.",
+          "q1AnswerExplanation": "\"Finish\" adalah satu-satunya kata kerja yang sesuai secara tata bahasa untuk menyelesaikan suatu tugas.",
+          "q4OptionBWrong": "\"We'll be presentation\" secara tata bahasa tidak benar.",
+          "q3OptionBRight": "Kata sifat seperti \"good\" diperlukan untuk mengevaluasi kesesuaian waktu tersebut.",
+          "q2OptionCWrong": "\"Schedule\" tidak sesuai dengan konteks memberikan bantuan.",
+          "q4OptionBRight": "\"Prepared\" dengan tepat menggambarkan keadaan siap siaga.",
+          "q3OptionARight": "\"Good\" adalah satu-satunya kata sifat yang secara logis menggambarkan waktu yang sesuai.",
+          "q4OptionCWrong": "\"We'll be feedback\" tidak masuk akal secara tata bahasa maupun konteks.",
+          "q3OptionBWrong": "\"Minutes\" tidak masuk akal dalam menggambarkan apakah suatu waktu cocok.",
+          "q4AnswerExplanation": "\"Prepared\" adalah satu-satunya kata yang menyatakan kesiapan.",
+          "q2OptionARight": "\"Help\" adalah satu-satunya kata kerja yang tepat untuk menggambarkan bantuan.",
+          "q2OptionCRight": "\"Help\" dengan tepat menggambarkan bantuan yang diperlukan untuk grafik.",
+          "q5OptionCWrong": "\"I can create a meeting\" tidak cocok sebagai respons tentang mempersiapkan materi.",
+          "q4OptionCRight": "\"Prepared\" dengan tepat menunjukkan kesiapan untuk rapat.",
+          "q2AnswerExplanation": "\"Help\" adalah satu-satunya kata kerja yang tepat untuk menggambarkan bantuan.",
+          "q5AnswerExplanation": "\"Summary\" adalah satu-satunya kata benda yang menggambarkan dokumen yang menunjukkan hasil.",
+          "q5OptionBRight": "\"Summary\" dengan tepat menggambarkan gambaran singkat dari hasil.",
+          "q4OptionARight": "\"Prepared\" adalah satu-satunya kata yang menyatakan kesiapan.",
+          "q1OptionCWrong": "\"Project\" adalah kata benda, bukan kata kerja."
+        },
+        "es": {
+          "q1OptionARight": "\"Finish\" adalah satu-satunya kata kerja yang sesuai secara tata bahasa untuk menyelesaikan suatu tugas.",
+          "q1OptionBRight": "Anda memerlukan kata kerja seperti \"finish\" untuk menggambarkan penyelesaian desain.",
+          "q3OptionBRight": "Kata sifat seperti \"good\" diperlukan untuk mengevaluasi kesesuaian waktu tersebut.",
+          "q2OptionBWrong": "\"Team\" adalah kata benda, bukan kata kerja.",
+          "q4OptionBRight": "\"Prepared\" dengan tepat menggambarkan keadaan siap.",
+          "q3OptionBWrong": "\"Minutes\" tidak masuk akal dalam menggambarkan apakah suatu waktu cocok.",
+          "q2OptionARight": "\"Help\" adalah satu-satunya kata kerja yang tepat untuk menggambarkan bantuan.",
+          "q3OptionCRight": "\"Good\" dengan tepat menggambarkan bahwa waktunya sesuai.",
+          "q5OptionCWrong": "\"I can create a meeting\" tidak cocok sebagai respons tentang mempersiapkan materi.",
+          "q1AnswerExplanation": "\"Finish\" adalah satu-satunya kata kerja yang secara gramatikal cocok untuk menyelesaikan tugas.",
+          "q4OptionBWrong": "\"We'll be presentation\" secara gramatikal tidak benar.",
+          "q2OptionCWrong": "\"Schedule\" tidak sesuai dengan konteks memberikan bantuan.",
+          "q2AnswerExplanation": "\"Help\" adalah satu-satunya kata kerja yang tepat untuk menggambarkan bantuan.",
+          "q3OptionARight": "\"Good\" adalah satu-satunya kata sifat yang secara logis menggambarkan waktu yang sesuai.",
+          "q4OptionCWrong": "\"We'll be feedback\" tidak masuk akal secara tata bahasa maupun konteks.",
+          "q5AnswerExplanation": "\"Summary\" adalah satu-satunya kata benda yang menggambarkan dokumen yang menunjukkan hasil.",
+          "q4AnswerExplanation": "\"Prepared\" adalah satu-satunya kata yang menyatakan kesiapan.",
+          "q5OptionBRight": "\"Summary\" dengan tepat menggambarkan gambaran ringkas dari hasil.",
+          "q4OptionARight": "\"Prepared\" adalah satu-satunya kata yang menyatakan kesiapan.",
+          "q2OptionCRight": "\"Help\" dengan tepat menggambarkan bantuan yang diperlukan untuk grafik.",
+          "q1OptionCWrong": "\"Project\" adalah kata benda, bukan kata kerja.",
+          "q4OptionCRight": "\"Prepared\" dengan tepat menunjukkan kesiapan untuk rapat tersebut.",
+          "q3AnswerExplanation": "\"Good\" adalah satu-satunya kata sifat yang secara logis menggambarkan waktu yang sesuai.",
+          "q5OptionCRight": "\"Summary\" dengan tepat menggambarkan dokumen yang ditawarkan.",
+          "q3OptionCWrong": "\"Calendar\" tidak sesuai secara tata bahasa maupun logika dalam konteks ini.",
+          "q1OptionCRight": "Anda memerlukan kata kerja seperti \"selesai\" untuk menggambarkan tindakan menyelesaikan desain.",
+          "q5OptionARight": "\"Ringkasan\" adalah satu-satunya kata benda yang menggambarkan dokumen yang menunjukkan hasil.",
+          "q1OptionBWrong": "\"Tenggat waktu\" tidak berfungsi secara tata bahasa dalam kalimat ini.",
+          "q5OptionBWrong": "\"Saya dapat membuat diskusi\" tidak masuk akal dalam konteks ini.",
+          "q2OptionBRight": "Kalimat ini memerlukan kata kerja seperti \"bantu\" untuk menggambarkan apa yang akan Carlos lakukan."
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q2AnswerExplanation": "\"Contribution\" adalah ide atau masukan berharga yang dibagikan selama diskusi.",
+          "q5AnswerExplanation": "\"Collaboration\" berarti bekerja sama untuk mencapai tujuan bersama.",
+          "q3AnswerExplanation": "\"Action item\" adalah tugas spesifik yang diberikan kepada seseorang dengan tenggat waktu.",
+          "q1AnswerExplanation": "\"Agenda\" adalah daftar topik yang akan dibahas selama rapat.",
+          "q4AnswerExplanation": "\"Update\" adalah informasi tentang kemajuan atau perubahan terkini."
+        }
+      }
+    },
+    "version10": {
+      "exercise2": {
+        "id": {
+          "q2OptionCWrong": "John tidak secara khusus meminta appetizer.",
+          "q2AnswerExplanation": "Placing an order berarti memberi tahu pelayan makanan dan minuman apa yang Anda inginkan.",
+          "q3OptionARight": "Dia meminta hidangan kecil untuk dimakan sambil menunggu (appetizer).",
+          "q4OptionCWrong": "\"Billed\" berkaitan dengan pembayaran, bukan rasa makanan.",
+          "q5AnswerExplanation": "Tagihan menunjukkan berapa banyak yang perlu Anda bayar untuk makanan di restoran.",
+          "q4AnswerExplanation": "Delicious berarti makanan yang rasanya sangat enak.",
+          "q5OptionBRight": "Lisa harus meminta bon - dokumen yang menunjukkan berapa banyak yang harus dia bayar untuk makanannya.",
+          "q4OptionARight": "Carlos menggambarkan pastanya sebagai delicious - yang berarti makanan tersebut rasanya sangat enak.",
+          "q2OptionCRight": "Dia memberi tahu pelayan pilihan makanannya (memesan makanan).",
+          "q1OptionCWrong": "Sarah tidak sedang melihat appetizer, yaitu hidangan kecil.",
+          "q4OptionCRight": "Carlos sedang menjelaskan betapa enaknya pasta yang dia makan (lezat).",
+          "q3AnswerExplanation": "Appetizer adalah hidangan kecil yang disajikan sebelum makanan utama.",
+          "q5OptionCRight": "Dia ingin membayar makanannya (tagihan).",
+          "q3OptionCWrong": "Maria tidak meminta menu, yang berisi daftar pilihan makanan.",
+          "q1OptionCRight": "Dia sedang melihat daftar lengkap makanan yang tersedia (menu).",
+          "q5OptionBWrong": "Lisa tidak memerlukan menu yang menampilkan pilihan makanan, karena dia sudah selesai makan.",
+          "q2OptionBRight": "John memesan makanan - memberitahu pelayan makanan dan minuman apa yang dia inginkan.",
+          "q1OptionARight": "Sarah sedang membaca menu - daftar makanan dan minuman yang tersedia di restoran.",
+          "q1OptionBRight": "Dia melihat pilihan makanan sebelum memesan (menu).",
+          "q3OptionBRight": "Dia meminta hidangan kecil untuk dimakan sebelum hidangan utama (appetizer).",
+          "q2OptionBWrong": "John tidak meminta bon, yang diminta setelah selesai makan.",
+          "q4OptionBRight": "Carlos menggambarkan rasa pastanya sebagai sangat enak (lezat).",
+          "q3OptionBWrong": "Maria tidak meminta bon, yang diminta setelah makan.",
+          "q5OptionARight": "Dia perlu tahu berapa yang harus dibayar (bon).",
+          "q1OptionBWrong": "Sarah tidak melihat bon, yang menunjukkan berapa yang harus dibayar setelah makan.",
+          "q2OptionARight": "Dia memberitahu pelayan makanan apa yang dia inginkan (memesan makanan).",
+          "q3OptionCRight": "Maria meminta appetizer - hidangan kecil yang disajikan sebelum makanan utama.",
+          "q5OptionCWrong": "Lisa tidak memerlukan appetizer, yaitu hidangan pembuka, karena dia sudah selesai makan.",
+          "q1AnswerExplanation": "Menu adalah daftar makanan dan minuman yang tersedia di restoran.",
+          "q4OptionBWrong": "\"Ordered\" menggambarkan tindakan memilih makanan, bukan bagaimana rasanya."
+        }
+      }
+    },
+    "version12": {
+      "exercise3": {
+        "q4AnswerExplanation": "Bill (atau check) adalah dokumen yang menunjukkan total biaya makanan yang perlu dibayar pelanggan di restoran.",
+        "q2AnswerExplanation": "Ordering berarti memberi tahu pelayan makanan apa yang ingin Anda beli dan makan.",
+        "q3AnswerExplanation": "Delicious menggambarkan makanan yang rasanya sangat enak dan memberikan pengalaman makan yang menyenangkan.",
+        "q1AnswerExplanation": "Menu adalah daftar hidangan yang tersedia di restoran, biasanya disajikan dalam bentuk buku kecil atau papan."
+      },
+      "exercise2": {
+        "es": {
+          "q4AnswerExplanation": "\"Delicious\" adalah kata sifat yang menggambarkan makanan yang rasanya sangat enak.",
+          "q2AnswerExplanation": "\"Order\" adalah kata kerja yang menggambarkan tindakan memilih dan meminta makanan di restoran.",
+          "q5AnswerExplanation": "\"Bill\" merujuk pada dokumen yang menunjukkan jumlah yang harus dibayar pelanggan untuk makanan mereka.",
+          "q3AnswerExplanation": "\"Appetizer\" merujuk pada hidangan kecil yang disajikan sebelum hidangan utama.",
+          "q1AnswerExplanation": "\"Menu\" adalah dokumen yang mencantumkan semua pilihan makanan dan minuman yang tersedia di restoran."
+        }
+      }
+    },
+    "version13": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Agree\" berarti memiliki pendapat yang sama atau menerima saran yang dibuat oleh orang lain.",
+        "q3AnswerExplanation": "\"Clarify\" berarti membuat pernyataan atau situasi menjadi kurang membingungkan dan lebih mudah dipahami dengan mengonfirmasi detail-detailnya.",
+        "q1AnswerExplanation": "\"Suggestion\" mengacu pada ide atau usulan yang diajukan untuk dipertimbangkan oleh orang lain."
+      },
+      "exercise3": {
+        "q2AnswerExplanation": "\"Clarify\" digunakan untuk meminta penjelasan lebih lanjut. \"Agree\" tidak relevan di sini, dan \"suggest\" tidak berlaku ketika meminta kejelasan.",
+        "q5AnswerExplanation": "\"Clarify\" berarti memperjelas sesuatu. \"Sure\" bukan kata kerja, dan \"told\" adalah bentuk waktu yang salah. Hanya \"clarify\" yang berfungsi untuk mengekspresikan penghilangan kebingungan.",
+        "q4AnswerExplanation": "\"Couldn't agree\" mengekspresikan kegagalan mencapai konsensus. \"Make\" memerlukan objek, dan \"suggest\" tidak menggambarkan ketidaksepakatan. \"Agree\" cocok ketika membahas sudut pandang yang sama.",
+        "q3AnswerExplanation": "\"Let me suggest\" memperkenalkan sebuah usulan. \"Do\" dan \"start\" tidak cocok secara logis. Hanya \"suggest\" yang berfungsi ketika menawarkan ide seperti menunda rapat.",
+        "q1AnswerExplanation": "\"Strongly agree with\" menunjukkan dukungan kuat terhadap suatu pendapat. Hanya \"agree\" yang berfungsi dengan \"strongly\" dan \"with\"; \"pause\" tidak gramatikal, dan \"clarify\" tidak menunjukkan dukungan."
+      }
+    }
+  },
+  "day2_2": {
+    "version14": {
+      "whenYouAskingForRequest": "Ketika Anda meminta sesuatu, Anda dapat mengatakan -",
+      "q6AnswerExplanation": "Yours' benar karena Sarah bertanya apakah buku tersebut milik Alex.",
+      "q2AnswerExplanation2": "\"Me\" adalah kata ganti objek yang menerima tindakan diundang.",
+      "q1AnswerExplanation2": "\"She\" adalah kata ganti subjek yang menunjukkan siapa yang melakukan tindakan.",
+      "q1AnswerExplanation": "Kita menggunakan 'He' karena Joe adalah subjek tunggal laki-laki, dan kata ganti harus sesuai dengan jenis kelamin dan jumlahnya.",
+      "funWithTongueTwister": "Seru dengan Tongue Twister",
+      "letPracticeSomeGrammar": "Mari berlatih tata bahasa",
+      "pronunciationExercise": "Latihan Pelafalan",
+      "grammarExercise": "Latihan Tata Bahasa",
+      "grammarLesson": "Pelajaran Tata Bahasa",
+      "task4": "Tugas 4",
+      "whenYouAskingRequestCouldWeFindTime": "Ketika Anda meminta sesuatu, Anda dapat mengatakan - Bisakah kita mencari waktu setelah rapat untuk membahas ide tersebut?",
+      "socialIntroductions": "Perkenalan Sosial",
+      "q7AnswerExplanation": "This' tepat digunakan karena Alex merujuk pada buku spesifik yang sedang dipegangnya.",
+      "describeMemorableTripYouTook": "Ceritakan perjalanan berkesan yang pernah Anda lakukan. Apa yang membuatnya istimewa?",
+      "q4AnswerExplanation": "Karena Jon Snow merujuk pada pedang spesifik yang dekat dengannya, 'this' tepat untuk sesuatu yang tunggal dan dekat dengannya.",
+      "letReadTogether": "Mari kita baca bersama",
+      "q4AnswerExplanation3": "\"She\" adalah kata ganti subjek untuk orang yang melakukan tindakan, dan \"it\" adalah kata ganti objek untuk makanan tersebut.",
+      "speaking": "Berbicara",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "Ceritakan tentang saat Anda menikmati bekerja dengan tim Anda. Apa yang membuatnya istimewa?",
+      "q2AnswerExplanation3": "\"Mine\" adalah kata ganti kepemilikan yang menunjukkan kepemilikan tanpa mengulang kata benda. \"Them\" adalah kata ganti objek yang merujuk pada beberapa item.",
+      "letStartYourRoadmap": "Mari mulai Roadmap Anda",
+      "masteringPronouns": "Menguasai Kata Ganti",
+      "q5AnswerExplanation3": "\"Myself\" adalah kata ganti refleksif yang merujuk kembali ke \"I\", dan \"my\" adalah kata sifat posesif yang muncul sebelum kata benda.",
+      "day1Revision": "Hari 1: Revisi",
+      "q3AnswerExplanation2": "\"Their\" adalah kata ganti kepemilikan yang menunjukkan siapa pemilik rumah tersebut.",
+      "pronounciation": "Pelafalan",
+      "q1AnswerExplanation3": "\"Her/him\" adalah kata ganti objek yang digunakan ketika seseorang menerima suatu tindakan.",
+      "q2AnswerExplanation": "Karena Daenerys (perempuan) adalah pemiliknya, \"hers\" adalah jawaban yang benar.",
+      "q5AnswerExplanation": "He' digunakan karena Alex adalah subjek tunggal laki-laki, dan kata ganti harus sesuai dengan jenis kelamin dan jumlahnya.",
+      "letTestYourSentenceStructure": "Mari kita uji struktur kalimat Anda",
+      "letJumpIntoLearningPronunciations": "Mari kita mulai belajar pelafalan",
+      "politelyAnnounceThatYouAreLeaving": "Umumkan dengan sopan bahwa Anda akan pergi - Maaf, saya harus pergi untuk rapat lain.",
+      "readAloud": "Baca dengan Keras",
+      "ieltsPart2": "IELTS Bagian 2",
+      "describeTheImage": "Deskripsikan Gambar",
+      "repeatAfterMe": "Ulangi setelah saya",
+      "q3AnswerExplanation3": "\"We\" adalah kata ganti subjek (yang melakukan tindakan), sedangkan \"us\" adalah kata ganti objek (yang menerima undangan).",
+      "summarizeLecture": "Ringkas Kuliah",
+      "introductionSpeakingTest": "Pengantar: Tes Berbicara",
+      "letJumpIntoRealLifeConversationToday": "Mari kita mulai percakapan kehidupan nyata hari ini, kita juga akan berlatih kosakata",
+      "q3AnswerExplanation": "Kata ganti 'herself' digunakan karena subjek kalimat adalah 'She,' dan tindakan membuat sandwich merujuk kembali pada dirinya.",
+      "politelyAnnounceThatLeaving": "Umumkan dengan sopan bahwa Anda akan pergi -",
+      "pronunciationReview": "Tinjauan Pelafalan",
+      "readOutLoud": "Baca dengan keras!"
+    }
+  },
+  "onBoarding": {
+    "purpose": {
+      "ielts": "IELTS",
+      "talkToColleaguesClients": "Ngobrol bareng rekan kerja/klien",
+      "clearJobInterview": "Lolos wawancara kerja",
+      "everydayConvo": "Percakapan sehari-hari",
+      "excelAtSchool": "Berprestasi di sekolah",
+      "travel": "Berpergian",
+      "anyOtherGoal": "Tujuan lainnya",
+      "improveMyCareer": "Mengembangkan karir"
+    },
+    "workplaceSubPurpose": {
+      "jobInterview": "Wawancara kerja",
+      "teamMeeting": "Rapat tim",
+      "presentations": "Presentasi",
+      "networking": "Membangun Relasi",
+      "smallTalk": "Obrolan santai dengan rekan kerja"
+    },
+    "HowDidUserHearAboutApp": {
+      "tiktok": "Tiktok",
+      "instagram": "Instagram Reel",
+      "googleAds": "Iklan Google",
+      "friend": "Teman-teman",
+      "facebook": "Facebook",
+      "youtube": "Youtube",
+      "haveAReferralCode": "Ada kode referral?",
+      "other": {
+        "playStore": "Baru saja lihat di Play Store",
+        "appStore": "Baru saja lihat di App Store"
+      },
+      "twitterX": "Twitter/X",
+      "sevenDayChallenge": "Tantangan 7 Hari"
+    },
+    "levelDescription": {
+      "beginner": "Saya tahu beberapa kata, tapi belum bisa merangkai kalimat",
+      "intermediate": "Saya bisa membuat kalimat pendek tentang hal sederhana",
+      "advance": "Saya bisa melakukan percakapan singkat dan memahami orang lain"
+    },
+    "iWillRemindYouToo": "Saya kan terus mengingatkan kamu untuk terus belajar, kamu hanya perlu nyalakan tombol notifikasi.",
+    "noIssuesIWill": "Tidak ada masalah! Saya akan menyakan kembali di lain waktu",
+    "thanksForThatTogether": "Terimakasih! Mari bersama-sama jadikan belajar bahasa inggris jadi rutinitas harian kita",
+    "thesePeoplePracticedDaily": "Mereka belajar rutin setiap hari untuk memperoleh hasil yang sempurna dan saya membantu mereka tetap focus!",
+    "reviewBoostedMyConfidence": "Percakapan dengan Sarah meningkatkan bahasa Inggris saya dan menambah kepercayaan diri untuk tes",
+    "thatsImpressiveMentoredEducation": "Ok! Tahukah kamu, saya sudah membantu jutaan orang untuk berhasil berbicara bahasa inggris dengan lancar dan penuh percaya diri",
+    "helpYouPractice": "Hai! Saya Sarah. Saya di sini buat nemenin kamu latihan bahasa Inggris lewat obrolan santai dan menyenangkan.",
+    "amazingWhereDidHearAboutStimuler": "Terimakasih! Darimana kamu  mengetahui info tentang kami?",
+    "toEnsureYouGetLatestLessons": "Ada banyak info nih buat pelajaran khusus dan info terbaru, saya boleh minta no telepon kamu nggak?",
+    "niceToMeetYouGetLatestLessons": "Salam kenal! Supaya kamu selalu mendapatkan pelajaran terbaru, boleh saya minta nomor telepon kamu ya?",
+    "whichAgeGroupAreYouIn": "Kamu masuk rentang usia yang mana?",
+    "ageGroup": {
+      "under18": "Di bawah 18"
+    },
+    "whatIsYourGender": "Boleh tahu gender kamu?",
+    "gender": {
+      "male": "Laki-laki",
+      "female": "Perempuan",
+      "nonBinary": "Non-biner"
+    },
+    "dailyPracticeHelpsAchieveGoals": "Latihan setiap hari akan membantu kamu mencapai tujuan lebih cepat.",
+    "whatBestDescribesYourSituation": "Mana yang paling menggambarkan situasi kamu saat ini?",
+    "imGladWeMetWhatsYourGoal": "Senang sekali bisa ketemu kamu! Apa tujuan utama kamu belajar bahasa Inggris?",
+    "mainGoal": {
+      "growInMyCareer": "Mengembangkan karier",
+      "personalGrowth": "Pengembangan diri",
+      "travelConfidently": "Percaya diri saat traveling",
+      "excelAtMySchool": "Berprestasi di sekolah",
+      "other": "Tujuan lainnya"
+    },
+    "currentSituation": {
+      "student": "Pelajar/Mahasiswa",
+      "workingProfessional": "Karyawan",
+      "freelancer": "Freelancer",
+      "businessOwner": "Pemilik usaha",
+      "homeMaker": "Mengurus rumah tangga",
+      "careerBreak": "Rehat karier",
+      "lookingForWork": "Mencari kerja"
+    },
+    "perfectEvenWithJustAFewWords": "Sempurna! Bahkan hanya dengan beberapa kata. Kamu sudah bisa mulai nih, saya akan membimbing kamu dengan beberapa tahapan agar bisa berbicara dengan percaya diri",
+    "thatsImpressiveMentoredJob": "Luar biasa! Saya telah membantu lebih dari satu juta orang mendapatkan pekerjaan impian mereka dengan membantu mereka unggul dalam wawancara",
+    "reviewCommunityActive": "Anggota komunitas Stimuler pro selalu aktif dan membuat saya tetap termotivasi",
+    "iAmGladWeMet": "Senang sekali bisa ketemu kamu!",
+    "whatIsCurrentEnglishLevel": "Menurut kamu, level bahasa inggris mu sekarang di posisi apa?",
+    "letsTrySomethingElse": "Yuk coba hal baru, gimana?",
+    "reviewBoostedMyConfidenceIELTS": "Percakapan dengan Sarah meningkatkan bahasa Inggris saya dan menambah kepercayaan diri untuk tes IELTS saya",
+    "selectYourLanguagePreferance": "Silakan pilih preferensi bahasa Anda",
+    "thatsVeryCoolName": "Wah nama kamu bagus banget! Kita akan buat latihan ini menyenangkan",
+    "hiIAmPersonalEnglishSpeakingPartner": "Hai, Saya adalah partner latihan Bahasa Inggris kamu",
+    "thatsImpressiveMentoredIels": "Keren sekali, Ternyata saya udah bantu banyak orang di seluruh dunia untuk mendapatkan skor impian mereka",
+    "almostDoneAnswerAQuestionBeginner": "Kita sudah hampir selesai nih! Sebagai tahap akhir, saya berharap kamu membaca teks berikut",
+    "awesomeSkysTheLimit": "Hebat! Kesempatanmu tanpa batas. Kita akan menghadapi tantangan sulit untuk mencapai prestasi terbaik",
+    "thatsImpressiveMentoredSubPurpose": "Luar biasa! Saya telah membimbing lebih dari satu juta profesional untuk meningkatkan karier mereka dengan berlatih percakapan dunia nyata bersama saya",
+    "callMeSarahWhatsYourName": "Saya Sarah, nama kamu siapa?",
+    "greatMentoredOthers": "Luar biasa! Saya sudah membantu jutaan orang utk berhasil berbicara bahasa inggris dengan lancar dan penuh percaya diri",
+    "curiousHowWellYou": "Penasaran seberapa bagus kamu berbicara? Silakan ketuk untuk melihat performa kamu!",
+    "reviewSarahFeedbackOnVocab": "Umpan balik Sarah tentang kosakata sangat menakjubkan... saya berhutang skor band 8.0 saya kepada Stimuler",
+    "seeDetailedResults": "Lihat Hasil Terperinci",
+    "thatsImpressiveMentoredTravel": "Mantap! Baik itu perjalanan bisnis atau bekerja di luar negeri, Kita tetap bisa latihan",
+    "letsCreateAPlanForJustYou": "Yuk bikin rencana khusus supaya tujuan kamu tercapai lebih cepat! alasan apa nih yang bikin kamu pengen belajar bahasa Inggris?",
+    "noProblemWhereDidYouHearAboutUs": "Tidak masalah! Darimana kamu mengetahui info tentang kami?",
+    "awesomeAlreadyHalfwayThere": "Keren sekali! Kamu sudah setengah jalan nih, sedikit lagi latihan sama saya pasti lebih mahir",
+    "reviewSpendingTwentyMinutes": "Menghabiskan 20 menit setiap hari bersama Sarah telah membantu saya meningkatkan kelancaran berbicara secara drastis",
+    "thatsImpressiveMentoredBusiness": "Keren sekali! Saya sudah membimbing jutaan pekerja professional untuk meningkatkan karir mereka melalu latihan bersama dengan metode dialog dunia nyata",
+    "reviewSarahFeedbackOnVocabIELTS": "Umpan balik Sara tentang Vocab sangat luar biasa...saya berhutang skor band 8.0 saya kepada Stimuler",
+    "reviewAppIsAGoldenEgg": "Aplikasi ini adalah telur emas. Ini membantu Anda berbicara lebih baik. Luar biasa, saya akan memberi nilai 10/5",
+    "togetherWeWillWork": "Kita bakal latihan ngomong dengan cara yang rileks, tidak kaku.",
+    "awesomeThousandsOfEnglishLearners": "Luar biasa! Ribuan pelajar bahasa Inggris yang saya ajar memulai perjalanan mereka sebagai pemula dan saya mengubah mereka menjadi penutur bahasa Inggris yang fasih",
+    "thatsImpressiveMentoredSocializing": "Hebat! Kita bisa melakukan percakapan yang menyenangkan dan menarik. Ini akan membantu Anda menguasai komunikasi untuk kegiatan sehari-hari",
+    "reviewBoostedConfidenceOffice": "Obrolan dengan Sarah meningkatkan bahasa Inggris saya dan menambah kepercayaan diri saya di kantor",
+    "enterReferralCode": "Masukkan kode referral yang kamu punya",
+    "whatShouldICallYou": "Jadi saya harus panggil kamu siapa nih?",
+    "dontKnowWhatToSpeak": "Bingung mau bicara apa? Tenang, lihat petunjuk di bawah ini!",
+    "didNotSpeakAlot": "Sepertinya kamu tidak banyak bicara",
+    "tapOnButtonBelow": "Tekan tombol di bawah ini untuk melihat bagian pelafalan yang salah, jeda yang canggung dan rekomendasi lain dari kami",
+    "whetherYouAreJustStarting": "Jangan khawatir kalau masih pemula, aku bisa sesuaikan sama kemampuanmu. Kalau perlu, kita juga bisa pakai bahasa Indonesia dulu.",
+    "greatReasonExperienceBestAiApp": "Bagus sekali! Saatnya kamu merasakan pengalaman kenapa kami berhasil menang dalam penghargaan Best AI app 2023 dari Google",
+    "reasonExperienceBestAiApp": "Saatnya kamu merasakan pengalaman kenapa kami berhasil menang dalam penghargaan Best AI app 2023 dari Google",
+    "whatTypeOfSituationsDoYouWant": "Biasanya kamu paling mahir dalam bidang apa?",
+    "lookWhatLearnersHaveToSay": "Simak pendapat para pembelajar yang sudah berhasil",
+    "reviewAppIsAGoldenEggIELTS": "Aplikasi ini adalah permata untuk IELTS. Ini membantu Anda berbicara lebih baik. Luar biasa, saya akan memberi nilai 10/5",
+    "almostDoneAnswerAQuestion": "Kita sudah hampir selesai nih! Sebagai tahap akhir, saya berharap kamu menjawab satu pertanyaan berikut",
+    "canIknowYourName": "Saya sangat senang! Boleh saya tahu nama Anda?",
+    "letsGetToKnowEachOther": "Mari saling mengenal!",
+    "whatsYourNativeLanguage": "Apa bahasa ibu Anda?",
+    "gotItWillUseTheLanguageToExplainEnglish": "Baik! Kami akan menggunakan bahasa Anda untuk menjelaskan bahasa Inggris di dalam aplikasi",
+    "wantToChangeAppLanguageTo": "Apakah Anda ingin mengubah bahasa aplikasi ke bahasa ibu Anda?",
+    "youWillLearnEnglishThrough": "Anda akan belajar bahasa Inggris melalui $language",
+    "weUseEnglishAsTheAppsLanguage": "Kami menggunakan bahasa Inggris sebagai bahasa aplikasi",
+    "awesomeCanIKnowYourName": "Luar biasa! Boleh saya tahu nama Anda?",
+    "soWhatsYourNativeLanguage": "Jadi, apa bahasa ibu Anda? Ini membantu saya mendukung Anda dengan lebih baik.",
+    "examType": {
+      "ielts": "IELTS",
+      "toefl": "TOEFL",
+      "pte": "PTE",
+      "toeic": "TOEIC",
+      "other": "Lainnya"
+    },
+    "ieltsModule": {
+      "academic": "Akademik",
+      "general": "Umum",
+      "notSure": "Saya tidak yakin"
+    },
+    "examTime": {
+      "thisMonth": "Saya akan mengikuti IELTS bulan ini",
+      "nextMonth": "Saya akan mengikuti IELTS bulan depan",
+      "moreThanTwo": "Saya punya lebih dari dua bulan untuk persiapan",
+      "after": "Setelah {month}"
+    },
+    "moveTheSliderToPickYourScore": "Geser slider untuk memilih skormu",
+    "bandScore": "Band Score",
+    "skill": {
+      "reading": "Membaca",
+      "writing": "Menulis",
+      "speaking": "Berbicara",
+      "listening": "Menyimak"
+    },
+    "journeyGraph": {
+      "yourJourney": "Perjalananmu",
+      "toAceIeltsStarts": "untuk menguasai IELTS dimulai",
+      "curatingContent": "Menyiapkan konten",
+      "forYourIeltsJourney": "untuk perjalanan IELTS-mu",
+      "aPlanForYouToReach": "Rencana untuk mencapai",
+      "yourGoal4xFaster": "targetmu 4x lebih cepat",
+      "planForYou": "RENCANA UNTUKMU",
+      "practice20MinsPerDay": "Latihan 20mnt/hari",
+      "oneMockTestPerDay": "Satu Tes Simulasi/hari",
+      "ieltsConversationPerDay": "Percakapan IELTS/hari",
+      "weeklyReviews": "Ulasan mingguan",
+      "youTookThe": "KAMU MENGAMBIL",
+      "firstStep": "Langkah pertama",
+      "inOneMonth": "DALAM 1 BULAN",
+      "inTwoMonths": "DALAM 2 BULAN",
+      "inMoreThanTwoMonths": "DALAM 2+ BULAN"
+    },
+    "hintPlayback": {
+      "youDidGreatFirstStep": "Kamu hebat di langkah pertamamu!",
+      "improvePronunciation": "Ayo tingkatkan pengucapan"
+    }
+  },
+  "day4_2": {
+    "version13": {
+      "meetingVocabularyPractice": "Latihan Kosakata Rapat",
+      "summarizeLecture": "Meringkas Kuliah",
+      "q3AnswerExplanation": "\"Dog\" adalah kata benda yang menyebutkan hewan yang melakukan tindakan menggonggong. Kata benda mengidentifikasi orang, tempat, atau benda, sehingga \"dog\" menjadi subjek dalam kalimat ini.",
+      "teamMeetingPractice": "Latihan Rapat Tim",
+      "q3AnswerExplanation2_3": "\"Deserted\" berarti ditinggalkan dan kosong, bukan terkenal.",
+      "readItOutLoud": "Bacakan dengan keras",
+      "q2AnswerExplanation2": "Bustling menggambarkan tempat yang penuh dengan aktivitas energik, gerakan, dan kebisingan.",
+      "q1AnswerExplanation2": "Heritage merujuk pada tradisi dan elemen budaya berharga yang diwariskan dari generasi sebelumnya.",
+      "q1AnswerExplanation": "\"Beautiful\" adalah kata sifat yang menggambarkan kata benda \"dress.\" Pilihan lain, \"beautifully\" (kata keterangan) dan \"beauty\" (kata benda), tidak tepat untuk menggambarkan dress tersebut.",
+      "orderingFoodVocabRevision": "Revisi kosakata memesan makanan",
+      "q1AnswerExplanation2_3": "\"Population\" mengacu pada orang-orang yang tinggal di suatu daerah, bukan tradisi.",
+      "yourTurnToPracticeThisWord": "Giliran Anda untuk berlatih kata ini!",
+      "mockTest1": "Tes Simulasi 1",
+      "grammarPractice": "Latihan Tata Bahasa",
+      "task4": "Tugas 4",
+      "readingFast": "Membaca: cepat",
+      "letPracticeMore": "Ayo berlatih - LAGI!",
+      "yourTurnReadThisAloud": "Giliran Anda! Bacakan dengan keras!",
+      "q4AnswerExplanation": "\"Under\" adalah preposisi yang tepat menggambarkan hubungan antara kucing dan tempat tidur. Pilihan lain, \"below\" (yang lebih umum secara spasial) dan \"down\" (yang merupakan adverbia), tidak sesuai dengan konteks.",
+      "showMeWhatYouGot": "Tunjukkan kemampuan Anda! Bacakan kalimat ini dengan keras!",
+      "task1": "Tugas 1",
+      "weGetBackToReadingToday": "Hari ini kita kembali ke aktivitas membaca, meskipun kali ini sedikit lebih lanjut.",
+      "speaking": "Berbicara",
+      "q4AnswerExplanation2": "Authentic berarti asli dan sesuai dengan asal-usul tradisional.",
+      "describeTheImage": "Deskripsikan Gambar",
+      "roleplayExercise": "Latihan Bermain Peran",
+      "itAgainTimeToPracticeYourConversational": "Saatnya lagi berlatih kemampuan percakapan dan pelafalan Anda",
+      "letStartYourRoadmap": "Mari mulai Roadmap Anda",
+      "ieltsPart2Lesson": "Pelajaran IELTS Bagian 2",
+      "themeTravel": "Tema: Perjalanan",
+      "workplaceMeetingRoleplay": "Roleplay Rapat Kerja",
+      "q4AnswerExplanation2_2": "\"Modified\" berarti diubah dari aslinya, bukan tradisional.",
+      "letsPracticeSomeGrammar": "Mari berlatih tata bahasa",
+      "q2AnswerExplanation2_3": "\"Silent\" berarti tenang tanpa suara, kebalikan dari sibuk.",
+      "q3AnswerExplanation2": "Renowned berarti terkenal dan sangat dihormati karena keunggulannya.",
+      "nowYouTryReadThisSentence": "Sekarang giliran Anda! Bacakan kalimat ini!",
+      "q2AnswerExplanation": "\"Extremely\" adalah kata keterangan yang memodifikasi kata sifat \"fast.\" Pilihan lainnya, \"extreme\" (kata sifat) dan \"extremeness\" (kata benda), tidak tepat untuk memodifikasi \"fast.\"",
+      "nowItsTheTimeToPracticeYourThinkingSkills": "Sekarang saatnya untuk melatih kemampuan menjawab pertanyaan dan berpikir cepat Anda.",
+      "haveFunWithThisTongueTwister": "Bersenang-senanglah dengan tongue-twister ini",
+      "q5AnswerExplanation": "\"They\" adalah kata ganti yang digunakan sebagai subjek kalimat. Pilihan lainnya, \"Their\" (kata ganti kepemilikan) dan \"Them\" (kata ganti objek), tidak sesuai untuk posisi subjek.",
+      "q2AnswerExplanation2_2": "\"Declining\" berarti memburuk atau mengecil, bukan aktif.",
+      "q3AnswerExplanation2_2": "\"Deserted\" berarti ditinggalkan dan kosong, bukan terkenal.",
+      "lastOneReadThisSentenceAloud": "Yang terakhir! Bacakan kalimat ini dengan keras!",
+      "orderingFood": "Memesan makanan",
+      "vocabularyExercise": "Latihan kosakata",
+      "nowItYourMomentToShine": "Sekarang saatnya Anda bersinar! Coba baca kalimat ini!",
+      "readAloud": "Baca dengan Keras",
+      "q1AnswerExplanation2_2": "\"Scenery\" mengacu pada fitur lanskap alam, bukan tradisi budaya.",
+      "essentialVocabularyForDescribingYourCountry": "Kosakata Penting untuk Mendeskripsikan Negara, Kota, dan Perjalanan Anda",
+      "task3": "Tugas 3",
+      "q4AnswerExplanation2_3": "\"Foreign\" berarti dari negara lain, tidak selalu tradisional.",
+      "task2": "Tugas 2",
+      "repeatAfterMe": "Ulangi setelah saya",
+      "lastOneYouveGotThis": "Yang terakhir—Anda pasti bisa! Bacakan kalimat terakhir dengan keras!"
+    }
+  },
+  "day6": {
+    "version9": {
+      "exercise2": {
+        "es": {
+          "q1OptionCRight": "Maria merasa kewalahan karena memiliki terlalu banyak tugas.",
+          "q5OptionARight": "Lisa mengatur pekerjaannya sendiri berdasarkan tingkat kepentingan (memprioritaskan).",
+          "q5OptionBWrong": "Mengambil inisiatif berarti bertindak tanpa diminta atau dipicu.",
+          "q3OptionCRight": "Sarah menunjukkan keterlibatan positif dengan mengambil tindakan (inisiatif).",
+          "q2OptionBRight": "John sedang mendelegasikan - memberikan tugas kepada orang lain.",
+          "q1OptionARight": "Maria merasa kewalahan karena terlalu banyak tugas.",
+          "q1AnswerExplanation": "Kewalahan berarti memiliki terlalu banyak tugas untuk ditangani dengan nyaman",
+          "q4OptionBWrong": "Delegasi adalah menugaskan pekerjaan kepada orang lain.",
+          "q3OptionBRight": "Sarah secara proaktif menyelesaikan masalah sendiri (inisiatif).",
+          "q4OptionBRight": "Alex mengalami kelelahan berkepanjangan (burnout).",
+          "q3OptionBWrong": "Delegasi adalah menugaskan pekerjaan kepada orang lain.",
+          "q4AnswerExplanation": "Burnout adalah kelelahan yang disebabkan oleh stres berkepanjangan",
+          "q1OptionAWrong": "Motivated berarti merasa bersemangat atau antusias terhadap pekerjaan.",
+          "q2OptionARight": "John sedang memberikan pekerjaan kepada orang lain (mendelegasikan).",
+          "q2OptionAWrong": "Taking initiative berarti bertindak tanpa diminta.",
+          "q2OptionCWrong": "Prioritizing berarti mengurutkan tugas berdasarkan tingkat kepentingan.",
+          "q2AnswerExplanation": "Delegating berarti memberikan tugas kepada orang lain",
+          "q3OptionARight": "Sarah menunjukkan inisiatif - memecahkan masalah tanpa diminta",
+          "q5AnswerExplanation": "Prioritizing berarti menangani tugas berdasarkan urutan kepentingan",
+          "q5OptionBRight": "Lisa sedang menentukan tugas mana yang paling penting (prioritizing)",
+          "q4OptionARight": "Alex mengalami burnout - kelelahan akibat stres berkepanjangan",
+          "q2OptionCRight": "John memberikan tugas kepada orang lain (mendelegasikan).",
+          "q1OptionCWrong": "Organized berarti memiliki segala sesuatu yang diatur dengan cara yang terstruktur.",
+          "q4OptionCRight": "Alex mengalami burnout - kelelahan yang disebabkan oleh stres berkepanjangan.",
+          "q4OptionAWrong": "Progress berarti kemajuan positif dalam pekerjaan atau karier.",
+          "q3AnswerExplanation": "Mengambil inisiatif berarti mengidentifikasi dan menyelesaikan masalah tanpa diminta",
+          "q5OptionCRight": "Lisa memprioritaskan - menangani tugas berdasarkan urutan kepentingan.",
+          "q5OptionAWrong": "Mendelegasikan adalah memberikan tugas kepada orang lain.",
+          "q3OptionCWrong": "Burnout adalah kelelahan akibat stres kronis."
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q3AnswerExplanation": "\"Did not\" adalah kata kerja bantu yang membuat \"understand\" menjadi negatif. Ini memberitahu kita bahwa Forrest tidak memahami sesuatu di masa lalu.",
+          "q6AnswerExplanation": "\"Discovers\" adalah kata kerja tindakan yang menunjukkan apa yang dilakukan Indiana Jones. \"Should\" adalah kata kerja bantu yang menunjukkan apa yang benar atau pantas.",
+          "q1AnswerExplanation": "\"Brought\" adalah kata kerja tindakan yang menunjukkan apa yang dilakukan para ilmuwan. \"Was\" adalah kata kerja penghubung yang menghubungkan \"decision\" dengan \"dangerous\".",
+          "q2AnswerExplanation": "Baik \"questioned\" maupun \"swallowed\" adalah kata kerja tindakan. Yang satu menunjukkan tindakan mental, yang lain menunjukkan tindakan fisik.",
+          "q5AnswerExplanation": "Baik \"appears\" maupun \"remains\" adalah kata kerja penghubung dalam bentuk waktu sekarang. Keduanya menghubungkan subjek \"factory\" dengan deskripsi \"magical\" dan \"full of surprises\" tanpa menunjukkan tindakan.",
+          "q4AnswerExplanation": "\"Was playing\" menunjukkan tindakan yang sedang terjadi pada saat yang tepat di masa lalu. \"Was\" membantu kata kerja utama \"playing\" menunjukkan tindakan yang sedang berlangsung."
+        }
+      }
+    },
+    "version8": {
+      "exercise1": {
+        "id": {
+          "q3AnswerExplanation": "\"Team\" dimulai dengan bunyi 't', bukan 'th' (seperti dalam theme), 'c' (seperti dalam cream)",
+          "q1AnswerExplanation": "Dalam kosakata bisnis bahasa Inggris, \"presentation\" diucapkan pre-SEN-ta-tion, dengan penekanan pada suku kata kedua",
+          "q2AnswerExplanation": "\"Action items\" merujuk pada tugas-tugas yang perlu diselesaikan, sedangkan \"action limits\" bukanlah istilah bisnis yang umum"
+        }
+      },
+      "exercise3": {
+        "id": {
+          "q3AnswerExplanation": "\"Explain\" mendorong kolaborasi dan rasa hormat. Meminta detail menunjukkan Anda menghargai perspektif yang berbeda dan menciptakan ruang untuk inovasi melalui dialog terbuka",
+          "q1AnswerExplanation": "\"Start\" menunjukkan kepemimpinan dan inisiatif. Menjadi sukarelawan pertama menciptakan nada positif dan menunjukkan kepercayaan diri, mendorong partisipasi tim",
+          "q2AnswerExplanation": "\"Know\" menunjukkan perencanaan proaktif. Bertanya tentang ketersediaan materi mengidentifikasi hambatan potensial sejak dini, menunjukkan pandangan ke depan dan komitmen untuk memenuhi tenggat waktu"
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q4AnswerExplanation": "\"Their\" adalah kata ganti kepemilikan yang tepat untuk merujuk kembali pada \"everyone\". \"Contribution\" berarti sesuatu yang diberikan atau disumbangkan untuk dana atau tujuan bersama, yang sesuai dengan konteks menambahkan sesuatu pada proyek.",
+          "q2AnswerExplanation": "Dalam kalimat ini, \"me\" adalah kata ganti objek yang mengikuti \"asked\". \"I\" adalah kata ganti subjek dan akan salah jika digunakan di sini.",
+          "q5AnswerExplanation": "\"Those\" adalah kata ganti penunjuk yang tepat digunakan untuk merujuk pada orang-orang yang melewatkan rapat. \"Action items\" adalah tugas-tugas spesifik yang diberikan untuk diselesaikan, yang sesuai dengan konteks penugasan yang perlu ditinjau.",
+          "q3AnswerExplanation": "\"Agenda\" adalah daftar topik yang akan dibahas dalam rapat. \"Contribution\" merujuk pada sesuatu yang diberikan atau disumbangkan, sedangkan \"action item\" adalah tugas spesifik yang diberikan untuk diselesaikan.",
+          "q6AnswerExplanation": "Meskipun secara tradisional \"his or her\" digunakan untuk kata ganti tunggal yang dihubungkan dengan \"or/nor\", bahasa Inggris modern menerima \"their\" tunggal sebagai netral gender dan tidak canggung, terutama ketika merujuk pada orang-orang tertentu.",
+          "q1AnswerExplanation": "\"Collaborate\" berarti bekerja sama menuju tujuan bersama, yang sesuai dengan konteks memenuhi tenggat waktu"
+        }
+      }
+    }
+  },
+  "day11": {
+    "exercise2": {
+      "id": {
+        "q6AnswerExplanation": "\"Itinerary\" adalah rencana atau jadwal terperinci untuk perjalanan yang mencakup aktivitas, waktu, dan tempat",
+        "q3AnswerExplanation": "\"Gets\" adalah bentuk orang ketiga tunggal yang tepat yang sesuai dengan subjek tunggal \"beach club\"",
+        "q1AnswerExplanation": "Bentuk dasar \"plan\" diperlukan setelah kata kerja modal \"need to\"",
+        "q4AnswerExplanation": "\"Budget\" secara khusus merujuk pada jumlah uang yang direncanakan untuk dialokasikan dalam pengeluaran",
+        "q2AnswerExplanation": "\"Accommodation\" mengacu pada tempat-tempat seperti hotel, vila, atau hostel tempat para wisatawan menginap.",
+        "q5AnswerExplanation": "\"Have\" adalah bentuk yang benar untuk digunakan dengan subjek jamak \"my friends and I.\""
+      },
+      "q1AnswerExplanation": "\"Delegate\" adalah kata kerja yang benar yang berarti menugaskan pekerjaan kepada orang lain, sedangkan \"burnout\" dan \"overwhelm\" tidak berfungsi sebagai kata kerja dalam konteks ini.",
+      "q2AnswerExplanation": "\"Initiative\" cocok secara logis dalam kalimat ini, dan \"is\" berfungsi sebagai kata kerja penghubung yang menghubungkan subjek dengan informasi tentangnya.",
+      "q5AnswerExplanation": "\"Prioritizing\" berarti mengatur tugas berdasarkan tingkat kepentingan, yang secara logis membantu mencegah burnout.",
+      "q4AnswerExplanation": "\"Plans\" adalah kata kerja aksi yang menunjukkan sesuatu yang dilakukan subjek, sesuai dengan kata kerja aksi lainnya dalam rangkaian (answers, solves).",
+      "q6AnswerExplanation": "\"Is\" berfungsi sebagai kata kerja penghubung yang menghubungkan \"presentation\" dengan informasi tentangnya, sedangkan \"are\" menghubungkan \"clients\" dengan keadaan mereka.",
+      "q3AnswerExplanation": "\"Should\" adalah kata kerja bantu yang menambahkan makna pada \"complete,\" dan \"overwhelmed\" berarti stres karena terlalu banyak pekerjaan."
+    },
+    "exercise3": {
+      "q2AnswerExplanation": "\"Ask\" mencerminkan kesediaan untuk mencari bantuan saat dibutuhkan. Mengenali kapan Anda membutuhkan bantuan dan terbuka untuk memintanya menunjukkan profesionalisme dan mencegah kelelahan, berkontribusi pada lingkungan kerja yang kolaboratif.",
+      "id": {
+        "q3AnswerExplanation": "Menggunakan \"reservation\" mencerminkan perencanaan cerdas dan kecerdasan perjalanan dengan mengamankan tempat di atraksi populer, memastikan grup Anda tidak melewatkan pengalaman penting.",
+        "q1AnswerExplanation": "Menggunakan \"perfect\" menunjukkan antusiasme dan minat yang tulus terhadap rencana perjalanan teman Anda, membantu membangun kegembiraan dan rasa antisipasi bersama untuk perjalanan tersebut.",
+        "q2AnswerExplanation": "Menggunakan \"practical\" menunjukkan pengambilan keputusan yang bijaksana dengan menyeimbangkan ikatan sosial dan berbagi biaya, menyoroti keterampilan penting dalam perencanaan perjalanan kelompok."
+      },
+      "q3AnswerExplanation": "\"Join\" menunjukkan komitmen untuk membangun hubungan di tempat kerja. Menindaklanjuti undangan sosial membantu menciptakan jaringan dukungan di luar tugas kerja langsung, yang meningkatkan kepuasan kerja dan kerja sama tim secara keseluruhan.",
+      "q1AnswerExplanation": "\"Honest\" komunikasi membangun kepercayaan dalam hubungan kerja. Berbagi perasaan yang tulus tentang beban kerja menciptakan kesempatan untuk mendapat dukungan dan menunjukkan keaslian, yang memperkuat ikatan rekan kerja."
+    }
+  },
+  "day5": {
+    "version10": {
+      "exercise3": {
+        "es": {
+          "q1AnswerExplanation": "\"Start\" menunjukkan kepemimpinan dan inisiatif. Menjadi sukarelawan pertama menciptakan nada positif dan menunjukkan kepercayaan diri, mendorong partisipasi tim.",
+          "q4AnswerExplanation": "\"Help\" mengutamakan kesuksesan tim daripada kepentingan individu. Menawarkan bantuan menunjukkan akuntabilitas dan pemikiran yang berfokus pada solusi alih-alih menyalahkan atau bersikap negatif.",
+          "q2AnswerExplanation": "\"Know\" menunjukkan perencanaan yang proaktif. Menanyakan ketersediaan materi mengidentifikasi hambatan potensial sejak dini, menunjukkan pandangan ke depan dan komitmen untuk memenuhi tenggat waktu.",
+          "q5AnswerExplanation": "\"Discuss\" berfokus pada pemahaman sebelum bertindak. Mencari detail spesifik tentang permintaan klien menunjukkan profesionalisme dan mengarah pada solusi yang lebih efektif serta hubungan klien yang lebih kuat.",
+          "q3AnswerExplanation": "\"Explain\" mendorong kolaborasi dan rasa hormat. Meminta detail menunjukkan bahwa Anda menghargai perspektif yang berbeda dan menciptakan ruang untuk inovasi melalui dialog terbuka."
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q2AnswerExplanation": "\"Order\" adalah kata kerja yang menggambarkan memilih dan meminta makanan di restoran.",
+          "q3AnswerExplanation": "\"Appetizer\" mengacu pada hidangan kecil yang disajikan sebelum hidangan utama.",
+          "q1AnswerExplanation": "\"Menu\" adalah dokumen yang mencantumkan semua pilihan makanan dan minuman yang tersedia di restoran."
+        },
+        "es": {
+          "q2AnswerExplanation": "\"Is\" adalah kata kerja penghubung karena menghubungkan subjek \"Upside Down\" dengan deskripsi \"a dark and dangerous dimension.\" Kata kerja penghubung tidak menunjukkan tindakan tetapi menghubungkan subjek dengan deskripsi.",
+          "q5AnswerExplanation": "\"Can\" adalah kata kerja bantu yang menunjukkan kemampuan Tony. Kata kerja bantu seperti \"can,\" \"will,\" dan \"should\" memodifikasi kata kerja utama untuk mengekspresikan kemampuan, kebutuhan, atau tindakan masa depan.",
+          "q3AnswerExplanation": "\"Can\" adalah kata kerja bantu yang menunjukkan kemampuan. Kata kerja ini bekerja dengan kata kerja utama \"defeat\" untuk menunjukkan bahwa Harry memiliki kemampuan mengalahkan Voldemort. Kata kerja bantu menambahkan makna tentang kemungkinan, kebutuhan, atau waktu.",
+          "q1AnswerExplanation": "\"Throws\" adalah kata kerja tindakan karena menunjukkan tindakan fisik yang dilakukan Thor. Kata kerja tindakan mengungkapkan apa yang dilakukan seseorang, baik fisik maupun mental.",
+          "q4AnswerExplanation": "\"Plays\" adalah kata kerja tindakan yang menunjukkan apa yang dilakukan Jim. Kata kerja tindakan sangat penting untuk menggambarkan aktivitas dan perilaku, baik di tempat kerja maupun dalam kehidupan sehari-hari."
+        }
+      }
+    }
+  },
+  "roadmapIntermediateStates": {
+    "letsReview": "Mari kita tinjau",
+    "ontoTheNextOne": "LANJUT KE YANG BERIKUTNYA!",
+    "part2OfDay2": "Bagian 2 dari Hari 2 telah selesai",
+    "part3OfDay3": "Bagian 3 dari Hari 3 selesai",
+    "meetingRoleplay": "Roleplay rapat selesai✨",
+    "teamMeeting": "rapat tim",
+    "restaurantRoleplayMastered": "Roleplay restoran dikuasai!",
+    "part1OfDay4": "Bagian 1 dari Hari 4 selesai",
+    "weLearnt": "kami belajar!",
+    "again": "lagi!",
+    "sentenceStructureMastered": "Struktur Kalimat Dikuasai!",
+    "youBelongTo": "Anda termasuk 10% teratas pengguna yang menyelesaikan Hari 1!",
+    "youLearnt": "Anda belajar",
+    "youLearnedPronounciations": "Anda telah mempelajari kata ganti.!",
+    "practicing": "berlatih 2 kata",
+    "day1Completed": "HARI 1 SELESAI",
+    "letsReviewPronouns": "mari kita tinjau kata ganti dalam percakapan",
+    "readingDone": "MEMBACA SELESAI!",
+    "lets": "Ayo",
+    "scoreImproved": "skor meningkat 25%",
+    "letsRevise": "ayo tinjau ulang",
+    "yourLearningFrom": "pembelajaran Anda dari roleplay",
+    "oneLastLesson": "SATU PELAJARAN TERAKHIR!",
+    "part2OfDay3": "Bagian 2 dari Hari 3 telah selesai",
+    "restaurantRoleplayDone": "Roleplay Restoran selesai"
+  },
+  "day2McqExercise": {
+    "q1AnswerExplanation": "Kami menggunakan \"He\" karena Joe adalah subjek tunggal laki-laki, dan kata ganti harus sesuai dengan jenis kelamin dan jumlahnya.",
+    "q2AnswerExplanation": "Karena Daenerys (perempuan) adalah pemiliknya, \"Hers\" adalah jawaban yang benar.",
+    "q5AnswerExplanation": "\"We\" adalah kata ganti subjek yang benar yang diperlukan sebelum kata kerja \"like\" dalam kalimat ini.",
+    "q4AnswerExplanation": "Karena Jon Snow merujuk pada pedang tertentu yang dekat dengannya, \"this\" tepat digunakan untuk sesuatu yang tunggal dan dekat dengannya.",
+    "q3AnswerExplanation": "Kata ganti 'herself' digunakan karena subjek kalimatnya adalah \"She\", dan tindakan membuat sandwich mencerminkan kembali pada dirinya."
+  },
+  "mergedFilter": {
+    "job": {
+      "administrativeOfficialMatters": "Administrasi & Urusan Resmi",
+      "practiceSmallTalkInInterviews": "Berlatih small talk dalam wawancara",
+      "negotiationProfessionalDiscussions": "Negosiasi & Diskusi Profesional",
+      "talkOnDailyActivities": "Berbicara tentang aktivitas sehari-hari",
+      "workplaceCommunicationCulture": "Komunikasi & Budaya di Tempat Kerja",
+      "preparingYourselfForJobInterview": "Mempersiapkan Diri untuk Wawancara Kerja"
+    },
+    "ielts": {
+      "professionalLifeWorkplaceCommunication": "Kehidupan Profesional & Komunikasi di Tempat Kerja",
+      "talkAboutYourPreferences": "Berbicara tentang preferensi Anda",
+      "demonstrateYourCriticalThinking": "Tunjukkan kemampuan berpikir kritis Anda",
+      "expressOpinionsOnSocialLife": "Sampaikan pendapat tentang kehidupan sosial",
+      "expressHowYouHandleDailyTasks": "Jelaskan cara Anda menangani tugas sehari-hari"
+    },
+    "defaultFilter": {
+      "personalGrowthLeadership": "Pengembangan Diri & Kepemimpinan",
+      "casualConversations": "Percakapan Santai",
+      "professionalCommunication": "Komunikasi Profesional",
+      "talkOnYourPersonalInterests": "Berbicara tentang Minat Pribadi",
+      "dailyTasksErrands": "Tugas Harian & Urusan Sehari-hari"
+    },
+    "business": {
+      "professionalCommunicationProjectManagement": "Komunikasi Profesional & Manajemen Proyek",
+      "careerDevelopmentGrowth": "Pengembangan Karier & Pertumbuhan",
+      "teamCollaborationConflictResolution": "Kolaborasi Tim & Resolusi Konflik",
+      "personalTimeManagementWorkLifeBalance": "Manajemen Waktu Pribadi & Keseimbangan Kerja-Hidup",
+      "dailyWorkplaceInteractions": "Interaksi harian di tempat kerja",
+      "businessSocialSettings": "Pengaturan Sosial Bisnis"
+    }
+  },
+  "conversationFeedbacks": {
+    "userLeftMidway": {
+      "didNotKnowWhatToSay": "Tidak tahu harus berkata apa",
+      "technicalIssues": "Masalah teknis",
+      "needMoreTimeToSpeak": "Butuh lebih banyak waktu untuk berbicara",
+      "micHeardWrongWords": "Mikrofon mendengar kata yang salah",
+      "repetitive": "Berulang-ulang"
+    },
+    "normal": {
+      "repetitive": "Berulang-ulang",
+      "bugsOrTechnicalIssue": "Bug / Masalah teknis",
+      "chatRepetitive": "Percakapan berulang",
+      "poorResponsesFromSarah": "Respons Sarah kurang baik",
+      "chatTooBoring": "Percakapan terlalu membosankan"
+    }
+  },
+  "chat_onboarding_v2_feature2": {
+    "moreThanTenThousandPeopleHaveBenefited": "Lebih dari sepuluh ribu orang telah merasakan manfaat aplikasi Stimuler setiap hari. Saya berharap Anda juga bisa menjadi salah satunya. Mari kita mulai?",
+    "helloIamYourSara": "Halo! Saya Sara! Saya akan membantu Anda meningkatkan bahasa Inggris Anda.",
+    "firstOfAllWhatIsYourName": "Pertama-tama, siapa nama Anda?",
+    "letsImproveYourEnglishSkills": "Mari tingkatkan kemampuan bahasa Inggris Anda bersama-sama. Apakah Anda siap?"
+  },
+  "roadmap_models2": {
+    "aQuestionAppearsAnswerInRealTime": "Sebuah pertanyaan muncul. Jawablah secara langsung dalam 60 detik, tanpa naskah dan tanpa persiapan.",
+    "aPictureAppearsSayWhatMakesSense": "Sebuah gambar muncul. Katakan apa pun yang menurutmu masuk akal.",
+    "practiceRealTimeQuestion": "Latih jawaban pertanyaan secara real time tanpa skrip atau persiapan formal",
+    "identifyTheCorrectSentence": "Identifikasi kalimat yang benar",
+    "repeatAfterMe": "Ulangi setelah saya",
+    "timeForAGameSpeakAsManyWords": "Saatnya bermain, ucapkan sebanyak mungkin kata yang dimulai dengan huruf yang diberikan! Siap bermain...",
+    "tongueTwister": "Tongue Twister",
+    "AllOptionsMustBeDifferent": "Semua pilihan harus berbeda",
+    "oneAndOnlyOneOptionMustBeRight": "Satu dan hanya satu pilihan yang harus benar",
+    "youWillBeGivenAnImage": "Anda akan diberikan sebuah gambar, coba deskripsikan dengan detail sebanyak mungkin dalam waktu kurang dari satu menit!"
+  },
+  "customeFeedbackBottomsheet": {
+    "goodNewsYouCanNow": "Kabar baik! Sekarang Anda dapat..."
+  },
+  "mcq_result2": {
+    "well_done2": "Kerja bagus!",
+    "your_focus_areas2": "Area fokus Anda"
+  },
+  "day5_2": {
+    "version11": {
+      "q3AnswerExplanation2": "Some' adalah determiner yang digunakan dengan kata benda jamak yang dapat dihitung seperti 'apples.' 'Any' sering digunakan dalam kalimat tanya atau negatif, dan 'much' digunakan dengan kata benda yang tidak dapat dihitung, sehingga tidak sesuai dengan konteks.",
+      "q1AnswerExplanation3": "Beautiful' adalah kata sifat yang menjelaskan kata benda 'dress.' Pilihan lain, 'beautifully' (kata keterangan) dan 'beauty' (kata benda), tidak tepat untuk menjelaskan dress.",
+      "q2AnswerExplanation": "Kata kerja penghubung 'is' menghubungkan subjek 'potion' dengan kata sifat 'ready,' yang menjelaskan keadaannya.",
+      "q5AnswerExplanation": "Went' adalah bentuk lampau dari 'go,' yang menjelaskan tindakan yang telah selesai.",
+      "roleplayMocktest": "Tes simulasi bermain peran",
+      "q4AnswerExplanation4": "Takes' adalah bentuk yang tepat dari kata kerja 'take' dalam orang ketiga tunggal waktu sekarang.",
+      "q3AnswerExplanation3": "Dog' adalah kata benda yang menyebutkan hewan yang melakukan tindakan menggonggong. Kata benda mengidentifikasi orang, tempat, atau benda, sehingga 'dog' menjadi subjek dalam kalimat ini.",
+      "ieltsRoleplayPracticeExercise": "Latihan Roleplay IELTS",
+      "q3AnswerExplanation": "Kata kerja bantu 'have' membantu membentuk perfect tense, menunjukkan bahwa tindakan menyelesaikan pekerjaan rumah telah selesai.",
+      "fillInTheBlankResponses": "Respons Isi Bagian Kosong",
+      "q1AnswerExplanation4": "Them' adalah kata ganti objek yang tepat ketika merujuk pada pengunjung.",
+      "q8AnswerExplanation": "Showed' adalah bentuk lampau dari 'show,' yang menunjukkan apa yang dilakukan John di pasar.",
+      "q6AnswerExplanation": "Needed' adalah bentuk lampau dari 'need,' yang menunjukkan alasan pergi ke pasar.",
+      "q2AnswerExplanation2": "Placed' adalah bentuk lampau dari 'place,' yang sesuai dengan tindakan lampau dalam kalimat. 'Placing' adalah present participle, dan 'place' adalah bentuk dasar, keduanya tidak sesuai dengan bentuk lampau yang diperlukan konteks kalimat.",
+      "after4DaysOfSpeakingLetsTakeAShortGrammarBreakHaveFun": "Setelah 4 hari berbicara, mari kita ambil 'jeda tata bahasa' sebentar. Selamat bersenang-senang!",
+      "q1AnswerExplanation2": "But' adalah konjungsi yang menunjukkan kontras antara ingin pergi ke konser dan harus bekerja hingga larut. 'And' menambahkan informasi tanpa kontras, dan 'so' menunjukkan hubungan sebab-akibat, keduanya tidak sesuai dengan konteks.",
+      "q1AnswerExplanation": "Kata kerja aksi 'runs' menjelaskan apa yang dilakukan Ken untuk mengejar bus.",
+      "q3AnswerExplanation4": "Staying' adalah bentuk gerund yang benar setelah kata kerja 'recommend' dalam konteks ini.",
+      "q5AnswerExplanation4": "Several' adalah quantifier yang benar untuk kata benda yang dapat dihitung seperti 'festivals'.",
+      "q5AnswerExplanation2": "Has' adalah kata kerja bantu yang digunakan dengan past participle 'been' untuk membentuk present perfect tense, menunjukkan tindakan yang dimulai di masa lalu dan berlanjut hingga sekarang. 'Have' akan salah karena subjek 'She' memerlukan kata kerja bantu tunggal, dan 'is' tidak digunakan dengan 'been' dalam konteks ini.",
+      "q7AnswerExplanation": "Met' adalah bentuk lampau dari 'meet,' menjelaskan peristiwa di pasar.",
+      "q2AnswerExplanation4": "From' adalah preposisi yang tepat ketika menunjukkan titik awal dari suatu periode waktu.",
+      "q4AnswerExplanation": "Kata kerja modal 'can' digunakan untuk menunjukkan kemampuan terbang jika kepercayaan kepada Buckbeak ditunjukkan.",
+      "q4AnswerExplanation3": "Under' adalah preposisi yang dengan tepat menggambarkan hubungan antara kucing dan tempat tidur. Pilihan lain, 'below' (yang lebih umum secara spasial) dan 'down' (yang merupakan kata keterangan), tidak sesuai dengan konteks tersebut.",
+      "speakingImpromptu": "Berbicara: Impromptu",
+      "q4AnswerExplanation2": "Oops' adalah kata seru yang menyatakan kesalahan atau kecelakaan kecil, sesuai dengan konteks lupa membawa kunci. 'Wow' menyatakan kejutan atau kekaguman, dan 'However' adalah kata penghubung, keduanya tidak sesuai dengan konteks membuat kesalahan.",
+      "q2AnswerExplanation3": "Extremely' adalah kata keterangan yang memodifikasi kata sifat 'fast.' Pilihan lainnya, 'extreme' (kata sifat) dan 'extremeness' (kata benda), tidak dapat memodifikasi 'fast' dengan benar.",
+      "q5AnswerExplanation3": "They' adalah kata ganti yang digunakan sebagai subjek kalimat. Pilihan lainnya, 'Their' (kata ganti kepemilikan) dan 'Them' (kata ganti objek), tidak sesuai untuk posisi subjek."
+    }
+  },
+  "day1_2": {
+    "version29": {
+      "task3": "Tugas 3",
+      "task2": "Tugas 2",
+      "summarizeLecture": "Ringkas Kuliah",
+      "introductionSpeakingTest": "Pengenalan: Tes Berbicara",
+      "readTheParagraphWithProperPronunciation": "Bacalah paragraf dengan pengucapan yang tepat",
+      "firstExerciseForToday": "Latihan Pertama untuk Hari Ini",
+      "introduceYourself": "Perkenalkan diri Anda",
+      "youNailedYourFirstSelfIntroductionAtWorkplace": "Anda berhasil menguasai perkenalan diri pertama di tempat kerja",
+      "selfIntroSuperstar": "Perkenalan Diri - Superstar!",
+      "andPracticed2Execises": "dan berlatih 2 latihan",
+      "letReadTogether": "Mari membaca bersama",
+      "letBuildYourGrammar": "Mari membangun tata bahasa Anda",
+      "practiceOnMistakes": "Berlatih dari Kesalahan",
+      "tongueTwister": "Tongue Twister",
+      "welcomeToPTEMockTest": "Selamat datang di Tes Simulasi PTE!",
+      "continueLiteral": "Lanjutkan",
+      "howDoYouKnowPeopleHere": "Bagaimana Anda mengenal orang-orang di sini?",
+      "task4": "Tugas 4",
+      "haveFunWithThisTongueTwister": "Bersenang-senanglah dengan tongue-twister ini",
+      "grammar": "Tata Bahasa",
+      "speaking": "Berbicara",
+      "readingExercise": "Latihan Membaca",
+      "grammarDone": "Tata bahasa selesai!",
+      "readAloud": "Baca dengan Keras",
+      "describeTheImage": "Deskripsikan Gambar",
+      "introduction": "Pengenalan",
+      "letStartYourRoadmap": "Mari Mulai Roadmap Anda",
+      "ieltsPart1": "IELTS Bagian 1",
+      "whatIsAHobbyYouLoveDoing": "Apa hobi yang Anda sukai di waktu luang?",
+      "repeatAfterMe": "Ulangi setelah saya",
+      "whatIsHobbyYouLoveDoing": "Apa hobi yang Anda sukai di waktu luang?",
+      "grammarBuilder": "Pembentuk tata bahasa",
+      "youLearntTo": "Anda telah belajar"
+    }
+  },
+  "day2": {
+    "version14": {
+      "exercise2": {
+        "q2AnswerExplanation": "\"Share\" memperkenalkan informasi baru dalam diskusi. \"Suggest\" memerlukan usulan; \"yell\" tidak sopan; \"mix\" salah konteks.",
+        "q5AnswerExplanation": "\"Suggest\" mengusulkan ide tanpa memaksakan. \"Speak\" tidak memiliki maksud usulan; \"show\" menyiratkan presentasi visual.",
+        "q4AnswerExplanation": "\"Sorry\" dengan sopan memperkenalkan interupsi. \"Okay\" mengakui orang lain; \"Listen\" memperkenalkan topik baru, bukan keberangkatan.",
+        "q3AnswerExplanation": "\"Could we\" membuat saran kolaboratif yang sopan. \"May\" terlalu formal; \"Must\" terdengar memerintah daripada menyarankan.",
+        "q1AnswerExplanation": "\"Sorry\" dengan sopan menandakan keberangkatan tak terduga dari percakapan. \"Maybe\" menunjukkan ketidakpastian; \"Hello\" hanya untuk salam."
+      }
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "\"I\" adalah kata ganti orang pertama tunggal untuk merujuk pada diri sendiri.",
+      "q2AnswerExplanation": "\"They\" adalah kata ganti orang ketiga jamak sebagai subjek untuk merujuk pada orang lain yang melakukan tindakan.",
+      "q3AnswerExplanation": "\"My\" adalah kata sifat posesif orang pertama yang menunjukkan kepemilikan."
+    }
+  },
+  "day10": {
+    "exercise2": {
+      "id": {
+        "q3AnswerExplanation": "\"Practical\" menunjukkan bahwa vila tersebut adalah pilihan yang masuk akal dan berguna karena menawarkan keuntungan (tinggal bersama dan berbagi biaya).",
+        "q1AnswerExplanation": "\"Ideal\" menyatakan bahwa sesuatu sempurna untuk suatu situasi - dalam hal ini, Bali sempurna untuk perjalanan pantai akhir pekan.",
+        "q2AnswerExplanation": "\"Combine\" berarti menggabungkan hal-hal yang berbeda, menunjukkan campuran seimbang antara aktivitas pantai dan budaya setiap hari."
+      },
+      "q3AnswerExplanation": "\"Goals\" secara logis melengkapi kalimat tentang mengelola stres kerja melalui prioritas, sementara pilihan lain justru akan memperburuk situasi.",
+      "es": {
+        "q1AnswerExplanation": "\"Guidance\" adalah istilah profesional untuk meminta bantuan ahli, sementara meminta \"vacation\" atau \"sandwich\" seseorang akan sangat tidak pantas dan tidak relevan untuk menyelesaikan masalah kerja Anda.",
+        "q5AnswerExplanation": "\"Assist\" menawarkan bantuan sebagai balasan, membangun hubungan kerja yang positif, sementara menawarkan untuk \"hypnotize\" atau \"sabotage\" seseorang akan sangat tidak pantas dan berpotensi mengkhawatirkan dalam konteks tempat kerja mana pun.",
+        "q4AnswerExplanation": "\"Clarification\" secara eksplisit meminta pemahaman yang lebih baik tentang informasi yang membingungkan, sementara mengatakan Anda membutuhkan \"diamonds\" atau \"revenge\" terkait ketentuan kepatuhan akan sangat absurd dan tidak pantas dalam lingkungan profesional.",
+        "q2AnswerExplanation": "\"Favor\" dengan sopan mengakui bahwa Anda meminta bantuan sebagai bentuk kesopanan, sementara meminta seseorang untuk melakukan \"laundry\" atau memberi Anda \"tattoo\" akan sangat tidak pantas dan tidak berhubungan dengan bantuan di tempat kerja.",
+        "q3AnswerExplanation": "\"Resources\" merujuk pada materi atau informasi berguna yang dapat Anda gunakan untuk memahami spesifikasi, sementara meminta \"jokes\" akan tidak profesional dalam konteks ini, dan bertanya tentang \"enemies\" tidak masuk akal ketika mempersiapkan pertemuan dengan klien."
+      },
+      "ielts": {
+        "q2AnswerExplanation": "\"Will\" adalah kata kerja modal yang tepat untuk menyatakan konsekuensi masa depan dalam konteks faktual ini",
+        "q3AnswerExplanation": "\"Have started\" adalah bentuk present perfect yang tepat untuk tindakan yang dimulai di masa lalu yang berlanjut atau memiliki relevansi saat ini",
+        "q1AnswerExplanation": "\"Being cleared\" adalah bentuk passive continuous yang tepat untuk menggambarkan proses yang sedang berlangsung"
+      },
+      "q1AnswerExplanation": "\"Break\" adalah satu-satunya pilihan logis yang dapat membantu seseorang yang kewalahan, sementara pilihan lainnya berpotensi memperburuk situasi.",
+      "q2AnswerExplanation": "\"Thoughtful\" adalah satu-satunya respons yang positif dan tepat untuk seseorang yang berinisiatif membantu tim, sementara pilihan lainnya bersifat negatif dan tidak tepat."
+    },
+    "exercise3": {
+      "es": {
+        "q3AnswerExplanation": "\"Clarification\" secara langsung mengatasi kebingungan tentang informasi yang bertentangan. \"Guidance\" akan digunakan untuk saran tentang apa yang harus dilakukan selanjutnya, bukan untuk mengatasi kebingungan. \"Assistance\" menyiratkan Anda memerlukan bantuan menyelesaikan tugas, tetapi masalah Anda adalah memahami informasi terlebih dahulu.",
+        "q1AnswerExplanation": "\"Guidance\" sangat tepat ketika mencari arahan ahli untuk meningkatkan keterampilan Anda. \"Favor\" digunakan untuk meminta bantuan dari luar, bukan untuk belajar. \"Clarification\" hanya akan menjelaskan kebingungan, tidak memberikan keahlian yang Anda butuhkan.",
+        "q4AnswerExplanation": "\"Assistance\" berarti bantuan langsung dan praktis untuk tugas tertentu yang sedang berlangsung. \"Clarification\" hanya akan menjelaskan poin-poin yang membingungkan, tidak memberikan dukungan berkelanjutan. \"Resources\" akan memberikan materi untuk belajar mandiri daripada tinjauan personal yang mereka minta.",
+        "q2AnswerExplanation": "\"Favor\" tepat untuk bantuan cepat dan mendesak di luar tugas rutin seseorang. \"Resources\" berarti materi untuk memperbaikinya sendiri, terlalu lambat untuk keadaan darurat ini. \"Assistance\" menyiratkan permintaan dukungan formal, bukan interaksi cepat di lorong seperti ini.",
+        "q5AnswerExplanation": "\"Resources\" merujuk pada materi yang membantu orang belajar secara mandiri. \"Clarification\" hanya akan mengatasi pertanyaan spesifik, tidak memberikan pelatihan komprehensif. \"Guidance\" menyiratkan arahan personal daripada materi pembelajaran mandiri."
+      }
+    }
+  },
+  "firebase_service": {
+    "enterThePassword": "Masukkan kata sandi",
+    "password": "Kata sandi",
+    "emailAddress": "Alamat email",
+    "confirm": "Konfirmasi"
+  },
+  "withinConversation": {
+    "bugsOrTechnicalIssues": "Bug atau masalah teknis",
+    "iDidntKnowWhatToSpeak": "Saya tidak tahu apa yang harus dikatakan",
+    "sarahsMessageWasBoring": "Pesan Sarah membosankan",
+    "exploringOrFindingADifferentTopic": "Menjelajahi / mencari topik yang berbeda"
+  },
+  "roadmapTab": {
+    "premiumLessons": "Pelajaran Premium",
+    "suggestionsTitle": "Tes Simulasi & Pelajaran Lainnya",
+    "hey": "Halo",
+    "suggestionsCta": "Punya Rekomendasi?",
+    "startYourLearningJourney": "Mulai perjalanan belajar Anda",
+    "start": "Mulai",
+    "comingSoon": "Segera Hadir"
+  },
+  "pick_a_word_to_practice_screen": {
+    "toMakeSomethingBetterValuableGoodWay": "Untuk membuat sesuatu menjadi lebih baik atau lebih berharga dengan cara yang positif"
+  },
+  "roadmapIntermediateStates2": {
+    "continueLiteral2": "Lanjutkan"
+  },
+  "day8": {
+    "exercise2": {
+      "q2AnswerExplanation": "\"Is\" adalah kata kerja penghubung karena menghubungkan subjek \"Upside Down\" dengan deskripsi \"a dark and dangerous dimension.\" Kata kerja penghubung tidak menunjukkan tindakan tetapi menghubungkan subjek dengan deskripsi.",
+      "q5AnswerExplanation": "\"Can\" adalah kata kerja bantu yang menunjukkan kemampuan Tony. Kata kerja bantu seperti \"can,\" \"will,\" dan \"should\" memodifikasi kata kerja utama untuk mengekspresikan kemampuan, kebutuhan, atau tindakan masa depan.",
+      "q4AnswerExplanation": "\"Plays\" adalah kata kerja tindakan yang menunjukkan apa yang Jim lakukan. Kata kerja tindakan sangat penting untuk menggambarkan aktivitas dan perilaku, baik di tempat kerja maupun dalam kehidupan sehari-hari.",
+      "q3AnswerExplanation": "\"Can\" adalah kata kerja bantu yang menunjukkan kemampuan. Kata ini bekerja dengan kata kerja utama \"defeat\" untuk menunjukkan bahwa Harry memiliki kemampuan untuk mengalahkan Voldemort. Kata kerja bantu menambahkan makna tentang kemungkinan, kebutuhan, atau waktu.",
+      "q1AnswerExplanation": "\"Throws\" adalah kata kerja tindakan karena menunjukkan tindakan fisik yang dilakukan Thor. Kata kerja tindakan mengekspresikan apa yang seseorang lakukan, baik fisik maupun mental."
+    }
+  },
+  "feedback_recorders": {
+    "iWantTo": "Saya ingin ....."
+  },
+  "roadmapCta": {
+    "continueLabel": "Lanjutkan",
+    "retry": "Coba lagi",
+    "tryAgain": "Coba lagi",
+    "next": "Berikutnya",
+    "error": "Kesalahan",
+    "tapToRetry": "Ketuk untuk coba lagi",
+    "tapToSpeak": "Ketuk untuk bicara",
+    "skip": "Lewati",
+    "skipUnit": "Lewati unit",
+    "skipPractice": "Lewati latihan",
+    "goBack": "Kembali",
+    "submit": "Kirim",
+    "refresh": "Muat ulang",
+    "exitStay": "Tidak, lanjutkan",
+    "exitLeave": "Ya, sampai nanti",
+    "startFromBeginning": "Mulai dari awal",
+    "backToRoadmap": "Kembali ke roadmap",
+    "reconnect": "Oke! Sambungkan lagi",
+    "stillOffline": "Masih offline, coba lagi...",
+    "previousDayLock": {
+      "titleDay": "Buka latihan personal ini setelah Hari $dayNumber",
+      "titleGeneric": "Buka latihan personal ini setelah Hari sebelumnya",
+      "startDay": "Mulai Hari $dayNumber",
+      "startGeneric": "Mulai Hari sebelumnya",
+      "goToDay": "Lihat Hari $dayNumber",
+      "goToGeneric": "Lihat Hari sebelumnya"
+    }
+  },
+  "roadmapErrors": {
+    "contentNotSupportedTitle": "Konten tidak didukung",
+    "contentNotSupportedBody": "Jenis konten ini belum didukung di aplikasi. Perbarui ke versi terbaru atau hubungi dukungan.",
+    "chapterNotAvailable": "Bab tidak tersedia",
+    "moduleNotAvailable": "Modul tidak tersedia",
+    "noCurrentUnit": "Tidak ada unit saat ini",
+    "errorTitle": "Kesalahan",
+    "loadingModule": "Memuat konten modul...",
+    "exitingModule": "Keluar dari modul...",
+    "noLessonsTitle": "Pelajaran tidak ditemukan",
+    "noLessonsBody": "Kami sedang menyiapkan kursus Anda. Cek kembali sebentar lagi.",
+    "couldntPrepareExercise": "Tidak dapat menyiapkan latihan",
+    "offlineBody": "Koneksi Internet Anda lemah. Bisa periksa dan sambungkan lagi?",
+    "unitEmpty": "Unit ini kosong",
+    "genericTryAgain": "Terjadi kesalahan. Silakan coba lagi.",
+    "networkCheckConnection": "Kesalahan jaringan. Periksa koneksi Anda.",
+    "discoveryUnreachable": "Kami tidak dapat terhubung ke server kami. Periksa koneksi internet Anda lalu coba lagi.",
+    "videoLoadFailed": "Gagal memuat video: $error",
+    "videoUnavailableMovingOn": "Video ini tidak tersedia saat ini. Kita lanjutkan…",
+    "recordingFailed": "Rekaman gagal diproses. Silakan rekam ulang.",
+    "connectionError": "Kesalahan koneksi. Silakan coba lagi.",
+    "contentLoadError": "Gagal memuat konten",
+    "noAudioDetected": "Audio tidak terdeteksi. Silakan coba lagi.",
+    "didntHearAnything": "Kami tidak mendengar apa pun. Silakan coba lagi.",
+    "minRecordingDuration": "Rekam minimal 3 detik",
+    "cannotStartRecording": "Tidak dapat memulai perekaman",
+    "reportOthersValidation": "Mohon isi detail untuk kategori \"Others\"",
+    "reportSendFailedWith": "Gagal mengirim laporan Anda: $message",
+    "reportSendFailed": "Gagal mengirim laporan. Silakan coba lagi.",
+    "reportThanks": "Terima kasih atas masukan Anda!"
+  },
+  "videoLanguageSettings": {
+    "lessonSettingsTitle": "Pengaturan pelajaran",
+    "videoLanguageRow": "Bahasa video",
+    "subtitlesRow": "Subtitel bahasa ibu",
+    "subtitleOn": "Aktif",
+    "subtitleOff": "Mati",
+    "switchDialogTitle": "Ganti bahasa video ke $display?",
+    "switchDialogBody": "Video ini akan dimulai ulang dari awal dalam bahasa $display. Progres pelajaran Anda tersimpan.",
+    "switchDialogConfirm": "Ya, ganti ke $display",
+    "switchDialogKeep": "Tetap gunakan $display",
+    "promptTitle": "Ingin mengganti bahasa video?",
+    "promptChangeTo": "Ganti ke $display",
+    "promptKeep": "Tetap gunakan $display",
+    "switchLoader": "Memuat pelajaran dalam bahasa $display…",
+    "languageSectionHeader": "BAHASA",
+    "learningSectionHeader": "PEMBELAJARAN",
+    "accountSectionHeader": "AKUN",
+    "appSectionHeader": "APLIKASI",
+    "nativeLanguageRow": "Bahasa ibu",
+    "appLanguageRow": "Bahasa aplikasi",
+    "englishOnly": "Inggris",
+    "searchHint": "Cari",
+    "confirm": "Konfirmasi",
+    "cancel": "Batal",
+    "appSwitchTitle": "Ganti bahasa aplikasi ke $display?",
+    "appSwitchBody": "Subtitel dan semua panduan dalam aplikasi akan berubah ke $display.",
+    "cardVideoSwitchBody": "Pelajaran video Anda akan berganti ke $display dan pelajaran saat ini akan dimulai ulang dari awal."
+  },
+  "wordMeaning": {
+    "pronunciation": "Pelafalan",
+    "tapToListen": "Ketuk untuk mendengar",
+    "loading": "Memuat...",
+    "saveWord": "Simpan kata ke kamus",
+    "definitionPlaceholder": "Definisi akan ditampilkan di sini"
+  },
+  "roadmapReport": {
+    "sendLogs": "Kirim log diagnostik",
+    "sendLogsDetail": "Ini adalah log penggunaan aplikasi kamu. Log ini membantu kami memperbaiki masalah yang kamu laporkan.",
+    "header": "Bisa ceritakan apa yang salah?"
+  },
+  "roadmapReportOptions": {
+    "app_not_responding": "Aplikasi berhenti merespons",
+    "audio_didnt_play": "Audio tidak diputar",
+    "did_not_understand_video": "Saya tidak mengerti videonya",
+    "didnt_understand_instructions": "Saya tidak tahu harus melakukan apa",
+    "exercise_too_difficult": "Latihan ini terlalu sulit",
+    "grammar_explanation_wrong": "Penjelasan tata bahasanya salah",
+    "lesson_too_difficult": "Pelajaran ini terlalu sulit",
+    "highlight_issue": "Kata-kata saya tidak disorot dengan benar",
+    "mic_didnt_work": "Mikrofon saya tidak berfungsi dengan baik",
+    "speech_not_understood": "Aplikasi tidak memahami ucapan saya",
+    "sentence_has_error": "Ada kesalahan pada teksnya",
+    "technical_issue": "Masalah teknis / bug",
+    "video_screen_froze": "Video tidak diputar atau macet",
+    "wrong_question": "Pertanyaan atau jawabannya salah",
+    "wrong_subtitles": "Subtitle-nya salah",
+    "wrong_translation": "Terjemahan ke bahasa saya salah",
+    "others": "Hal lain",
+    "sendLogsDetail": "Ini adalah log penggunaan aplikasi kamu. Log ini membantu kami memperbaiki masalah yang kamu laporkan."
+  },
+  "callingV3": {
+    "home": {
+      "greeting": "Hai! Aku Sarah. Kamu bisa ngobrol bebas denganku. Kalau bingung, aku bantu.",
+      "history": "Riwayat",
+      "timeUnavailable": "Tidak tersedia",
+      "startCall": "Mulai panggilan",
+      "surveySubmit": "Kirim",
+      "surveySkip": "Nanti saja",
+      "surveyOption": "OPSI $letter",
+      "surveyAnsweredTag": "Kami akan menggunakan jawabanmu untuk personalisasi nanti",
+      "yourEnglishTutor": "Tutor bahasa Inggris kamu",
+      "minLeft": "Sisa $minutes mnt",
+      "outOfTimeFree": "Waktu panggilanmu hari ini sudah habis. Upgrade untuk lanjut latihan bersama Sarah.",
+      "outOfTimePremium": "Sepertinya waktu bicaramu hari ini sudah habis. Mau tambah? Ketuk di bawah dan kirim pesan ke kami.",
+      "upgradeCta": "Dapatkan waktu panggilan lebih",
+      "requestMoreTalktimeCta": "Minta tambahan waktu",
+      "moreTalktimeSheetTitle": "Waktu bicara hari ini habis",
+      "moreTalktimeSheetBody": "Kamu sudah memakai jatah waktu harian bersama Sarah. Kirim pesan lewat WhatsApp dan kami tambahkan.",
+      "moreTalktimeSheetCta": "Kirim pesan lewat WhatsApp",
+      "micPermissionNeeded": "Izin mikrofon diperlukan untuk memulai panggilan"
+    },
+    "active": {
+      "calling": "Menghubungi…",
+      "sarahSpeaking": "Sarah sedang bicara",
+      "yourTurn": "Giliran kamu",
+      "mute": "Bisukan",
+      "endCall": "Akhiri",
+      "cancel": "Batal",
+      "speaker": "Speaker",
+      "earpiece": "Earpiece",
+      "wired": "Kabel",
+      "bluetooth": "Bluetooth",
+      "audioOutput": "Keluaran audio",
+      "reconnecting": "Menyambungkan ulang…",
+      "paused": "dijeda",
+      "minutesLeft": "Sisa $minutes mnt"
+    },
+    "feedback": {
+      "title": "Bagaimana panggilannya?",
+      "ratingPrompt": "Beri nilai panggilan ini",
+      "optionsPrompt": "Apa yang paling terasa?",
+      "textHint": "Tambahkan hal lain (opsional)",
+      "submit": "Kirim",
+      "dismiss": "Nanti saja",
+      "optionNatural": "Terasa natural",
+      "optionUnderstoodMe": "Sarah paham maksudku",
+      "optionHelpful": "Membantu untuk latihan",
+      "optionHardToUnderstand": "Sarah sulit dipahami",
+      "optionTooSlow": "Balasan terlalu lambat",
+      "optionAudioIssues": "Masalah audio"
+    },
+    "failure": {
+      "title": "Terjadi kesalahan",
+      "generic": "Panggilan tidak bisa dimulai. Coba lagi, ya.",
+      "noTalktime": "Waktu panggilanmu hari ini sudah habis. Sampai jumpa besok!",
+      "agentLeft": "Sarah keluar dari panggilan secara tiba-tiba.",
+      "tryAgain": "Coba lagi",
+      "noTalktimeTitle": "Waktu panggilanmu habis",
+      "noTalktimeBody": "Kamu sudah memakai $minutes menit. Panggilanmu akan direset dalam",
+      "noTalktimeLifetime": "Waktu panggilan gratismu sudah habis. Dapatkan Stimuler Pro untuk terus berbicara dengan Sarah.",
+      "noTalktimeCta": "Tambah waktu panggilan",
+      "capacityTitle": "Jalurnya sedang sibuk",
+      "capacityBody": "Sarah sedang menerima panggilan lain. Tunggu sebentar lalu coba lagi.",
+      "capacityCta": "Coba panggil lagi",
+      "rateLimitedTitle": "Pelan-pelan dulu, ya",
+      "rateLimitedBody": "Kamu sudah mencoba beberapa kali berturut-turut. Istirahat sebentar dan kami sambungkan lagi.",
+      "rateLimitedCtaLocked": "Panggil lagi dalam $time",
+      "connectionLostTitle": "Koneksi terputus",
+      "connectionLostBody": "Internetmu terputus saat panggilan. Sambungkan ke Wi-Fi atau data lalu coba lagi.",
+      "agentTimeoutTitle": "Sarah tidak bisa mengangkat",
+      "agentTimeoutBody": "Kali ini dia tidak menjawab. Tunggu sebentar lalu panggil lagi.",
+      "agentFatalTitle": "Panggilan terputus",
+      "agentFatalBody": "Ada masalah di sisi kami dan panggilan terputus. Coba mulai panggilan baru.",
+      "connectFailureTitle": "Panggilan kehabisan waktu",
+      "connectFailureBody": "Kami tidak bisa menghubungi Sarah tepat waktu. Periksa koneksimu lalu coba lagi.",
+      "goHome": "Kembali ke beranda"
+    },
+    "history": {
+      "title": "Riwayat panggilan",
+      "empty": "Belum ada panggilan — panggilan yang selesai akan muncul di sini.",
+      "loadFailed": "Panggilanmu gagal dimuat",
+      "retry": "Coba lagi",
+      "loadingOlder": "Memuat panggilan lama...",
+      "sectionToday": "HARI INI",
+      "sectionThisWeek": "MINGGU INI",
+      "sectionEarlier": "SEBELUMNYA",
+      "today": "Hari ini",
+      "yesterday": "Kemarin",
+      "feedbackUnavailable": "Masukan tidak tersedia",
+      "emptyTitle": "Belum ada panggilan",
+      "emptyBody": "Setiap panggilan yang kamu selesaikan akan muncul di sini: berapa lama kamu bicara dan apa yang kamu dapat.",
+      "emptyCta": "Telepon Sarah",
+      "loadMoreFailed": "Panggilan lama gagal dimuat"
+    },
+    "report": {
+      "title": "Laporkan masalah",
+      "subtitle": "Ketuk yang bermasalah — tambahkan catatan kalau bisa.",
+      "submit": "Kirim laporan",
+      "sendLogs": "Kirim log diagnostik",
+      "sendLogsHint": "Membantu kami menemukan masalah lebih cepat",
+      "thanks": "Terima kasih — laporan terkirim!",
+      "issueDidntUnderstand": "Aku tidak paham Sarah",
+      "hintDidntUnderstand": "Kata atau pertanyaan mana yang membingungkan?",
+      "issueMishearedMe": "Sarah salah dengar",
+      "hintMishearedMe": "Apa yang salah dia dengar?",
+      "issueMadeThingsUp": "Dia mengarang hal yang tidak pernah aku katakan",
+      "hintMadeThingsUp": "Apa yang dia karang?",
+      "issueWrongCorrection": "Koreksi keliru",
+      "hintWrongCorrection": "Seharusnya bagaimana?",
+      "issueIgnoredMe": "Dia mengabaikan yang aku katakan",
+      "hintIgnoredMe": "Apa yang kamu katakan tapi dilewati?",
+      "issueRepeating": "Dia terus menanyakan hal yang sama",
+      "hintRepeating": "Apa yang dia ulang-ulang?",
+      "issueTooHard": "Terlalu sulit untuk levelku",
+      "hintTooHard": "Bagian mana yang terasa terlalu tinggi?",
+      "issueRobotic": "Balasannya terasa generik / kaku",
+      "hintRobotic": "Apa yang terasa janggal?",
+      "issueAudioProblem": "Aku tidak bisa mendengarnya dengan jelas",
+      "hintAudioProblem": "Suaranya seperti apa?",
+      "issueOther": "Hal lain",
+      "hintOther": "Ceritakan apa yang terjadi"
+    }
+  },
+  "analysis": {
+    "failure": {
+      "title": "Hasilmu gagal dimuat",
+      "outdatedApp": "Layar ini perlu pembaruan untuk menampilkan hasilmu.",
+      "tryAgain": "Coba lagi",
+      "goBack": "Kembali",
+      "close": "Tutup",
+      "sessionFailedTitle": "Sesi ini tidak bisa dianalisis",
+      "sessionFailedBody": "Bukan karena kamu — hanya yang ini yang gagal masuk. Sesi berikutnya tetap akan dianalisis."
+    },
+    "summary": {
+      "timeoutTitle": "Ini lebih lama dari biasanya",
+      "timeoutBody": "Ringkasanmu masih disiapkan. Tunggu sebentar, lalu coba lagi.",
+      "abandonedTitle": "Ringkasanmu gagal dimuat",
+      "abandonedBody": "Permintaannya habis waktu sebelum hasilmu siap. Coba lagi, ya."
+    },
+    "progress": {
+      "title": "Sarah sedang menganalisis panggilanmu",
+      "titleCompleted": "Analisis sudah selesai",
+      "seeReport": "Lihat laporanmu",
+      "turnOf": "Giliran $current dari $total",
+      "turnsCheckedCount": "Giliran diperiksa: $count",
+      "tallyCaption": "Kesalahan yang ditemukan sejauh ini di",
+      "grammar": "Tata bahasa",
+      "fillers": "Kata pengisi",
+      "pronunciation": "Pelafalan",
+      "vocabulary": "Kosakata",
+      "fluency": "Kelancaran",
+      "glimpseCaption": "Sekilas yang dia temukan",
+      "turn": "Giliran $n",
+      "youSaid": "Kamu bilang",
+      "sayItLikeThis": "Ucapkan seperti ini",
+      "itSounds": "Diucapkan"
+    },
+    "detail": {
+      "timeoutTitle": "Ini lebih lama dari biasanya",
+      "timeoutBody": "Analisismu masih disiapkan. Tunggu sebentar, lalu coba lagi.",
+      "abandonedTitle": "Analisismu gagal dimuat",
+      "abandonedBody": "Permintaannya habis waktu sebelum analisismu siap. Coba lagi, ya."
+    },
+    "gauge": {
+      "score": "Skor",
+      "bandScore": "Skor Band"
+    },
+    "practiceWord": {
+      "micPermissionDenied": "Stimuler memerlukan akses mikrofon untuk menilai pengucapanmu.",
+      "micUnavailable": "Mikrofonmu sedang dipakai — tutup aplikasi lain yang menggunakannya lalu coba lagi.",
+      "noAudio": "Kami tidak menangkap suaramu — periksa mikrofonmu lalu coba lagi.",
+      "tooLong": "Rekaman itu terlalu panjang. Coba ucapkan katanya saja.",
+      "unavailable": "Latihan tidak tersedia saat ini. Silakan coba lagi nanti.",
+      "timedOut": "Prosesnya terlalu lama. Silakan coba lagi.",
+      "scoringFailed": "Pemrosesan gagal. Silakan coba lagi!",
+      "leftApp": "Rekaman berhenti saat kamu keluar dari aplikasi.",
+      "openSettings": "Buka Pengaturan",
+      "tryAgain": "Coba lagi"
+    },
+    "recordedBeforePro": "Rekaman ini dibuat sebelum kamu upgrade ke Pro, jadi tidak ada analisisnya. Semua rekaman baru mulai sekarang akan mendapat analisis lengkap.",
+    "fluency": {
+      "speechCounter": "Ucapan ${current}/${total}",
+      "play": "Putar"
+    }
+  },
+  "errors": {
+    "title": "Terjadi kesalahan",
+    "generic": "Ada kendala. Coba lagi.",
+    "network": "Tidak bisa terhubung ke server. Periksa koneksimu dan coba lagi.",
+    "serviceUnavailable": "Server kami sedang mengalami gangguan. Coba lagi sebentar lagi.",
+    "outdatedApp": "Layar ini perlu pembaruan agar bisa dimuat. Silakan perbarui aplikasi.",
+    "retry": "Coba lagi",
+    "goBack": "Kembali",
+    "openSettings": "Buka Pengaturan",
+    "micPermission": "Harap aktifkan izin mikrofon",
+    "goalSavePending": "Tujuanmu masih disimpan. Akan diperbarui setelah kamu kembali online."
+  },
+  "conversationV4": {
+    "ui": {
+      "exitTitle": "Yakin mau\nmengakhiri sesi ini?",
+      "endSession": "Akhiri Sesi",
+      "exhaustedTitle": "Kesempatan gratismu sudah habis",
+      "exhaustedSubtitle": "Upgrade ke Pro untuk percakapan tanpa batas",
+      "upgradeToPro": "Upgrade ke Pro",
+      "introLockedTitle": "Buka topik percakapan berikutnya setelah Perkenalan",
+      "gotIt": "Oke, mengerti",
+      "startIntroduction": "Mulai Perkenalan",
+      "noConversationsYet": "Belum ada percakapan",
+      "loadingOlderConversations": "Memuat percakapan sebelumnya…",
+      "translationFailed": "Terjemahan gagal. Coba lagi.",
+      "analyzingResponse": "Menganalisis jawabanmu…",
+      "analysisLoadFailed": "Analisis gagal dimuat. Coba lagi.",
+      "analysisUnscoredTitle": "Kami tidak bisa menganalisis jawaban ini",
+      "reasonForError": "Alasan kesalahan",
+      "tabGrammar": "Tata Bahasa",
+      "tabPronunciation": "Pengucapan",
+      "tabVocabulary": "Kosakata",
+      "tabFluency": "Kelancaran",
+      "hintLoadFailed": "Petunjuk gagal dimuat. Ketuk untuk coba lagi.",
+      "viewMistakes": "Lihat Kesalahan",
+      "viewResultsAndEnd": "Lihat Hasil & Akhiri",
+      "translateNeedsNativeLanguage": "Atur bahasa ibu selain bahasa Inggris di Pengaturan untuk mendapatkan terjemahan."
+    },
+    "failure": {
+      "sessionExpired": "Sesimu sudah berakhir. Silakan masuk lagi.",
+      "purchaseFailed": "Pembelian tidak dapat diselesaikan. Kamu tidak dikenai biaya — coba lagi.",
+      "fatalTitle": "Percakapan berakhir",
+      "fatal": "Percakapan berakhir secara tiba-tiba. Coba lagi.",
+      "topicsTitle": "Topik gagal dimuat",
+      "historyTitle": "Percakapanmu gagal dimuat",
+      "chatTitle": "Percakapan ini gagal dimuat",
+      "resultPrep": "Kami tidak bisa menyiapkan hasilmu.",
+      "asrFailed": "Aku kurang jelas mendengarmu.",
+      "analysisFailed": "Aku tidak bisa menganalisisnya — ayo coba lagi.",
+      "ttsFailed": "Audio gagal diputar.",
+      "errorCodeLabel": "Kode error",
+      "tryAgain": "Coba lagi",
+      "backHome": "Kembali ke beranda",
+      "close": "Tutup",
+      "replay": "Ketuk untuk putar ulang",
+      "tapToRetry": "Ketuk untuk coba lagi"
+    },
+    "connection": {
+      "initiating": "Memulai percakapan…",
+      "connecting": "Menghubungkan…",
+      "reconnecting": "Menghubungkan ulang…",
+      "disconnected": "Terputus",
+      "error": "Kesalahan koneksi",
+      "retry": "Coba lagi"
+    },
+    "drill": {
+      "listening": "Mendengarkan…",
+      "scoring": "Menilai pelafalanmu…",
+      "needsPractice": "Perlu Latihan!",
+      "wellDone": "Bagus Sekali 👏",
+      "listen": "Dengarkan…",
+      "getReady": "Bersiap…",
+      "learntToPronounce": "Kamu sudah belajar melafalkan “$word”."
+    },
+    "topics": {
+      "loadMoreFailed": "Gagal memuat topik lainnya. Periksa koneksimu.",
+      "refreshFailed": "Gagal memperbarui topikmu — menampilkan data lama.",
+      "pickATopic": "Pilih topik dan mulai mengobrol!"
+    },
+    "chat": {
+      "translateThisLine": "Terjemahkan kalimat ini",
+      "closeConversation": "Tutup percakapan",
+      "challengesStars": "Tantangan: $stars dari $total bintang",
+      "allChallengesCompleted": "Semua Tantangan Selesai!",
+      "youGotThis": "Kamu pasti bisa",
+      "oneChallengeToGo": "! 1 tantangan lagi",
+      "challengesToGo": "! $count tantangan lagi",
+      "starEarned": "Kamu dapat satu bintang!",
+      "perfectResponse": "Jawaban sempurna",
+      "continueLabel": "Lanjut",
+      "selectAtLeast": "Pilih minimal $count",
+      "removeCount": "Hapus $count",
+      "conversationMode": "Mode Percakapan",
+      "practiceMode": "Mode Latihan",
+      "discardRecording": "Buang rekaman",
+      "submitRecording": "Kirim rekaman"
+    },
+    "hint": {
+      "tapToSeeHint": "Ketuk untuk lihat petunjuk",
+      "youCanSpeakLikeThis": "Kamu bisa bilang seperti ini",
+      "gettingHint": "Mengambil petunjuk…"
+    },
+    "translation": {
+      "sarahResponseEnglish": "Jawaban Sarah ( Inggris )",
+      "translating": "Menerjemahkan",
+      "translated": "Diterjemahkan",
+      "translatingIn": "Menerjemahkan ke $language",
+      "translatedIn": "Diterjemahkan ke $language"
+    },
+    "mistakes": {
+      "noGrammarNotes": "Tidak ada catatan tata bahasa kali ini.",
+      "noPronunciationNotes": "Tidak ada catatan pelafalan kali ini.",
+      "noVocabularyNotes": "Tidak ada catatan kosakata kali ini.",
+      "noFluencyNotes": "Tidak ada catatan kelancaran kali ini.",
+      "recordingExpired": "Gagal memutar rekaman itu. Mungkin sudah kedaluwarsa.",
+      "pronunciationPlayFailed": "Gagal memutar pelafalan. Coba lagi.",
+      "topMispronouncedWords": "Kata yang paling sering salah dilafalkan",
+      "betterVocabulary": "Saran kosakata yang lebih baik",
+      "improvedVersion": "Versi ucapanmu yang lebih baik:",
+      "lockedGrammarHeadline": "Latih tata bahasa\nyang terdengar alami",
+      "lockedGrammarSubtitle": "Dapatkan masukan personal\nsetelah setiap pesan.",
+      "lockedPronunciationHeadline": "Bicara lebih\nalami.",
+      "lockedPronunciationSubtitle": "Perbaiki pelafalanmu\nsetelah setiap pesan.",
+      "lockedVocabularyHeadline": "Bilang lebih banyak.\nBilang lebih baik.",
+      "lockedVocabularySubtitle": "Perluas kosakatamu\ndi setiap percakapan.",
+      "lockedFluencyHeadline": "Perbaiki. Latih.\nIngat.",
+      "lockedFluencySubtitle": "Latihan dari masukan\nkhusus untukmu."
+    },
+    "paywall": {
+      "unlock": "Buka",
+      "atPercentOff": "dengan DISKON $discount%",
+      "percentOff": "Diskon $discount%",
+      "onPremiumPass": "untuk Premium pass"
+    }
+  },
+  "buddyStreak": {
+    "startTitle": "Mulai streak bersama teman",
+    "startBody": "Saling menyemangati dan bangun streak yang lebih panjang bersama.",
+    "inviteCta": "Undang teman",
+    "maybeLater": "Nanti saja",
+    "yourCode": "KODE TEMANMU",
+    "codeCopied": "Kode disalin",
+    "shareCta": "Bagikan link undangan",
+    "shareMessage": "Yuk jaga streak bareng di Stimuler. Ketuk untuk jadi temanku: $link",
+    "or": "ATAU",
+    "haveCode": "Saya punya kode",
+    "codeMissingTitle": "Kami tidak bisa memuat kodemu",
+    "codeMissingBody": "Periksa koneksimu dan coba lagi.",
+    "retry": "Coba lagi",
+    "enterTitle": "Masukkan kode buddy kamu",
+    "enterBody": "Ketik kode yang tampil di layar temanmu.",
+    "join": "Gabung",
+    "paste": "Tempel dari clipboard",
+    "pairedTitle": "Kamu dan $name memulai streak bersama",
+    "pairedTitleNoName": "Kamu memulai streak bersama teman",
+    "requestSentTitle": "Permintaan terkirim ke $name",
+    "requestSentTitleNoName": "Permintaan terkirim",
+    "requestSentBody": "Streak bersama dimulai setelah temanmu menerima.",
+    "requestTitle": "$name ingin jadi buddy kamu",
+    "requestTitleNoName": "Ada permintaan buddy untukmu",
+    "requestBody": "Terima untuk memulai streak bersama dan jaga kedua api tetap menyala.",
+    "accept": "Terima",
+    "decline": "Tolak",
+    "requestsTitle": "$count permintaan buddy",
+    "requestsTitleOne": "1 permintaan buddy",
+    "requestsBody": "Mereka memakai kode buddy kamu.",
+    "acceptAll": "Terima semua",
+    "later": "Nanti",
+    "startedManyTitle": "Streak buddy kamu sudah dimulai",
+    "someone": "Seseorang",
+    "couldNotLoad": "Gagal memuat",
+    "practiceNow": "Latihan sekarang",
+    "hookBody": "Kalian berdua hadir, atau streak direset.",
+    "leftTitle": "$name belum latihan",
+    "leftTitleNoName": "Menunggu buddy kamu",
+    "leftBody": "Kami akan mengingatkan $name untuk menyelesaikan pelajaran hari ini dan menjaga streak kalian.",
+    "leftBodyNoName": "Kami akan mengingatkan buddy kamu untuk menyelesaikan pelajaran hari ini dan menjaga streak kalian.",
+    "continueCta": "Lanjut",
+    "togetherTitle": "$count hari bersama",
+    "togetherTitleOne": "1 hari bersama",
+    "daysWith": "$count hari bersama $name",
+    "dayWithOne": "1 hari bersama $name",
+    "togetherBody": "Kalian berdua hadir hari ini. Besok juga, ya.",
+    "firesTitle": "Api buddy kamu",
+    "firesBody": "Kami akan mengingatkan temanmu untuk menjaga streak.",
+    "streaksTitle": "Streak buddy",
+    "streakTitle": "Streak buddy",
+    "invitePlus": "+ Undang",
+    "emptyTitle": "Streak bersama teman",
+    "emptyBody": "Kalian berdua latihan, kalian berdua menjaganya.",
+    "thisWeek": "Minggu ini",
+    "you": "Kamu",
+    "roadmapDay": "Hari roadmap",
+    "conversations": "Percakapan",
+    "calls": "Panggilan",
+    "daysTogether": "Hari bersama",
+    "sentRequests": "Permintaan terkirim",
+    "pendingRequest": "Permintaan tertunda",
+    "pendingRequests": "Permintaan tertunda",
+    "pending": "Tertunda",
+    "removeCta": "Hapus teman",
+    "removeTitle": "Hapus $name?",
+    "removeTitleNoName": "Hapus teman ini?",
+    "removeBody": "Streak bersama kalian berakhir untuk kalian berdua.",
+    "removeConfirm": "Hapus",
+    "removeEnds": "Streak bersama kalian selama $count hari berakhir.",
+    "removeKeep": "Pertahankan streak",
+    "removeNamed": "Hapus $name",
+    "cancel": "Batal",
+    "removeFailed": "Kami tidak bisa menghapus temanmu. Coba lagi.",
+    "errors": {
+      "invalidTitle": "Kode itu tidak berhasil",
+      "invalidBody": "Cek kodenya dengan temanmu dan coba lagi.",
+      "checkTitle": "Cek kodenya",
+      "checkBody": "Kode terdiri dari 8 huruf dan angka. Coba masukkan lagi.",
+      "ownTitle": "Itu kodemu sendiri",
+      "ownBody": "Minta kode dari temanmu.",
+      "alreadyTitle": "Kalian sudah berteman",
+      "alreadyBody": "Kamu bisa menemukannya di streak temanmu.",
+      "limitTitle": "Batas teman tercapai",
+      "limitBody": "Kamu atau temanmu sudah mencapai batas jumlah teman.",
+      "disabledTitle": "Streak bersama teman belum tersedia",
+      "disabledBody": "Kami akan memberi tahu saat kamu bisa bergabung.",
+      "genericTitle": "Terjadi kesalahan",
+      "genericBody": "Periksa koneksimu dan coba lagi."
+    }
+  }
+}

@@ -1,0 +1,1976 @@
+{
+  "status": "success",
+  "message": "Modules returned successfully",
+  "data": {
+    "module_id": 1,
+    "units": [
+      {
+        "id": 1,
+        "unit_template": "virtual_generalized_v1",
+        "title": "Virtual Unit Title",
+        "unit_order": 1,
+        "subunits": [
+          {
+            "subunit_id": 1,
+            "subunit_template": "lesson-final-challenge",
+            "subunit_order": 1,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "lesson",
+            "meta": {
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fsara_and_clipboard.png?alt=media&token=0db3b52c-86d3-42e8-913b-87b9fd31e6dc",
+                "type": "url"
+              },
+              "title": "FINAL CHALLENGE",
+              "cta_text": "Complete final Challenge",
+              "sentence": {
+                "text": "Let's test your Grammar skills in less than 2 minutes",
+                "highlight_ranges": [
+                  {
+                    "color": "#CDB693",
+                    "label": "test your Grammar skills",
+                    "range": [
+                      6,
+                      30
+                    ]
+                  }
+                ]
+              },
+              "is_included_in_progress_bar": false
+            },
+            "to_capture_response": false,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 2,
+            "subunit_template": "exercise-fill-blank-single-image",
+            "subunit_order": 2,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "know_why": {
+                "data": [
+                  {
+                    "key": "option_a",
+                    "explanation": {
+                      "sentence": "We use \"was working\" because it shows the person was still busy doing the work when the phone call interrupted them."
+                    },
+                    "correct_answer": {
+                      "text": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FFB2B2",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#8FFFB3",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_b",
+                    "explanation": {
+                      "sentence": "We use 'was working' because it shows the person was still busy doing the work when the phone call interrupted him."
+                    },
+                    "correct_answer": {
+                      "sentence": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_c",
+                    "explanation": {
+                      "sentence": "We use 'was working' because it shows the person was still busy doing the work when the phone call interrupted him."
+                    },
+                    "correct_answer": {
+                      "sentence": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "states": [
+                  {
+                    "board": {
+                      "show_explanation": false,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "Here's what got fixed",
+                          "highlight_ranges": []
+                        }
+                      }
+                    ],
+                    "state_id": "show_correct_answer",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fteaching_sarah.png?alt=media&token=068ddcdf-9da3-48a7-bddd-35c4a9dfaebe"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": false
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_correct_answer"
+                      },
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "See why it's correct?",
+                          "highlight_ranges": []
+                        }
+                      }
+                    ],
+                    "state_id": "show_explanation",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fthinking_sarah.png?alt=media&token=487cec45-6c07-4f95-a281-1e5e20a366e2"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      },
+                      {
+                        "label": "Continue",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "option_a",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "key": "option_b",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "key": "option_c",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                25
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "state_id": "show_both",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fidea_sarah.png?alt=media&token=70f3831f-561b-48f7-b4ed-a8e0bdc2a1be"
+                  }
+                ]
+              },
+              "stimulus": {
+                "options": [
+                  {
+                    "key": "option_a",
+                    "label": "worked"
+                  },
+                  {
+                    "key": "option_b",
+                    "label": "was working"
+                  },
+                  {
+                    "key": "option_c",
+                    "label": "have worked"
+                  }
+                ],
+                "question": "Select the correct subject:",
+                "media": {
+                  "type": "image",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fworking_sara.png?alt=media&token=b349582b-2be6-4e05-9ec9-0f4db385e3a2"
+                },
+                "statement": [
+                  "I",
+                  "on the presentation when my manager called."
+                ],
+                "question_type": "fill_blank_single",
+                "correct_answer": "option_b"
+              },
+              "theme_palette_id": "default_light",
+              "fill_blank_states": [
+                {
+                  "state": "initial",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer"
+                },
+                {
+                  "state": "selected",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer"
+                },
+                {
+                  "state": "correct",
+                  "cta_text": "Well done!",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Correct answer"
+                },
+                {
+                  "popup": {
+                    "title": "Wrong Answer",
+                    "buttons": {
+                      "left": "Know why",
+                      "right": "Continue"
+                    },
+                    "statement": "Correct answer is: ${PLACEHOLDER}"
+                  },
+                  "state": "incorrect",
+                  "cta_text": "Oops! You were wrong",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Oops sorry!"
+                }
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 2,
+              "total_steps": 7,
+              "current_step": 1
+            },
+            "to_capture_response": true,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 3,
+            "subunit_template": "exercise-fill-blank-single-image",
+            "subunit_order": 3,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "know_why": {
+                "data": [
+                  {
+                    "key": "option_a",
+                    "explanation": {
+                      "sentence": "We use \"was working\" because it shows the person was still busy doing the work when the phone call interrupted them."
+                    },
+                    "correct_answer": {
+                      "text": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FFB2B2",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#8FFFB3",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_b",
+                    "explanation": {
+                      "sentence": "We use 'was working' because it shows the person was still busy doing the work when the phone call interrupted him."
+                    },
+                    "correct_answer": {
+                      "sentence": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_c",
+                    "explanation": {
+                      "sentence": "We use 'was working' because it shows the person was still busy doing the work when the phone call interrupted him."
+                    },
+                    "correct_answer": {
+                      "sentence": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "states": [
+                  {
+                    "board": {
+                      "show_explanation": false,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "Here's what got fixed",
+                          "highlight_ranges": []
+                        }
+                      }
+                    ],
+                    "state_id": "show_correct_answer",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fteaching_sarah.png?alt=media&token=068ddcdf-9da3-48a7-bddd-35c4a9dfaebe"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": false
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_correct_answer"
+                      },
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "See why it's correct?",
+                          "highlight_ranges": []
+                        }
+                      }
+                    ],
+                    "state_id": "show_explanation",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fthinking_sarah.png?alt=media&token=487cec45-6c07-4f95-a281-1e5e20a366e2"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      },
+                      {
+                        "label": "Continue",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "option_a",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "key": "option_b",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "key": "option_c",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                25
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "state_id": "show_both",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fidea_sarah.png?alt=media&token=70f3831f-561b-48f7-b4ed-a8e0bdc2a1be"
+                  }
+                ]
+              },
+              "stimulus": {
+                "options": [
+                  {
+                    "key": "option_a",
+                    "label": "worked"
+                  },
+                  {
+                    "key": "option_b",
+                    "label": "was working"
+                  },
+                  {
+                    "key": "option_c",
+                    "label": "have worked"
+                  }
+                ],
+                "question": "Select the correct subject:",
+                "media": {
+                  "type": "gif",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Ffriends_thumbs_up.gif?alt=media&token=902f2569-7e91-49e6-ad06-9b94bfbba0ee"
+                },
+                "statement": [
+                  "I",
+                  "on the presentation when my manager called."
+                ],
+                "question_type": "fill_blank_single",
+                "correct_answer": "option_b"
+              },
+              "theme_palette_id": "default_light",
+              "fill_blank_states": [
+                {
+                  "state": "initial",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer"
+                },
+                {
+                  "state": "selected",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer"
+                },
+                {
+                  "state": "correct",
+                  "cta_text": "Well done!",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Correct answer"
+                },
+                {
+                  "popup": {
+                    "title": "Wrong Answer",
+                    "buttons": {
+                      "left": "Know why",
+                      "right": "Continue"
+                    },
+                    "statement": "Correct answer is: ${PLACEHOLDER}"
+                  },
+                  "state": "incorrect",
+                  "cta_text": "Oops! You were wrong",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Oops sorry!"
+                }
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 2,
+              "total_steps": 7,
+              "current_step": 1
+            },
+            "to_capture_response": true,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 4,
+            "subunit_template": "exercise-fill-blank-single-image",
+            "subunit_order": 4,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "know_why": {
+                "data": [
+                  {
+                    "key": "option_a",
+                    "explanation": {
+                      "sentence": "We use \"was working\" because it shows the person was still busy doing the work when the phone call interrupted them."
+                    },
+                    "correct_answer": {
+                      "text": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FFB2B2",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#8FFFB3",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_b",
+                    "explanation": {
+                      "sentence": "We use 'was working' because it shows the person was still busy doing the work when the phone call interrupted him."
+                    },
+                    "correct_answer": {
+                      "sentence": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_c",
+                    "explanation": {
+                      "sentence": "We use 'was working' because it shows the person was still busy doing the work when the phone call interrupted him."
+                    },
+                    "correct_answer": {
+                      "sentence": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "states": [
+                  {
+                    "board": {
+                      "show_explanation": false,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "Here's what got fixed",
+                          "highlight_ranges": []
+                        }
+                      }
+                    ],
+                    "state_id": "show_correct_answer",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fteaching_sarah.png?alt=media&token=068ddcdf-9da3-48a7-bddd-35c4a9dfaebe"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": false
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_correct_answer"
+                      },
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "See why it's correct?",
+                          "highlight_ranges": []
+                        }
+                      }
+                    ],
+                    "state_id": "show_explanation",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fthinking_sarah.png?alt=media&token=487cec45-6c07-4f95-a281-1e5e20a366e2"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      },
+                      {
+                        "label": "Continue",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "option_a",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "key": "option_b",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "key": "option_c",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                25
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "state_id": "show_both",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fidea_sarah.png?alt=media&token=70f3831f-561b-48f7-b4ed-a8e0bdc2a1be"
+                  }
+                ]
+              },
+              "stimulus": {
+                "options": [
+                  {
+                    "key": "option_a",
+                    "label": "worked"
+                  },
+                  {
+                    "key": "option_b",
+                    "label": "was working"
+                  },
+                  {
+                    "key": "option_c",
+                    "label": "have worked"
+                  }
+                ],
+                "question": "Select the correct subject:",
+                "media": {
+                  "type": "gif",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Ffriends_thumbs_up.gif?alt=media&token=902f2569-7e91-49e6-ad06-9b94bfbba0ee"
+                },
+                "statement": [
+                  "I",
+                  "on the presentation when my manager called."
+                ],
+                "question_type": "fill_blank_single",
+                "correct_answer": "option_b"
+              },
+              "theme_palette_id": "default_light",
+              "fill_blank_states": [
+                {
+                  "state": "initial",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer"
+                },
+                {
+                  "state": "selected",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer"
+                },
+                {
+                  "state": "correct",
+                  "cta_text": "Well done!",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Correct answer"
+                },
+                {
+                  "popup": {
+                    "title": "Wrong Answer",
+                    "buttons": {
+                      "left": "Know why",
+                      "right": "Continue"
+                    },
+                    "statement": "Correct answer is: ${PLACEHOLDER}"
+                  },
+                  "state": "incorrect",
+                  "cta_text": "Oops! You were wrong",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Oops sorry!"
+                }
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 2,
+              "total_steps": 7,
+              "current_step": 1
+            },
+            "to_capture_response": true,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 5,
+            "subunit_template": "exercise-fill-blank-single-image",
+            "subunit_order": 5,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "know_why": {
+                "data": [
+                  {
+                    "key": "option_a",
+                    "explanation": {
+                      "sentence": "We use \"was working\" because it shows the person was still busy doing the work when the phone call interrupted them."
+                    },
+                    "correct_answer": {
+                      "text": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FFB2B2",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#8FFFB3",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_b",
+                    "explanation": {
+                      "sentence": "We use 'was working' because it shows the person was still busy doing the work when the phone call interrupted him."
+                    },
+                    "correct_answer": {
+                      "sentence": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_c",
+                    "explanation": {
+                      "sentence": "We use 'was working' because it shows the person was still busy doing the work when the phone call interrupted him."
+                    },
+                    "correct_answer": {
+                      "sentence": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "states": [
+                  {
+                    "board": {
+                      "show_explanation": false,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "Here's what got fixed",
+                          "highlight_ranges": []
+                        }
+                      }
+                    ],
+                    "state_id": "show_correct_answer",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fteaching_sarah.png?alt=media&token=068ddcdf-9da3-48a7-bddd-35c4a9dfaebe"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": false
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_correct_answer"
+                      },
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "See why it's correct?",
+                          "highlight_ranges": []
+                        }
+                      }
+                    ],
+                    "state_id": "show_explanation",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fthinking_sarah.png?alt=media&token=487cec45-6c07-4f95-a281-1e5e20a366e2"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      },
+                      {
+                        "label": "Continue",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "option_a",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "key": "option_b",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "key": "option_c",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                25
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "state_id": "show_both",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fidea_sarah.png?alt=media&token=70f3831f-561b-48f7-b4ed-a8e0bdc2a1be"
+                  }
+                ]
+              },
+              "stimulus": {
+                "options": [
+                  {
+                    "key": "option_a",
+                    "label": "worked"
+                  },
+                  {
+                    "key": "option_b",
+                    "label": "was working"
+                  },
+                  {
+                    "key": "option_c",
+                    "label": "have worked"
+                  }
+                ],
+                "question": "Select the correct subject:",
+                "media": {
+                  "type": "image",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fworking_sara.png?alt=media&token=b349582b-2be6-4e05-9ec9-0f4db385e3a2"
+                },
+                "statement": [
+                  "I",
+                  "on the presentation when my manager called."
+                ],
+                "question_type": "fill_blank_single",
+                "correct_answer": "option_b"
+              },
+              "theme_palette_id": "default_light",
+              "fill_blank_states": [
+                {
+                  "state": "initial",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer"
+                },
+                {
+                  "state": "selected",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer"
+                },
+                {
+                  "state": "correct",
+                  "cta_text": "Well done!",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Correct answer"
+                },
+                {
+                  "popup": {
+                    "title": "Wrong Answer",
+                    "buttons": {
+                      "left": "Know why",
+                      "right": "Continue"
+                    },
+                    "statement": "Correct answer is: ${PLACEHOLDER}"
+                  },
+                  "state": "incorrect",
+                  "cta_text": "Oops! You were wrong",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Oops sorry!"
+                }
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 2,
+              "total_steps": 7,
+              "current_step": 1
+            },
+            "to_capture_response": true,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 6,
+            "subunit_template": "exercise-fill-blank-single-image",
+            "subunit_order": 6,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "know_why": {
+                "data": [
+                  {
+                    "key": "option_a",
+                    "explanation": {
+                      "sentence": "We use \"was working\" because it shows the person was still busy doing the work when the phone call interrupted them."
+                    },
+                    "correct_answer": {
+                      "text": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FFB2B2",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#8FFFB3",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_b",
+                    "explanation": {
+                      "sentence": "We use 'was working' because it shows the person was still busy doing the work when the phone call interrupted him."
+                    },
+                    "correct_answer": {
+                      "sentence": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_c",
+                    "explanation": {
+                      "sentence": "We use 'was working' because it shows the person was still busy doing the work when the phone call interrupted him."
+                    },
+                    "correct_answer": {
+                      "sentence": "I worked was working on the presentation when my manager called.",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "worked",
+                          "range": [
+                            2,
+                            8
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "was working",
+                          "range": [
+                            9,
+                            20
+                          ],
+                          "segment_id": "correct"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "states": [
+                  {
+                    "board": {
+                      "show_explanation": false,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "Here's what got fixed",
+                          "highlight_ranges": []
+                        }
+                      }
+                    ],
+                    "state_id": "show_correct_answer",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fteaching_sarah.png?alt=media&token=068ddcdf-9da3-48a7-bddd-35c4a9dfaebe"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": false
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_correct_answer"
+                      },
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "See why it's correct?",
+                          "highlight_ranges": []
+                        }
+                      }
+                    ],
+                    "state_id": "show_explanation",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fthinking_sarah.png?alt=media&token=487cec45-6c07-4f95-a281-1e5e20a366e2"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      },
+                      {
+                        "label": "Continue",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "option_a",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "key": "option_b",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "key": "option_c",
+                        "statement": {
+                          "text": "Remember: use Was + ing for actions that got interrupted",
+                          "highlight_ranges": [
+                            {
+                              "color": "#9D5008",
+                              "label": "Was + ing",
+                              "range": [
+                                14,
+                                25
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "state_id": "show_both",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fidea_sarah.png?alt=media&token=70f3831f-561b-48f7-b4ed-a8e0bdc2a1be"
+                  }
+                ]
+              },
+              "stimulus": {
+                "options": [
+                  {
+                    "key": "option_a",
+                    "label": "worked"
+                  },
+                  {
+                    "key": "option_b",
+                    "label": "was working"
+                  },
+                  {
+                    "key": "option_c",
+                    "label": "have worked"
+                  }
+                ],
+                "question": "Select the correct subject:",
+                "media": {
+                  "type": "image",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fworking_sara.png?alt=media&token=b349582b-2be6-4e05-9ec9-0f4db385e3a2"
+                },
+                "statement": [
+                  "I",
+                  "on the presentation when my manager called."
+                ],
+                "question_type": "fill_blank_single",
+                "correct_answer": "option_b"
+              },
+              "theme_palette_id": "default_light",
+              "fill_blank_states": [
+                {
+                  "state": "initial",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer"
+                },
+                {
+                  "state": "selected",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer"
+                },
+                {
+                  "state": "correct",
+                  "cta_text": "Well done!",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Correct answer"
+                },
+                {
+                  "popup": {
+                    "title": "Wrong Answer",
+                    "buttons": {
+                      "left": "Know why",
+                      "right": "Continue"
+                    },
+                    "statement": "Correct answer is: ${PLACEHOLDER}"
+                  },
+                  "state": "incorrect",
+                  "cta_text": "Oops! You were wrong",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Oops sorry!"
+                }
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 2,
+              "total_steps": 7,
+              "current_step": 1
+            },
+            "to_capture_response": true,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 7,
+            "subunit_template": "exercise-match",
+            "subunit_order": 7,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "title": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Select & Match"
+              },
+              "states": [
+                {
+                  "state": "initial",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select and match"
+                },
+                {
+                  "state": "attempt_started",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select and match"
+                },
+                {
+                  "state": "correct",
+                  "cta_text": "Continue",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Well done!"
+                }
+              ],
+              "stimulus": {
+                "question": "Match the right pairs",
+                "options_left": [
+                  {
+                    "key": "option_a",
+                    "label": "eat",
+                    "score_weight": 1
+                  },
+                  {
+                    "key": "option_b",
+                    "label": "ate",
+                    "score_weight": 1
+                  },
+                  {
+                    "key": "option_c",
+                    "label": "eating",
+                    "score_weight": 1
+                  },
+                  {
+                    "key": "option_d",
+                    "label": "eaten",
+                    "score_weight": 1
+                  }
+                ],
+                "options_right": [
+                  {
+                    "key": "option_a",
+                    "label": "past",
+                    "score_weight": 1
+                  },
+                  {
+                    "key": "option_b",
+                    "label": "continuous",
+                    "score_weight": 1
+                  },
+                  {
+                    "key": "option_c",
+                    "label": "perfect",
+                    "score_weight": 1
+                  },
+                  {
+                    "key": "option_d",
+                    "label": "present",
+                    "score_weight": 1
+                  }
+                ],
+                "correct_answers": [
+                  [
+                    "option_a",
+                    "option_d"
+                  ],
+                  [
+                    "option_b",
+                    "option_a"
+                  ],
+                  [
+                    "option_c",
+                    "option_b"
+                  ],
+                  [
+                    "option_d",
+                    "option_c"
+                  ]
+                ]
+              },
+              "theme_palette_id": "default_light",
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 7,
+              "total_steps": 7,
+              "current_step": 6
+            },
+            "to_capture_response": true,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 8,
+            "subunit_template": "lesson-result-mcq-complete",
+            "subunit_order": 8,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "lesson",
+            "meta": {
+              "states": [
+                {
+                  "hero": {
+                    "text": "mistakes made",
+                    "numerator": 0,
+                    "denominator": 5,
+                    "show_numerator": false
+                  },
+                  "state": "failure",
+                  "title": "You just got started!",
+                  "heading": "Grammar Tenses Covered",
+                  "carousel_data": [
+                    {
+                      "content": {
+                        "text": "Sarah acquired had acquired three new clients this month.",
+                        "highlight_ranges": [
+                          {
+                            "color": "#C97373",
+                            "label": "acquired",
+                            "range": [
+                              6,
+                              14
+                            ],
+                            "strikethrough": true
+                          },
+                          {
+                            "color": "#73C999",
+                            "label": "had acquired",
+                            "range": [
+                              15,
+                              27
+                            ]
+                          }
+                        ]
+                      },
+                      "heading": {
+                        "text": "Marketing",
+                        "highlight_ranges": [
+                          {
+                            "color": "#FF4D4F",
+                            "label": "ng",
+                            "range": [
+                              2,
+                              7
+                            ]
+                          }
+                        ]
+                      },
+                      "show_heading": false
+                    }
+                  ],
+                  "carousel_title": "Review your mistakes"
+                },
+                {
+                  "hero": {
+                    "text": "Your score",
+                    "numerator": 1,
+                    "denominator": 5,
+                    "show_numerator": true
+                  },
+                  "state": "partial",
+                  "title": "Quiz complete!",
+                  "heading": "Grammar Tenses Covered",
+                  "carousel_data": [
+                    {
+                      "content": {
+                        "text": "I worked was working on the presentation when my manager called.",
+                        "highlight_ranges": [
+                          {
+                            "color": "#C97373",
+                            "label": "worked",
+                            "range": [
+                              2,
+                              8
+                            ],
+                            "strikethrough": true
+                          },
+                          {
+                            "color": "#73C999",
+                            "label": "was working",
+                            "range": [
+                              9,
+                              20
+                            ]
+                          }
+                        ]
+                      },
+                      "heading": {
+                        "text": "",
+                        "highlight_ranges": [
+                          {
+                            "color": "",
+                            "label": "",
+                            "range": []
+                          }
+                        ]
+                      },
+                      "show_heading": false
+                    },
+                    {
+                      "content": {
+                        "text": "I worked was working on the presentation when my manager called.",
+                        "highlight_ranges": [
+                          {
+                            "color": "#C97373",
+                            "label": "worked",
+                            "range": [
+                              2,
+                              8
+                            ],
+                            "strikethrough": true
+                          },
+                          {
+                            "color": "#73C999",
+                            "label": "was working",
+                            "range": [
+                              9,
+                              20
+                            ]
+                          }
+                        ]
+                      },
+                      "heading": {
+                        "text": "",
+                        "highlight_ranges": [
+                          {
+                            "color": "",
+                            "label": "",
+                            "range": []
+                          }
+                        ]
+                      },
+                      "show_heading": false
+                    }
+                  ],
+                  "carousel_title": "Review your mistakes"
+                },
+                {
+                  "hero": {
+                    "text": "Flawless Victory",
+                    "numerator": 5,
+                    "denominator": 5,
+                    "show_numerator": true
+                  },
+                  "state": "success",
+                  "title": "Quiz complete",
+                  "heading": "Grammar Tenses Covered",
+                  "footer_heading": "Outstanding! You've mastered all 5 workplace grammar tenses."
+                }
+              ],
+              "is_included_in_progress_bar": false
+            },
+            "to_capture_response": false,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 9,
+            "subunit_template": "lesson-module-progress-bookend",
+            "subunit_order": 9,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": false,
+            "type": "lesson",
+            "meta": {
+              "final_state": {
+                "heading": "Vocabulary review done!",
+                "progress": {
+                  "subtext": "Day 2",
+                  "numerator": 3,
+                  "denominator": 3
+                },
+                "subheading": "Part 2 of Day 3 is ready"
+              },
+              "initial_state": {
+                "heading": "Grammar exercise done!",
+                "cta_text": "Let’s review",
+                "progress": {
+                  "subtext": "Day 2",
+                  "numerator": 2,
+                  "denominator": 3
+                },
+                "subheading": "Part 2 of Day 2 is complete ",
+                "description": {
+                  "text": "Now, let’s do a pronunciation practice review on what you spoke",
+                  "highlight_ranges": [
+                    {
+                      "color": "#FFEBCD",
+                      "label": "let’s do a pronunciation practice review",
+                      "range": [
+                        5,
+                        45
+                      ]
+                    }
+                  ]
+                }
+
+              },
+              "is_included_in_progress_bar": true
+            },
+            "to_capture_response": false,
+            "success_goto": "end",
+            "failure_goto": "end",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          }
+        ]
+      }
+    ]
+  }
+}

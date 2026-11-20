@@ -1,0 +1,389 @@
+{
+  "status": "success",
+  "message": "Courses returned successfully",
+  "data": {
+    "user_cohort_id": 1,
+    "roadmap_cohort_id": 1,
+    "next_offset": 10,
+    "total_courses": 1,
+    "courses": [
+      {
+        "course_id": 8,
+        "order": 1,
+        "title": "course bhaskar 2026 04 13 10 27",
+        "short_title": "course bhaskar 2026 04 13 10 27",
+        "user_progress": 0.33333333333333337,
+        "attempt_status": "in_progress",
+        "show_premium_paywall": true,
+        "chapters": [
+          {
+            "chapter_id": 35,
+            "order": 1,
+            "chapter_title": "Your identity",
+            "user_progress": 1,
+            "attempt_status": "completed_free",
+            "module_previews": [
+              {
+                "module_id": 103,
+                "order": 1,
+                "user_progress": 1,
+                "title": "Basics",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/assets/ph_video-fill.svg",
+                "attempt_status": "completed_free",
+                "preview_type": "card_image",
+                "preview_image": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Avatar_Thumbnails/lisa_1.png",
+                "module_layout": "big_layout",
+                "attempt_counter": 2,
+                "cta_text": "Start Lesson"
+              },
+              {
+                "module_id": 104,
+                "order": 2,
+                "user_progress": 1,
+                "title": "Basics",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/pronunciation_1775576499702.svg",
+                "attempt_status": "completed_free",
+                "preview_type": "card_image",
+                "preview_image": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Avatar_Thumbnails/lisa_1.png",
+                "module_layout": "small_layout",
+                "attempt_counter": 2,
+                "cta_text": "Start Exercise"
+              },
+              {
+                "module_id": 105,
+                "order": 3,
+                "user_progress": 1,
+                "title": "Basics",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/fillups_1775576499702.svg",
+                "attempt_status": "completed_free",
+                "preview_type": "card_image",
+                "preview_image": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Avatar_Thumbnails/lisa_1.png",
+                "module_layout": "small_layout",
+                "attempt_counter": 2,
+                "cta_text": "Complete final challenge"
+              }
+            ],
+            "attempt_counter": 2
+          },
+          {
+            "chapter_id": 36,
+            "order": 2,
+            "chapter_title": "Your identity",
+            "user_progress": 1,
+            "attempt_status": "unlocked_free",
+            "module_previews": [
+              {
+                "module_id": 106,
+                "order": 1,
+                "user_progress": 1,
+                "title": "Professional Life",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/assets/ph_video-fill.svg",
+                "attempt_status": "locked_available_free",
+                "unlocks_at": "2026-04-24T18:56:00",
+                "preview_type": "card_image",
+                "preview_image": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Avatar_Thumbnails/lisa_2.png",
+                "module_layout": "big_layout",
+                "attempt_counter": 3,
+                "cta_text": "Start Lesson"
+              },
+              {
+                "module_id": 107,
+                "order": 2,
+                "user_progress": 1,
+                "title": "Professional Life",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/mcq_1775576499702.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 2,
+                "cta_text": "Complete next challenge"
+              },
+              {
+                "module_id": 108,
+                "order": 3,
+                "user_progress": 1,
+                "title": "Professional Life",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/pronunciation_1775576499702.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 2,
+                "cta_text": "Start Exercise"
+              }
+            ],
+            "attempt_counter": 2
+          },
+          {
+            "chapter_id": 37,
+            "order": 3,
+            "chapter_title": "Your identity",
+            "user_progress": 0.3333333333333333,
+            "attempt_status": "locked_premium",
+            "module_previews": [
+              {
+                "module_id": 109,
+                "order": 1,
+                "user_progress": 1,
+                "title": "Your Roots",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/assets/ph_video-fill.svg",
+                "attempt_status": "locked_premium",
+                "preview_type": "card_image",
+                "preview_image": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Avatar_Thumbnails/lisa_3.png",
+                "module_layout": "big_layout",
+                "attempt_counter": 2,
+                "cta_text": "Start Lesson"
+              },
+              {
+                "module_id": 110,
+                "order": 2,
+                "user_progress": 1,
+                "title": "Your Roots",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/pronunciation_1775576499702.svg",
+                "attempt_status": "locked_premium",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 2,
+                "cta_text": "Start Exercise"
+              },
+              {
+                "module_id": 111,
+                "order": 3,
+                "user_progress": 0,
+                "title": "Your Roots",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/fillups_1775576499702.svg",
+                "attempt_status": "locked_premium",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              }
+            ],
+            "attempt_counter": 1
+          },
+          {
+            "chapter_id": 38,
+            "order": 4,
+            "chapter_title": "Your identity",
+            "user_progress": 0,
+            "attempt_status": "locked_free",
+            "module_previews": [
+              {
+                "module_id": 112,
+                "order": 1,
+                "user_progress": 0,
+                "title": "Age & Life Stage",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/assets/ph_video-fill.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Avatar_Thumbnails/lisa_4.png",
+                "module_layout": "big_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              },
+              {
+                "module_id": 113,
+                "order": 2,
+                "user_progress": 0,
+                "title": "Age & Life Stage",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/pronunciation_1775576499702.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              },
+              {
+                "module_id": 114,
+                "order": 3,
+                "user_progress": 0,
+                "title": "Age & Life Stage",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/mcq_1775576499702.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              }
+            ],
+            "attempt_counter": 1
+          },
+          {
+            "chapter_id": 39,
+            "order": 5,
+            "chapter_title": "Your identity",
+            "user_progress": 0,
+            "attempt_status": "locked_free",
+            "module_previews": [
+              {
+                "module_id": 115,
+                "order": 1,
+                "user_progress": 0,
+                "title": "Your Education",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/assets/ph_video-fill.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Avatar_Thumbnails/lisa_5.png",
+                "module_layout": "big_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              },
+              {
+                "module_id": 116,
+                "order": 2,
+                "user_progress": 0,
+                "title": "Your Education",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/fillups_1775576499702.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              },
+              {
+                "module_id": 117,
+                "order": 3,
+                "user_progress": 0,
+                "title": "Your Education",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/pronunciation_1775576499702.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              }
+            ],
+            "attempt_counter": 1
+          },
+          {
+            "chapter_id": 40,
+            "order": 6,
+            "chapter_title": "Your identity",
+            "user_progress": 0,
+            "attempt_status": "locked_free",
+            "module_previews": [
+              {
+                "module_id": 118,
+                "order": 1,
+                "user_progress": 0,
+                "title": "Your Living situation",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/assets/ph_video-fill.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Avatar_Thumbnails/lisa_6.png",
+                "module_layout": "big_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              },
+              {
+                "module_id": 119,
+                "order": 2,
+                "user_progress": 0,
+                "title": "Your Living situation",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/mcq_1775576499702.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              },
+              {
+                "module_id": 120,
+                "order": 3,
+                "user_progress": 0,
+                "title": "Your Living situation",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/fillups_1775576499702.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              }
+            ],
+            "attempt_counter": 1
+          },
+          {
+            "chapter_id": 41,
+            "order": 7,
+            "chapter_title": "Your identity",
+            "user_progress": 0,
+            "attempt_status": "locked_free",
+            "module_previews": [
+              {
+                "module_id": 121,
+                "order": 1,
+                "user_progress": 0,
+                "title": "Making a new friend",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/assets/ph_video-fill.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Avatar_Thumbnails/John.webp",
+                "module_layout": "big_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              },
+              {
+                "module_id": 122,
+                "order": 2,
+                "user_progress": 0,
+                "title": "Making a new friend",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/roleplay_n1_1775576499702.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              },
+              {
+                "module_id": 123,
+                "order": 3,
+                "user_progress": 0,
+                "title": "Making a new friend",
+                "module_category": null,
+                "preview_icon": "https://stimuler-roadmap-media.s3.us-west-2.amazonaws.com/roadmap_assets/roadmap_v1.5/Preview_Icons/pronunciation_1775576499702.svg",
+                "attempt_status": "locked_free",
+                "preview_type": "card_image",
+                "preview_image": "",
+                "module_layout": "small_layout",
+                "attempt_counter": 1,
+                "cta_text": "Locked for Practice"
+              }
+            ],
+            "attempt_counter": 1
+          }
+        ],
+        "attempt_counter": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "status": "success",
+  "message": "Modules returned successfully",
+  "data": {
+    "module_id": 1,
+    "units": [
+      {
+        "id": 1,
+        "unit_template": "virtual_generalized_v1",
+        "title": "Module 2.1 - Grammar",
+        "unit_order": 1,
+        "subunits": [
+          {
+            "subunit_id": 1,
+            "subunit_template": "lesson-video",
+            "subunit_order": 1,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": false,
+            "type": "lesson",
+            "meta": {
+              "title": "Managing deadlines",
+              "video": {
+                "video_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/roadmap%2Fday1%2Fversion7%2Fnon_ielts%2Fday1_version7_exercise1_non_ielts_video2.1.mp4?alt=media&token=1beb7611-8ce5-4707-9351-f54cec4804da",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/testing%2Fimages%2Fthumbnail_1.png?alt=media&token=d67f1ba4-cd8b-48cd-9723-6196d116bb7e",
+                "subtitle_url_primary": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/roadmap%2Fday1%2Fversion7%2Fnon_ielts%2Fday1_version7_exercise1_non_ielts_video2.1.srt?alt=media&token=3f378bfd-8f5b-4707-9351-f54cec4804da",
+                "subtitle_url_secondary": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/roadmap%2Fday1%2Fversion7_translations%2Fday1_version7_exercise1_non_ielts_video2.1_french.srt?alt=media"
+              },
+              "theme_palette_id": "lesson_video_brown",
+              "is_included_in_progress_bar": false
+            },
+            "transition_data": {
+              "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fvlcsnap-2025-11-20-21h15m40s990.png?alt=media&token=ce502f6f-f0b8-4ea6-b778-4753a6d80647",
+              "animation_type": "hero",
+              "next_subunit_template": "lesson-video-grammar",
+              "next_theme_palette_id": "lesson_video_grammar_brown"
+            },
+            "to_capture_response": false,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 2,
+            "subunit_template": "lesson-video-grammar",
+            "subunit_order": 2,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": false,
+            "type": "lesson",
+            "meta": {
+              "title": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Tap on mic to read"
+              },
+              "video": {
+                "video_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2FV2_WH.mp4?alt=media&token=c9b5c3f8-dbd4-4611-ac03-662d98cbe63b",
+                "subtitle_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2FV2_WH.mp4.srt?alt=media&token=f62fefe0-06b9-449f-b5dd-05c0254803f4",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fvlcsnap-2025-11-20-21h15m40s990.png?alt=media&token=ce502f6f-f0b8-4ea6-b778-4753a6d80647"
+              },
+              "theme_palette_id": "lesson_video_grammar_brown",
+              "practice_sentence": {
+                "text": "How is your day?",
+                "highlight_ranges": [
+                  {
+                    "pos": "WH",
+                    "label": "How",
+                    "range": [
+                      0,
+                      3
+                    ],
+                    "grammar_tag": "sound",
+                    "highlight_windows": [
+                      {
+                        "end": 18000,
+                        "start": 14000
+                      }
+                    ]
+                  },
+                  {
+                    "pos": "Verb",
+                    "label": "is",
+                    "range": [
+                      4,
+                      6
+                    ],
+                    "grammar_tag": "sound",
+                    "highlight_windows": [
+                      {
+                        "end": 23000,
+                        "start": 18000
+                      }
+                    ]
+                  },
+                  {
+                    "pos": "Verb",
+                    "label": "your day",
+                    "range": [
+                      7,
+                      15
+                    ],
+                    "grammar_tag": "sound",
+                    "highlight_windows": [
+                      {
+                        "end": 28000,
+                        "start": 23000
+                      }
+                    ]
+                  }
+                ]
+              },
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 2,
+              "total_steps": 6,
+              "current_step": 1
+            },
+            "to_capture_response": false,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 3,
+            "subunit_template": "exercise-scripted-with-media",
+            "subunit_order": 3,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": false,
+            "type": "exercise",
+            "meta": {
+              "media": {
+                "type": "static",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fvlcsnap-2025-11-20-21h15m40s990.png?alt=media&token=ce502f6f-f0b8-4ea6-b778-4753a6d80647",
+                "prompt": ""
+              },
+              "stimulus": {
+                "content": {
+                  "text": "How is your day?",
+                  "highlight_ranges": [
+                    {
+                      "color": "#FF4D4F",
+                      "label": "summary",
+                      "range": [
+                        2,
+                        7
+                      ],
+                      "strikethrough": true
+                    }
+                  ]
+                },
+                "translation": {
+                  "text": "Buenos días. La presentación está casi lista. ¡La terminaré hoy!",
+                  "style": []
+                }
+              },
+              "instruction": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Tap on Mic and Read",
+                "show_listen": true,
+                "show_bookmark": true,
+                "video_end_prompt": "Where are we with the project?"
+              },
+              "theme_palette_id": "scripted_with_media_brown",
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 3,
+              "total_steps": 6,
+              "current_step": 2
+            },
+            "to_capture_response": true,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 4,
+            "subunit_template": "lesson-video-grammar",
+            "subunit_order": 4,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": false,
+            "type": "lesson",
+            "meta": {
+              "title": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Tap on mic to read"
+              },
+              "video": {
+                "video_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2FV2_WH.mp4?alt=media&token=c9b5c3f8-dbd4-4611-ac03-662d98cbe63b",
+                "subtitle_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2FV2_WH.mp4.srt?alt=media&token=f62fefe0-06b9-449f-b5dd-05c0254803f4",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fvlcsnap-2025-11-20-21h15m40s990.png?alt=media&token=ce502f6f-f0b8-4ea6-b778-4753a6d80647"
+              },
+              "theme_palette_id": "lesson_video_grammar_brown",
+              "practice_sentence": {
+                "text": "How is your day?",
+                "highlight_ranges": [
+                  {
+                    "pos": "WH",
+                    "label": "How",
+                    "range": [
+                      0,
+                      3
+                    ],
+                    "grammar_tag": "sound",
+                    "highlight_windows": [
+                      {
+                        "end": 18000,
+                        "start": 14000
+                      }
+                    ]
+                  },
+                  {
+                    "pos": "Verb",
+                    "label": "is",
+                    "range": [
+                      4,
+                      6
+                    ],
+                    "grammar_tag": "sound",
+                    "highlight_windows": [
+                      {
+                        "end": 23000,
+                        "start": 18000
+                      }
+                    ]
+                  },
+                  {
+                    "pos": "Verb",
+                    "label": "your day",
+                    "range": [
+                      7,
+                      15
+                    ],
+                    "grammar_tag": "sound",
+                    "highlight_windows": [
+                      {
+                        "end": 28000,
+                        "start": 23000
+                      }
+                    ]
+                  }
+                ]
+              },
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 4,
+              "total_steps": 6,
+              "current_step": 3
+            },
+            "to_capture_response": false,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 5,
+            "subunit_template": "exercise-scripted-with-media",
+            "subunit_order": 5,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": false,
+            "type": "exercise",
+            "meta": {
+              "media": {
+                "type": "static",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fvlcsnap-2025-11-20-21h15m40s990.png?alt=media&token=ce502f6f-f0b8-4ea6-b778-4753a6d80647",
+                "prompt": ""
+              },
+              "stimulus": {
+                "content": {
+                  "text": "A brief summary on the current progress of a task or project.",
+                  "highlight_ranges": [
+                    {
+                      "color": "#FF4D4F",
+                      "label": "summary",
+                      "range": [
+                        2,
+                        7
+                      ],
+                      "strikethrough": true
+                    }
+                  ]
+                },
+                "translation": {
+                  "text": "Un breve resumen sobre el progreso actual de una tarea o proyecto.",
+                  "style": []
+                }
+              },
+              "instruction": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Tap on Mic and Read",
+                "show_listen": true,
+                "show_bookmark": true,
+                "video_end_prompt": "Where are we with the project?"
+              },
+              "theme_palette_id": "scripted_with_media_blue",
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": {
+              "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/testing%2Fimages%2Fthumbnail_1.png?alt=media&token=d67f1ba4-cd8b-48cd-9723-6196d116bb7e",
+              "animation_type": "hero",
+              "next_subunit_template": "lesson-video",
+              "next_theme_palette_id": "lesson_video_brown"
+            },
+            "progress_bar": {
+              "next_step": 5,
+              "total_steps": 6,
+              "current_step": 4
+            },
+            "to_capture_response": true,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 6,
+            "subunit_template": "lesson-video",
+            "subunit_order": 6,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": false,
+            "type": "lesson",
+            "meta": {
+              "title": "Introduction Lesson",
+              "video": {
+                "video_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/roadmap%2Fday1%2Fversion7%2Fnon_ielts%2Fday1_version7_exercise1_non_ielts_video2.1.mp4?alt=media&token=1beb7611-8ce5-4707-9351-f54cec4804da",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/testing%2Fimages%2Fthumbnail_1.png?alt=media&token=d67f1ba4-cd8b-48cd-9723-6196d116bb7e",
+                "subtitle_url_primary": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/roadmap%2Fday1%2Fversion7%2Fnon_ielts%2Fday1_version7_exercise1_non_ielts_video2.1.srt?alt=media&token=3f378bfd-8f5b-4707-9351-f54cec4804da",
+                "subtitle_url_secondary": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/roadmap%2Fday1%2Fversion7_translations%2Fday1_version7_exercise1_non_ielts_video2.1_french.srt?alt=media"
+              },
+              "theme_palette_id": "lesson_video_brown",
+              "is_included_in_progress_bar": false
+            },
+            "transition_data": {
+              "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/testing%2Fimages%2Fthumbnail_1.png?alt=media&token=d67f1ba4-cd8b-48cd-9723-6196d116bb7e",
+              "animation_type": "hero",
+              "next_subunit_template": "lesson-video-grammar"
+            },
+            "to_capture_response": false,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 7,
+            "subunit_template": "lesson-module-progress-bookend",
+            "subunit_order": 7,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": false,
+            "type": "lesson",
+            "meta": {
+              "final_state": {
+                "heading": "Let’s practice on be forms",
+                "progress": {
+                  "subtext": "Day 2",
+                  "numerator": 2,
+                  "denominator": 3
+                },
+                "subheading": "Part 2 of Day 2 is ready"
+              },
+              "initial_state": {
+                "heading": "Grammar lesson done!",
+                "cta_text": "Let's Review",
+                "progress": {
+                  "subtext": "Day 2",
+                  "numerator": 1,
+                  "denominator": 3
+                },
+                "subheading": "Part 1 of Day 2 is complete ",
+                "description": {
+                  "text": "Now, let’s practice on “Be forms that we learnt today",
+                  "highlight_ranges": [
+                    {
+                      "color": "#FFEBCD",
+                      "label": "let’s practice on “Be forms that we learnt today",
+                      "range": [
+                        5,
+                        53
+                      ]
+                    }
+                  ]
+                }
+              },
+              "is_included_in_progress_bar": false
+            },
+            "to_capture_response": false,
+            "success_goto": "end",
+            "failure_goto": "end",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          }
+        ]
+      }
+    ]
+  }
+}

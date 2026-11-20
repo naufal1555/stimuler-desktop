@@ -1,0 +1,226 @@
+{
+  "status": "success",
+  "message": "Modules returned successfully",
+  "data": {
+    "module_id": 8,
+    "units": [
+      {
+        "id": 1,
+        "unit_template": "virtual_generalized_v1",
+        "title": "Virtual Unit Title",
+        "unit_order": 1,
+        "subunits": [
+          {
+            "subunit_id": 175,
+        "subunit_template": "exercise-mcq-single-image",
+        "type": "exercise",
+        "original_subunit_order": 3,
+        "final_subunit_order": 3,
+        "is_dynamic": false,
+        "dynamic_type": null,
+        "base_lang_id": 1,
+        "lang_id": 1,
+        "fallback": true,
+        "meta": {
+          "mcq_attempt_states": [
+            {
+              "state": "initial",
+              "title_icon": {
+                "url": "",
+                "type": "url"
+              },
+              "title_text": "Select the correct answer ( Practice )",
+              "cta_text": "Check for the answer",
+              "popup": null,
+              "show_skip_cta": true
+            },
+            {
+              "state": "selected",
+              "title_icon": {
+                "url": "",
+                "type": "url"
+              },
+              "title_text": "Press the submit button to proceed ( Practice )",
+              "cta_text": "Check for the answer",
+              "popup": null,
+              "show_skip_cta": true
+            },
+            {
+              "state": "correct",
+              "title_icon": {
+                "url": "",
+                "type": "url"
+              },
+              "title_text": "Correct answer",
+              "cta_text": "Well done!",
+              "popup": null,
+              "show_skip_cta": false
+            },
+            {
+              "state": "incorrect",
+              "title_icon": {
+                "url": "",
+                "type": "url"
+              },
+              "title_text": "Repeated mistake",
+              "cta_text": "Oops! you were wrong",
+              "popup": {
+                "popup_type": "save_for_later",
+                "title": "Saved for later ",
+                "statement": "Don't worry we have saved this rule for future practice",
+                "buttons": {
+                  "left": null,
+                  "right": null,
+                  "center": "Continue"
+                }
+              },
+              "show_skip_cta": false
+            }
+          ],
+          "stimulus": {
+            "question_type": "mcq_single",
+            "question": "Sarah tells Jim \"I could be better\" without hiding how she really feels. Which word best describes the way Sarah is speaking?",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F03%2F3.2%2Fimage9.png?alt=media&token=f1fa5d21-1381-41ed-b645-b03cc40b5d1e",
+            "options": [
+              {
+                "label": "Likewise",
+                "key": "option_a"
+              },
+              {
+                "label": "Honestly",
+                "key": "option_b"
+              },
+              {
+                "label": "Relieved",
+                "key": "option_c"
+              }
+            ],
+            "correct_answer": "option_b"
+          },
+          "know_why": [
+            {
+              "key": "option_a",
+              "states": [
+                {
+                  "state_id": "why_right",
+                  "heading": "Here’s why its right",
+                  "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F03%2F3.2%2Fimage9.png?alt=media&token=f1fa5d21-1381-41ed-b645-b03cc40b5d1e",
+                  "prompt": "WHAT IS HONESTLY ?",
+                  "explanation": "\"Honestly\" means you're being real about how you feel.",
+                  "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fidea_sarah.png?alt=media&token=70f3831f-561b-48f7-b4ed-a8e0bdc2a1be",
+                  "avatar_dialogue": "Check what honestly actually means",
+                  "buttons": [
+                    {
+                      "label": "Next",
+                      "action": "goto",
+                      "target_state": "meaning_of_selection"
+                    }
+                  ]
+                },
+                {
+                  "state_id": "meaning_of_selection",
+                  "heading": "Meaning of your selection",
+                  "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F03%2F3.2%2Fimage15.png?alt=media&token=be38fcf8-9851-4761-9e54-0f10f253b632",
+                  "prompt": "WHAT IS LIKEWISE ?",
+                  "explanation": "\"Likewise\" means \"same to you.\" It's a reply, not a feeling.",
+                  "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fthinking_sarah.png?alt=media&token=487cec45-6c07-4f95-a281-1e5e20a366e2",
+                  "avatar_dialogue": "But what does likewise actually mean ?",
+                  "buttons": [
+                    {
+                      "label": "Back",
+                      "action": "goto",
+                      "target_state": "why_right"
+                    },
+                    {
+                      "label": "Continue",
+                      "action": "goto",
+                      "target_state": "meaning_of_selection"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "option_c",
+              "states": [
+                {
+                  "state_id": "why_right",
+                  "heading": "Here’s why its right",
+                  "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F03%2F3.2%2Fimage9.png?alt=media&token=f1fa5d21-1381-41ed-b645-b03cc40b5d1e",
+                  "prompt": "WHAT IS HONESTLY ?",
+                  "explanation": "\"Honestly\" means you're being real about how you feel.",
+                  "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fidea_sarah.png?alt=media&token=70f3831f-561b-48f7-b4ed-a8e0bdc2a1be",
+                  "avatar_dialogue": "Check what honestly actually means",
+                  "buttons": [
+                    {
+                      "label": "Next",
+                      "action": "goto",
+                      "target_state": "meaning_of_selection"
+                    }
+                  ]
+                },
+                {
+                  "state_id": "meaning_of_selection",
+                  "heading": "Meaning of your selection",
+                  "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F03%2F3.2%2Fimage4.png?alt=media&token=582ac3bf-165f-4301-beb5-ce2e487d579b",
+                  "prompt": "WHAT IS RELIEVED ?",
+                  "explanation": "\"Relieved\" means stress is gone and you feel better. Sarah is still in her tough moment here, not past it.",
+                  "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fthinking_sarah.png?alt=media&token=487cec45-6c07-4f95-a281-1e5e20a366e2",
+                  "avatar_dialogue": "But what does relieved actually mean ?",
+                  "buttons": [
+                    {
+                      "label": "Back",
+                      "action": "goto",
+                      "target_state": "why_right"
+                    },
+                    {
+                      "label": "Continue",
+                      "action": "goto",
+                      "target_state": "meaning_of_selection"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "is_included_in_progress_bar": true,
+          "theme_palette_id": "mcq_single_image_blue"
+        },
+        "self": {
+          "status": "ready",
+          "fetch_dynamic": false
+        },
+        "to_capture_response": true,
+        "next": {
+          "always": {
+            "known": true,
+            "fetch_next": false,
+            "subunit_nav_id": "sta_129_4",
+            "subunit_id": 129,
+            "final_subunit_order": 4,
+            "fetch_dynamic": false,
+            "progress_bar": {
+              "total_steps": 6,
+              "current_step": 1,
+              "next_step": 2
+            }
+          }
+        },
+        "attempt_counter": 1,
+        "subunit_attempt_id": null,
+        "attempt_status": "not_attempted",
+        "participates_in": {
+          "subunit": [],
+          "module": [],
+          "chapter": [],
+          "course": []
+        },
+        "staged_content_id": null,
+        "isLast": false,
+        "subunit_nav_id": "sta_175_3"
+          }
+        ]
+      }
+    ]
+  }
+}

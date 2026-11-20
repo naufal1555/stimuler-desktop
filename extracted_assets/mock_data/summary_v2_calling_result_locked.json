@@ -1,0 +1,89 @@
+{
+  "status": "completed",
+  "display_mode": "normal",
+  "entity": {
+    "id": "att_mock_1",
+    "attempt_type": "calling",
+    "analysis_id": "an_mock_1"
+  },
+  "labels": {
+    "title": "Call with Sarah",
+    "feedback_heading": "Detailed feedback",
+    "cta_text": "See Detailed Feedback",
+    "rating": {
+      "heading": "Rate this Call",
+      "thanks": "Thanks for rating!"
+    }
+  },
+  "header": {
+    "avatar_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/conversation%2Favatars%2Fsarah_pointing.png?alt=media&token=72829a57-e098-43bf-9392-4082756213bd",
+    "stars": {
+      "current": 2,
+      "total": 3,
+      "breakdown": [
+        {
+          "key": "hint",
+          "label": "Speak for 2 minutes",
+          "earned": true
+        },
+        {
+          "key": "mistakes",
+          "label": "Use 5 new words",
+          "earned": true
+        },
+        {
+          "key": "drill",
+          "label": "Practice a tricky word",
+          "earned": false
+        }
+      ]
+    }
+  },
+  "stats": [
+    {
+      "key": "user_word_count",
+      "label": "Words\nSpoken",
+      "value": "124"
+    },
+    {
+      "key": "time_spent_ms",
+      "label": "Minutes\nSpent",
+      "value": "4:37"
+    },
+    {
+      "key": "turn_count",
+      "label": "Turns with\nSarah",
+      "value": "12"
+    }
+  ],
+  "analysis": {
+    "is_analysis_available": false,
+    "categories": [
+      {
+        "key": "pronunciation",
+        "title": "Pronunciation"
+      },
+      {
+        "key": "grammar",
+        "title": "Grammar"
+      },
+      {
+        "key": "vocabulary",
+        "title": "Vocabulary"
+      },
+      {
+        "key": "fluency",
+        "title": "Fluency"
+      }
+    ],
+    "locked": {
+      "heading": "Unlock your detailed analysis",
+      "body": {
+        "text": "See exactly which words to practice and how to fix your grammar mistakes.",
+        "highlights": []
+      },
+      "cta_text": "Go Premium"
+    },
+    "id": "an_mock_1"
+  }
+}

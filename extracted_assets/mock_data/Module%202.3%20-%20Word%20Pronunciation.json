@@ -1,0 +1,448 @@
+{
+  "status": "success",
+  "message": "Modules returned successfully",
+  "data": {
+    "module_id": 1,
+    "units": [
+      {
+        "id": 1,
+        "unit_template": "virtual_generalized_v1",
+        "title": "Virtual Unit Title",
+        "unit_order": 1,
+        "subunits": [
+          {
+            "subunit_id": 1,
+            "subunit_template": "lesson-paragraph-words",
+            "subunit_order": 1,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "lesson",
+            "meta": {
+              "flow": {},
+              "text": "Good morning! I'm Sarah. I work in marketing. Nice to meet you! I look forward to working together!",
+              "states": [
+                {
+                  "state": "initial",
+                  "heading": "Here's what you spoke",
+                  "highlights": [
+                    {
+                      "label": "marketing",
+                      "range": [
+                        35,
+                        44
+                      ],
+                      "border": false,
+                      "show_correct": false
+                    },
+                    {
+                      "label": "forward",
+                      "range": [
+                        71,
+                        78
+                      ],
+                      "border": false,
+                      "show_correct": false
+                    },
+                    {
+                      "label": "working",
+                      "range": [
+                        82,
+                        90
+                      ],
+                      "border": false,
+                      "show_correct": false
+                    }
+                  ],
+                  "subheading": "Spoken words"
+                },
+                {
+                  "state": "show_mispronounced_words",
+                  "heading": "You mispronounced these words",
+                  "highlights": [
+                    {
+                      "label": "marketing",
+                      "range": [
+                        35,
+                        44
+                      ],
+                      "border": true,
+                      "show_correct": false
+                    },
+                    {
+                      "label": "forward",
+                      "range": [
+                        71,
+                        78
+                      ],
+                      "border": true,
+                      "show_correct": false
+                    },
+                    {
+                      "label": "working",
+                      "range": [
+                        82,
+                        90
+                      ],
+                      "border": true,
+                      "show_correct": false
+                    }
+                  ],
+                  "subheading": "Words you mispronounced"
+                },
+                {
+                  "state": "transition",
+                  "heading": "Let's improve upon them",
+                  "highlights": [
+                    {
+                      "label": "marketing",
+                      "range": [
+                        35,
+                        44
+                      ],
+                      "border": true,
+                      "show_correct": false
+                    },
+                    {
+                      "label": "forward",
+                      "range": [
+                        71,
+                        78
+                      ],
+                      "border": true,
+                      "show_correct": false
+                    },
+                    {
+                      "label": "working",
+                      "range": [
+                        82,
+                        90
+                      ],
+                      "border": true,
+                      "show_correct": false
+                    }
+                  ],
+                  "subheading": "Words you mispronounced"
+                },
+                {
+                  "state": "show_previous_score",
+                  "heading": "Let's improve upon these words",
+                  "score": 35,
+                  "highlights": [
+                    {
+                      "label": "marketing",
+                      "range": [
+                        35,
+                        44
+                      ],
+                      "border": true,
+                      "show_correct": false
+                    },
+                    {
+                      "label": "forward",
+                      "range": [
+                        71,
+                        78
+                      ],
+                      "border": true,
+                      "show_correct": false
+                    },
+                    {
+                      "label": "working",
+                      "range": [
+                        82,
+                        90
+                      ],
+                      "border": true,
+                      "show_correct": false
+                    }
+                  ],
+                  "subheading": "Words you mispronounced"
+                }
+              ],
+              "theme_palette_id": "default_light",
+              "pick_analysis_from": {},
+              "next_subunit_template": "exercise",
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 2,
+              "total_steps": 6,
+              "current_step": 1
+            },
+            "transition_data": {
+              "animation_type": "word_hero",
+              "next_subunit_template": "exercise-scripted-word",
+              "next_theme_palette_id": "default_light",
+              "text": "Marketing",
+              "title": "Pronounce your first word",
+              "highlighted_ranges": []
+            },
+            "to_capture_response": false,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 2,
+            "subunit_template": "exercise-scripted-word",
+            "subunit_order": 2,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "stimulus": {
+                "word": {
+                  "text": "marketing",
+                  "highlight_ranges": []
+                },
+                "pronunciation_audio": "s3://audio/playing.mp3",
+                "pronunciation_helper": "Mar.kett.in.gg",
+                "pronunciation_audio_cta_text": "Learn to Pronounce"
+              },
+              "heading_states": [
+                {
+                  "state": "initial",
+                  "heading": "Pronounce your first word"
+                },
+                {
+                  "state": "play_pronunciation_audio",
+                  "heading": "Here's how you pronounce"
+                },
+                {
+                  "state": "await_user_input",
+                  "heading": "Pronounce your first word"
+                },
+                {
+                  "state": "failure_try_again",
+                  "heading": "Ahh! You were so close"
+                },
+                {
+                  "state": "success",
+                  "heading": "Hurray! You got this right!"
+                },
+                {
+                  "state": "loading",
+                  "heading": "Working on your speech"
+                },
+                {
+                  "state": "failure_save_for_later",
+                  "heading": "We will comeback to this later!",
+                  "save_button": {
+                    "icon": {
+                      "url": "",
+                      "type": "url"
+                    },
+                    "text": "Save for future practice"
+                  }
+                }
+              ],
+              "is_final_chance": true,
+              "final_chance_header": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Final chance"
+              },
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 3,
+              "total_steps": 6,
+              "current_step": 2
+            },
+            "to_capture_response": true,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 4,
+            "subunit_template": "lesson-pronunciation-phoneme",
+            "subunit_order": 4,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "lesson",
+            "meta": {
+              "title": "We found your weak areas",
+              "helper": "Mar.kett.in.gg",
+              "target": "marketing",
+              "explanation": "You were weak at pronouncing the ng phoneme sound",
+              "instruction": "Let's practice few words ending with the ng sound",
+              "target_phoneme": "ng",
+              "theme_palette_id": "default_light",
+              "helper_highlights": [
+                9,
+                14
+              ],
+              "target_phoneme_highlight": [
+                7,
+                9
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 5,
+              "total_steps": 6,
+              "current_step": 4
+            },
+            "transition_data": {
+              "animation_type": "substring_hero",
+              "next_subunit_template": "exercise-scripted-word",
+              "next_theme_palette_id": "default_light",
+              "word": "Playing",
+              "substring_range": {
+                "start": 5,
+                "end": 7
+              }
+            },
+            "to_capture_response": false,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 5,
+            "subunit_template": "exercise-scripted-word",
+            "subunit_order": 5,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "stimulus": {
+                "word": {
+                  "text": "Playing",
+                  "highlight_ranges": [
+                    {
+                      "color": "#FFC25E",
+                      "label": "ng",
+                      "range": [
+                        5,
+                        7
+                      ],
+                      "italic": false,
+                      "weight": true,
+                      "strikethrough": false,
+                      "size_multiplier": 1.2
+                    }
+                  ]
+                },
+                "pronunciation_audio": "s3://audio/playing.mp3",
+                "pronunciation_helper": "Plee.eing",
+                "pronunciation_audio_cta_text": "Learn to Pronounce"
+              },
+              "heading_states": [
+                {
+                  "state": "initial",
+                  "heading": "Pronounce your first word"
+                },
+                {
+                  "state": "play_pronunciation_audio",
+                  "heading": "Here's how you pronounce"
+                },
+                {
+                  "state": "await_user_input",
+                  "heading": "Pronounce your first word"
+                },
+                {
+                  "state": "failure_try_again",
+                  "heading": "Ahh! You were so close"
+                },
+                {
+                  "state": "success",
+                  "heading": "Hurray! You got this right!"
+                },
+                {
+                  "state": "loading",
+                  "heading": "Working on your speech"
+                },
+                {
+                  "state": "failure_save_for_later",
+                  "heading": "We will comeback to this later!",
+                  "save_button": {
+                    "icon": {
+                      "url": "",
+                      "type": "url"
+                    },
+                    "text": "Save for future practice"
+                  }
+                }
+              ],
+              "is_final_chance": true,
+              "final_chance_header": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Final chance"
+              },
+              "is_included_in_progress_bar": true
+            },
+            "progress_bar": {
+              "next_step": 6,
+              "total_steps": 6,
+              "current_step": 5
+            },
+            "to_capture_response": true,
+            "success_goto": "next",
+            "failure_goto": "retry",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          },
+          {
+            "subunit_id": 6,
+            "subunit_template": "lesson-module-progress-bookend",
+            "subunit_order": 6,
+            "base_lang_id": 2,
+            "lang_id": 2,
+            "fallback": true,
+            "type": "lesson",
+            "meta": {
+              "initial_state": {
+                "heading": "Pronunciation done!",
+                "cta_text": "Let's Review",
+                "progress": {
+                  "subtext": "Day 2",
+                  "numerator": 3,
+                  "denominator": 3
+                },
+                "subheading": "Part 3 of Day 2 is complete",
+                "description": {
+                  "text": "Your practice how to pronounce 5 words in a row",
+                  "highlight_ranges": [
+                    {
+                      "color": "#FFEBCD",
+                      "label": "how to pronounce 5 words",
+                      "range": [
+                        14,
+                        38
+                      ]
+                    }
+                  ]
+                }
+              },
+              "is_included_in_progress_bar": false
+            },
+            "to_capture_response": false,
+            "success_goto": "end",
+            "failure_goto": "end",
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted"
+          }
+        ]
+      }
+    ]
+  }
+}

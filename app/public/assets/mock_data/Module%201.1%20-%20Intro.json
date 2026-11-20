@@ -1,0 +1,1750 @@
+{
+  "status": "success",
+  "message": "Modules returned successfully",
+  "data": {
+    "module_id": 1,
+    "units": [
+      {
+        "id": 1,
+        "unit_template": "virtual_generalized_v1",
+        "title": "Virtual Unit Title",
+        "unit_order": 1,
+        "subunits": [
+          {
+            "subunit_id": 5106,
+            "subunit_template": "lesson-module-progress-bookend",
+            "type": "lesson",
+            "original_subunit_order": 4,
+            "final_subunit_order": 4,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "background_animation_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fbrown_confetti.gif?alt=media&token=d3f839d1-21d9-4756-9e75-08fe005edcee",
+              "initial_state": {
+                "heading": "Introduction Done!",
+                "subheading": "Part 1 of Day 1 is complete",
+                "progress": {
+                  "numerator": 1,
+                  "denominator": 3,
+                  "subtext": "Day 1"
+                },
+                "cta_text": "Let's Review",
+                "description": {
+                  "text": "Now, let's review how you spoke and practice on your mistakes",
+                  "highlight_ranges": [
+                    {
+                      "color": "#FFEBCD",
+                      "label": "let's review how you spoke and practice",
+                      "range": [
+                        5,
+                        44
+                      ]
+                    }
+                  ]
+                }
+              },
+              "final_state": {
+                "heading": "Onto the next one!",
+                "subheading": "Part 2 of Day 1 is ready",
+                "progress": {
+                  "numerator": 2,
+                  "denominator": 3,
+                  "subtext": "Day 1"
+                },
+                "cta_text": null,
+                "description": null
+              },
+              "is_included_in_progress_bar": false,
+              "theme_palette_id": "lesson_module_progress_bookend_brown"
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5215_1",
+                "subunit_id": 5215,
+                "final_subunit_order": 5,
+                "fetch_dynamic": false,
+                "transition_data": null
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": true,
+            "subunit_nav_id": "sta_5106_12"
+          },
+          {
+            "subunit_id": 5095,
+            "subunit_template": "lesson-video-vocabulary-single-word",
+            "type": "lesson",
+            "original_subunit_order": 1,
+            "final_subunit_order": 1,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "video": {
+                "video_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fvideo%2F2026%2F02%2F04%2FV2_Vocab%20(2)_2e65bb08.mp4?alt=media&token=bf930e45-2284-41f2-9fd8-59a6c8c41a32",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fvlcsnap-2025-11-20-21h15m40s990.png?alt=media&token=ce502f6f-f0b8-4ea6-b778-4753a6d80647",
+                "subtitle_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2FV2_Vocab_2_trimmed.srt?alt=media&token=ba64907e-514e-4ee7-8eb9-409fd862729b"
+              },
+              "content": {
+                "heading": "Update",
+                "text": "A brief summary on the current progress of a task or project.",
+                "translation": "Un breve resumen sobre el progreso actual de una tarea o proyecto."
+              },
+              "theme_palette_id": "lesson_video_vocabulary_single_word_brown"
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5096_2",
+                "subunit_id": 5096,
+                "final_subunit_order": 2,
+                "fetch_dynamic": false,
+                "transition_data": {
+                  "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2Fthumbnail%2F2026%2F02%2F28%2F1772260605314_scripted-with-media.png?alt=media&token=1cab9fa1-cfe9-4509-a46c-45ec8b2fc9b3",
+                  "next_subunit_template": "exercise-scripted-with-media",
+                  "next_theme_palette_id": "scripted_with_media_brown",
+                  "animation_type": "hero"
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_5095_1"
+          },
+          {
+            "subunit_id": 5096,
+            "subunit_template": "exercise-scripted-with-media",
+            "type": "exercise",
+            "original_subunit_order": 2,
+            "final_subunit_order": 2,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "media": {
+                "type": "video",
+                "video_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fvideo%2Fcropped%2F2026%2F02%2F28%2F1772260604353_scripted-with-media.mp4?alt=media&token=2c88efe0-c82a-481c-ab06-a2dbabf5ea53",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2Fthumbnail%2F2026%2F02%2F28%2F1772260605314_scripted-with-media.png?alt=media&token=1cab9fa1-cfe9-4509-a46c-45ec8b2fc9b3",
+                "subtitle_url": "https://storage.googleapis.com/stimuler-53977.appspot.com/roadmap_meta/subtitle/2026/02/27/1772199954122_scripted-with-media.srt",
+                "prompt": null
+              },
+              "stimulus": {
+                "content": {
+                  "text": "Hi Sarah, my name is <your name>",
+                  "highlight_ranges": []
+                },
+                "translation": {
+                  "text": "Hola Sarah, soy <tu nombre>",
+                  "style": []
+                },
+                "is_center_aligned": true
+              },
+              "instruction": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Tap on Mic and Repeat",
+                "show_listen": true,
+                "show_bookmark": true,
+                "video_end_prompt": "Ready to continue?"
+              },
+              "theme_palette_id": "scripted_with_media_brown",
+              "is_included_in_progress_bar": true
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": true,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5100_6",
+                "subunit_id": 5100,
+                "final_subunit_order": 3,
+                "fetch_dynamic": false,
+                "progress_bar": {
+                  "total_steps": 5,
+                  "current_step": 1,
+                  "next_step": 2
+                },
+                "transition_data": {
+                  "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2Fthumbnail%2F2026%2F02%2F27%2F1772200610755_lesson-video.png?alt=media&token=7ea67553-be0f-4a71-bb12-315d22119946",
+                  "next_subunit_template": "lesson-video",
+                  "next_theme_palette_id": "lesson_video_brown",
+                  "animation_type": "hero"
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_5096_2"
+          },
+          {
+            "subunit_id": 5100,
+            "subunit_template": "lesson-video-3-heads",
+            "type": "lesson",
+            "original_subunit_order": 3,
+            "final_subunit_order": 3,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "title": "Introductory Lesson",
+              "video": {
+                "video_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fvideo%2Fcropped%2F2026%2F02%2F17%2F1771340226836_video-3-heads.mp4?alt=media&token=36e29c99-e0fe-4178-909f-455150e7c9f5",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2Fthumbnail%2F2026%2F02%2F17%2F1771340227801_video-3-heads.png?alt=media&token=8611a835-ad3d-45ec-8f55-900c3204399c",
+                "subtitle_url_primary": "https://storage.googleapis.com/stimuler-53977.appspot.com/roadmap_meta/subtitle/2026/02/17/1771340237811_video-3-heads.srt",
+                "subtitle_url_secondary": "https://storage.googleapis.com/stimuler-53977.appspot.com/roadmap_meta/subtitle/2026/02/17/1771340245901_video-3-heads.srt"
+              },
+              "additional_heads": {
+                "left": {
+                  "type": "gif",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F05%2F5.2%2FJohn.gif?alt=media&token=191f5ef6-548e-408e-9d25-776919acab19"
+                },
+                "right": {
+                  "type": "gif",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F05%2F5.2%2FLisa.gif?alt=media&token=afb8cf86-0bfc-4fe7-a512-0020b4ac5dd5"
+                },
+                "timestamps_ranges": {
+                  "start": 2000,
+                  "end": 5000
+                }
+              },
+              "theme_palette_id": "lesson_video_3_heads_brown",
+              "is_included_in_progress_bar": false
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5106_12",
+                "subunit_id": 5106,
+                "final_subunit_order": 4,
+                "fetch_dynamic": false,
+                "transition_data": {
+                  "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2Fthumbnail%2F2026%2F02%2F17%2F1771340487367_lesson-video.png?alt=media&token=af33257b-1bc2-4701-a665-d2d963a69ac3",
+                  "next_subunit_template": "lesson-video",
+                  "next_theme_palette_id": "lesson_video_brown",
+                  "animation_type": "video_translation"
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_5100_6"
+          },
+          {
+            "subunit_id": 5106,
+            "subunit_template": "lesson-module-progress-bookend",
+            "type": "lesson",
+            "original_subunit_order": 4,
+            "final_subunit_order": 4,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "background_animation_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fbrown_confetti.gif?alt=media&token=d3f839d1-21d9-4756-9e75-08fe005edcee",
+              "initial_state": {
+                "heading": "Introduction Done!",
+                "subheading": "Part 1 of Day 1 is complete",
+                "progress": {
+                  "numerator": 1,
+                  "denominator": 3,
+                  "subtext": "Day 1"
+                },
+                "cta_text": "Let's Review",
+                "description": {
+                  "text": "Now, let's review how you spoke and practice on your mistakes",
+                  "highlight_ranges": [
+                    {
+                      "color": "#FFEBCD",
+                      "label": "let's review how you spoke and practice",
+                      "range": [
+                        5,
+                        44
+                      ]
+                    }
+                  ]
+                }
+              },
+              "final_state": {
+                "heading": "Onto the next one!",
+                "subheading": "Part 2 of Day 1 is ready",
+                "progress": {
+                  "numerator": 2,
+                  "denominator": 3,
+                  "subtext": "Day 1"
+                },
+                "cta_text": null,
+                "description": null
+              },
+              "theme_palette_id": null,
+              "is_included_in_progress_bar": false
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5215_1",
+                "subunit_id": 5215,
+                "final_subunit_order": 5,
+                "fetch_dynamic": false,
+                "transition_data": null
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": true,
+            "subunit_nav_id": "sta_5106_12"
+          },
+          {
+            "subunit_id": 5215,
+            "subunit_template": "lesson-paragraph-words",
+            "type": "lesson",
+            "original_subunit_order": 5,
+            "final_subunit_order": 5,
+            "is_dynamic": true,
+            "dynamic_type": "enrichment",
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "states": [
+                {
+                  "state": "initial",
+                  "heading": "Here's what you spoke",
+                  "subheading": "Spoken words",
+                  "highlights": [
+                    {
+                      "label": "practice",
+                      "border": false,
+                      "range": [
+                        7,
+                        14
+                      ],
+                      "show_correct": false,
+                      "show_saved": false
+                    },
+                    {
+                      "label": "become",
+                      "border": false,
+                      "range": [
+                        43,
+                        48
+                      ],
+                      "show_correct": false,
+                      "show_saved": false
+                    },
+                    {
+                      "label": "fluent",
+                      "border": false,
+                      "range": [
+                        51,
+                        57
+                      ],
+                      "show_correct": false,
+                      "show_saved": false
+                    }
+                  ],
+                  "score": null
+                }
+              ],
+              "text": "I will practice English every day. I will become a fluent English speaker.",
+              "pick_analysis_from": {},
+              "next_subunit_template": "exercise-scripted-word",
+              "flow": {},
+              "is_included_in_progress_bar": true
+            },
+            "self": {
+              "status": "not_ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": false,
+                "fetch_next": false,
+                "fetch_next_config": {
+                  "check_injections": true
+                },
+                "default": {
+                  "subunit_nav_id": "dyn_255891",
+                  "subunit_id": 4,
+                  "final_subunit_order": 6,
+                  "fetch_dynamic": false,
+                  "progress_bar": {
+                    "total_steps": 2,
+                    "current_step": 1,
+                    "next_step": 1
+                  }
+                },
+                "progress_bar": {
+                  "total_steps": 2,
+                  "current_step": 1,
+                  "next_step": 1
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [
+                796
+              ],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_5215_1"
+          },
+          {
+            "subunit_id": 4,
+            "subunit_template": "exercise-scripted-word",
+            "type": "exercise",
+            "original_subunit_order": 6,
+            "final_subunit_order": 6,
+            "is_dynamic": true,
+            "dynamic_type": "injection",
+            "wait_for_analysis": true,
+            "should_analyze": true,
+            "base_lang_id": 12,
+            "lang_id": 12,
+            "fallback": false,
+            "meta": {
+              "heading_states": [
+                {
+                  "state": "initial",
+                  "heading": "Pronounce your first word",
+                  "save_button": null
+                },
+                {
+                  "state": "play_pronunciation_audio",
+                  "heading": "Here's how you pronounce",
+                  "save_button": null
+                },
+                {
+                  "state": "await_user_input",
+                  "heading": "Pronounce your first word",
+                  "save_button": null
+                },
+                {
+                  "state": "failure_try_again",
+                  "heading": "Ahh! You were so close",
+                  "save_button": null
+                },
+                {
+                  "state": "success",
+                  "heading": "Hurray! You got this right!",
+                  "save_button": null
+                },
+                {
+                  "state": "loading",
+                  "heading": "Working on your speech",
+                  "save_button": null
+                },
+                {
+                  "state": "failure_save_for_later",
+                  "heading": "We will comeback to this later!",
+                  "save_button": {
+                    "icon": {
+                      "url": "",
+                      "type": "url"
+                    },
+                    "text": "Save for future practice"
+                  }
+                }
+              ],
+              "is_final_chance": false,
+              "final_chance_header": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Final chance"
+              },
+              "stimulus": {
+                "word": {
+                  "text": "practice",
+                  "highlight_ranges": []
+                },
+                "pronunciation_helper": {
+                  "text": "p.r.ae.k.t.ax.s",
+                  "highlight_ranges": []
+                },
+                "pronunciation_audio": "s3://audio/playing.mp3",
+                "pronunciation_audio_cta_text": "Learn to Pronounce"
+              },
+              "is_included_in_progress_bar": true
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "success": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5219_1",
+                "subunit_id": 5219,
+                "final_subunit_order": 7,
+                "progress_bar": {
+                  "total_steps": 4,
+                  "current_step": 1,
+                  "next_step": 2
+                }
+              },
+              "failure": {
+                "known": false,
+                "fetch_next": false,
+                "fetch_next_config": {
+                  "check_injections": true
+                },
+                "default": {
+                  "subunit_nav_id": "sta_5219_1",
+                  "subunit_id": 5219,
+                  "final_subunit_order": 7,
+                  "progress_bar": {
+                    "total_steps": 4,
+                    "current_step": 1,
+                    "next_step": 2
+                  }
+                },
+                "progress_bar": {
+                  "total_steps": 4,
+                  "current_step": 1,
+                  "next_step": 1
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [
+                11
+              ],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": 255891,
+            "isLast": false,
+            "subunit_nav_id": "dyn_255891"
+          },
+          {
+            "subunit_id": 5219,
+            "subunit_template": "lesson-final-challenge",
+            "type": "lesson",
+            "original_subunit_order": 7,
+            "final_subunit_order": 7,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fsara_and_clipboard.png?alt=media&token=0db3b52c-86d3-42e8-913b-87b9fd31e6dc",
+                "type": "url"
+              },
+              "background_animation_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fbrown_confetti.gif?alt=media&token=d3f839d1-21d9-4756-9e75-08fe005edcee",
+              "title": "Final Challenge",
+              "cta_text": "Complete final challenge",
+              "sentence": {
+                "text": "Let's test your Grammar skills in less than 2 minutes",
+                "sentence": null,
+                "highlight_ranges": [
+                  {
+                    "color": "#FFEBCD",
+                    "label": "test your Grammar skills",
+                    "range": [
+                      6,
+                      30
+                    ],
+                    "segment_id": null,
+                    "strikethrough": null
+                  }
+                ]
+              },
+              "is_included_in_progress_bar": false
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5220_2",
+                "subunit_id": 5220,
+                "final_subunit_order": 8,
+                "fetch_dynamic": false
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_5219_1"
+          },
+          {
+            "subunit_id": 5220,
+            "subunit_template": "exercise-fill-blank-single-image",
+            "type": "exercise",
+            "original_subunit_order": 8,
+            "final_subunit_order": 8,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "know_why": {
+                "data": [
+                  {
+                    "key": "option_a",
+                    "explanation": {
+                      "sentence": "We use \"My\" because it shows the name belongs to you. \"I\" is only used when you are doing an action, like \"I speak.\""
+                    },
+                    "correct_answer": {
+                      "text": null,
+                      "sentence": "I My name is Sarah",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "I",
+                          "range": [
+                            0,
+                            1
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "My",
+                          "range": [
+                            2,
+                            4
+                          ],
+                          "segment_id": "correct",
+                          "strikethrough": null
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "key": "option_b",
+                    "explanation": {
+                      "sentence": "We use \"My\" because it shows the name belongs to you. \"I\" is only used when you are doing an action, like \"I speak.\""
+                    },
+                    "correct_answer": {
+                      "text": null,
+                      "sentence": "Me My name is Sarah",
+                      "highlight_ranges": [
+                        {
+                          "color": "#FF4D4F",
+                          "label": "Me",
+                          "range": [
+                            0,
+                            2
+                          ],
+                          "segment_id": "incorrect",
+                          "strikethrough": true
+                        },
+                        {
+                          "color": "#4CAF50",
+                          "label": "Me",
+                          "range": [
+                            3,
+                            5
+                          ],
+                          "segment_id": "correct",
+                          "strikethrough": null
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "states": [
+                  {
+                    "board": {
+                      "show_explanation": false,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "Here's what got fixed",
+                          "sentence": null,
+                          "highlight_ranges": []
+                        },
+                        "text": null
+                      }
+                    ],
+                    "state_id": "show_correct_answer",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fteaching_sarah.png?alt=media&token=068ddcdf-9da3-48a7-bddd-35c4a9dfaebe"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": false
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_correct_answer"
+                      },
+                      {
+                        "label": "Next",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "common",
+                        "statement": {
+                          "text": "See why it's correct?",
+                          "sentence": null,
+                          "highlight_ranges": []
+                        },
+                        "text": null
+                      }
+                    ],
+                    "state_id": "show_explanation",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fthinking_sarah.png?alt=media&token=487cec45-6c07-4f95-a281-1e5e20a366e2"
+                  },
+                  {
+                    "board": {
+                      "show_explanation": true,
+                      "show_correct_answer": true
+                    },
+                    "buttons": [
+                      {
+                        "label": "Back",
+                        "action": "goto",
+                        "target_state": "show_explanation"
+                      },
+                      {
+                        "label": "Continue",
+                        "action": "goto",
+                        "target_state": "show_both"
+                      }
+                    ],
+                    "dialogue": [
+                      {
+                        "key": "option_a",
+                        "statement": {
+                          "text": "Tip: My = mine. Use it before a noun.",
+                          "sentence": null,
+                          "highlight_ranges": []
+                        },
+                        "text": null
+                      },
+                      {
+                        "key": "option_b",
+                        "statement": {
+                          "text": "Tip: My = mine. Use it before a noun.",
+                          "sentence": null,
+                          "highlight_ranges": []
+                        },
+                        "text": null
+                      }
+                    ],
+                    "state_id": "show_both",
+                    "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fidea_sarah.png?alt=media&token=70f3831f-561b-48f7-b4ed-a8e0bdc2a1be"
+                  }
+                ]
+              },
+              "stimulus": {
+                "options": [
+                  {
+                    "key": "option_a",
+                    "label": "I"
+                  },
+                  {
+                    "key": "option_b",
+                    "label": "Me"
+                  },
+                  {
+                    "key": "option_c",
+                    "label": "My"
+                  }
+                ],
+                "question": "",
+                "media": {
+                  "type": "image",
+                  "url": "https://storage.googleapis.com/stimuler-53977.appspot.com/roadmap_meta/image/2026/02/18/1771412191998_fill-blank-image.png"
+                },
+                "statement": [
+                  "",
+                  "name is Sarah"
+                ],
+                "question_type": "fill_blank_single",
+                "correct_answer": "option_c"
+              },
+              "fill_blank_states": [
+                {
+                  "state": "initial",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer",
+                  "popup": null,
+                  "show_skip_cta": false
+                },
+                {
+                  "state": "selected",
+                  "cta_text": "Check for the answer",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer",
+                  "popup": null,
+                  "show_skip_cta": false
+                },
+                {
+                  "state": "correct",
+                  "cta_text": "Well done!",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Correct answer",
+                  "popup": null,
+                  "show_skip_cta": false
+                },
+                {
+                  "state": "incorrect",
+                  "cta_text": "Oops! You were wrong",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Oops sorry!",
+                  "popup": {
+                    "popup_type": "wrong_answer",
+                    "title": "Wrong Answer",
+                    "statement": "Correct answer is: My",
+                    "buttons": {
+                      "left": "Know Why",
+                      "right": "Continue",
+                      "center": null
+                    }
+                  },
+                  "show_skip_cta": false
+                }
+              ],
+              "is_included_in_progress_bar": true,
+              "theme_palette_id": "fill_blank_single_image_brown"
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": true,
+            "next": {
+              "success": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "dyn_255909",
+                "subunit_id": 1,
+                "final_subunit_order": 9,
+                "fetch_dynamic": false,
+                "progress_bar": {
+                  "total_steps": 6,
+                  "current_step": 1,
+                  "next_step": 2
+                }
+              },
+              "failure": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "dyn_255909",
+                "subunit_id": 1,
+                "final_subunit_order": 9,
+                "fetch_dynamic": false,
+                "progress_bar": {
+                  "total_steps": 6,
+                  "current_step": 1,
+                  "next_step": 1
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [
+                785,
+                786
+              ],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_5220_2"
+          },
+          {
+            "subunit_id": 1,
+            "subunit_template": "lesson-cheer-confetti",
+            "type": "lesson",
+            "original_subunit_order": 9,
+            "final_subunit_order": 9,
+            "is_dynamic": true,
+            "dynamic_type": "injection",
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 12,
+            "lang_id": 12,
+            "fallback": false,
+            "meta": {
+              "message": "Amazing! 3 in a row!",
+              "avatar_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fconfetti_image.png?alt=media&token=281e132e-9edb-4ae2-b923-665ff54a31e9",
+              "background_animation_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fcolorful_confetti.gif?alt=media&token=d75d9a93-7af8-4e33-9157-f495689b9f11",
+              "is_included_in_progress_bar": false
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5230_12",
+                "subunit_id": 5230,
+                "final_subunit_order": 10,
+                "fetch_dynamic": false,
+                "progress_bar": {
+                  "total_steps": 6,
+                  "current_step": 4,
+                  "next_step": 4
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": 255909,
+            "isLast": false,
+            "subunit_nav_id": "dyn_255909"
+          },
+          {
+            "subunit_id": 5230,
+            "subunit_template": "lesson-result-mcq-complete",
+            "type": "lesson",
+            "original_subunit_order": 10,
+            "final_subunit_order": 10,
+            "is_dynamic": true,
+            "dynamic_type": "enrichment",
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": false,
+            "meta": {
+              "states": [
+                {
+                  "hero": {
+                    "text": "Flawless Victory",
+                    "numerator": 5,
+                    "denominator": 5,
+                    "show_numerator": false
+                  },
+                  "state": "success",
+                  "title": "Perfect!",
+                  "heading": "You got them all right",
+                  "carousel_data": [],
+                  "carousel_title": null,
+                  "footer_heading": "Outstanding! You've mastered this lesson.",
+                  "background_animation_url": null
+                }
+              ],
+              "is_included_in_progress_bar": false
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5231_13",
+                "subunit_id": 5231,
+                "final_subunit_order": 11,
+                "fetch_dynamic": false
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [
+                786
+              ],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": 255910,
+            "isLast": false,
+            "subunit_nav_id": "sta_5230_12"
+          },
+          {
+            "subunit_id": 5231,
+            "subunit_template": "lesson-day-summary",
+            "type": "lesson",
+            "original_subunit_order": 11,
+            "final_subunit_order": 11,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "topics": [
+                {
+                  "image": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/testing%2Fimages%2Fthumbnail_1.png?alt=media&token=d67f1ba4-cd8b-48cd-9723-6196d116bb7e",
+                  "topic_name": "Video Lesson",
+                  "topic_description": "Introduction to Stimuler"
+                },
+                {
+                  "image": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/testing%2Fimages%2Fthumbnail_1.png?alt=media&token=d67f1ba4-cd8b-48cd-9723-6196d116bb7e",
+                  "topic_name": "Pronunciation",
+                  "topic_description": "Practiced speaking words"
+                },
+                {
+                  "image": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/testing%2Fimages%2Fthumbnail_1.png?alt=media&token=d67f1ba4-cd8b-48cd-9723-6196d116bb7e",
+                  "topic_name": "Grammar",
+                  "topic_description": "Learned tenses"
+                }
+              ],
+              "heading": "Today you learnt!",
+              "cta_text": "Complete Day 1",
+              "is_included_in_progress_bar": false
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5131_2",
+                "subunit_id": 5131,
+                "final_subunit_order": 12,
+                "fetch_dynamic": false,
+                "transition_data": null
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": true,
+            "subunit_nav_id": "sta_5231_13"
+          },
+          {
+            "subunit_id": 5131,
+            "subunit_template": "lesson-video-grammar",
+            "type": "lesson",
+            "original_subunit_order": 12,
+            "final_subunit_order": 12,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "title": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "text": "Tap on Mic and Read"
+              },
+              "video": {
+                "video_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fvideo%2Fcropped%2F2026%2F02%2F28%2F1772273547700_grammar-video.mp4?alt=media&token=e497d675-5ff1-4128-b733-1e7257c94f84",
+                "thumbnail_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2Fthumbnail%2F2026%2F02%2F28%2F1772273548801_grammar-video.png?alt=media&token=fab90a3d-6c0f-4e37-966f-63490c7361f8",
+                "subtitle_url": "https://storage.googleapis.com/stimuler-53977.appspot.com/roadmap_meta/subtitle/2026/02/20/1771568217216_grammar-video.srt"
+              },
+              "practice_sentence": {
+                "text": "How are you doing today",
+                "highlight_ranges": [
+                  {
+                    "pos": "cómo",
+                    "label": "How",
+                    "range": [
+                      0,
+                      3
+                    ],
+                    "grammar_tag": "",
+                    "highlight_windows": [
+                      {
+                        "start": 500,
+                        "end": 4000
+                      }
+                    ]
+                  },
+                  {
+                    "pos": "estás",
+                    "label": "are you doing",
+                    "range": [
+                      4,
+                      17
+                    ],
+                    "grammar_tag": "",
+                    "highlight_windows": [
+                      {
+                        "start": 4000,
+                        "end": 7500
+                      }
+                    ]
+                  },
+                  {
+                    "pos": "hoy",
+                    "label": "today",
+                    "range": [
+                      18,
+                      23
+                    ],
+                    "grammar_tag": "",
+                    "highlight_windows": [
+                      {
+                        "start": 7500,
+                        "end": 12000
+                      }
+                    ]
+                  }
+                ]
+              },
+              "theme_palette_id": "lesson_video_grammar_brown",
+              "is_included_in_progress_bar": true
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5203_2",
+                "subunit_id": 5203,
+                "final_subunit_order": 13,
+                "fetch_dynamic": false,
+                "progress_bar": {
+                  "total_steps": 9,
+                  "current_step": 1,
+                  "next_step": 1
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_5131_2"
+          },
+          {
+            "subunit_id": 5203,
+            "subunit_template": "exercise-mcq-single-image",
+            "type": "exercise",
+            "original_subunit_order": 13,
+            "final_subunit_order": 13,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "mcq_attempt_states": [
+                {
+                  "state": "initial",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Select the correct answer",
+                  "cta_text": "Check for the answer",
+                  "popup": null,
+                  "show_skip_cta": false
+                },
+                {
+                  "state": "selected",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Press the submit button to proceed",
+                  "cta_text": "Check for the answer",
+                  "popup": null,
+                  "show_skip_cta": false
+                },
+                {
+                  "state": "correct",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Correct answer",
+                  "cta_text": "Well done!",
+                  "popup": null,
+                  "show_skip_cta": false
+                },
+                {
+                  "state": "incorrect",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Oops sorry!",
+                  "cta_text": "Oops! you were wrong",
+                  "popup": {
+                    "popup_type": "wrong_answer",
+                    "title": "Wrong Answer",
+                    "statement": "Correct answer is: Honestly",
+                    "buttons": {
+                      "left": "Know why",
+                      "right": "Continue",
+                      "center": null
+                    }
+                  },
+                  "show_skip_cta": false
+                }
+              ],
+              "stimulus": {
+                "question_type": "mcq_single",
+                "question": "Sarah tells Jim \"I could be better\" without hiding how she really feels. Which word best describes the way Sarah is speaking? ",
+                "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F03%2F3.2%2Fimage9.png?alt=media&token=f1fa5d21-1381-41ed-b645-b03cc40b5d1e",
+                "options": [
+                  {
+                    "label": "Likewise",
+                    "key": "option_a"
+                  },
+                  {
+                    "label": "Honestly",
+                    "key": "option_b"
+                  },
+                  {
+                    "label": "Relieved",
+                    "key": "option_c"
+                  }
+                ],
+                "correct_answer": "option_b"
+              },
+              "know_why": [
+                {
+                  "key": "option_a",
+                  "states": [
+                    {
+                      "state_id": "why_right",
+                      "heading": "Here’s why its right",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F03%2F3.2%2Fimage9.png?alt=media&token=f1fa5d21-1381-41ed-b645-b03cc40b5d1e",
+                      "prompt": "WHAT IS HONESTLY ?",
+                      "explanation": "\"Honestly\" means you're being real about how you feel.",
+                      "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fidea_sarah.png?alt=media&token=70f3831f-561b-48f7-b4ed-a8e0bdc2a1be",
+                      "avatar_dialogue": "Check what honestly actually means",
+                      "buttons": [
+                        {
+                          "label": "Next",
+                          "action": "goto",
+                          "target_state": "meaning_of_selection"
+                        }
+                      ]
+                    },
+                    {
+                      "state_id": "meaning_of_selection",
+                      "heading": "Meaning of your selection",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F03%2F3.2%2Fimage15.png?alt=media&token=be38fcf8-9851-4761-9e54-0f10f253b632",
+                      "prompt": "WHAT IS LIKEWISE ?",
+                      "explanation": "\"Likewise\" means \"same to you.\" It's a reply, not a feeling.",
+                      "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fthinking_sarah.png?alt=media&token=487cec45-6c07-4f95-a281-1e5e20a366e2",
+                      "avatar_dialogue": "But what does likewise actually mean ?",
+                      "buttons": [
+                        {
+                          "label": "Back",
+                          "action": "goto",
+                          "target_state": "why_right"
+                        },
+                        {
+                          "label": "Continue",
+                          "action": "goto",
+                          "target_state": "meaning_of_selection"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "option_c",
+                  "states": [
+                    {
+                      "state_id": "why_right",
+                      "heading": "Here’s why its right",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F03%2F3.2%2Fimage9.png?alt=media&token=f1fa5d21-1381-41ed-b645-b03cc40b5d1e",
+                      "prompt": "WHAT IS HONESTLY ?",
+                      "explanation": "\"Honestly\" means you're being real about how you feel.",
+                      "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fidea_sarah.png?alt=media&token=70f3831f-561b-48f7-b4ed-a8e0bdc2a1be",
+                      "avatar_dialogue": "Check what honestly actually means",
+                      "buttons": [
+                        {
+                          "label": "Next",
+                          "action": "goto",
+                          "target_state": "meaning_of_selection"
+                        }
+                      ]
+                    },
+                    {
+                      "state_id": "meaning_of_selection",
+                      "heading": "Meaning of your selection",
+                      "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F03%2F3.2%2Fimage4.png?alt=media&token=582ac3bf-165f-4301-beb5-ce2e487d579b",
+                      "prompt": "WHAT IS RELIEVED ?",
+                      "explanation": "\"Relieved\" means stress is gone and you feel better. Sarah is still in her tough moment here, not past it.",
+                      "avatar_image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fthinking_sarah.png?alt=media&token=487cec45-6c07-4f95-a281-1e5e20a366e2",
+                      "avatar_dialogue": "But what does relieved actually mean ?",
+                      "buttons": [
+                        {
+                          "label": "Back",
+                          "action": "goto",
+                          "target_state": "why_right"
+                        },
+                        {
+                          "label": "Continue",
+                          "action": "goto",
+                          "target_state": "meaning_of_selection"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "is_included_in_progress_bar": true,
+              "theme_palette_id": "mcq_single_image_brown"
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": true,
+            "next": {
+              "success": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5085_2",
+                "subunit_id": 5085,
+                "final_subunit_order": 14,
+                "fetch_dynamic": false,
+                "progress_bar": {
+                  "total_steps": 6,
+                  "current_step": 1,
+                  "next_step": 2
+                }
+              },
+              "failure": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5085_2",
+                "subunit_id": 5085,
+                "final_subunit_order": 14,
+                "fetch_dynamic": false,
+                "progress_bar": {
+                  "total_steps": 6,
+                  "current_step": 1,
+                  "next_step": 1
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [
+                789,
+                790
+              ],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_5203_2"
+          },
+          {
+            "subunit_id": 5085,
+            "subunit_template": "exercise-fill-blank-single-dialogue",
+            "type": "exercise",
+            "original_subunit_order": 14,
+            "final_subunit_order": 14,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": false,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "states": [
+                {
+                  "state": "initial",
+                  "title_icon": {
+                    "type": "url",
+                    "url": ""
+                  },
+                  "title_text": "Choose the correct response",
+                  "cta_text": "Select"
+                },
+                {
+                  "state": "selected",
+                  "title_icon": {
+                    "type": "url",
+                    "url": ""
+                  },
+                  "title_text": "Submit your answer",
+                  "cta_text": "Submit"
+                },
+                {
+                  "state": "correct",
+                  "title_icon": {
+                    "type": "url",
+                    "url": ""
+                  },
+                  "title_text": "Perfect!",
+                  "cta_text": "Continue"
+                },
+                {
+                  "state": "incorrect",
+                  "title_icon": {
+                    "type": "url",
+                    "url": ""
+                  },
+                  "title_text": "Not quite",
+                  "cta_text": "Continue"
+                }
+              ],
+              "stimulus": {
+                "question_type": "fill_blank_single",
+                "statements": [
+                  {
+                    "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F05%2F5.2%2Fex-fillBlankSingle-Dialogue-Emma.png?alt=media&token=ae7273b0-f9a3-45fa-aaa5-4a73ed7f7bdc",
+                    "text": [
+                      "Hey Alex, I hope you are doing well!"
+                    ]
+                  },
+                  {
+                    "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F05%2F5.2%2Fex-fillBlankSingle-Dialogue-Alex.jpg?alt=media&token=9a39a095-99ac-4f0a-8fb2-7197137111ec",
+                    "text": [
+                      "Oh, hi Emma! _______ so good to see you."
+                    ]
+                  }
+                ],
+                "options": [
+                  {
+                    "label": "its'",
+                    "key": "fine"
+                  },
+                  {
+                    "label": "it",
+                    "key": "bad"
+                  },
+                  {
+                    "label": "it's",
+                    "key": "tired"
+                  }
+                ],
+                "correct_answer": "tired"
+              }
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": true,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5086_3",
+                "subunit_id": 5086,
+                "final_subunit_order": 15,
+                "fetch_dynamic": false,
+                "progress_bar": {
+                  "total_steps": 7,
+                  "current_step": 1,
+                  "next_step": 2
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_5085_2"
+          },
+          {
+            "subunit_id": 5086,
+            "subunit_template": "exercise-scripted-without-media",
+            "type": "exercise",
+            "original_subunit_order": 15,
+            "final_subunit_order": 15,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "wait_for_analysis": true,
+            "should_analyze": false,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "meta": {
+              "states": [
+                {
+                  "state": "initial",
+                  "title": "Speak the sentence",
+                  "show_score": false,
+                  "show_skip": false,
+                  "show_retry_cta": false
+                },
+                {
+                  "state": "retry",
+                  "title": "Let's try again",
+                  "show_score": true,
+                  "show_skip": true,
+                  "show_retry_cta": true
+                },
+                {
+                  "state": "next",
+                  "title": "Great! Ready for next?",
+                  "show_score": true,
+                  "show_skip": false,
+                  "show_retry_cta": false
+                }
+              ],
+              "previous_score": null,
+              "helper": {
+                "button_text": "Play Audio",
+                "audio_url": "",
+                "icon": {
+                  "type": "url",
+                  "url": ""
+                }
+              },
+              "script": {
+                "english": "Oh, hi Emma! It's so good to see you.",
+                "translation": "¡Hola Emma! ¡Qué bueno verte!"
+              }
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "to_capture_response": true,
+            "next": {
+              "success": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5088_5",
+                "subunit_id": 5088,
+                "final_subunit_order": 5,
+                "fetch_dynamic": false,
+                "progress_bar": {
+                  "total_steps": 7,
+                  "current_step": 2,
+                  "next_step": 3
+                }
+              },
+              "failure": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_nav_id": "sta_5087_4",
+                "subunit_id": 5087,
+                "final_subunit_order": 4,
+                "fetch_dynamic": false,
+                "progress_bar": {
+                  "total_steps": 7,
+                  "current_step": 2,
+                  "next_step": 2
+                }
+              }
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_5086_3"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1968 @@
+{
+  "day1McqExercise": {
+    "questionsRight": "questions बरोबर",
+    "q2AnswerExplanation": "Me\" बरोबर आहे कारण त्याला extra time मिळत आहे.\"",
+    "others": {
+      "q1AnswerExplanation": "I\" बरोबर आहे कारण ordering करणारी व्यक्ती तीच आहे.",
+      "q7AnswerExplanation": "Them\" बरोबर आहे कारण त्यांना dish मिळत आहे.",
+      "q10AnswerExplanation": "Everyone\" बरोबर आहे कारण table वरील सगळ्या लोकांना refer करते.",
+      "q9AnswerExplanation": "Themselves\" बरोबर आहे कारण त्यांनी बाहेरच्या मदतीशिवाय केले.",
+      "q2AnswerExplanation": "Me\" बरोबर आहे कारण त्याला food मिळत आहे.",
+      "q5AnswerExplanation": "Either\" बरोबर आहे कारण दोनपैकी कोणताही choice स्वीकारार्ह आहे.",
+      "q4AnswerExplanation": "Himself\" बरोबर आहे कारण त्याने एकट्याने cooking केली.",
+      "q3AnswerExplanation": "Our\" योग्य आहे कारण ते दाखवते की table आमचे आहे.\"",
+      "q8AnswerExplanation": "Ours\" योग्य आहे कारण ते दाखवते की table आमचे आहे.\"",
+      "q6AnswerExplanation": "We\" योग्य आहे कारण ते requesting करणारे लोक आहेत.\""
+    },
+    "q5AnswerExplanation": "Either\" योग्य आहे कारण याचा अर्थ दोन पर्यायांपैकी कोणताही ठीक आहे.\"",
+    "mistakeIn": "mistake मध्ये",
+    "q3AnswerExplanation": "Our\" योग्य आहे कारण ते दाखवते की team आमची आहे.\"",
+    "possPronMeaning": "\"Possessive pronouns (his, her, your) ownership दाखवण्यासाठी वापरले जातात.\"",
+    "youAnswered": "तुम्ही उत्तर दिले",
+    "q8AnswerExplanation": "Ours\" योग्य आहे कारण ते दाखवते की deadline आमची आहे.\"",
+    "q6AnswerExplanation": "We\" योग्य आहे कारण ते proposing करणारे लोक आहेत.\"",
+    "q1AnswerExplanation": "I\" योग्य आहे कारण ती व्यक्ती action करत आहे.\"",
+    "reflexivePronMeaning": "\"Reflexive pronouns (himself, herself, yourself) वापरतात जेव्हा subject आणि object समान असतात.\"",
+    "youMade": "तुम्ही केले",
+    "q7AnswerExplanation": "Them\" योग्य आहे कारण ते schedule receive करत आहेत.",
+    "q10AnswerExplanation": "Everyone\" योग्य आहे कारण ते office मधील सर्व लोकांना refer करते.",
+    "q9AnswerExplanation": "Ourselves\" योग्य आहे कारण आम्ही ते बाहेरच्या मदतीशिवाय केले.",
+    "q4AnswerExplanation": "Herself\" योग्य आहे कारण तिने ते एकट्याने मदतीशिवाय केले.",
+    "objPronMeaning": "\"Object pronouns (him, her, you) वापरतात जेव्हा कोणीतरी action receive करतो.\"",
+    "subjPronMeaning": "\"Subject pronouns (he, she, you) वापरतात जेव्हा कोणीतरी action करत असतो.\"",
+    "indefPronMeaning": "\"Indefinite pronouns (anyone, everyone, someone) वापरतात जेव्हा subject specific नसतो.\""
+  },
+  "day3": {
+    "exercise2": {
+      "q3AnswerExplanation": "Action item म्हणजे एक specific task जो कोणाला तरी deadline सह assign केला जातो.",
+      "q5OptionCRight": "Eva एक update देत आहे - project वरील recent progress किंवा changes बद्दल माहिती.",
+      "q5OptionAWrong": "Eva specific tasks assign करत नाही (action item).",
+      "q1OptionCRight": "तो meeting topics ची organized list present करत आहे (agenda).",
+      "q5OptionARight": "ती recent progress वर report करत आहे (update)",
+      "q1OptionBWrong": "Joe idea किंवा suggestion share करत नाही (contribution).",
+      "q2OptionAWrong": "Carlos ने topics ची list तयार केली नाही (agenda).",
+      "q5OptionBWrong": "Eva discuss करण्यासाठी topics ची list present करत नाही (agenda)",
+      "q3OptionCRight": "Sarah ला action item मिळाली - एक specific task जो कोणाला तरी deadline सह assign केला जातो.",
+      "q1OptionARight": "Joe एक agenda share करत आहे - meeting दरम्यान discuss करण्याच्या topics ची list.",
+      "q1OptionBRight": "तो meeting topics ची list (agenda) दाखवत आहे.",
+      "q1AnswerExplanation": "Agenda म्हणजे meeting मध्ये discuss करायच्या topics ची list आहे",
+      "q4OptionBWrong": "ते फक्त information share (updating) करत नाहीत.",
+      "q3OptionBRight": "तिला deadline सह concrete task दिले गेले (action item).",
+      "q2OptionCWrong": "Carlos ने specific task (action item) assign केले नाही.",
+      "q4OptionBRight": "ते एकत्र काम करण्यासाठी जोडले आहेत (collaborating).",
+      "q3OptionARight": "तिला complete करण्यासाठी specific task मिळाले (action item).",
+      "q3OptionBWrong": "Sarah ला idea किंवा suggestion (contribution) मिळाले नाही.",
+      "q4AnswerExplanation": "Collaborating म्हणजे common goal साध्य करण्यासाठी एकत्र काम करणे.",
+      "q2OptionARight": "त्याने project साठी solution provide केले (contribution).",
+      "q2OptionCRight": "त्याने एक उपयुक्त idea share केली (contribution).",
+      "q4OptionCRight": "ते collaborate करत आहेत - एक common goal साध्य करण्यासाठी इतरांसोबत काम करत आहेत.",
+      "q2AnswerExplanation": "Contribution म्हणजे discussion दरम्यान share केलेली valuable idea किंवा input.",
+      "q5AnswerExplanation": "Update म्हणजे अलीकडील progress किंवा बदलांची माहिती.",
+      "q3OptionAWrong": "Sarah ला progress information (update) मिळाली नाही",
+      "q5OptionBRight": "ती अलीकडील developments बद्दल माहिती share करत आहे (update).",
+      "q4OptionARight": "ते common goal साठी एकत्र काम करत आहेत (collaborating).",
+      "q1OptionCWrong": "Joe offering करत नाही आहे.",
+      "q2OptionBRight": "\"Carlos ने contribution केली - discussion दरम्यान share केलेली valuable idea किंवा input.\"",
+      "q4OptionAWrong": "ते फक्त बोलत नाहीत आहेत."
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "He\" हा योग्य subject pronoun आहे जो \"\"Harry\"\" च्या जागी येतो कारण तो action करणारा व्यक्ती आहे.\"",
+      "q4AnswerExplanation": "His\" हा योग्य possessive pronoun आहे जो दाखवतो की तुटलेली wand Ron ची आहे.\"",
+      "q2AnswerExplanation": "Herself\" हा योग्य reflexive object pronoun आहे कारण Professor McGonagall स्वतःच transforming चे action करत आहे आणि receive देखील करत आहे.\"",
+      "q5AnswerExplanation": "Himself\" हा योग्य reflexive pronoun आहे जेव्हा Harry स्वतःच action करत आणि receive करत आहे.\"",
+      "q3AnswerExplanation": "His\" हा योग्य possessive pronoun आहे जो दाखवतो की mouth Harry चे आहे.\""
+    },
+    "version12": {
+      "exercise2": {
+        "q2AnswerExplanation": "Can you clarify\" म्हणजे काहीतरी unclear असताना explanation मागणे. या request structure मध्ये फक्त \"\"clarify\"\" योग्य आहे.\"",
+        "q5AnswerExplanation": "I have an idea\" नंतर \"\"I suggest we...\"\" नवीन proposal introduce करते. \"\"Agree\"\" आणि \"\"clarify\"\" नवे ideas propose करताना fit होत नाहीत.\"",
+        "q3AnswerExplanation": "I suggest we...\" specific action propose करते. \"\"Agree\"\" ला previous idea लागतो; \"\"clarify\"\" explain करते, propose नाही.\"",
+        "q1AnswerExplanation": "I agree with pam\" म्हणजे कोणाच्या तरी idea ला support express करणे. इतर options या structure मध्ये fit होत नाहीत.\"",
+        "q4AnswerExplanation": "I agree with [person]\" म्हणजे दुसऱ्याच्या opinion सोबत alignment दाखवणे. \"\"with Diana\"\" सोबत फक्त \"\"agree\"\" work करते.\""
+      }
+    }
+  },
+  "day9": {
+    "exercise2": {
+      "es": {
+        "q3AnswerExplanation": "Clarification\" म्हणजे कामाच्या ठिकाणी गैरसमज टाळण्यासाठी अधिक स्पष्ट स्पष्टीकरण मागणे.",
+        "q1AnswerExplanation": "Favor\" म्हणजे कामाच्या ठिकाणी एखाद्याला त्यांच्या नेहमीच्या कामाच्या पलीकडे मदत करण्यास सांगणे.",
+        "q4AnswerExplanation": "Assistance\" म्हणजे कामावर एखादे काम पूर्ण करण्यासाठी किंवा समस्या सोडवण्यासाठी एखाद्याकडून थेट मदत.",
+        "q2AnswerExplanation": "Resource\" म्हणजे कार्यालयातील कोणतेही साधन, साहित्य किंवा माहिती जी कर्मचाऱ्यांना त्यांचे काम करण्यास मदत करते.",
+        "q5AnswerExplanation": "Guidance\" म्हणजे व्यावसायिक वातावरणात कौशल्य किंवा निर्णय घेण्याची क्षमता सुधारण्यासाठी सल्ला किंवा दिशा मिळवणे."
+      },
+      "q5OptionBRight": "Lisa कोणती कामे सर्वात महत्त्वाची आहेत ते ठरवत आहे (prioritizing).",
+      "q4OptionARight": "Alex burnout अनुभवत आहे - दीर्घकाळच्या तणावामुळे होणारा थकवा.",
+      "ielts": {
+        "q1AnswerExplanation": "Sustainable म्हणजे संसाधने संपवल्याशिवाय चालू ठेवता येणाऱ्या पद्धती",
+        "q2AnswerExplanation": "Biodiversity म्हणजे एखाद्या निवासस्थानातील प्रजातींची विविधता",
+        "q5AnswerExplanation": "Biodiversity hotspots\" म्हणजे असामान्यपणे जास्त प्रजाती विविधता असलेले क्षेत्र, जे सहसा धोक्यात असतात\"",
+        "q4AnswerExplanation": "Conservation म्हणजे resources चे संरक्षण करणे जेणेकरून ते संपू नयेत",
+        "q3AnswerExplanation": "Deforestation म्हणजे मोठ्या प्रमाणावर जंगले साफ करणे"
+      },
+      "q2OptionCRight": "John एखाद्याला काम देत आहे (delegating).",
+      "q1OptionCWrong": "Organized म्हणजे सर्व काही व्यवस्थित पद्धतीने मांडलेले असणे.",
+      "q4OptionCRight": "Alex ला burnout होत आहे - दीर्घकाळच्या stress मुळे होणारा थकवा.",
+      "q4OptionAWrong": "Progress म्हणजे कामात किंवा career मध्ये सकारात्मक प्रगती.",
+      "q3AnswerExplanation": "Initiative घेणे म्हणजे सांगितल्याशिवाय समस्या ओळखणे आणि त्यांचे निराकरण करणे.",
+      "q5OptionCRight": "Lisa prioritizing करत आहे - महत्त्वाच्या क्रमाने कामे हाताळणे.",
+      "q5OptionAWrong": "Delegating म्हणजे इतरांना कामे देणे.",
+      "q3OptionCWrong": "Burnout म्हणजे दीर्घकाळच्या stress मुळे होणारा थकवा.",
+      "q1OptionCRight": "Maria ला खूप सारी tasks असल्यामुळे overwhelmed वाटत आहे.",
+      "q5OptionARight": "Lisa importance नुसार स्वतःचे काम organize करत आहे (prioritizing).",
+      "q5OptionBWrong": "Initiative म्हणजे कोणी सांगितल्याशिवाय action घेणे.",
+      "q3OptionCRight": "Sarah ने action घेऊन positive engagement दाखवले (initiative).",
+      "q2OptionBRight": "John delegate करत आहे - दुसऱ्याला task assign करत आहे.",
+      "q1OptionARight": "Maria ला खूप सारी tasks असल्यामुळे overwhelmed वाटत आहे.",
+      "q1AnswerExplanation": "Overwhelmed म्हणजे comfortably handle करता येण्यापेक्षा जास्त tasks असणे.",
+      "q4OptionBWrong": "Delegation म्हणजे दुसऱ्यांना tasks assign करणे.",
+      "q3OptionBRight": "Sarah ने स्वतः problem solve करून proactively काम केले (initiative).",
+      "q4OptionBRight": "Alex ला prolonged exhaustion झाला आहे (burnout).",
+      "q3OptionBWrong": "Delegation म्हणजे इतरांना काम सोपवणे.",
+      "q4AnswerExplanation": "Burnout म्हणजे दीर्घकाळ stress मुळे होणारा थकवा.",
+      "q1OptionAWrong": "Motivated म्हणजे कामाबद्दल उत्साह किंवा आवड वाटणे.",
+      "q2OptionARight": "John इतरांना काम देत आहे (delegating).",
+      "q2OptionAWrong": "Taking initiative म्हणजे न सांगता स्वतःहून काम करणे.",
+      "q2OptionCWrong": "Prioritizing म्हणजे कामांना महत्त्वानुसार क्रम देणे.",
+      "q2AnswerExplanation": "Delegating म्हणजे दुसऱ्याला काम सोपवणे.",
+      "q3OptionARight": "Sarah ने initiative दाखवली - न विचारता समस्या सोडवली.",
+      "q5AnswerExplanation": "Prioritizing म्हणजे कामे महत्त्वाच्या क्रमाने हाताळणे."
+    },
+    "exercise3": {
+      "es": {
+        "q1AnswerExplanation": "\"Superlative Adjective Rule: 3+ syllables साठी \"\"the most + adjective\"\" वापरा (उदा., dangerous → the most dangerous) जेव्हा तीन किंवा अधिक गोष्टींची तुलना करता (Middle-earth मधील सर्व volcanoes).\"",
+        "q2AnswerExplanation": "\"Comparative Adjective नियम: लहान adjectives साठी \"\"-er than\"\" वापरा (उदा., sharp → sharper than) जेव्हा दोन गोष्टींची तुलना करता (Black Widow vs. Hawkeye).\"",
+        "q5AnswerExplanation": "\"Superlative Adjective नियम: लहान adjectives साठी \"\"the + -est\"\" वापरा (wise → the wisest) जेव्हा तीन किंवा अधिक गोष्टींची तुलना करता (सर्व Jedi).\"",
+        "q4AnswerExplanation": "\"Comparative Adjective नियम: लहान adjectives साठी \"\"-er than\"\" वापरा (strong → stronger than) दोन नातेसंबंधांची तुलना करण्यासाठी (Rocket सोबतची मैत्री vs. इतर).\"",
+        "q3AnswerExplanation": "\"Descriptive Adjective नियम: मूळ रूप वापरा (उदा., unique) जेव्हा एका गोष्टीचे (vibranium) वर्णन करता तुलनेशिवाय.\""
+      }
+    }
+  },
+  "day3_2": {
+    "version12": {
+      "vocabularyExercise": "Vocabulary Exercise",
+      "readAloud": "Read Aloud",
+      "ieltsPart2": "IELTS Part 2",
+      "describeTheImage": "Image चे वर्णन करा",
+      "tryReadingThisSentence": "हे वाक्य वाचून बघा!",
+      "q5AnswerExplanation2_3": "\"Lisa ला appetizer ची गरज नाही, जो starter dish असतो, कारण तिने जेवण संपवले आहे.\"",
+      "letTestYourMeetingVocabulary": "चला तुमची meeting vocabulary test करूया",
+      "practiceThisPoliteRequest": "हा polite request practice करा!",
+      "haveFunWhileTestingYourImagination": "या picture सोबत तुमची imagination आणि sentence-framing skills test करताना मजा करा",
+      "task3": "Task 3",
+      "q4AnswerExplanation2_3": "Ordered\" म्हणजे खाणे select करण्याची क्रिया आहे; taste कसा आहे ते नाही",
+      "task2": "Task 2",
+      "repeatAfterMe": "माझ्यानंतर repeat करा",
+      "summarizeLecture": "Lecture चा summary करा",
+      "introductionSpeakingTest": "Introduction : Speaking Test",
+      "letJumpIntoRealLifeConversationToday": "\"आज चला real-life conversation मध्ये jump करूया, आम्ही काही vocabulary पण practice करू\"",
+      "q3AnswerExplanation": "Appetizers हे मुख्य जेवणाआधी दिले जाणारे छोटे पदार्थ आहेत.",
+      "q3AnswerExplanation2_3": "\"Maria ने menu मागितला नाही, ज्यामध्ये खाद्यपदार्थांचे पर्याय असतात.\"",
+      "weGetBackReadingToday": "आज आम्ही पुन्हा Reading कडे परततो आणि यावेळी थोडे advanced आहे.",
+      "funWithVocabulary": "Vocabulary सोबत मजा!",
+      "readingWithStressModerate": "Reading with stress: Moderate",
+      "q1AnswerExplanation2_2": "\"Sarah bill पाहत नाही, ज्यामध्ये जेवणानंतर किती पैसे द्यायचे ते दाखवले असते.\"",
+      "q2AnswerExplanation2": "John ने order दिला - server ला सांगितले की त्याला कोणते खाणे आणि पेय हवे आहे.",
+      "readTheParagraphLoudlyStressingTheHighlightedWords": "highlighted शब्दांवर जोर देत paragraph मोठ्याने वाचा",
+      "q1AnswerExplanation2": "Sarah menu वाचत आहे - restaurant मध्ये उपलब्ध खाणे आणि पेयांची यादी.",
+      "q1AnswerExplanation": "Menu म्हणजे restaurant मध्ये उपलब्ध खाणे आणि पेयांची यादी.",
+      "readingAtHighPaceAdvanced": "वेगाने Reading: Advanced",
+      "funWithTongueTwister": "Tongue Twister सोबत मजा",
+      "letPracticeSomeGrammar": "चला Grammar practice करूया",
+      "q1AnswerExplanation2_3": "\"Sarah appetizer बघत नाही, जो खाण्याचा छोटा dish असतो.\"",
+      "pronunciationExercise": "Pronunciation Exercise",
+      "q5AnswerExplanation2": "\"Lisa ला bill मागावे लागेल - हा document आहे जो दाखवतो की तिला खाण्यासाठी किती पैसे द्यावे लागतील.\"",
+      "practiceQuestions": "Practice Questions",
+      "task4": "Task 4",
+      "readThisSentenceOutLoud": "हे sentence मोठ्याने वाचा!",
+      "q4AnswerExplanation": "Delicious म्हणजे खाणे खूप चविष्ट लागते.",
+      "task1": "Task 1",
+      "testYourPronounKnowledgeMagicalHarryPotterScenarios": "Harry Potter च्या magical scenarios सह तुमचे pronoun knowledge test करा!",
+      "speaking": "Speaking",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "तुमच्या team सोबत काम करताना तुम्हाला आनंद झाला असा एक प्रसंग सांगा. काय खास होते त्यात?",
+      "q4AnswerExplanation2": "Carlos ने त्याच्या pasta चे वर्णन delicious असे केले - म्हणजे खाद्यपदार्थाची चव अतिशय चांगली आहे.",
+      "q5AnswerExplanation2_2": "\"Lisa ला menu ची गरज नाही, जे food options दाखवते, कारण तिने जेवण संपवले आहे.\"",
+      "letStartYourRoadmap": "चला तुमचा roadmap सुरू करूया",
+      "masteringPronouns": "Pronouns मध्ये पारंगत होणे",
+      "q4AnswerExplanation2_2": "Ordered\" म्हणजे खाद्यपदार्थ निवडण्याची क्रिया आहे, चवीचे वर्णन नाही.\"",
+      "day1Revision": "Day 1 : Revision",
+      "q2AnswerExplanation2_3": "John ने विशेषतः appetizer मागितला नाही.",
+      "q3AnswerExplanation2": "Maria ने appetizers मागितले - मुख्य जेवणाआधी दिले जाणारे छोटे पदार्थ.",
+      "vocabularyLesson": "Vocabulary Lesson",
+      "q2AnswerExplanation": "Order देणे म्हणजे server ला सांगणे की तुम्हाला कोणते जेवण आणि पेय हवे आहे.",
+      "q5AnswerExplanation": "Bill मध्ये restaurant मध्ये तुमच्या जेवणासाठी किती पैसे द्यावे लागतील ते दाखवले जाते.",
+      "q2AnswerExplanation2_2": "\"John ने bill मागितला नाही, जो जेवण संपल्यानंतर मागितला जातो.\"",
+      "readWithEnthusiasm": "उत्साहाने वाचा!",
+      "q3AnswerExplanation2_2": "\"Maria ने bill मागितला नाही, जो जेवल्यानंतर मागितला जातो.\"",
+      "orderingFood": "जेवण order करणे"
+    }
+  },
+  "roadmapDaysLocalization": {
+    "workplace": {
+      "day3": {
+        "vocabularyLesson": "Vocabulary Lesson",
+        "wordQuiz": "Word Quiz",
+        "descriptiveSpeaking": "वर्णनात्मक Speaking",
+        "meetingVocabulary": "Meeting Vocabulary",
+        "pronounRevision": "सर्वनाम Revision",
+        "negotiatingDeadlines": "Deadline वाटाघाटी"
+      },
+      "day18": {
+        "summarizingMeetings": "Meeting सारांश",
+        "wordQuiz": "Word Quiz",
+        "descriptiveSpeaking": "वर्णनात्मक Speaking"
+      },
+      "day8": {
+        "adjectivePractice": "विशेषण Practice",
+        "wordQuiz": "Word Quiz",
+        "masteringAdjectives": "Adjectives मध्ये प्रवीणता",
+        "descriptiveSpeaking": "वर्णनात्मक Speaking",
+        "roleplayRevision": "Roleplay पुनरावलोकन"
+      },
+      "day12": {
+        "questionAnswering": "प्रश्न-उत्तर",
+        "talkingToClients": "Clients शी बोलणे",
+        "tongueTwister": "जीभ फिरवणारे"
+      },
+      "day5": {
+        "masteringVerbs": "Verbs मध्ये प्रवीणता",
+        "teamMeetingReview": "Team Meeting पुनरावलोकन",
+        "questionAnswering": "प्रश्न-उत्तर",
+        "grammarPractice": "Grammar Practice",
+        "verbBuilder": "Verb Builder"
+      },
+      "day9": {
+        "givingPresentation": "Presentation देणे",
+        "askingForHelp": "मदत मागणे",
+        "tongueTwister": "Tongue Twister",
+        "grammarPractice": "Grammar Practice",
+        "adjectiveReview": "Adjectives Review"
+      },
+      "day7": {
+        "smallTalkPractice": "Small Talk Practice",
+        "tongueTwister": "Tongue Twister",
+        "vocabRevision": "Vocab Revision",
+        "teamMeeting": "Team Meeting",
+        "smallTalkWithColleagues": "सहकाऱ्यांसोबत Small Talk",
+        "readAloud": "मोठ्याने वाचा"
+      },
+      "day4": {
+        "meetingVocabularyPractice": "Meeting Vocabulary Practice",
+        "vocabularyRevision": "Vocabulary Revision",
+        "teamMeeting": "Team Meeting",
+        "negotiatingDeadlines": "Deadlines ची चर्चा",
+        "grammarPractice": "Grammar Practice",
+        "readingFast": "जलद Reading",
+        "workplaceMeetingRoleplay": "Workplace Meeting Roleplay",
+        "meetingPractice": "Meeting Practice",
+        "teamMeetingPractice": "Team Meeting Practice",
+        "restaurantRoleplay": "Restaurant Roleplay"
+      },
+      "day1": {
+        "grammarBuilder": "Grammar Builder",
+        "intro": "परिचय",
+        "readingExercise": "Reading Exercise"
+      },
+      "day10": {
+        "readAloud": "मोठ्याने वाचा",
+        "howToAskForHelp": "मदत कशी मागावी",
+        "givingPresentation": "Presentation देणे",
+        "day9Revision": "Day 9: पुनरावलोकन"
+      },
+      "day16": {
+        "planningYourTasks": "तुमची कामे नियोजित करणे",
+        "stressTest": "Stress Test",
+        "advancedReading": "Advanced Reading"
+      },
+      "day2": {
+        "masteringPronoun": "Pronouns मध्ये पारंगतता",
+        "tongueTwister": "Tongue Twister",
+        "pronounPractice": "Pronoun Practice",
+        "grammarLesson": "Grammar Lesson",
+        "sentenceStructurePractice": "Sentence Structure Practice",
+        "day1Revision": "Day 1: Revision"
+      },
+      "day20": {
+        "artciles": "Articles",
+        "grammarPractice": "Grammar Practice",
+        "poem": "Poem"
+      },
+      "day15": {
+        "wordQuiz": "Word Quiz",
+        "grammarPractice": "Grammar Practice",
+        "planningYourTasks": "तुमची Tasks Planning"
+      },
+      "day14": {
+        "sentenceStructure": "Sentence Structure",
+        "poem": "Poem",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day19": {
+        "tongueTwister": "Tongue Twister",
+        "summarizingMeetingsMinutes": "Meeting Minutes चा सारांश",
+        "questionAnswering": "Question-Answering"
+      },
+      "day11": {
+        "masteringAdverbs": "Adverbs मास्टर करणे",
+        "grammarPractice": "Grammar Practice",
+        "readingPoemExercise": "Reading Poem Exercise"
+      },
+      "day17": {
+        "preposition": "Preposition",
+        "questionAnswering": "Question-Answering",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day6": {
+        "smallTalkVocab": "Small Talk Vocabulary",
+        "vocabularyPractice": "Vocabulary Practice",
+        "teamMeeting": "Team Meeting",
+        "pacedReading": "Paced Reading",
+        "verbsReview": "Verbs Review",
+        "stressTest": "Stress Test"
+      },
+      "day13": {
+        "stressTest": "Stress Test",
+        "wordQuiz": "Word Quiz",
+        "talkingToClients": "Clients सोबत बोलणे"
+      }
+    },
+    "socialising": {
+      "day5": {
+        "orderingFood": "खाना order करणे",
+        "roleplayMCQ": "Roleplay MCQ"
+      },
+      "day1": {
+        "grammarBuilder": "Grammar Builder",
+        "intro": "परिचय",
+        "readingExercise": "Reading Exercise"
+      },
+      "day4": {
+        "restaurantVocabulary": "Restaurant Vocabulary",
+        "orderingFood": "खाना order करणे",
+        "restaurantVocabularyPractice": "Restaurant Vocabulary Practice"
+      },
+      "day2": {
+        "masteringPronoun": "Pronouns मध्ये प्रभुत्व",
+        "conversationPractice": "Conversation Practice",
+        "pronounciationReview": "उच्चार Review",
+        "readingExercise": "Reading Exercise"
+      },
+      "day3": {
+        "pronounsVideoLesson": "Pronouns Video Lesson",
+        "restaurantVocabulary": "Restaurant Vocabulary",
+        "learnOrderingFood": "खाना order करायला शिका",
+        "pronounRevision": "Pronoun Revision"
+      }
+    }
+  },
+  "day4": {
+    "version8": {
+      "exercise2": {
+        "id": {
+          "q2OptionBRight": "\"वाक्यात Carlos काय करेल हे वर्णन करण्यासाठी \"\"help\"\" सारख्या verb ची गरज आहे.\"",
+          "q3AnswerExplanation": "Good\" हे एकमेव adjective आहे जे योग्य वेळेचे तर्कसंगत वर्णन करते.\"",
+          "q2OptionBWrong": "Team\" हे noun आहे, verb नाही.\"",
+          "q5OptionCRight": "Summary\" ऑफर केल्या जाणाऱ्या document चे योग्य वर्णन करते.\"",
+          "q3OptionCWrong": "Calendar\" या context मध्ये grammatically किंवा logically बसत नाही.\"",
+          "q1OptionCRight": "\"Designs पूर्ण करण्याची action वर्णन करण्यासाठी तुम्हाला \"\"finish\"\" सारख्या verb ची गरज आहे.\"",
+          "q5OptionARight": "Summary\" हे एकमेव noun आहे जे results दाखवणाऱ्या document चे वर्णन करते.\"",
+          "q1OptionBWrong": "Deadline\" या वाक्यात grammatically काम करत नाही.\"",
+          "q5OptionBWrong": "I can create a discussion\" या context मध्ये अर्थ होत नाही.\"",
+          "q3OptionCRight": "Good\" योग्यरित्या वर्णन करते की वेळ योग्य आहे.\"",
+          "q1OptionARight": "Finish\" हे एकमेव verb आहे जे task पूर्ण करण्यासाठी grammatically बसते.",
+          "q1OptionBRight": "\"तुम्हाला designs पूर्ण करण्यासाठी \"\"finish\"\" सारखे verb हवे.\"",
+          "q1AnswerExplanation": "Finish\" हे एकमेव verb आहे जे task पूर्ण करण्यासाठी grammatically बसते.",
+          "q4OptionBWrong": "We'll be presentation\" grammatically चुकीचे आहे.",
+          "q3OptionBRight": "\"वेळेची योग्यता मोजण्यासाठी \"\"good\"\" सारखे adjective हवे.\"",
+          "q2OptionCWrong": "Schedule\" assistance देण्याच्या context मध्ये बसत नाही.",
+          "q4OptionBRight": "Prepared\" योग्यरित्या ready असण्याची स्थिती दर्शवते.",
+          "q3OptionARight": "Good\" हे एकमेव adjective आहे जे suitable time चे logical वर्णन करते.",
+          "q4OptionCWrong": "We'll be feedback\" grammatically किंवा contextually अर्थपूर्ण नाही.",
+          "q3OptionBWrong": "Minutes\" वेळ योग्य आहे की नाही हे वर्णन करण्यासाठी अर्थपूर्ण नाही.\"",
+          "q4AnswerExplanation": "Prepared\" हा एकमेव शब्द आहे जो तयारी दर्शवतो.",
+          "q2OptionARight": "Help\" हा एकमेव योग्य verb आहे जो मदत वर्णन करतो.",
+          "q2OptionCRight": "Help\" graphics साठी लागणारी मदत योग्यरित्या वर्णन करतो.",
+          "q5OptionCWrong": "I can create a meeting\" materials तयार करण्याबद्दलच्या प्रतिसादात बसत नाही.",
+          "q4OptionCRight": "Prepared\" meeting साठी तयारी योग्यरित्या दर्शवतो.",
+          "q2AnswerExplanation": "Help\" हा एकमेव योग्य verb आहे जो मदत वर्णन करतो.",
+          "q5AnswerExplanation": "Summary\" हा एकमेव noun आहे जो परिणाम दाखवणारा document वर्णन करतो.",
+          "q5OptionBRight": "Summary\" परिणामांचा संक्षिप्त आढावा योग्यरित्या वर्णन करतो.",
+          "q4OptionARight": "Prepared\" हा एकमेव शब्द आहे जो तयारी दर्शवतो.",
+          "q1OptionCWrong": "Project\" हे noun आहे, verb नाही.\""
+        },
+        "es": {
+          "q1OptionARight": "Finish\" हा एकमेव verb आहे जो task पूर्ण करण्यासाठी grammatically बसतो.",
+          "q1OptionBRight": "\"Designs पूर्ण करण्याचे वर्णन करण्यासाठी तुम्हाला \"\"finish\"\" सारखा verb हवा.\"",
+          "q3OptionBRight": "\"Time च्या योग्यतेचे मूल्यांकन करण्यासाठी \"\"good\"\" सारखे adjective हवे.\"",
+          "q2OptionBWrong": "Team\" हे noun आहे, verb नाही.",
+          "q4OptionBRight": "Prepared\" तयार असण्याची स्थिती योग्यरित्या दर्शवते.",
+          "q3OptionBWrong": "\"Time योग्य आहे की नाही हे वर्णन करताना \"\"Minutes\"\" चा अर्थ होत नाही.",
+          "q2OptionARight": "Help\" हा मदतीचे वर्णन करणारा एकमेव योग्य verb आहे.",
+          "q3OptionCRight": "Good\" योग्यरित्या दर्शवते की time suitable आहे.",
+          "q5OptionCWrong": "I can create a meeting\" materials तयार करण्याबद्दलच्या response म्हणून बसत नाही.",
+          "q1AnswerExplanation": "Finish\" हा एकमेव verb आहे जो task पूर्ण करण्यासाठी grammatically बरोबर आहे.\"",
+          "q4OptionBWrong": "We'll be presentation\" grammatically चुकीचे आहे.\"",
+          "q2OptionCWrong": "Schedule\" assistance देण्याच्या context मध्ये योग्य नाही.\"",
+          "q2AnswerExplanation": "Help\" हा एकमेव योग्य verb आहे जो assistance दर्शवतो.",
+          "q3OptionARight": "Good\" हा एकमेव adjective आहे जो suitable time चे logical वर्णन करतो.",
+          "q4OptionCWrong": "We'll be feedback\" grammatically किंवा contextually अर्थपूर्ण नाही.",
+          "q5AnswerExplanation": "Summary\" हा एकमेव noun आहे जो results दाखवणारा document दर्शवतो.",
+          "q4AnswerExplanation": "Prepared\" हा एकमेव शब्द आहे जो readiness व्यक्त करतो.",
+          "q5OptionBRight": "Summary\" results चा concise overview योग्यरित्या दर्शवतो.",
+          "q4OptionARight": "Prepared\" हा एकमेव शब्द आहे जो readiness व्यक्त करतो.",
+          "q2OptionCRight": "Help\" graphics साठी लागणारी मदत योग्यरित्या दर्शवते.\"",
+          "q1OptionCWrong": "Project\" हे noun आहे, verb नाही.",
+          "q4OptionCRight": "Prepared\" meeting साठी तयारी योग्यरित्या दर्शवते.",
+          "q3AnswerExplanation": "Good\" हे एकमेव adjective आहे जे योग्य वेळ दर्शवते.",
+          "q5OptionCRight": "Summary\" document चे योग्य वर्णन करते.",
+          "q3OptionCWrong": "Calendar\" या context मध्ये grammatically किंवा logically बसत नाही.",
+          "q1OptionCRight": "\"Designs पूर्ण करण्याची action दर्शवण्यासाठी तुम्हाला \"\"finish\"\" सारखे verb हवे.\"",
+          "q5OptionARight": "Summary\" हे एकमेव noun आहे जे results दर्शवणारे document वर्णन करते.",
+          "q1OptionBWrong": "Deadline\" या sentence मध्ये grammatically काम करत नाही.",
+          "q5OptionBWrong": "I can create a discussion\" या context मध्ये अर्थ होत नाही.",
+          "q2OptionBRight": "\"वाक्यात Carlos काय करेल हे वर्णन करण्यासाठी \"\"help\"\" सारखा verb लागतो.\""
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q2AnswerExplanation": "\"एक \"\"contribution\"\" म्हणजे discussion दरम्यान शेअर केलेली मौल्यवान कल्पना किंवा input.\"",
+          "q5AnswerExplanation": "Collaboration\" म्हणजे एक सामान्य ध्येय साध्य करण्यासाठी एकत्र काम करणे.\"",
+          "q3AnswerExplanation": "\"एक \"\"action item\"\" म्हणजे deadline सह कोणाला तरी दिलेले विशिष्ट काम.\"",
+          "q1AnswerExplanation": "\"एक \"\"agenda\"\" म्हणजे meeting दरम्यान चर्चा करायच्या विषयांची यादी.\"",
+          "q4AnswerExplanation": "\"एक \"\"update\"\" म्हणजे अलीकडील प्रगती किंवा बदलांची माहिती.\""
+        }
+      }
+    },
+    "version10": {
+      "exercise2": {
+        "id": {
+          "q2OptionCWrong": "John ने विशेषतः appetizer मागितले नाही.",
+          "q2AnswerExplanation": "Order देणे म्हणजे server ला सांगणे की तुम्हाला कोणते जेवण आणि पेय हवे आहे.",
+          "q3OptionARight": "तिने वाट पाहताना खाण्यासाठी छोटे पदार्थ (appetizers) मागितले.",
+          "q4OptionCWrong": "Billed\" चा संबंध payment शी आहे, जेवणाच्या चवीशी नाही.\"",
+          "q5AnswerExplanation": "Bill मध्ये restaurant मध्ये तुमच्या जेवणासाठी किती पैसे द्यावे लागतील ते दाखवले जाते.",
+          "q4AnswerExplanation": "Delicious म्हणजे जेवण खूप चविष्ट आहे.",
+          "q5OptionBRight": "\"Lisa ला bill मागावा लागेल - हा document आहे जो तिच्या जेवणासाठी किती पैसे द्यावे लागतील ते दाखवतो.\"",
+          "q4OptionARight": "Carlos ने त्याचा pasta delicious म्हणून वर्णन केला - म्हणजे जेवण खूप चविष्ट आहे.",
+          "q2OptionCRight": "त्याने server ला त्याची जेवणाची निवड सांगितली (order दिला).",
+          "q1OptionCWrong": "\"Sarah appetizer बघत नाही, जो जेवणाचा छोटा भाग असतो.\"",
+          "q4OptionCRight": "Carlos त्याचा pasta किती चविष्ट आहे ते सांगत होता (delicious).",
+          "q3AnswerExplanation": "Appetizers हे मुख्य जेवणाआधी दिले जाणारे छोटे पदार्थ आहेत.",
+          "q5OptionCRight": "तिला तिच्या जेवणासाठी पैसे द्यायचे आहेत (bill).",
+          "q3OptionCWrong": "\"Maria ने menu मागितला नाही, ज्यात जेवणाचे पर्याय असतात.\"",
+          "q1OptionCRight": "ती उपलब्ध खाद्यपदार्थांची संपूर्ण यादी पाहत आहे (menu).",
+          "q5OptionBWrong": "\"Lisa ला menu ची गरज नाही, जो खाद्य पर्याय दाखवतो, कारण तिने जेवण संपवले आहे.\"",
+          "q2OptionBRight": "John ने order दिला - server ला सांगितले की त्याला कोणते खाद्यपदार्थ आणि पेये हवी आहेत.",
+          "q1OptionARight": "Sarah menu वाचत आहे - restaurant मध्ये उपलब्ध खाद्यपदार्थ आणि पेयांची यादी.",
+          "q1OptionBRight": "ती order करण्यापूर्वी खाद्य पर्याय पाहत आहे (menu).",
+          "q3OptionBRight": "तिने मुख्य जेवणापूर्वी खाण्यासाठी छोटे पदार्थ मागितले (appetizers).",
+          "q2OptionBWrong": "\"John ने bill मागितला नाही, जो जेवण संपल्यानंतर मागितला जातो.\"",
+          "q4OptionBRight": "Carlos ने त्याच्या pasta चा स्वाद अत्यंत चांगला (delicious) म्हणून वर्णन केला.",
+          "q3OptionBWrong": "\"Maria ने bill मागितला नाही, जो जेवल्यानंतर मागितला जातो.\"",
+          "q5OptionARight": "तिला किती पैसे द्यावे लागतील हे जाणून घ्यायचे आहे (the bill).",
+          "q1OptionBWrong": "\"Sarah bill पाहत नाही, ज्यामध्ये जेवणानंतर किती पैसे द्यायचे ते दाखवले आहे.\"",
+          "q2OptionARight": "त्याने server ला सांगितले की त्याला कोणते जेवण हवे आहे (order दिला).",
+          "q3OptionCRight": "\"Maria ने appetizers मागितले - मुख्य जेवणाआधी दिले जाणारे छोटे पदार्थ.\"",
+          "q5OptionCWrong": "\"Lisa ला appetizer नको आहे, जो starter dish आहे, कारण तिने जेवण संपवले आहे.\"",
+          "q1AnswerExplanation": "\"Menu म्हणजे restaurant मध्ये उपलब्ध जेवण आणि पेयांची यादी.\"",
+          "q4OptionBWrong": "Ordered\" म्हणजे जेवण निवडण्याची क्रिया, त्याची चव नाही.\""
+        }
+      }
+    },
+    "version12": {
+      "exercise3": {
+        "q4AnswerExplanation": "\"Bill (किंवा check) हा document आहे जो restaurant मध्ये ग्राहकांना द्यावे लागणारी एकूण किंमत दाखवतो.\"",
+        "q2AnswerExplanation": "\"Ordering म्हणजे server ला सांगणे की तुम्हाला कोणते जेवण खरेदी करून खायचे आहे.\"",
+        "q3AnswerExplanation": "Delicious म्हणजे अत्यंत चांगली चव असणारे आणि आनंददायक अनुभव देणारे जेवण.",
+        "q1AnswerExplanation": "\"Menu म्हणजे restaurant मध्ये उपलब्ध पदार्थांची यादी, जी सामान्यतः पुस्तिका किंवा board वर दिली जाते.\""
+      },
+      "exercise2": {
+        "es": {
+          "q4AnswerExplanation": "Delicious\" हे adjective आहे जे खूप चवदार अन्नाचे वर्णन करते.\"",
+          "q2AnswerExplanation": "Order\" हे verb आहे जे restaurant मध्ये अन्न निवडणे आणि मागणे याचे वर्णन करते.\"",
+          "q5AnswerExplanation": "Bill\" म्हणजे ग्राहकाला त्यांच्या जेवणासाठी किती पैसे द्यावे लागतील हे दाखवणारा कागद.",
+          "q3AnswerExplanation": "Appetizer\" म्हणजे मुख्य जेवणाआधी दिला जाणारा छोटा पदार्थ.",
+          "q1AnswerExplanation": "Menu\" हा कागद आहे ज्यामध्ये restaurant मध्ये उपलब्ध सर्व अन्न आणि पेय पदार्थांची यादी असते."
+        }
+      }
+    },
+    "version13": {
+      "exercise2": {
+        "q2AnswerExplanation": "Agree\" म्हणजे समान मत असणे किंवा दुसऱ्याने केलेली सूचना स्वीकारणे.",
+        "q3AnswerExplanation": "Clarify\" म्हणजे तपशील पुष्ट करून एखादे विधान किंवा परिस्थिती कमी गोंधळात टाकणारी आणि अधिक समजण्यासारखी बनवणे.",
+        "q1AnswerExplanation": "Suggestion\" म्हणजे इतरांच्या विचारासाठी मांडलेली कल्पना किंवा प्रस्ताव."
+      },
+      "exercise3": {
+        "q2AnswerExplanation": "Clarify\" अधिक स्पष्टीकरण मागण्यासाठी वापरले जाते. \"\"Agree\"\" येथे अप्रासंगिक आहे आणि स्पष्टता मागताना \"\"suggest\"\" लागू होत नाही.\"",
+        "q5AnswerExplanation": "Clarify\" म्हणजे काहीतरी स्पष्ट करणे. \"\"Sure\"\" हे verb नाही आणि \"\"told\"\" चुकीचा tense आहे. गोंधळ दूर करण्यासाठी फक्त \"\"clarify\"\" योग्य आहे.\"",
+        "q4AnswerExplanation": "Couldn't agree\" म्हणजे एकमत होऊ शकले नाही. \"\"Make\"\" ला object हवे असते, आणि \"\"suggest\"\" असहमती दर्शवत नाही. समान मतांची चर्चा करताना \"\"agree\"\" योग्य आहे.\"",
+        "q3AnswerExplanation": "Let me suggest\" हा प्रस्ताव मांडण्याचा phrase आहे. \"\"Do\"\" आणि \"\"start\"\" तर्कसंगत नाहीत. Meeting पुढे ढकलण्यासारखे ideas देताना फक्त \"\"suggest\"\" योग्य आहे.\"",
+        "q1AnswerExplanation": "Strongly agree with\" म्हणजे एखाद्या मताला जोरदार पाठिंबा. फक्त \"\"agree\"\" हे \"\"strongly\"\" आणि \"\"with\"\" सोबत वापरता येते; \"\"pause\"\" व्याकरणदृष्ट्या चुकीचे आहे आणि \"\"clarify\"\" पाठिंबा दर्शवत नाही.\""
+      }
+    }
+  },
+  "day2_2": {
+    "version14": {
+      "whenYouAskingForRequest": "जेव्हा तुम्ही request करता तेव्हा तुम्ही असे म्हणू शकता -",
+      "q6AnswerExplanation": "Yours योग्य आहे कारण Sarah विचारत आहे की हे book Alex चे आहे का.",
+      "q2AnswerExplanation2": "Me\" हा object pronoun आहे जो invite होण्याची action receive करतो.",
+      "q1AnswerExplanation2": "She\" हा subject pronoun आहे जो action कोण करत आहे ते दाखवतो.",
+      "q1AnswerExplanation": "\"आम्ही 'He' वापरतो कारण Joe हा singular male subject आहे, आणि pronoun चे gender आणि number match करायला हवे.\"",
+      "funWithTongueTwister": "Tongue Twister सोबत मजा",
+      "letPracticeSomeGrammar": "चला Grammar practice करूया",
+      "pronunciationExercise": "Pronunciation Exercise",
+      "grammarExercise": "Grammar Exercise",
+      "grammarLesson": "Grammar Lesson",
+      "task4": "Task 4",
+      "whenYouAskingRequestCouldWeFindTime": "\"Request मागताना तुम्ही असे म्हणू शकता - \"\"Could we find a time after the meeting to talk about the idea?\"\"\"",
+      "socialIntroductions": "Social Introductions",
+      "q7AnswerExplanation": "\"Alex जो specific book हातात धरून आहे त्याचा संदर्भ देत आहे म्हणून 'This' योग्य आहे.\"",
+      "describeMemorableTripYouTook": "तुम्ही केलेल्या memorable trip चे वर्णन करा. काय खास होते?",
+      "q4AnswerExplanation": "\"Jon Snow जवळच्या specific sword चा संदर्भ देत आहे म्हणून 'this' योग्य आहे.\"",
+      "letReadTogether": "चला एकत्र वाचूया",
+      "q4AnswerExplanation3": "She\" हा action करणाऱ्या व्यक्तीसाठी subject pronoun आहे, आणि \"\"it\"\" हा food साठी object pronoun आहे.\"",
+      "speaking": "Speaking",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "तुमच्या team सोबत काम करताना तुम्हाला आनंद झालेल्या वेळेबद्दल सांगा. काय खास होते?",
+      "q2AnswerExplanation3": "Mine\" हा possessive pronoun आहे जो noun न पुनरावृत्त करता ownership दाखवतो. \"\"Them\"\" हा multiple items साठी object pronoun आहे.\"",
+      "letStartYourRoadmap": "चला तुमचा roadmap सुरू करूया",
+      "masteringPronouns": "Pronouns मध्ये पारंगत होणे",
+      "q5AnswerExplanation3": "Myself\" हा reflexive pronoun आहे जो \"\"I\"\" कडे परत refer करतो, आणि \"\"my\"\" हा possessive adjective आहे जो noun च्या आधी येतो.\"",
+      "day1Revision": "Day 1 : Revision",
+      "q3AnswerExplanation2": "Their\" हा possessive pronoun आहे जो घराचे ownership कोणाचे आहे ते दाखवतो.\"",
+      "pronounciation": "Pronunciation",
+      "q1AnswerExplanation3": "Her/him\" हे object pronouns आहेत जे कोणीतरी action receive करतो तेव्हा वापरतात.\"",
+      "q2AnswerExplanation": "\"Daenerys (एक female) owner असल्यामुळे, \"\"hers\"\" हे योग्य उत्तर आहे.\"",
+      "q5AnswerExplanation": "\"'He' वापरतात कारण Alex हा singular male subject आहे, आणि pronoun चे gender आणि number match असावे.\"",
+      "letTestYourSentenceStructure": "तुमची sentence structure तपासूया",
+      "letJumpIntoLearningPronunciations": "Pronunciations शिकायला सुरुवात करूया",
+      "politelyAnnounceThatYouAreLeaving": "\"नम्रपणे सांगा की तुम्ही जात आहात - Sorry, I have to leave for another meeting.\"",
+      "readAloud": "मोठ्याने वाचा",
+      "ieltsPart2": "IELTS Part 2",
+      "describeTheImage": "Image चे वर्णन करा",
+      "repeatAfterMe": "माझ्या मागे म्हणा",
+      "q3AnswerExplanation3": "We\" हा subject pronoun आहे (action करणारा), तर \"\"us\"\" हा object pronoun आहे (invitation receive करणारा).\"",
+      "summarizeLecture": "Lecture चा सारांश द्या",
+      "introductionSpeakingTest": "परिचय : Speaking Test",
+      "letJumpIntoRealLifeConversationToday": "आज आपण real-life conversation मध्ये जाऊ या आणि vocabulary चा practice सुद्धा करूया",
+      "q3AnswerExplanation": "Pronoun 'herself' वापरला आहे कारण sentence चा subject 'She' आहे आणि sandwich बनवण्याची action तिच्यावरच reflect होते.",
+      "politelyAnnounceThatLeaving": "विनम्रपणे सांगा की तुम्ही जात आहात -",
+      "pronunciationReview": "Pronunciation Review",
+      "readOutLoud": "मोठ्याने वाचा!!"
+    }
+  },
+  "onBoarding": {
+    "helpYouPractice": "नमस्कार! मी Sarah. मी तुम्हाला English practice आणि सुधारण्यासाठी मैत्रीपूर्ण conversations द्वारे मदत करण्यासाठी येथे आहे.",
+    "togetherWeWillWork": "एकत्र, आम्ही तुमच्या speaking skills वर आरामशीर, शांत वातावरणात काम करू.",
+    "whetherYouAreJustStarting": "तुम्ही नुकतेच सुरुवात करत असाल किंवा English मध्ये आधीच comfortable असाल, आपण ही learning journey एकत्र करू - तुमच्या स्वतःच्या गतीनुसार",
+    "whatShouldICallYou": "मित्रा, मी तुला काय म्हणू?",
+    "hiIAmPersonalEnglishSpeakingPartner": "नमस्कार! मी तुमचा Personal English Speaking Partner आहे",
+    "callMeSarahWhatsYourName": "तुम्ही मला Sarah म्हणा. तुमचे नाव काय?",
+    "thatsVeryCoolName": "खूप छान नाव! आम्ही English practice करताना खूप मजा करणार आहोत!",
+    "toEnsureYouGetLatestLessons": "तुम्हाला latest lessons आणि personalised tips मिळतील याची खात्री करण्यासाठी, तुमचा phone number देऊ शकाल का?",
+    "niceToMeetYouGetLatestLessons": "तुम्हाला भेटून आनंद झाला! तुम्हाला latest lessons मिळतील याची खात्री करण्यासाठी, तुमचा phone number देऊ शकाल का?",
+    "whichAgeGroupAreYouIn": "तुम्ही कोणत्या age group मध्ये आहात?",
+    "ageGroup": {
+      "under18": "18 पेक्षा कमी",
+      "age18to24": "18-24",
+      "age25to34": "25-34",
+      "age35to44": "35-44",
+      "age45plus": "45+"
+    },
+    "whatIsYourGender": "तुमचं gender काय आहे?",
+    "gender": {
+      "male": "Male",
+      "female": "Female",
+      "nonBinary": "Non-Binary"
+    },
+    "dailyPracticeHelpsAchieveGoals": "रोज practice केल्याने तुम्ही तुमचे goals लवकर achieve करू शकाल",
+    "whatBestDescribesYourSituation": "तुमची current situation कशाने उत्तम describe होते?",
+    "imGladWeMetWhatsYourGoal": "तुम्हाला भेटून बरं वाटलं. English शिकण्याचं तुमचं main goal काय आहे?",
+    "mainGoal": {
+      "ielts": "English exam ची तयारी",
+      "growInMyCareer": "माझ्या career मध्ये प्रगती",
+      "personalGrowth": "वैयक्तिक विकास",
+      "travelConfidently": "आत्मविश्वासाने प्रवास",
+      "excelAtMySchool": "शाळेत उत्कृष्ट कामगिरी",
+      "other": "इतर"
+    },
+    "typeYourGoalHint": "तुमचं goal इथे लिहा",
+    "typeYourExamHint": "तुमचं exam इथे लिहा",
+    "examType": {
+      "ielts": "IELTS",
+      "toefl": "TOEFL",
+      "pte": "PTE",
+      "toeic": "TOEIC",
+      "other": "इतर"
+    },
+    "currentSituation": {
+      "student": "विद्यार्थी",
+      "workingProfessional": "नोकरदार",
+      "freelancer": "फ्रीलान्सर",
+      "businessOwner": "व्यवसाय मालक",
+      "homeMaker": "गृहिणी",
+      "careerBreak": "career ब्रेकवर",
+      "lookingForWork": "नोकरीच्या शोधात",
+      "parent": "पालक"
+    },
+    "amazingWhereDidHearAboutStimuler": "धन्यवाद! तुम्ही आमच्याबद्दल कुठे ऐकले ते सांगाल का?",
+    "noProblemWhereDidYouHearAboutUs": "काही हरकत नाही! तुम्ही आमच्याबद्दल कुठे ऐकले ते सांगाल का?",
+    "iAmGladWeMet": "मी खूप खुश आहे की आम्ही भेटलो!",
+    "enterReferralCode": "तुमच्याकडे असलेला referral code टाका",
+    "letsCreateAPlanForJustYou": "आपण तुमच्यासाठी एक plan तयार करूया जेणेकरून तुम्ही तुमची goals जलद साध्य करू शकाल! सांगा, तुम्ही English का शिकत आहात?",
+    "thatsImpressiveMentoredIels": "खूप छान! मी जगभरातील दहा लाखांपेक्षा जास्त candidates ना त्यांचा dream band score मिळवून देण्यासाठी मार्गदर्शन केले आहे",
+    "whatTypeOfSituationsDoYouWant": "तुम्हाला कोणत्या प्रकारच्या situations मध्ये चांगले व्हायचे आहे?",
+    "thatsImpressiveMentoredTravel": "कमाल! मग ती Business trip असो किंवा तुम्ही abroad काम करत असाल, आम्ही सर्व situations cover करू.",
+    "thatsImpressiveMentoredEducation": "ठीक आहे! तुम्हाला माहित आहे का मी दहा लाखांपेक्षा जास्त लोकांना English fluently आणि confidently बोलायला मदत केली आहे",
+    "greatMentoredOthers": "खूप छान! मी दहा लाखांपेक्षा जास्त लोकांना English fluently आणि confidently बोलायला मदत केली आहे",
+    "thatsImpressiveMentoredBusiness": "खूप छान! मी दहा लाखांपेक्षा जास्त working professionals ना real-world conversations ची Practice करून त्यांच्या career मध्ये सुधारणा करण्यासाठी मार्गदर्शन केले आहे",
+    "lookWhatLearnersHaveToSay": "या successful learners चे म्हणणे पहा:",
+    "thesePeoplePracticedDaily": "या लोकांनी दररोज Practice केली आणि खूप Progress केली आणि मी त्यांना track वर राहण्यासाठी मदत केली!",
+    "iWillRemindYouToo": "मी तुम्हाला पण remind करेन, जेणेकरून तुम्ही practice miss करणार नाही. फक्त तुमचे Notifications चालू करा",
+    "thanksForThatTogether": "त्याबद्दल धन्यवाद! चला मिळून English ला दैनंदिन शिकण्याची सवय बनवूया",
+    "noIssuesIWill": "काही अडचण नाही! मी तुम्हाला पुन्हा कधीतरी विचारेन",
+    "whatIsCurrentEnglishLevel": "तुमची सध्याची English level काय आहे असे तुम्ही म्हणाल?",
+    "perfectEvenWithJustAFewWords": "Perfect! फक्त काही शब्दांसह पण, तुम्ही सुरुवात करण्यासाठी तयार आहात. मी तुम्हाला step by step आत्मविश्वासाने बोलण्यास मार्गदर्शन करेन",
+    "awesomeAlreadyHalfwayThere": "Awesome! तुम्ही आधीच अर्ध्या रस्त्यावर आहात. माझ्यासोबत आणखी थोडी Practice केल्यास तुम्ही कमाल करू शकाल!",
+    "awesomeSkysTheLimit": "Awesome! तुमच्यासाठी आकाश मर्यादा आहे. आपण कठीण challenges घेऊ आणि मोठी उंची गाठू",
+    "almostDoneAnswerAQuestionBeginner": "आपण जवळजवळ पूर्ण केले आहे! शेवटची step म्हणून तुम्ही हा passage वाचावा असे मला वाटते",
+    "almostDoneAnswerAQuestion": "आपण जवळजवळ पूर्ण केले आहे! शेवटची step म्हणून मला तुम्ही एका प्रश्नाचे उत्तर द्यावे असे वाटते",
+    "dontKnowWhatToSpeak": "काय बोलायचे कळत नाही? काही हरकत नाही, तुम्ही खालील Hint वाचू शकता!",
+    "didNotSpeakAlot": "असे वाटते की तुम्ही जास्त बोलला नाहीत",
+    "letsTrySomethingElse": "चला आणखी काहीतरी try करूया, बरं का?",
+    "greatReasonExperienceBestAiApp": "छान होते! आता तुम्हाला कळेल की आम्ही Google चा Best AI App 2023 का जिंकलो.",
+    "reasonExperienceBestAiApp": "आता तुम्हाला कळेल की आम्ही Google चा Best AI App 2023 का जिंकलो.",
+    "tapOnButtonBelow": "तुमचे mispronunciations, awkward pauses आणि आमच्या इतर suggestions पाहण्यासाठी खालील button वर tap करा",
+    "curiousHowWellYou": "तुम्ही किती चांगले बोललात हे जाणून घ्यायचे आहे? तुमचा performance पाहण्यासाठी tap करा!",
+    "purpose": {
+      "ielts": "IELTS",
+      "talkToColleaguesClients": "Colleagues/clients सोबत बोलणे",
+      "clearJobInterview": "Job interview clear करणे",
+      "everydayConvo": "रोजच्या conversation",
+      "excelAtSchool": "माझ्या शाळेत उत्कृष्ट कामगिरी",
+      "travel": "Travel",
+      "anyOtherGoal": "इतर कोणताही Goal",
+      "improveMyCareer": "माझे career सुधारणे"
+    },
+    "workplaceSubPurpose": {
+      "jobInterview": "Job Interview",
+      "teamMeeting": "Team Meetings",
+      "presentations": "Presentations",
+      "networking": "Networking",
+      "smallTalk": "सहकाऱ्यांसोबत Small Talk"
+    },
+    "HowDidUserHearAboutApp": {
+      "tiktok": "Tiktok",
+      "instagram": "Instagram Reel",
+      "googleAds": "Google Ads",
+      "friend": "मित्रांकडून",
+      "facebook": "Facebook",
+      "youtube": "YouTube",
+      "haveAReferralCode": "Referral Code आहे का?",
+      "other": {
+        "playStore": "Play Store वर search केले",
+        "appStore": "App Store वर search केले"
+      },
+      "twitterX": "Twitter/X"
+    },
+    "levelDescription": {
+      "beginner": "मला काही शब्द माहित आहेत, पण वाक्य बनवता येत नाहीत.",
+      "intermediate": "मी साध्या गोष्टींबद्दल छोटी वाक्ये बनवू शकतो.",
+      "advance": "मी छोटे conversation करू शकतो आणि इतरांना समजू शकतो."
+    },
+    "reviewBoostedMyConfidence": "Sarah च्या chats मुळे माझे English सुधारले आणि test साठी confidence वाढला",
+    "thatsImpressiveMentoredJob": "That's impressive! मी दहा लाख लोकांना त्यांच्या dream job मिळवण्यात मदत केली आहे, त्यांच्या interviews मध्ये excel करण्यास मदत करून",
+    "reviewCommunityActive": "Stimuler pro community चे members नेहमी active असतात आणि मला motivated ठेवतात",
+    "reviewBoostedMyConfidenceIELTS": "Sarah च्या chats मुळे माझे English सुधारले आणि IELTS test साठी confidence वाढला",
+    "selectYourLanguagePreferance": "कृपया तुमची भाषा preference निवडा",
+    "thatsImpressiveMentoredSubPurpose": "खूप छान! मी दहा लाख working professionals ना त्यांच्या career मध्ये मदत केली आहे, त्यांच्यासोबत real-world conversations practice करून.",
+    "reviewSarahFeedbackOnVocab": "Sarah चे Vocab वरचे feedbacks खरोखर कमाल आहेत...माझा 8.0 band score Stimuler मुळेच मिळाला.",
+    "seeDetailedResults": "Detailed Results पहा",
+    "reviewSpendingTwentyMinutes": "Sarah सोबत दररोज 20 मिनिटे घालवल्यामुळे माझी fluency खूप सुधारली आहे",
+    "reviewSarahFeedbackOnVocabIELTS": "Sara चे Vocabulary वरचे feedback खरोखर कमाल आहेत...माझा 8.0 band score Stimuler मुळेच मिळाला",
+    "reviewAppIsAGoldenEgg": "हा app एक golden egg आहे. तो तुम्हाला बोलायला चांगले शिकवतो. Amazing, 10/5 द्यायला आवडेल",
+    "awesomeThousandsOfEnglishLearners": "छान! हजारो English learners ज्यांना मी शिकवते, ते beginners म्हणून सुरुवात करतात आणि मी त्यांना fluent English speakers बनवते",
+    "thatsImpressiveMentoredSocializing": "छान! आम्ही मजेशीर आणि engaging conversations करू शकतो. यामुळे तुम्हाला रोजच्या कामांसाठी communication मध्ये पारंगत होण्यात मदत होईल",
+    "reviewBoostedConfidenceOffice": "Sarah च्या chats मुळे माझे English सुधारले आणि office मध्ये माझा confidence वाढला",
+    "reviewAppIsAGoldenEggIELTS": "हा app IELTS साठी golden egg आहे. तुम्हाला बोलायला मदत करतो. Amazing, 10/5 देईन",
+    "canIknowYourName": "मी खूप excited आहे, तुमचे नाव काय आहे?",
+    "letsGetToKnowEachOther": "चला एकमेकांना ओळखूया!",
+    "whatsYourNativeLanguage": "तुमची मातृभाषा काय आहे?",
+    "gotItWillUseTheLanguageToExplainEnglish": "समजले! आम्ही app मध्ये English समजावून सांगण्यासाठी तुमची भाषा वापरू",
+    "wantToChangeAppLanguageTo": "तुम्हाला app ची भाषा तुमच्या मातृभाषेत बदलायची आहे का?",
+    "youWillLearnEnglishThrough": "तुम्ही $language मधून English शिकाल",
+    "weUseEnglishAsTheAppsLanguage": "आम्ही या app मध्ये English भाषा वापरतो",
+    "awesomeCanIKnowYourName": "छान! तुमचे नाव काय आहे?",
+    "soWhatsYourNativeLanguage": "तर, तुमची मूळ भाषा कोणती? यामुळे मला तुम्हाला अधिक चांगली मदत करता येईल.",
+    "chat_onboarding_pronunciation_practice_screen_needs_practice": "Practice हवी आहे",
+    "asLastStepReadFollowing": "शेवटची step म्हणून मला तुम्ही हा text वाचावा असे वाटते!",
+    "weAreAlmostDone": "आम्ही जवळजवळ पूर्ण केले आहे!",
+    "weStartOffWith": "आम्ही Grammar आणि Vocabulary lessons सुरू करू आणि तुम्हाला speaking मध्ये चांगले बनण्यास मदत करू",
+    "ieltsModule": {
+      "academic": "Academic",
+      "general": "General",
+      "notSure": "मला खात्री नाही"
+    },
+    "examTime": {
+      "thisMonth": "मी या महिन्यात IELTS देईन",
+      "nextMonth": "मी पुढच्या महिन्यात IELTS देईन",
+      "moreThanTwo": "माझ्याकडे तयारीसाठी दोन महिन्यांपेक्षा जास्त वेळ आहे",
+      "after": "{month} नंतर"
+    },
+    "moveTheSliderToPickYourScore": "तुमचा score निवडण्यासाठी slider हलवा",
+    "bandScore": "Band Score",
+    "skill": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "speaking": "Speaking",
+      "listening": "Listening"
+    },
+    "journeyGraph": {
+      "yourJourney": "तुमचा प्रवास",
+      "toAceIeltsStarts": "IELTS मध्ये यश मिळवण्यासाठी सुरू होतो",
+      "curatingContent": "Content तयार करत आहोत",
+      "forYourIeltsJourney": "तुमच्या IELTS प्रवासासाठी",
+      "aPlanForYouToReach": "तुमच्यासाठी एक plan",
+      "yourGoal4xFaster": "तुमचे goal 4x वेगाने",
+      "planForYou": "तुमच्यासाठी PLAN",
+      "practice20MinsPerDay": "दररोज 20 मिनिटे practice",
+      "oneMockTestPerDay": "दररोज एक Mock Test",
+      "ieltsConversationPerDay": "दररोज IELTS Conversation",
+      "weeklyReviews": "साप्ताहिक Reviews",
+      "youTookThe": "तुम्ही टाकले",
+      "firstStep": "पहिले पाऊल",
+      "inOneMonth": "1 महिन्यात",
+      "inTwoMonths": "2 महिन्यांत",
+      "inMoreThanTwoMonths": "2+ महिन्यांत"
+    },
+    "hintPlayback": {
+      "youDidGreatFirstStep": "तुम्ही तुमच्या पहिल्या पावलात छान केले!",
+      "improvePronunciation": "चला pronunciation सुधारूया"
+    }
+  },
+  "day4_2": {
+    "version13": {
+      "meetingVocabularyPractice": "Meeting Vocabulary Practice",
+      "summarizeLecture": "Lecture चा सारांश द्या",
+      "q3AnswerExplanation": "Dog\" हे एक noun आहे, जे barking करणाऱ्या प्राण्याचे नाव आहे. Nouns लोक, ठिकाणे किंवा वस्तू ओळखतात, त्यामुळे \"\"dog\"\" या वाक्याचा subject आहे.\"",
+      "teamMeetingPractice": "Team Meeting Practice",
+      "q3AnswerExplanation2_3": "Deserted\" म्हणजे सोडून दिलेले आणि रिकामे, प्रसिद्ध नाही.",
+      "readItOutLoud": "ते मोठ्याने वाचा",
+      "q2AnswerExplanation2": "Bustling म्हणजे energetic activity, हालचाल आणि आवाजाने भरलेले ठिकाण.",
+      "q1AnswerExplanation2": "Heritage म्हणजे पूर्वीच्या पिढ्यांकडून मिळालेल्या परंपरा आणि मौल्यवान सांस्कृतिक घटक.",
+      "q1AnswerExplanation": "Beautiful\" हे एक adjective आहे जे \"\"dress\"\" या noun चे वर्णन करते. इतर पर्याय \"\"beautifully\"\" (adverb) आणि \"\"beauty\"\" (noun) dress चे योग्य वर्णन करत नाहीत.",
+      "orderingFoodVocabRevision": "Ordering food vocab revision",
+      "q1AnswerExplanation2_3": "Population\" म्हणजे एखाद्या भागात राहणारे लोक, traditions नाही.\"",
+      "yourTurnToPracticeThisWord": "आता तुमची पाळी या word चा practice करण्याची!",
+      "mockTest1": "Mock Test 1",
+      "mockTest2": "Mock Test 2",
+      "grammarPractice": "Grammar Practice",
+      "task4": "Task 4",
+      "readingFast": "Reading : fast",
+      "letPracticeMore": "चला अधिक practice करूया!",
+      "yourTurnReadThisAloud": "तुमची पाळी! हे मोठ्याने वाचा!",
+      "q4AnswerExplanation": "Under\" हा preposition आहे जो मांजर आणि पलंगाच्या संबंधाचे योग्य वर्णन करतो. इतर options, \"\"below\"\" (जे अधिक spatially general आहे) आणि \"\"down\"\" (जे adverb आहे), context मध्ये योग्य बसत नाहीत.\"",
+      "showMeWhatYouGot": "तुमच्याकडे काय आहे ते दाखवा! हे वाक्य मोठ्याने वाचा!",
+      "task1": "Task 1",
+      "weGetBackToReadingToday": "आज आपण पुन्हा Reading कडे परतत आहोत; यावेळी थोडे advanced आहे",
+      "speaking": "Speaking",
+      "q4AnswerExplanation2": "Authentic म्हणजे मूळ आणि पारंपारिक उत्पत्तीशी खरे",
+      "describeTheImage": "Image चे वर्णन करा",
+      "roleplayExercise": "Roleplay Exercise",
+      "itAgainTimeToPracticeYourConversational": "तुमच्या conversational आणि tongue-twisting skills चा Practice करण्याची पुन्हा वेळ आली आहे",
+      "letStartYourRoadmap": "तुमचा roadmap सुरू करूया",
+      "ieltsPart2Lesson": "IELTS Part 2 Lesson",
+      "themeTravel": "Theme : Travel",
+      "workplaceMeetingRoleplay": "Workplace Meeting Roleplay",
+      "q4AnswerExplanation2_2": "Modified\" म्हणजे मूळपासून बदललेले, पारंपरिक नाही.",
+      "letsPracticeSomeGrammar": "चला Grammar practice करूया",
+      "q2AnswerExplanation2_3": "Silent\" म्हणजे आवाज नसलेले शांत, busy च्या उलट.",
+      "q3AnswerExplanation2": "Renowned म्हणजे प्रसिद्ध आणि उत्कृष्टतेसाठी मान्यताप्राप्त.",
+      "nowYouTryReadThisSentence": "आता तुम्ही try करा! हे sentence वाचा!",
+      "q2AnswerExplanation": "Extremely\" हे \"\"fast\"\" adjective ला modify करणारे adverb आहे. इतर options \"\"extreme\"\" (adjective) आणि \"\"extremeness\"\" (noun) \"\"fast\"\" ला योग्यरित्या modify करत नाहीत.",
+      "nowItsTheTimeToPracticeYourThinkingSkills": "आता तुमच्या question-answering आणि तत्काळ thinking skills चा practice करण्याची वेळ आली आहे.",
+      "haveFunWithThisTongueTwister": "या tongue-twister सोबत मजा करा",
+      "q5AnswerExplanation": "They\" हा sentence चा subject म्हणून वापरला जाणारा pronoun आहे. इतर options, \"\"Their\"\" (possessive pronoun) आणि \"\"Them\"\" (object pronoun), subject position मध्ये बसत नाहीत.\"",
+      "q2AnswerExplanation2_2": "Declining\" म्हणजे वाईट होणे किंवा कमी होणे, active नाही.\"",
+      "q3AnswerExplanation2_2": "Deserted\" म्हणजे सोडलेले आणि रिकामे, famous नाही.\"",
+      "lastOneReadThisSentenceAloud": "शेवटचे! हे sentence मोठ्याने वाचा!",
+      "orderingFood": "Food order करणे",
+      "vocabularyExercise": "Vocabulary Exercise",
+      "nowItYourMomentToShine": "आता तुमची shine करण्याची वेळ आली! हे sentence वाचून बघा!",
+      "readAloud": "मोठ्याने वाचा",
+      "q1AnswerExplanation2_2": "Scenery\" म्हणजे natural landscape features, cultural traditions नाही.\"",
+      "essentialVocabularyForDescribingYourCountry": "\"तुमचा Country, City आणि Travel describe करण्यासाठी Essential Vocabulary\"",
+      "task3": "Task 3",
+      "q4AnswerExplanation2_3": "Foreign\" म्हणजे दुसऱ्या देशातील, नेहमी traditional असेच नाही.\"",
+      "task2": "Task 2",
+      "repeatAfterMe": "माझ्या मागे repeat करा",
+      "lastOneYouveGotThis": "शेवटचे - तुम्ही करू शकता! Final sentence मोठ्याने वाचा!"
+    }
+  },
+  "day6": {
+    "version9": {
+      "exercise2": {
+        "es": {
+          "q1OptionCRight": "Maria ला खूप tasks असल्यामुळे overwhelmed वाटत आहे.",
+          "q5OptionARight": "Lisa आपले काम importance नुसार organize करत आहे (prioritizing).",
+          "q5OptionBWrong": "Initiative म्हणजे कोणी न सांगता स्वतःहून काम करणे.",
+          "q3OptionCRight": "Sarah ने action घेऊन positive engagement दाखवले (initiative).",
+          "q2OptionBRight": "John delegating करत आहे - दुसऱ्याला task assign करत आहे.",
+          "q1OptionARight": "Maria ला खूप सारी tasks मुळे overwhelmed वाटत आहे.",
+          "q1AnswerExplanation": "Overwhelmed म्हणजे आरामात handle करता येण्यापेक्षा जास्त tasks असणे",
+          "q4OptionBWrong": "Delegation म्हणजे इतरांना tasks assign करणे.",
+          "q3OptionBRight": "\"Sarah ने स्वतःच problem solve केली (initiative).\"",
+          "q4OptionBRight": "Alex ला prolonged exhaustion (burnout) झाला आहे.",
+          "q3OptionBWrong": "Delegation म्हणजे इतरांना tasks assign करणे.",
+          "q4AnswerExplanation": "Burnout म्हणजे prolonged stress मुळे होणारा exhaustion",
+          "q1OptionAWrong": "Motivated म्हणजे कामाबद्दल eager किंवा enthusiastic वाटणे.",
+          "q2OptionARight": "John इतरांना काम assign करत आहे (delegating).",
+          "q2OptionAWrong": "Initiative म्हणजे न सांगता स्वतःच acting करणे.",
+          "q2OptionCWrong": "Prioritizing म्हणजे कामांना महत्त्वानुसार क्रम देणे.",
+          "q2AnswerExplanation": "Delegating म्हणजे कामे दुसऱ्याला सोपवणे",
+          "q3OptionARight": "Sarah ने initiative दाखवली - कोणी सांगण्याआधीच समस्या सोडवली.",
+          "q5AnswerExplanation": "Prioritizing म्हणजे कामे महत्त्वाच्या क्रमाने हाताळणे",
+          "q5OptionBRight": "Lisa कोणती कामे सर्वात महत्त्वाची आहेत ते ठरवत आहे (prioritizing).",
+          "q4OptionARight": "Alex ला burnout होत आहे - दीर्घकाळच्या तणावामुळे थकवा.",
+          "q2OptionCRight": "John एक काम दुसऱ्याला देत आहे (delegating).",
+          "q1OptionCWrong": "Organized म्हणजे सर्व काही व्यवस्थित पद्धतीने मांडलेले असणे.",
+          "q4OptionCRight": "Alex ला burnout होत आहे - दीर्घकाळच्या तणावामुळे होणारा थकवा.",
+          "q4OptionAWrong": "Progress म्हणजे कामात किंवा करिअरमध्ये सकारात्मक प्रगती.",
+          "q3AnswerExplanation": "\"Initiative घेणे म्हणजे कोणी सांगण्याआधीच problems ओळखणे आणि त्यांचे निराकरण करणे\"",
+          "q5OptionCRight": "\"Lisa prioritizing करत आहे - महत्त्वाच्या क्रमाने tasks हाताळत आहे\"",
+          "q5OptionAWrong": "\"Delegating म्हणजे इतरांना tasks देणे\"",
+          "q3OptionCWrong": "\"Burnout म्हणजे तणावामुळे होणारा थकवा\""
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q3AnswerExplanation": "Did not\" हा helping verb आहे जो \"\"understand\"\" ला negative बनवतो. हे सांगते की Forrest ला भूतकाळात काहीतरी समजले नाही\"",
+          "q6AnswerExplanation": "Discovers\" हा action verb आहे जो Indiana Jones काय करतो ते दाखवतो. \"\"Should\"\" हा helping verb आहे जो योग्य किंवा उचित असलेले दाखवतो\"",
+          "q1AnswerExplanation": "Brought\" हा action verb आहे जो scientists ने काय केले ते दाखवतो. \"\"Was\"\" हा linking verb आहे जो \"\"decision\"\" ला \"\"dangerous\"\" शी जोडतो\"",
+          "q2AnswerExplanation": "Questioned\" आणि \"\"swallowed\"\" हे दोन्ही action verbs आहेत. एक mental action दाखवतो, दुसरा physical action दाखवतो\"",
+          "q5AnswerExplanation": "Appears\" आणि \"\"remains\"\" हे दोन्ही present tense मधील linking verbs आहेत. ते subject \"\"factory\"\" ला \"\"magical\"\" आणि \"\"full of surprises\"\" या descriptions शी action न दाखवता जोडतात\"",
+          "q4AnswerExplanation": "Was playing\" भूतकाळातील त्या क्षणी चालू असलेली action दाखवते. \"\"Was\"\" मुख्य verb \"\"playing\"\" ला ongoing action दाखवण्यासाठी मदत करते\""
+        }
+      }
+    },
+    "version8": {
+      "exercise1": {
+        "id": {
+          "q3AnswerExplanation": "Team\" 't' sound ने सुरू होतो, 'th' (theme सारखे) किंवा 'c' (cream सारखे) ने नाही\"",
+          "q1AnswerExplanation": "\"English business vocabulary मध्ये \"\"presentation\"\" चा उच्चार pre-SEN-ta-tion असा होतो, दुसऱ्या syllable वर stress असतो\"",
+          "q2AnswerExplanation": "Action items\" म्हणजे पूर्ण करावयाचे tasks, तर \"\"action limits\"\" हा सामान्य business term नाही\""
+        }
+      },
+      "exercise3": {
+        "id": {
+          "q3AnswerExplanation": "Explain\" collaboration आणि respect वाढवते. तपशील विचारणे दाखवते की तुम्ही वेगवेगळे perspectives महत्त्वाचे मानता आणि open dialogue द्वारे innovation साठी जागा तयार करता\"",
+          "q1AnswerExplanation": "Start\" leadership आणि initiative दाखवते. पहिले volunteer करणे positive tone सेट करते आणि confidence दाखवते, team participation ला प्रोत्साहन देते\"",
+          "q2AnswerExplanation": "Know\" proactive planning दाखवते. Material availability बद्दल विचारणे potential roadblocks लवकर ओळखते, foresight आणि deadlines पूर्ण करण्याची commitment दाखवते\""
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q4AnswerExplanation": "Their\" हा योग्य possessive pronoun आहे जो \"\"everyone\"\" ला refer करतो. \"\"Contribution\"\" म्हणजे common fund किंवा cause साठी दिलेले किंवा पुरवलेले काहीतरी, जे project मध्ये add करण्याच्या context मध्ये बसते\"",
+          "q2AnswerExplanation": "\"या sentence मध्ये \"\"me\"\" हा object pronoun आहे \"\"asked\"\" नंतर. \"\"I\"\" हा subject pronoun आहे आणि इथे चुकीचा असेल\"",
+          "q5AnswerExplanation": "Those\" हा demonstrative pronoun आहे जो meeting miss केलेल्या लोकांना correctly refer करतो. \"\"Action items\"\" म्हणजे completion साठी assign केलेले specific tasks, जे review करावयाच्या assignments च्या context मध्ये बसते\"",
+          "q3AnswerExplanation": "\"एक \"\"agenda\"\" म्हणजे meeting मध्ये discuss करावयाच्या topics ची list. \"\"Contribution\"\" म्हणजे दिलेले किंवा पुरवलेले काहीतरी, तर \"\"action item\"\" म्हणजे completion साठी assign केलेले specific task\"",
+          "q6AnswerExplanation": "\"पारंपरिकपणे \"\"his or her\"\" हा singular antecedents साठी \"\"or/nor\"\" सोबत वापरला जात होता, पण आधुनिक English मध्ये singular \"\"their\"\" gender-neutral आणि कमी awkward म्हणून स्वीकारले जाते, विशेषतः specific लोकांसाठी.\"",
+          "q1AnswerExplanation": "Collaborate\" म्हणजे common goal साठी एकत्र काम करणे, जे deadline पूर्ण करण्याच्या context मध्ये बसते."
+        }
+      }
+    }
+  },
+  "day11": {
+    "exercise2": {
+      "id": {
+        "q6AnswerExplanation": "Itinerary\" म्हणजे trip साठी detailed plan किंवा schedule जे activities, times आणि places समाविष्ट करते.",
+        "q3AnswerExplanation": "Gets\" हा correct third-person singular form आहे जो singular subject \"\"beach club\"\" सोबत agree करतो.",
+        "q1AnswerExplanation": "\"Modal verb \"\"need to\"\" नंतर base form \"\"plan\"\" लागतो.\"",
+        "q4AnswerExplanation": "Budget\" specifically म्हणजे spending साठी allocated केलेली planned amount of money.",
+        "q2AnswerExplanation": "Accommodation\" म्हणजे hotels, villas किंवा hostels सारखी जागा जिथे travelers राहतात.",
+        "q5AnswerExplanation": "Have\" हा correct form आहे plural subject \"\"my friends and I\"\" सोबत वापरण्यासाठी."
+      },
+      "q1AnswerExplanation": "Delegate\" हा correct verb आहे ज्याचा अर्थ tasks इतरांना assign करणे, तर \"\"burnout\"\" आणि \"\"overwhelm\"\" या context मध्ये verbs म्हणून काम करत नाहीत.",
+      "q2AnswerExplanation": "Initiative\" या sentence मध्ये logically बसते, आणि \"\"is\"\" linking verb म्हणून subject ला information सोबत connect करते.",
+      "q5AnswerExplanation": "Prioritizing\" म्हणजे कामांना महत्त्वानुसार क्रमवारी लावणे, जे तर्कसंगतपणे burnout टाळण्यास मदत करते.\"",
+      "q4AnswerExplanation": "Plans\" हे एक action verb आहे जे subject काय करतो ते दाखवते, इतर action verbs (answers, solves) शी जुळते.\"",
+      "q6AnswerExplanation": "Is\" हे linking verb म्हणून \"\"presentation\"\" ला त्याच्या माहितीशी जोडते, तर \"\"are\"\" हे \"\"clients\"\" ला त्यांच्या स्थितीशी जोडते.\"",
+      "q3AnswerExplanation": "Should\" हे helping verb आहे जे \"\"complete\"\" ला अर्थ देते, आणि \"\"overwhelmed\"\" म्हणजे जास्त कामामुळे तणावग्रस्त होणे.\""
+    },
+    "exercise3": {
+      "q2AnswerExplanation": "Ask\" गरजेनुसार मदत मागण्याची तयारी दर्शवते. तुम्हाला मदतीची गरज कधी आहे हे ओळखणे आणि ती मागण्यास तयार असणे professionalism दाखवते आणि burnout टाळते, collaborative work environment मध्ये योगदान देते.",
+      "id": {
+        "q3AnswerExplanation": "Reservation\" वापरणे smart planning आणि travel savvy दर्शवते, लोकप्रिय attractions मध्ये जागा secure करून, तुमच्या group ला मुख्य experiences गमावावे लागणार नाहीत याची खात्री करते.",
+        "q1AnswerExplanation": "Perfect\" वापरणे तुमच्या मित्राच्या travel plans मध्ये खरा enthusiasm आणि interest दाखवते, excitement निर्माण करण्यास आणि trip साठी shared anticipation च्या भावना वाढवण्यास मदत करते.",
+        "q2AnswerExplanation": "Practical\" वापरणे social bonding आणि cost-sharing यांच्यात संतुलन साधून thoughtful decision-making दाखवते, group travel planning मधील महत्त्वाचे skill highlight करते."
+      },
+      "q3AnswerExplanation": "Join\" workplace relationships बांधण्याची commitment दर्शवते. Social invitations ला follow through करणे immediate work tasks च्या पलीकडे supportive network तयार करण्यास मदत करते, जे overall workplace satisfaction आणि teamwork सुधारते.",
+      "q1AnswerExplanation": "Honest\" communication workplace relationships मध्ये trust निर्माण करते. Workload बद्दल genuine feelings share करणे support च्या संधी निर्माण करते आणि authenticity दाखवते, जे collegial bonds मजबूत करते."
+    }
+  },
+  "day5": {
+    "version10": {
+      "exercise3": {
+        "es": {
+          "q1AnswerExplanation": "Start\" leadership आणि initiative दाखवते. पहिले volunteer करणे positive tone set करते आणि confidence दाखवते, ज्यामुळे team participation encourage होते.\"",
+          "q4AnswerExplanation": "Help\" individual concerns पेक्षा team success ला priority देते. मदत करणे accountability आणि solution-focused thinking दाखवते blame किंवा negativity ऐवजी.\"",
+          "q2AnswerExplanation": "Know\" proactive planning दाखवते. material availability बद्दल विचारणे potential roadblocks लवकर identify करते, foresight आणि deadlines meet करण्याची commitment दाखवते.\"",
+          "q5AnswerExplanation": "Discuss\" act करण्यापूर्वी समजून घेण्यावर focus करते. client requests बद्दल specifics शोधणे professionalism दाखवते आणि अधिक effective solutions आणि मजबूत client relationships बनवते.\"",
+          "q3AnswerExplanation": "Explain\" collaboration आणि respect वाढवते. details मागणे दाखवते की तुम्ही वेगवेगळ्या perspectives ला value करता आणि open dialogue द्वारे innovation साठी जागा तयार करता.\""
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q2AnswerExplanation": "Order\" हे verb आहे जे restaurant मध्ये food select करणे आणि मागणे describe करते.\"",
+          "q3AnswerExplanation": "Appetizer\" म्हणजे main course च्या आधी serve केला जाणारा छोटा dish.\"",
+          "q1AnswerExplanation": "Menu\" हे document आहे जे restaurant मधील सगळे available food आणि drink options list करते.\""
+        },
+        "es": {
+          "q2AnswerExplanation": "Is\" हे linking verb आहे कारण ते subject \"\"Upside Down\"\" ला description \"\"a dark and dangerous dimension\"\" शी connect करते. Linking verbs action दाखवत नाहीत पण subjects ला descriptions शी जोडतात.\"",
+          "q5AnswerExplanation": "Can\" हे helping verb आहे जे Tony ची ability दाखवते. \"\"Can,\"\" \"\"will,\"\" आणि \"\"should\"\" सारखे helping verbs main verbs modify करतात ability, necessity किंवा future actions express करण्यासाठी.\"",
+          "q3AnswerExplanation": "Can\" हा helping verb आहे जो क्षमता दाखवतो. हा main verb \"\"defeat\"\" सोबत काम करून दाखवतो की Harry ला Voldemort वर मात करण्याची क्षमता आहे. Helping verbs शक्यता, गरज किंवा काळाबद्दल अर्थ जोडतात.\"",
+          "q1AnswerExplanation": "Throws\" हा action verb आहे कारण हा Thor करत असलेली शारीरिक क्रिया दाखवतो. Action verbs व्यक्ती काय करते ते व्यक्त करतात, मग ते शारीरिक असो वा मानसिक.\"",
+          "q4AnswerExplanation": "Plays\" हा action verb आहे जो Jim काय करतो ते दाखवतो. Action verbs कामावर किंवा दैनंदिन जीवनात क्रियाकलाप आणि वर्तन वर्णन करण्यासाठी आवश्यक आहेत.\""
+        }
+      }
+    }
+  },
+  "roadmapIntermediateStates": {
+    "letsReview": "चला review करूया",
+    "ontoTheNextOne": "पुढच्यावर जाऊया!",
+    "part2OfDay2": "Day 2 चा Part 2 पूर्ण झाला",
+    "part3OfDay3": "Day 3 चा Part 3 पूर्ण झाला",
+    "meetingRoleplay": "Meeting Roleplay पूर्ण झाला✨",
+    "teamMeeting": "team meeting",
+    "restaurantRoleplayMastered": "Restaurant roleplay मास्टर केला!",
+    "part1OfDay4": "Day 4 चा Part 1 पूर्ण",
+    "weLearnt": "आपण शिकलो!",
+    "again": "पुन्हा!",
+    "sentenceStructureMastered": "Sentence Structure मध्ये प्रभुत्व मिळवले!",
+    "youBelongTo": "तुम्ही Day 1 पूर्ण करणाऱ्या top 10% users मध्ये आहात!",
+    "youLearnt": "तुम्ही शिकलात",
+    "youLearnedPronounciations": "तुम्ही Pronouns शिकलात!",
+    "practicing": "2 words चा practice करत आहात",
+    "day1Completed": "DAY 1 पूर्ण झाला",
+    "letsReviewPronouns": "pronouns चा conversation म्हणून review करूया",
+    "readingDone": "READING पूर्ण झाले!",
+    "lets": "चला",
+    "scoreImproved": "Score 25% ने सुधारला",
+    "letsRevise": "चला revise करूया",
+    "yourLearningFrom": "roleplay मधून तुमचे learning",
+    "oneLastLesson": "शेवटचा एक Lesson!",
+    "part2OfDay3": "Day 3 चा Part 2 पूर्ण झाला",
+    "restaurantRoleplayDone": "Restaurant Roleplay पूर्ण झाला"
+  },
+  "day2McqExercise": {
+    "q1AnswerExplanation": "He\" वापरतो कारण Joe हा एकवचनी पुरुष subject आहे आणि pronoun चे gender व number match असावे.\"",
+    "q2AnswerExplanation": "Hers\" हे योग्य उत्तर आहे कारण Daenerys (स्त्री) ही मालकीण आहे.\"",
+    "q5AnswerExplanation": "We\" हा योग्य subject pronoun आहे जो या वाक्यात \"\"like\"\" या verb च्या आधी लागतो.\"",
+    "q4AnswerExplanation": "\"Jon Snow त्याच्या जवळच्या specific sword बद्दल बोलत असल्यामुळे, \"\"this\"\" योग्य आहे कारण ते singular आणि त्याच्या जवळचे आहे.\"",
+    "q3AnswerExplanation": "herself\" हा pronoun वापरला आहे कारण वाक्याचा subject \"\"She\"\" आहे, आणि sandwich बनवण्याची क्रिया तिच्यावरच परत येते.\""
+  },
+  "mergedFilter": {
+    "job": {
+      "administrativeOfficialMatters": "Administrative & Official Matters",
+      "practiceSmallTalkInInterviews": "Interview मध्ये small talk चा Practice",
+      "negotiationProfessionalDiscussions": "Negotiation & Professional Discussions",
+      "talkOnDailyActivities": "दैनंदिन गोष्टींवर बोलणे",
+      "workplaceCommunicationCulture": "Workplace Communication & Culture",
+      "preparingYourselfForJobInterview": "Job interview साठी तयारी"
+    },
+    "ielts": {
+      "professionalLifeWorkplaceCommunication": "Professional Life & Workplace Communication",
+      "talkAboutYourPreferences": "तुमच्या preferences बद्दल बोला",
+      "demonstrateYourCriticalThinking": "तुमचे critical thinking दाखवा",
+      "expressOpinionsOnSocialLife": "social life वर मत व्यक्त करा",
+      "expressHowYouHandleDailyTasks": "daily tasks कसे handle करता ते सांगा"
+    },
+    "defaultFilter": {
+      "personalGrowthLeadership": "Personal Growth & Leadership",
+      "casualConversations": "Casual Conversations",
+      "professionalCommunication": "Professional Communication",
+      "talkOnYourPersonalInterests": "तुमच्या personal interests वर बोला",
+      "dailyTasksErrands": "Daily Tasks & Errands"
+    },
+    "business": {
+      "professionalCommunicationProjectManagement": "Professional Communication & Project Management",
+      "careerDevelopmentGrowth": "Career Development & Growth",
+      "teamCollaborationConflictResolution": "Team Collaboration & Conflict Resolution",
+      "personalTimeManagementWorkLifeBalance": "Personal Time Management & Work-Life Balance",
+      "dailyWorkplaceInteractions": "दैनंदिन workplace interactions",
+      "businessSocialSettings": "Business Social Settings"
+    }
+  },
+  "conversationFeedbacks": {
+    "userLeftMidway": {
+      "didNotKnowWhatToSay": "काय बोलावे कळत नव्हते",
+      "technicalIssues": "Technical issues",
+      "needMoreTimeToSpeak": "बोलण्यासाठी अधिक वेळ हवा",
+      "micHeardWrongWords": "Mic ने चुकीचे words ऐकले",
+      "repetitive": "Repetitive"
+    },
+    "normal": {
+      "repetitive": "पुनरावृत्ती",
+      "bugsOrTechnicalIssue": "Bugs / Technical issue",
+      "chatRepetitive": "Chat पुनरावृत्ती",
+      "poorResponsesFromSarah": "Sarah चे खराब responses",
+      "chatTooBoring": "Chat खूप कंटाळवाणा"
+    }
+  },
+  "chat_onboarding_v2_feature2": {
+    "moreThanTenThousandPeopleHaveBenefited": "\"दररोज दहा हजारांहून अधिक लोकांना Stimuler app चा फायदा होत आहे. मला आशा आहे की तुम्हीही त्यापैकी एक होऊ शकाल. सुरुवात करूया का?\"",
+    "helloIamYourSara": "नमस्कार! मी तुमची Sara आहे! मी तुम्हाला English सुधारण्यात मदत करेन.",
+    "firstOfAllWhatIsYourName": "\"सर्वप्रथम, तुमचे नाव काय आहे?\"",
+    "letsImproveYourEnglishSkills": "चला एकत्र तुमची English skills सुधारूया. तुम्ही तयार आहात का?"
+  },
+  "roadmap_models2": {
+    "aQuestionAppearsAnswerInRealTime": "एक प्रश्न दिसेल. पुढील 60 सेकंदांत, कोणतीही स्क्रिप्ट किंवा तयारी न करता, लगेच उत्तर द्या.",
+    "aPictureAppearsSayWhatMakesSense": "एक चित्र दिसेल. तुम्हाला जे योग्य वाटेल ते बोला.",
+    "practiceRealTimeQuestion": "कोणत्याही script किंवा formal preparation शिवाय real time question answers चा Practice करा",
+    "identifyTheCorrectSentence": "योग्य वाक्य ओळखा",
+    "repeatAfterMe": "माझ्या मागे म्हणा",
+    "timeForAGameSpeakAsManyWords": "\"Game खेळूया, दिलेल्या अक्षरापासून सुरू होणारे शब्द बोला! खेळायला तयार आहात का?\"",
+    "tongueTwister": "Tongue Twister",
+    "AllOptionsMustBeDifferent": "सर्व पर्याय वेगळे असले पाहिजेत",
+    "oneAndOnlyOneOptionMustBeRight": "फक्त एकच पर्याय बरोबर असला पाहिजे",
+    "youWillBeGivenAnImage": "तुम्हाला एक image दिली जाईल. एका मिनिटात तिचे तपशीलवार वर्णन करण्याचा प्रयत्न करा!"
+  },
+  "customeFeedbackBottomsheet": {
+    "goodNewsYouCanNow": "Good news! आता तुम्ही..."
+  },
+  "mcq_result2": {
+    "well_done2": "छान केले!",
+    "your_focus_areas2": "तुमचे focus areas"
+  },
+  "day5_2": {
+    "version11": {
+      "q3AnswerExplanation2": "\"'Some' हा determiner आहे जो plural countable nouns जसे की 'apples' सोबत वापरला जातो. 'Any' बहुतेकदा questions किंवा negative sentences मध्ये वापरला जातो, आणि 'much' uncountable nouns सोबत वापरला जातो, म्हणून ते या context मध्ये बसत नाहीत.\"",
+      "q1AnswerExplanation3": "\"'Beautiful' हा adjective आहे जो noun 'dress' चे वर्णन करतो. इतर options, 'beautifully' (adverb) आणि 'beauty' (noun), dress चे योग्य वर्णन करत नाहीत.\"",
+      "q2AnswerExplanation": "Linking verb 'is' subject 'potion' ला adjective 'ready' शी जोडतो आणि त्याची state वर्णन करतो.",
+      "q5AnswerExplanation": "Went' हा 'go' चा past tense आहे जो completed action दर्शवतो.",
+      "roleplayMocktest": "Roleplay Mocktest",
+      "q4AnswerExplanation4": "Takes' हा verb 'take' चा third person singular present tense मधला योग्य form आहे.",
+      "q3AnswerExplanation3": "\"'Dog' हा noun आहे जो barking ची action करणाऱ्या animal चे नाव देतो. Nouns लोक, ठिकाणे किंवा वस्तू ओळखतात, म्हणून 'dog' या sentence चा subject आहे.\"",
+      "ieltsRoleplayPracticeExercise": "IELTS Roleplay Practice Exercise",
+      "q3AnswerExplanation": "Auxiliary verb 'have' perfect tense तयार करण्यासाठी मदत करतो आणि homework पूर्ण करण्याची action completed असल्याचे दर्शवतो.",
+      "fillInTheBlankResponses": "Fill in the Blank Responses",
+      "q1AnswerExplanation4": "visitors ला refer करताना 'Them' हा योग्य object pronoun आहे.",
+      "q8AnswerExplanation": "Showed' हा 'show' चा past tense आहे जो John ने market मध्ये काय केले ते दर्शवतो.",
+      "q6AnswerExplanation": "Needed' हा 'need' चा past tense आहे जो market ला जाण्याचे कारण दर्शवतो.",
+      "q2AnswerExplanation2": "\"'Placed' हा 'place' चा past tense आहे, sentence मधील past action साठी योग्य. 'Placing' हा present participle आहे आणि 'place' हा base form आहे, दोन्ही sentence context मध्ये आवश्यक असलेल्या past tense साठी योग्य नाहीत.\"",
+      "after4DaysOfSpeakingLetsTakeAShortGrammarBreakHaveFun": "4 दिवसांच्या speaking नंतर चला एक छोटा 'grammar break' घेऊया. मजा करा!",
+      "q1AnswerExplanation2": "\"'But' हा conjunction आहे जो concert ला जायचे आणि उशीरा काम करावे लागणे यामध्ये contrast दाखवतो. 'And' contrast न दाखवता information add करते आणि 'so' cause-and-effect relationship दाखवते, दोन्ही या context मध्ये बसत नाहीत.\"",
+      "q1AnswerExplanation": "Action verb 'runs' Ken ने bus पकडण्यासाठी काय केले ते describe करते.",
+      "q3AnswerExplanation4": "या context मध्ये verb 'recommend' नंतर 'Staying' हा योग्य gerund form आहे.",
+      "q5AnswerExplanation4": "festivals' सारख्या countable nouns साठी 'Several' हा योग्य quantifier आहे.",
+      "q5AnswerExplanation2": "\"'Has' हा auxiliary verb आहे जो past participle 'been' सोबत present perfect tense बनवण्यासाठी वापरला जातो, जो भूतकाळात सुरू झालेली आणि वर्तमानात चालू असलेली action दर्शवतो. Subject 'She' साठी singular auxiliary verb आवश्यक असल्याने 'Have' चुकीचे असेल आणि या context मध्ये 'is' 'been' सोबत वापरले जात नाही.\"",
+      "q7AnswerExplanation": "\"'Met' हा 'meet' चा past tense आहे, जो market मध्ये घडलेल्या घटनेचे वर्णन करतो.\"",
+      "q2AnswerExplanation4": "\"'From' हा योग्य preposition आहे जेव्हा time period चा starting point दाखवायचा असतो.\"",
+      "q4AnswerExplanation": "\"Modal verb 'can' चा वापर ability दाखवण्यासाठी केला जातो जर Buckbeak वर trust दाखवला तर fly करता येईल.\"",
+      "q4AnswerExplanation3": "\"'Under' हा preposition आहे जो मांजर आणि bed मधील relationship योग्यरित्या describe करतो. इतर options, 'below' (जो अधिक spatially general आहे) आणि 'down' (जो adverb आहे), या context मध्ये बसत नाहीत.\"",
+      "speakingImpromptu": "Speaking: Impromptu",
+      "q4AnswerExplanation2": "\"'Oops' हा interjection आहे जो mistake किंवा minor accident व्यक्त करतो, keys विसरण्याच्या context मध्ये योग्य आहे. 'Wow' surprise किंवा admiration व्यक्त करतो, आणि 'However' conjunction आहे, दोन्ही mistake करण्याच्या context मध्ये बसत नाहीत.\"",
+      "q2AnswerExplanation3": "\"'Extremely' हा adverb आहे जो adjective 'fast' ला modify करतो. इतर options, 'extreme' (adjective) आणि 'extremeness' (noun), 'fast' ला योग्यरित्या modify करत नाहीत.\"",
+      "q5AnswerExplanation3": "\"'They' हा pronoun आहे जो sentence चा subject म्हणून वापरला जातो. इतर options, 'Their' (possessive pronoun) आणि 'Them' (object pronoun), subject position मध्ये बसत नाहीत.\""
+    }
+  },
+  "day1_2": {
+    "version29": {
+      "task3": "Task 3",
+      "task2": "Task 2",
+      "summarizeLecture": "Lecture चा सारांश द्या",
+      "introductionSpeakingTest": "परिचय : Speaking Test",
+      "readTheParagraphWithProperPronunciation": "योग्य उच्चारासह paragraph वाचा",
+      "firstExerciseForToday": "आजचा पहिला Exercise",
+      "introduceYourself": "स्वतःची ओळख करून द्या",
+      "youNailedYourFirstSelfIntroductionAtWorkplace": "तुम्ही workplace मध्ये तुमचा पहिला self-introduction नेल केला!",
+      "selfIntroSuperstar": "Self Intro - Superstar!",
+      "andPracticed2Execises": "आणि 2 exercises practice केले",
+      "letReadTogether": "चला एकत्र वाचूया",
+      "letBuildYourGrammar": "चला तुमचा Grammar बनवूया",
+      "practiceOnMistakes": "चुकांवर Practice करा",
+      "tongueTwister": "Tongue Twister",
+      "welcomeToPTEMockTest": "PTE Mock Test मध्ये स्वागत आहे!",
+      "continueLiteral": "Continue",
+      "howDoYouKnowPeopleHere": "तुम्ही इथल्या लोकांना कसे ओळखता?",
+      "task4": "Task 4",
+      "haveFunWithThisTongueTwister": "या tongue-twister सोबत मजा करा",
+      "grammar": "Grammar",
+      "speaking": "Speaking",
+      "readingExercise": "Reading Exercise",
+      "grammarDone": "Grammar पूर्ण झाले!",
+      "readAloud": "Read Aloud",
+      "describeTheImage": "Image चे वर्णन करा",
+      "introduction": "Introduction",
+      "letStartYourRoadmap": "चला तुमचा roadmap सुरू करूया",
+      "ieltsPart1": "IELTS Part 1",
+      "whatIsAHobbyYouLoveDoing": "तुमचा आवडता hobby कोणता आहे?",
+      "repeatAfterMe": "माझ्या मागे बोला",
+      "whatIsHobbyYouLoveDoing": "तुमचा आवडता hobby कोणता आहे?",
+      "grammarBuilder": "Grammar Builder",
+      "youLearntTo": "तुम्ही शिकलात"
+    }
+  },
+  "day2": {
+    "version14": {
+      "exercise2": {
+        "q2AnswerExplanation": "Share\" चर्चेत नवीन माहिती मांडते. \"\"Suggest\"\" मध्ये प्रस्ताव हवा; \"\"yell\"\" असभ्य आहे; \"\"mix\"\" संदर्भात चुकीचे आहे.\"",
+        "q5AnswerExplanation": "Suggest\" कल्पना मांडते पण लादत नाही. \"\"Speak\"\" मध्ये प्रस्तावाचा हेतू नाही; \"\"show\"\" म्हणजे दृश्य सादरीकरण.\"",
+        "q4AnswerExplanation": "Sorry\" नम्रपणे व्यत्यय आणण्याची सुरुवात करते. \"\"Okay\"\" इतरांना कबूल करते; \"\"Listen\"\" नवे विषय सुरू करते, निघून जाणे नाही.\"",
+        "q3AnswerExplanation": "Could we\" नम्र, सहकार्यपूर्ण सूचना करते. \"\"May\"\" खूप औपचारिक आहे; \"\"Must\"\" सूचनेपेक्षा आज्ञासारखे वाटते.\"",
+        "q1AnswerExplanation": "Sorry\" संभाषणातून अनपेक्षित निघून जाण्याचे नम्र संकेत देते. \"\"Maybe\"\" अनिश्चितता दर्शवते; \"\"Hello\"\" फक्त अभिवादनासाठी आहे.\""
+      }
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "I\" हे स्वतःच्या संदर्भासाठी first-person singular pronoun आहे.",
+      "q2AnswerExplanation": "They\" हे कृती करणाऱ्या इतरांसाठी third-person plural subject pronoun आहे.",
+      "q3AnswerExplanation": "My\" हे मालकी दर्शवणारे first-person possessive adjective आहे."
+    }
+  },
+  "day10": {
+    "exercise2": {
+      "id": {
+        "q3AnswerExplanation": "Practical\" म्हणजे villa हा समजूतदार, उपयुक्त पर्याय आहे कारण त्यात फायदे आहेत (एकत्र राहणे आणि खर्च वाटून घेणे).",
+        "q1AnswerExplanation": "Ideal\" म्हणजे एखादी गोष्ट परिस्थितीसाठी परफेक्ट आहे - या प्रकरणात, Bali weekend beach trip साठी परफेक्ट आहे.\"",
+        "q2AnswerExplanation": "Combine\" म्हणजे वेगवेगळ्या गोष्टी एकत्र जोडणे, दररोज beach आणि cultural activities चा संतुलित मिश्रण सुचवते.\""
+      },
+      "q3AnswerExplanation": "Goals\" हा शब्द work stress prioritization द्वारे व्यवस्थापित करण्याबद्दलच्या वाक्यात तर्कसंगतपणे बसतो, इतर पर्याय परिस्थिती आणखी वाईट करतील.\"",
+      "es": {
+        "q1AnswerExplanation": "Guidance\" हा expert मदतीसाठी विचारण्याचा professional शब्द आहे, तर कोणाचा \"\"vacation\"\" किंवा \"\"sandwich\"\" विचारणे तुमच्या work problem सोडवण्यासाठी पूर्णपणे अयोग्य आणि असंबंधित असेल.\"",
+        "q5AnswerExplanation": "Assist\" म्हणजे त्यांना बदल्यात मदत करण्याची ऑफर, positive working relationship तयार करते, तर कोणाला \"\"hypnotize\"\" किंवा \"\"sabotage\"\" करण्याची ऑफर workplace context मध्ये पूर्णपणे अयोग्य आणि चिंताजनक असेल.\"",
+        "q4AnswerExplanation": "Clarification\" म्हणजे confusing information चे चांगले समज मिळवण्यासाठी स्पष्टपणे विचारणे, तर compliance terms बद्दल \"\"diamonds\"\" किंवा \"\"revenge\"\" लागते असे म्हणणे professional setting मध्ये मूर्खपणाचे आणि पूर्णपणे अयोग्य असेल.\"",
+        "q2AnswerExplanation": "Favor\" म्हणजे तुम्ही courtesy म्हणून मदत मागत आहात हे विनम्रपणे कबूल करणे, तर कोणाला \"\"laundry\"\" करायला सांगणे किंवा \"\"tattoo\"\" देण्यास सांगणे workplace assistance साठी पूर्णपणे अयोग्य आणि असंबंधित असेल.\"",
+        "q3AnswerExplanation": "Resources\" म्हणजे specs समजून घेण्यासाठी वापरता येणारी helpful materials किंवा information, तर \"\"jokes\"\" विचारणे या context मध्ये unprofessional असेल, आणि client meeting साठी तयारी करताना \"\"enemies\"\" बद्दल विचारण्यात काही अर्थ नाही.\""
+      },
+      "ielts": {
+        "q2AnswerExplanation": "Will\" हा या factual context मध्ये future consequence व्यक्त करण्यासाठी योग्य modal verb आहे\"",
+        "q3AnswerExplanation": "Have started\" हा भूतकाळात सुरू झालेल्या पण सुरू असलेल्या किंवा वर्तमान relevance असलेल्या कृतींसाठी योग्य present perfect form आहे\"",
+        "q1AnswerExplanation": "Being cleared\" हा चालू असलेल्या प्रक्रियेचे वर्णन करण्यासाठी योग्य passive continuous form आहे\""
+      },
+      "q1AnswerExplanation": "Break\" हा एकमेव logical option आहे जो overwhelmed व्यक्तीला मदत करेल, इतर options मुळे परिस्थिती आणखी वाईट होऊ शकते\"",
+      "q2AnswerExplanation": "Thoughtful\" हा team ला मदत करण्यासाठी initiative घेणाऱ्या व्यक्तीसाठी एकमेव positive आणि योग्य response आहे, इतर options negative आणि अयोग्य आहेत\""
+    },
+    "exercise3": {
+      "es": {
+        "q3AnswerExplanation": "Clarification\" contradictory information बद्दलच्या confusion ला थेट address करते. \"\"Guidance\"\" पुढे काय करावे याच्या advice साठी असेल, confusion fix करण्यासाठी नाही. \"\"Assistance\"\" म्हणजे तुम्हाला task complete करण्यासाठी मदत हवी आहे, पण तुमची समस्या आधी information समजून घेण्याची आहे\"",
+        "q1AnswerExplanation": "Guidance\" तुमची skills सुधारण्यासाठी expert direction मागताना perfect आहे. \"\"Favor\"\" बाहेरची मदत मागण्यासाठी आहे, शिकण्यासाठी नाही. \"\"Clarification\"\" फक्त confusion explain करेल, तुम्हाला हवी असलेली expertise देणार नाही\"",
+        "q4AnswerExplanation": "Assistance\" म्हणजे specific चालू असलेल्या task साठी direct, hands-on मदत. \"\"Clarification\"\" फक्त confusion चे points explain करेल, ongoing support देणार नाही. \"\"Resources\"\" self-learning साठी materials देतील, त्यांना हवी असलेली personal review नाही\"",
+        "q2AnswerExplanation": "Favor\" एखाद्याच्या regular duties बाहेरची quick, urgent मदतीसाठी योग्य आहे. \"\"Resources\"\" म्हणजे स्वतः fix करण्यासाठी materials, या emergency साठी खूप slow. \"\"Assistance\"\" formal support request सूचवते, हा quick hallway interaction नाही\"",
+        "q5AnswerExplanation": "Resources\" म्हणजे लोकांना independently शिकण्यास मदत करणारी materials. \"\"Clarification\"\" फक्त specific questions address करेल, comprehensive training देणार नाही. \"\"Guidance\"\" personal direction सूचवते, self-service learning materials नाही\""
+      }
+    }
+  },
+  "firebase_service": {
+    "enterThePassword": "Password enter करा",
+    "password": "Password",
+    "emailAddress": "Email Address",
+    "confirm": "Confirm"
+  },
+  "withinConversation": {
+    "bugsOrTechnicalIssues": "Bugs किंवा Technical issues",
+    "iDidntKnowWhatToSpeak": "मला काय बोलायचं कळत नव्हतं",
+    "sarahsMessageWasBoring": "Sarah चा message कंटाळवाणा होता",
+    "exploringOrFindingADifferentTopic": "वेगळा topic शोधत आहे"
+  },
+  "roadmapTab": {
+    "premiumLessons": "Premium Lessons",
+    "suggestionsTitle": "अधिक Mock Tests आणि Lessons",
+    "hey": "नमस्कार",
+    "suggestionsCta": "Recommendations आहेत का?",
+    "startYourLearningJourney": "तुमचा learning journey सुरू करा",
+    "start": "Start",
+    "comingSoon": "Coming Soon"
+  },
+  "pick_a_word_to_practice_screen": {
+    "toMakeSomethingBetterValuableGoodWay": "काहीतरी चांगले किंवा अधिक मौल्यवान बनवण्यासाठी"
+  },
+  "roadmapIntermediateStates2": {
+    "continueLiteral2": "Continue"
+  },
+  "day8": {
+    "exercise2": {
+      "q2AnswerExplanation": "Is\" हा linking verb आहे कारण तो subject \"\"Upside Down\"\" ला description \"\"a dark and dangerous dimension\"\" शी जोडतो. Linking verbs action दाखवत नाहीत पण subjects ला descriptions शी जोडतात.\"",
+      "q5AnswerExplanation": "Can\" हा helping verb आहे जो Tony ची ability दाखवतो. \"\"Can,\"\" \"\"will,\"\" आणि \"\"should\"\" सारखे helping verbs मुख्य verbs ला modify करतात ability, necessity किंवा future actions व्यक्त करण्यासाठी.\"",
+      "q4AnswerExplanation": "Plays\" हा action verb आहे जो Jim काय करतो ते दाखवतो. Action verbs activities आणि behaviors describe करण्यासाठी आवश्यक आहेत, मग ते कामावर असो किंवा दैनंदिन जीवनात.\"",
+      "q3AnswerExplanation": "Can\" हा helping verb आहे जो ability दाखवतो. तो मुख्य verb \"\"defeat\"\" सोबत काम करतो आणि दाखवतो की Harry ला Voldemort वर मात करण्याची ability आहे. Helping verbs possibility, necessity किंवा time बद्दल अर्थ जोडतात.\"",
+      "q1AnswerExplanation": "Throws\" हा action verb आहे कारण तो Thor करतो तो physical action दाखवतो. Action verbs कोणी काय करते ते व्यक्त करतात, मग ते physical असो किंवा mental.\""
+    }
+  },
+  "feedback_recorders": {
+    "iWantTo": "मला ..... हवे आहे"
+  },
+  "roadmapReport": {
+    "sendLogs": "डायग्नोस्टिक लॉग पाठवा",
+    "sendLogsDetail": "हे तुमच्या अ‍ॅपच्या वापराचे लॉग आहेत. तुम्ही नोंदवत असलेली समस्या सोडवण्यात ते आम्हाला मदत करतात."
+  },
+  "indiaOnboarding": {
+    "whetherYouAreJustStarting": "तुम्ही नुकतेच सुरुवात करत असाल किंवा English मध्ये आधीच comfortable असाल, आपण ही learning journey एकत्र करू - तुमच्या स्वतःच्या गतीनुसार",
+    "whatShouldICallYou": "मित्रा, मी तुला काय म्हणू?",
+    "thatsImpressiveMentoredJob": "That's impressive! मी दहा लाख लोकांना त्यांच्या dream job मिळवण्यात मदत केली आहे, त्यांच्या interviews मध्ये excel करण्यास मदत करून",
+    "thatsImpressiveMentoredSocializing": "Great! Aapan fun ani engaging gappa maru. Yamule rojchya communication madhe tumhi master vhal",
+    "thatsImpressiveMentoredSubPurpose": "Khup chhan! Mi daha lakh working professionals na tyanchya career madhye madat keli aahe, tyanchyasobat real-world conversations practice karun.",
+    "canIknowYourName": "मी खूप excited आहे, तुमचे नाव काय आहे?",
+    "letsGetToKnowEachOther": "चला एकमेकांना ओळखूया!",
+    "whatsYourNativeLanguage": "तुमची मातृभाषा काय आहे?",
+    "gotItWillUseTheLanguageToExplainEnglish": "समजले! आम्ही app मध्ये English समजावून सांगण्यासाठी तुमची भाषा वापरू",
+    "youWillLearnEnglishThrough": "Tumhi Marathi madhun English shikaal.",
+    "awesomeCanIKnowYourName": "छान! तुमचे नाव काय आहे?",
+    "selectYourLanguagePreferance": "कृपया तुमची भाषा preference निवडा",
+    "hiIAmPersonalEnglishSpeakingPartner": "नमस्कार! मी तुमचा Personal English Speaking Partner आहे",
+    "callMeSarahWhatsYourName": "Tumhi mala Sarah mhanu shakta. Tumcha naav kay aahe?",
+    "thatsVeryCoolName": "Khup chhaan naav aahe! Aapan milun English practice karat khup maja karu!",
+    "toEnsureYouGetLatestLessons": "Tumhala latest lessons ani personalised tips milat rahaave, mhanun mi tumcha phone number gheu shakte ka?",
+    "niceToMeetYouGetLatestLessons": "तुम्हाला भेटून आनंद झाला! तुम्हाला latest lessons मिळतील याची खात्री करण्यासाठी, तुमचा phone number देऊ शकाल का?",
+    "whichAgeGroupAreYouIn": "Tumhi konatya age group madhye aahat?",
+    "ageGroup": {
+      "under18": "18 peksha kami",
+      "age18to24": "18-24",
+      "age25to34": "25-34",
+      "age35to44": "35-44",
+      "age45plus": "45+"
+    },
+    "whatIsYourGender": "Tumcha gender kay aahe?",
+    "gender": {
+      "male": "Male",
+      "female": "Female",
+      "nonBinary": "Non-Binary"
+    },
+    "dailyPracticeHelpsAchieveGoals": "रोज practice केल्याने तुम्ही तुमचे goals लवकर achieve करू शकाल",
+    "whatBestDescribesYourSituation": "Tumchi current situation kashane uttam describe hote?",
+    "imGladWeMetWhatsYourGoal": "तुम्हाला भेटून बरं वाटलं. English शिकण्याचं तुमचं main goal काय आहे?",
+    "mainGoal": {
+      "ielts": "English exam ची तयारी",
+      "growInMyCareer": "माझ्या career मध्ये प्रगती",
+      "personalGrowth": "वैयक्तिक विकास",
+      "travelConfidently": "आत्मविश्वासाने प्रवास",
+      "excelAtMySchool": "शाळेत उत्कृष्ट कामगिरी",
+      "other": "इतर"
+    },
+    "typeYourGoalHint": "तुमचं goal इथे लिहा",
+    "typeYourExamHint": "तुमचं exam इथे लिहा",
+    "examType": {
+      "ielts": "IELTS",
+      "toefl": "TOEFL",
+      "pte": "PTE",
+      "toeic": "TOEIC",
+      "other": "इतर"
+    },
+    "ieltsModule": {
+      "academic": "Academic",
+      "general": "General",
+      "notSure": "मला खात्री नाही"
+    },
+    "examTime": {
+      "thisMonth": "मी या महिन्यात IELTS देईन",
+      "nextMonth": "मी पुढच्या महिन्यात IELTS देईन",
+      "moreThanTwo": "माझ्याकडे तयारीसाठी दोन महिन्यांपेक्षा जास्त वेळ आहे",
+      "after": "{month} नंतर"
+    },
+    "moveTheSliderToPickYourScore": "तुमचा score निवडण्यासाठी slider हलवा",
+    "bandScore": "Band Score",
+    "skill": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "speaking": "Speaking",
+      "listening": "Listening"
+    },
+    "journeyGraph": {
+      "yourJourney": "तुमचा प्रवास",
+      "toAceIeltsStarts": "IELTS मध्ये यश मिळवण्यासाठी सुरू होतो",
+      "curatingContent": "Content तयार करत आहोत",
+      "forYourIeltsJourney": "तुमच्या IELTS प्रवासासाठी",
+      "aPlanForYouToReach": "तुमच्यासाठी एक plan",
+      "yourGoal4xFaster": "तुमचे goal 4x वेगाने",
+      "planForYou": "तुमच्यासाठी PLAN",
+      "practice20MinsPerDay": "दररोज 20 मिनिटे practice",
+      "oneMockTestPerDay": "दररोज एक Mock Test",
+      "ieltsConversationPerDay": "दररोज IELTS Conversation",
+      "weeklyReviews": "साप्ताहिक Reviews",
+      "youTookThe": "तुम्ही टाकले",
+      "firstStep": "पहिले पाऊल",
+      "inOneMonth": "1 महिन्यात",
+      "inTwoMonths": "2 महिन्यांत",
+      "inMoreThanTwoMonths": "2+ महिन्यांत"
+    },
+    "hintPlayback": {
+      "youDidGreatFirstStep": "तुम्ही तुमच्या पहिल्या पावलात छान केले!",
+      "improvePronunciation": "चला pronunciation सुधारूया"
+    },
+    "currentSituation": {
+      "student": "Vidyarthi",
+      "workingProfessional": "Nokardar",
+      "freelancer": "Freelancer",
+      "businessOwner": "Vyavsay malak",
+      "homeMaker": "Gruhini",
+      "careerBreak": "Career break var",
+      "lookingForWork": "Nokrichya shodhat"
+    },
+    "amazingWhereDidHearAboutStimuler": "Thank you! Tumhi aamchya baddal kuthe aikla?",
+    "noProblemWhereDidYouHearAboutUs": "Kahi harkat nahi! Tumhi aamchya baddal kuthe aikla?",
+    "iAmGladWeMet": "Aapan bhetlo yacha mala khup anand zala!",
+    "enterReferralCode": "तुमच्याकडे असलेला referral code टाका",
+    "letsCreateAPlanForJustYou": "Chala, fakt tumchyasathi ek plan banavuya, mhanje tumhi tumche goals lavkar achieve karu shakal! Sanga, tumhi English ka shikta ahat?",
+    "thatsImpressiveMentoredIels": "Impressive! Mi jagbharaatlya 10 lakhahun jaast candidates na tyancha dream band score milvnyat guide kela aahe",
+    "whatTypeOfSituationsDoYouWant": "Tumhala konatya prakarchya situations madhye changle vhaayche aahe?",
+    "thatsImpressiveMentoredTravel": "Awesome! Business trip aso kiva abroad madhe kaam, aapan sagle situations cover karu.",
+    "thatsImpressiveMentoredEducation": "Ok! Tumhala mahit aahe ka, mi 10 lakhahun jaast lokanna fluently ani confidently English bolayla shikavla aahe",
+    "greatMentoredOthers": "Impressive! Mi 10 lakhahun jaast lokanna fluently ani confidently English bolayla shikavla aahe",
+    "thatsImpressiveMentoredBusiness": "Impressive! Mi 10 lakhahun jaast working professionals na real-world conversations chi practice karun career changla karnyat madat keli aahe",
+    "lookWhatLearnersHaveToSay": "Bagha aamche successful learners kay mhantat:",
+    "thesePeoplePracticedDaily": "Ya lokanni roj practice karun great progress keli, ani mi tyanna track var thevle!",
+    "iWillRemindYouToo": "Mi tumhala pan aathvan karun dein, mhanje practice kadhi chuknar nahi. Fakt tumchya notifications on kara.",
+    "thanksForThatTogether": "Thanks! Chala English la rojchi savay banavuya",
+    "noIssuesIWill": "Kahi harkat nahi! Mi nantar kadhi tari vicharin.",
+    "awesomeThousandsOfEnglishLearners": "छान! हजारो English learners ज्यांना मी शिकवते, ते beginners म्हणून सुरुवात करतात आणि मी त्यांना fluent English speakers बनवते",
+    "whatIsCurrentEnglishLevel": "Tumcha aatacha English level kay mhanaal?",
+    "reviewSarahFeedbackOnVocab": "Sarah चे Vocab वरचे feedbacks खरोखर कमाल आहेत...माझा 8.0 band score Stimuler मुळेच मिळाला.",
+    "reviewSarahFeedbackOnVocabIELTS": "Sara चे Vocabulary वरचे feedback खरोखर कमाल आहेत...माझा 8.0 band score Stimuler मुळेच मिळाला",
+    "reviewCommunityActive": "Stimuler pro community चे members नेहमी active असतात आणि मला motivated ठेवतात",
+    "reviewSpendingTwentyMinutes": "Sarah सोबत दररोज 20 मिनिटे घालवल्यामुळे माझी fluency खूप सुधारली आहे",
+    "reviewBoostedMyConfidenceIELTS": "Sarah च्या chats मुळे माझे English सुधारले आणि IELTS test साठी confidence वाढला",
+    "reviewBoostedMyConfidence": "Sarah च्या chats मुळे माझे English सुधारले आणि test साठी confidence वाढला",
+    "reviewBoostedConfidenceOffice": "Sarah च्या chats मुळे माझे English सुधारले आणि office मध्ये माझा confidence वाढला",
+    "reviewAppIsAGoldenEgg": "हा app एक golden egg आहे. तो तुम्हाला बोलायला चांगले शिकवतो. Amazing, 10/5 द्यायला आवडेल",
+    "reviewAppIsAGoldenEggIELTS": "हा app IELTS साठी golden egg आहे. तुम्हाला बोलायला मदत करतो. Amazing, 10/5 देईन",
+    "perfectEvenWithJustAFewWords": "Perfect! Fakt kahi words asle tari tumhi suruvat karayla ready ahat. Mi tumhala step by step confident conversations paryant nein",
+    "awesomeAlreadyHalfwayThere": "Awesome! Tumhi already ardhya vatevar ahat. Majhyasobat ajun thodi practice, ani tumhi kamaal karal!",
+    "awesomeSkysTheLimit": "Awesome! Tumchyasathi sky’s the limit. Aapan tough challenges gheu ani navya heights gathu.",
+    "almostDoneAnswerAQuestionBeginner": "Jhaalach aahe! Shevatcha step mhanun, khalcha passage vachun dakhva",
+    "almostDoneAnswerAQuestion": "Jhaalach aahe! Shevatcha step mhanun, majhyasathi ek question cha answer dya",
+    "dontKnowWhatToSpeak": "Kay bolaycha samjat nahi? Kahi harkat nahi, khalcha hint vacha!",
+    "didNotSpeakAlot": "Asa vatata ki tumhi jasta bollat nahi",
+    "letsTrySomethingElse": "Chala aankhi kahitari try karuya, barobar?",
+    "greatReasonExperienceBestAiApp": "Khup chhaan! Aata anubhav ghya ki aamhala Google cha Best AI App 2023 award ka milala.",
+    "reasonExperienceBestAiApp": "Aata anubhav ghya ki aamhala Google cha Best AI App 2023 award ka milala.",
+    "tapOnButtonBelow": "तुमचे mispronunciations, awkward pauses आणि आमच्या इतर suggestions पाहण्यासाठी खालील button वर tap करा",
+    "curiousHowWellYou": "Tumhi kase bolala he baghaycha aahe? Tumchi performance baghnyasathi tap kara!",
+    "purpose": {
+      "ielts": "IELTS",
+      "talkToColleaguesClients": "Colleagues/clients सोबत बोलणे",
+      "clearJobInterview": "Job interview clear करणे",
+      "everydayConvo": "Rojchya gappa",
+      "excelAtSchool": "Shalet pudhe jaane",
+      "travel": "Travel",
+      "anyOtherGoal": "Dusra ekhada goal",
+      "improveMyCareer": "Career changla karne"
+    },
+    "workplaceSubPurpose": {
+      "jobInterview": "Job Interview",
+      "teamMeeting": "Team Meetings",
+      "presentations": "Presentations",
+      "networking": "Networking",
+      "smallTalk": "Sahakaryansobat Small Talk"
+    },
+    "HowDidUserHearAboutApp": {
+      "tiktok": "Tiktok",
+      "instagram": "Instagram Reel",
+      "googleAds": "Google Ads",
+      "friend": "मित्रांकडून",
+      "facebook": "Facebook",
+      "youtube": "YouTube",
+      "haveAReferralCode": "Referral Code आहे का?",
+      "other": {
+        "playStore": "Play Store वर search केले",
+        "appStore": "App Store वर search केले"
+      },
+      "twitterX": "Twitter/X"
+    },
+    "levelDescription": {
+      "beginner": "Mala kahi words yetat, pan sentences banavta yet nahit.",
+      "intermediate": "Mi sadhya goshtinvar chhote sentences banavto.",
+      "advance": "Mi chhotya conversations karto ani dusryanna samajto."
+    },
+    "itsOkayWeWillTryThisLater": "Thik aahe, aapan he nantar karu",
+    "readItOutLoud": "He mothyane vacha:",
+    "selectAnOption": "Ek option nivda",
+    "toast": {
+      "wellDone": "Shabbas !",
+      "youFinishedYourFirstPhrase": "Tumhi tumcha pahila English phrase vachla",
+      "noWorriesWeNotedIt": "Kahi harkat nahi, aamhi noond ghetli !",
+      "weWillPracticeTheseLater": "Ashe phrases aapan nantar practice karu, pudhe jauya"
+    },
+    "label": {
+      "great": "Chhaan!",
+      "coolName": "Kasla naav!",
+      "letsCreateAPlan": "Tumchyasathi plan banavuya!",
+      "letsGetToKnowYou": "Tumhala olakhun gheuya!",
+      "ontoTheLastStep": "Fakt shevatcha step",
+      "impressive": "“$goal” - Impressive!"
+    },
+    "speechMeter": {
+      "yourSpeechLevel": "Tumcha<br>speech<br>level",
+      "hereIsWhereYouStand": "Mi aikla tumhi kase vachla. Tumhi aata ithe ahat.",
+      "youPlacedYourselfAt": "Tumhi swatahala $level var thevla hota. Pressure madhe tyahun thode khali aala. Hach gap sagla game aahe.",
+      "andThisIsWhereWeAreTakingYou": "Ani aamhi tumhala ithe neto. $target, pudhchya 8 mahinyat.",
+      "letsTakeYouTo": "Chala tumhala<br>neuya<br><em>$target</em> paryant"
+    },
+    "pronunciation": {
+      "firstLetsFixYourPronunciation": "Aadhi tumcha<br><em>pronunciation</em> theek karu.",
+      "twoWordsNeedWork": "Tumchya reading madhle don words var kaam karaycha aahe.",
+      "readTheWordOutLoud": "Word <b>mothyane vacha</b>",
+      "letsPracticeThisWord": "Ya word chi practice karu",
+      "speakTheWordClearly": "Word swachh bola…",
+      "thatSoundedClear": "Chhaan. Agdi clear aikla.",
+      "speakOutTheWord": "Ata ha word bola ",
+      "letsImproveSoundPronunciation": "Chala <sound>'$sound'</sound> cha pronunciation improve karuya",
+      "letsTryThisSentence": "Chala he sentence try karuya",
+      "readTheSentenceOutLoud": "Sentence mothyane vacha",
+      "tryToReadTheEntireSentence": "Purna sentence vachayacha prayatna kara",
+      "wellDoneYouSoundedLikeANative": "Shabbas 🎉 Tumhi native sarkhe bolala!",
+      "youLearntToPronounceTheWords": "Tumhi $words he words bolayla shiklat",
+      "youLearntToPronounceTheSounds": "Tumhi $sounds he sounds bolayla shiklat",
+      "andTheSound": "ani '$sound'",
+      "firstStepRich": "✅ Tumhi English shiknyacha <highlight>pahila paool</highlight> uchalla !"
+    },
+    "offer": {
+      "youveUnlockedAnOffer": "TUMHI EK<br>OFFER<br>UNLOCK KELA",
+      "welcomeOffer": "WELCOME OFFER",
+      "limitedTimeOffer": "Limited Time<br>aaj <em>50%</em> offer",
+      "whatIndianUsersSay": "30 Lakh+ Indian users kay mhantat!",
+      "oneTimeWelcomeOffer": "ONE TIME WELCOME 50% OFFER",
+      "perMonthPaidForAWholeYear": "Fakt $price mahina, purna varshasathi"
+    },
+    "testimonialQuotes": [
+      "Every week I could see my mistakes going down little by little.",
+      "The real and instant feedback made all the difference for me.",
+      "I just rehearse the real format, not just something generalised.",
+      "Leveling up your words does level up your confidence.",
+      "Daily habit beats hesitation every time.",
+      "It really helps you find your voice.",
+      "Nobody's listening or judging when I talk to it.",
+      "So honestly, consistent practice does change everything.",
+      "Now I'm usually the one starting the conversation."
+    ],
+    "paywallTitle": {
+      "ielts": "<em>IELTS madhe top kara</em><br>English practice sobat",
+      "improveMyCareer": "<em>Career pudhe nya</em><br>English practice sobat",
+      "everydayConvo": "<em>Fluent bola</em><br>purna confidence ne",
+      "travel": "<em>Jag phira</em><br>English practice sobat",
+      "excelAtSchool": "<em>Shalet pudhe ja</em><br>English practice sobat",
+      "anyOtherGoal": "<em>Tumche goals gatha</em><br>English practice sobat"
+    }
+  },
+  "errors": {
+    "title": "काहीतरी चुकले",
+    "generic": "काहीतरी अडचण आली. कृपया पुन्हा try करा.",
+    "network": "Server शी connect होऊ शकलो नाही. तुमचे internet connection check करा आणि पुन्हा try करा.",
+    "serviceUnavailable": "आमच्या servers मध्ये सध्या थोडी अडचण आहे. थोड्या वेळाने पुन्हा try करा.",
+    "outdatedApp": "ही screen load करण्यासाठी update आवश्यक आहे. कृपया app update करा.",
+    "retry": "Retry करा",
+    "goBack": "मागे जा",
+    "openSettings": "Settings उघडा",
+    "micPermission": "कृपया microphone permission enable करा",
+    "goalSavePending": "तुमचे goal अजून save होत आहे. तुम्ही online आल्यावर ते update होईल."
+  },
+  "conversationV4": {
+    "ui": {
+      "exitTitle": "तुम्हाला खात्री आहे का, तुम्हाला\nहे session end करायचे आहे?",
+      "endSession": "Session End करा",
+      "exhaustedTitle": "तुमचे सगळे free attempts संपले आहेत",
+      "exhaustedSubtitle": "Unlimited conversations साठी Pro वर upgrade करा",
+      "upgradeToPro": "Pro वर Upgrade करा",
+      "introLockedTitle": "Introduction नंतर पुढचे conversation topics unlock होतील",
+      "gotIt": "समजले",
+      "startIntroduction": "Introduction सुरू करा",
+      "noConversationsYet": "अजून कोणतेही conversation नाही",
+      "loadingOlderConversations": "जुनी conversations load होत आहेत…",
+      "translationFailed": "Translation झाले नाही. कृपया पुन्हा try करा.",
+      "analyzingResponse": "तुमच्या response चे analysis होत आहे…",
+      "analysisLoadFailed": "Analysis load झाले नाही. कृपया पुन्हा try करा.",
+      "analysisUnscoredTitle": "आम्ही याचे analysis करू शकलो नाही",
+      "reasonForError": "Error चे कारण",
+      "tabGrammar": "Grammar",
+      "tabPronunciation": "Pronunciation",
+      "tabVocabulary": "Vocabulary",
+      "tabFluency": "Fluency",
+      "hintLoadFailed": "Hint load झाला नाही. Retry वर tap करा.",
+      "viewMistakes": "Mistakes पहा",
+      "viewResultsAndEnd": "Results पहा आणि End करा",
+      "translateNeedsNativeLanguage": "Translations मिळवण्यासाठी Settings मध्ये English व्यतिरिक्त native language निवडा."
+    },
+    "failure": {
+      "sessionExpired": "तुमचे session expire झाले आहे. कृपया पुन्हा sign in करा.",
+      "purchaseFailed": "आम्ही ही purchase पूर्ण करू शकलो नाही. तुमच्याकडून कोणताही charge घेतलेला नाही — कृपया पुन्हा try करा.",
+      "fatalTitle": "Conversation संपले",
+      "fatal": "Conversation अचानक संपले. कृपया पुन्हा try करा.",
+      "topicsTitle": "Topics load झाले नाहीत",
+      "historyTitle": "तुमची conversations load झाली नाहीत",
+      "chatTitle": "हे conversation load झाले नाही",
+      "resultPrep": "आम्ही तुमचा result तयार करू शकलो नाही.",
+      "asrFailed": "मला तुमचे बोलणे नीट ऐकू आले नाही.",
+      "analysisFailed": "मी याचे analysis करू शकले नाही — चला पुन्हा try करूया.",
+      "ttsFailed": "Audio play झाला नाही.",
+      "errorCodeLabel": "Error code",
+      "tryAgain": "पुन्हा try करा",
+      "backHome": "Home वर परत जा",
+      "close": "Close करा",
+      "replay": "पुन्हा ऐकण्यासाठी tap करा",
+      "tapToRetry": "Retry करण्यासाठी tap करा"
+    },
+    "connection": {
+      "initiating": "Conversation सुरू होत आहे…",
+      "connecting": "Connect होत आहे…",
+      "reconnecting": "पुन्हा connect होत आहे…",
+      "disconnected": "Disconnected",
+      "error": "Connection error",
+      "retry": "Retry करा"
+    },
+    "drill": {
+      "listening": "ऐकत आहोत…",
+      "scoring": "तुमच्या pronunciation ला score करत आहोत…",
+      "needsPractice": "Practice ची गरज आहे!",
+      "wellDone": "खूप छान 👏",
+      "listen": "ऐका…",
+      "getReady": "तयार व्हा…",
+      "learntToPronounce": "तुम्ही “$word” चा pronunciation शिकलात."
+    },
+    "topics": {
+      "loadMoreFailed": "आणखी topics load झाले नाहीत. तुमचे connection check करा.",
+      "refreshFailed": "तुमचे topics refresh झाले नाहीत — जुना data दाखवत आहोत.",
+      "pickATopic": "एखादा topic निवडा आणि बोलायला सुरुवात करा!"
+    },
+    "chat": {
+      "translateThisLine": "या line चे translation करा",
+      "closeConversation": "Conversation बंद करा",
+      "challengesStars": "Challenges: $total पैकी $stars stars",
+      "allChallengesCompleted": "सर्व Challenges पूर्ण झाले!",
+      "youGotThis": "तुम्ही करू शकता",
+      "oneChallengeToGo": "! फक्त 1 challenge बाकी",
+      "challengesToGo": "! फक्त $count challenges बाकी",
+      "starEarned": "तुम्हाला एक star मिळाला!",
+      "perfectResponse": "Perfect response",
+      "continueLabel": "पुढे चला",
+      "selectAtLeast": "किमान $count निवडा",
+      "removeCount": "$count काढा",
+      "conversationMode": "Conversation Mode",
+      "practiceMode": "Practice Mode",
+      "discardRecording": "Recording काढून टाका",
+      "submitRecording": "Recording पाठवा"
+    },
+    "hint": {
+      "tapToSeeHint": "Hint पाहण्यासाठी tap करा",
+      "youCanSpeakLikeThis": "तुम्ही असे बोलू शकता",
+      "gettingHint": "Hint आणत आहोत…"
+    },
+    "translation": {
+      "sarahResponseEnglish": "Sarah चा response ( English )",
+      "translating": "Translate होत आहे",
+      "translated": "Translate झाले",
+      "translatingIn": "$language मध्ये translate होत आहे",
+      "translatedIn": "$language मध्ये translate झाले"
+    },
+    "mistakes": {
+      "noGrammarNotes": "या वेळी grammar notes नाहीत.",
+      "noPronunciationNotes": "या वेळी pronunciation notes नाहीत.",
+      "noVocabularyNotes": "या वेळी vocabulary notes नाहीत.",
+      "noFluencyNotes": "या वेळी fluency notes नाहीत.",
+      "recordingExpired": "ती recording play झाली नाही. ती expire झाली असावी.",
+      "pronunciationPlayFailed": "Pronunciation play झाले नाही. कृपया पुन्हा try करा.",
+      "topMispronouncedWords": "सर्वात जास्त चुकीचे उच्चारलेले words",
+      "betterVocabulary": "चांगले Vocabulary suggestions",
+      "improvedVersion": "तुमच्या बोलण्याचे सुधारित Version:",
+      "lockedGrammarHeadline": "Natural वाटणाऱ्या\ngrammar ची practice करा",
+      "lockedGrammarSubtitle": "प्रत्येक message नंतर\npersonalised feedback मिळवा.",
+      "lockedPronunciationHeadline": "अधिक natural\nपणे बोला.",
+      "lockedPronunciationSubtitle": "प्रत्येक message नंतर\nतुमचा pronunciation सुधारा.",
+      "lockedVocabularyHeadline": "जास्त बोला.\nचांगले बोला.",
+      "lockedVocabularySubtitle": "प्रत्येक conversation सोबत\nतुमची vocabulary वाढवा.",
+      "lockedFluencyHeadline": "सुधारा. Practice करा.\nलक्षात ठेवा.",
+      "lockedFluencySubtitle": "तुमच्यासाठी बनवलेल्या feedback\nवरून practice करा."
+    },
+    "paywall": {
+      "unlock": "Unlock करा",
+      "atPercentOff": "@ $discount% OFF",
+      "percentOff": "$discount% off",
+      "onPremiumPass": "Premium pass वर"
+    }
+  },
+  "analysis": {
+    "recordedBeforePro": "ही speech तुम्ही upgrade करण्यापूर्वी record झाली होती, त्यामुळे तिचा feedback उपलब्ध नाही. आता तुम्ही record कराल त्या प्रत्येक नवीन speech ला पूर्ण feedback मिळेल."
+  },
+  "buddyStreak": {
+    "startTitle": "Buddy streak सुरू करा",
+    "startBody": "एकमेकांना motivate करा आणि सोबत मोठ्या streaks बनवा",
+    "inviteCta": "Buddy ला invite करा",
+    "maybeLater": "नंतर",
+    "yourCode": "तुमचा BUDDY CODE",
+    "codeCopied": "Code copy झाला",
+    "shareCta": "Invite link share करा",
+    "shareMessage": "चला Stimuler वर सोबत streak चालू ठेवूया. माझा buddy होण्यासाठी tap करा: $link",
+    "or": "किंवा",
+    "haveCode": "माझ्याकडे code आहे",
+    "codeMissingTitle": "तुमचा code load होऊ शकला नाही",
+    "codeMissingBody": "तुमचे internet connection check करा आणि पुन्हा try करा.",
+    "retry": "पुन्हा try करा",
+    "enterTitle": "Code टाका",
+    "enterBody": "तुमच्या मित्राच्या screen वर दिसणारा code टाका",
+    "join": "Join करा",
+    "paste": "Clipboard मधून paste करा",
+    "pairedTitle": "$name आणि तुम्ही buddy streak सुरू केली",
+    "pairedTitleNoName": "तुम्ही buddy streak सुरू केली",
+    "requestSentTitle": "$name ला request पाठवली",
+    "requestSentTitleNoName": "Request पाठवली",
+    "requestSentBody": "त्यांनी accept करताच तुमची buddy streak सुरू होईल.",
+    "requestTitle": "$name ला तुमचा buddy व्हायचे आहे",
+    "requestTitleNoName": "तुमच्यासाठी एक buddy request आहे",
+    "requestBody": "Accept करा, सोबत streak सुरू करा आणि दोन्ही fires पेटत ठेवा.",
+    "accept": "Accept करा",
+    "decline": "नको",
+    "requestsTitle": "$count buddy requests आल्या आहेत",
+    "requestsTitleOne": "1 buddy request आली आहे",
+    "requestsBody": "त्यांनी तुमचा buddy code वापरला.",
+    "acceptAll": "सर्व accept करा",
+    "later": "नंतर",
+    "startedManyTitle": "तुमच्या buddy streaks सुरू झाल्या",
+    "someone": "कोणीतरी",
+    "couldNotLoad": "लोड होऊ शकले नाही",
+    "practiceNow": "आता practice करा",
+    "hookBody": "दोघे या, नाहीतर स्ट्रीक रीसेट होईल.",
+    "leftTitle": "$name बाकी आहे",
+    "leftTitleNoName": "तुमचा buddy बाकी आहे",
+    "leftBody": "आजचा धडा पूर्ण करून स्ट्रीक सुरू ठेवण्याची आम्ही $name ला आठवण करून देऊ.",
+    "leftBodyNoName": "आजचा धडा पूर्ण करून स्ट्रीक सुरू ठेवण्याची आम्ही तुमच्या buddy ला आठवण करून देऊ.",
+    "continueCta": "पुढे चला",
+    "togetherTitle": "$count दिवस एकत्र",
+    "togetherTitleOne": "1 दिवस एकत्र",
+    "daysWith": "$name सोबत $count दिवस",
+    "dayWithOne": "$name सोबत 1 दिवस",
+    "togetherBody": "आज तुम्ही दोघे आलात. उद्याही असेच.",
+    "firesTitle": "तुमच्या बडींच्या स्ट्रीक",
+    "firesBody": "स्ट्रीक टिकवण्यासाठी आम्ही मित्रांना आठवण करून देऊ",
+    "streaksTitle": "Buddy Streaks",
+    "streakTitle": "Buddy Streak",
+    "invitePlus": "+ इनवाइट करा",
+    "emptyTitle": "Buddy सोबत streak",
+    "emptyBody": "तुम्ही दोघे practice करा, तुम्ही दोघे टिकवा.",
+    "thisWeek": "या आठवड्यात",
+    "you": "तुम्ही",
+    "roadmapDay": "रोडमॅपचा दिवस",
+    "conversations": "संभाषणे",
+    "calls": "कॉल्स",
+    "daysTogether": "एकत्र दिवस",
+    "sentRequests": "पाठवलेल्या विनंत्या",
+    "pendingRequest": "प्रलंबित request",
+    "pendingRequests": "प्रलंबित requests",
+    "pending": "प्रलंबित",
+    "removeCta": "मित्र काढा",
+    "removeTitle": "$name ला काढायचे?",
+    "removeTitleNoName": "या मित्राला काढायचे?",
+    "removeBody": "तुमच्या दोघांची एकत्र स्ट्रीक संपेल.",
+    "removeConfirm": "काढा",
+    "removeEnds": "तुमच्या दोघांची $count दिवसांची एकत्र स्ट्रीक संपेल.",
+    "removeKeep": "स्ट्रीक टिकवा",
+    "removeNamed": "$name ला काढा",
+    "cancel": "रद्द करा",
+    "removeFailed": "आम्ही तुमच्या मित्राला काढू शकलो नाही. पुन्हा प्रयत्न करा.",
+    "errors": {
+      "invalidTitle": "हा code चालला नाही",
+      "invalidBody": "तुमच्या buddy सोबत code check करा आणि पुन्हा try करा.",
+      "checkTitle": "Code check करा",
+      "checkBody": "Code मध्ये 8 letters आणि numbers असतात. पुन्हा enter करा.",
+      "ownTitle": "हा तुमचाच code आहे",
+      "ownBody": "तुमच्या buddy कडून त्यांचा code मागा.",
+      "alreadyTitle": "तुम्ही आधीच buddies आहात",
+      "alreadyBody": "ते तुमच्या buddy streaks मध्ये दिसतील.",
+      "limitTitle": "Buddy limit पूर्ण झाली",
+      "limitBody": "तुमचे किंवा तुमच्या buddy चे आधीच जास्तीत जास्त buddies आहेत.",
+      "disabledTitle": "Buddy streaks अजून उपलब्ध नाहीत",
+      "disabledBody": "Join करता आल्यावर आम्ही कळवू.",
+      "genericTitle": "काहीतरी चुकले",
+      "genericBody": "तुमचे internet connection check करा आणि पुन्हा try करा."
+    }
+  },
+  "indiaOnboardingV16": {
+    "helloSarah": "Hi! मी Sarah, तुमची personal English speaking partner आहे.",
+    "whatShouldICallYou": "चला, एकमेकांना ओळखूया! मी तुम्हाला काय म्हणू?",
+    "enterYourName": "तुमचं नाव लिहा",
+    "nativeLanguageQuestion": "तुम्हाला भेटून छान वाटलं, {{name}}! तुमची native language कोणती?",
+    "heardFromQuestion": "एक छोटासा प्रश्न, {{name}}. तुम्ही आमच्याबद्दल कुठे ऐकलं?",
+    "ageGenderQuestion": "चला, तुमच्याबद्दल आणखी जाणून घेऊया! तुमचं वय आणि gender काय आहे?",
+    "ageLabel": "वय",
+    "genderLabel": "Gender",
+    "preferNotToSay": "सांगायचं नाही",
+    "done": "झालं",
+    "phoneQuestion": "Thanks, {{name}}! तुम्हाला latest lessons मिळत राहावेत म्हणून, मी तुमचा phone number घेऊ शकते का?",
+    "phoneSkipped": "काही हरकत नाही! तुम्ही तो कधीही Profile settings मध्ये add करू शकता.",
+    "situationQuestion": "सध्या तुमचं सगळ्यात योग्य वर्णन कोणतं?",
+    "situation": {
+      "student": "विद्यार्थी",
+      "workingProfessional": "नोकरदार",
+      "freelancer": "स्वयंरोजगार / फ्रीलान्सर",
+      "businessOwner": "व्यवसाय मालक",
+      "lookingForWork": "नोकरीच्या शोधात",
+      "homeMaker": "गृहिणी",
+      "careerBreak": "career ब्रेकवर",
+      "parent": "पालक"
+    },
+    "goalQuestion": "आपली भेट झाल्याचा आनंद आहे, {{name}}. English शिकण्याचं तुमचं main goal काय आहे?",
+    "goalReply": {
+      "ielts": {
+        "student": "छान! Speaking हा असा part आहे ज्याची बहुतेक students ना भीती वाटते, आणि त्यातच तुम्ही सगळ्यात लवकर improve करू शकता. आपण test च्या तिन्ही parts ची practice करू.",
+        "workingProfessional": "Smart! परदेशात कामासाठी असो किंवा PR साठी, तुमच्या job सोबत जमेल अशा practice ने आपण तुमचा speaking band वाढवू.",
+        "freelancer": "चांगला plan आहे. तुमच्या client work सोबत बसतील अशा छोट्या daily sessions मध्ये आपण IELTS speaking च्या प्रत्येक part ची practice करू.",
+        "businessOwner": "छान! दिवसाला 10 मिनिटांत आपण examiners ज्या fluency आणि range कडे बघतात ती build करू.",
+        "lookingForWork": "दमदार निर्णय. चांगला band अनेक दारं उघडतो. Speaking test routine वाटेपर्यंत आपण त्याची practice करू.",
+        "homeMaker": "हे मोठं goal आहे, आणि खूप छान पण. आपण speaking test ची practice step by step, तुमच्या pace ने करू.",
+        "careerBreak": "वेळेचा छान उपयोग! रोजच्या steady practice ने आपण तुम्हाला speaking साठी exam-ready करू.",
+        "parent": "खूप छान! Family time सांभाळून, छोट्या sessions मध्ये आपण IELTS speaking ची practice करू."
+      },
+      "business": {
+        "student": "लवकर सुरुवात करणं smart आहे! Placements मध्ये स्पष्ट बोलणाऱ्यांना फायदा होतो. आपण introductions, HR questions आणि group discussions ची practice करू.",
+        "workingProfessional": "मस्त. स्पष्ट English प्रत्येक meeting, review आणि promotion च्या चर्चेत दिसते. तुम्ही office मध्ये खरंच करता त्या conversations ची आपण practice करू.",
+        "freelancer": "छान! जे स्पष्ट समजावून सांगतात त्यांच्यावर clients विश्वास ठेवतात. आपण pitching, negotiating आणि client calls ची practice करू.",
+        "businessOwner": "उत्तम. Confident English मुळे तुम्ही clients जिंकू शकता आणि तुमची team lead करू शकता. आपण pitches, meetings आणि negotiations ची practice करू.",
+        "lookingForWork": "तुम्ही हे नक्की करू शकता! Confident English मुळे interview चं चित्र बदलू शकतं. तुम्हाला सगळ्यात जास्त विचारले जाणारे questions आपण practice करू.",
+        "homeMaker": "हे तर exciting आहे! Career पुन्हा सुरू करणं हे मोठं पाऊल आहे. आपण interviews आणि introductions ची practice करू, म्हणजे तुम्ही पूर्ण confidence ने जाल.",
+        "careerBreak": "Welcome back! Gap बद्दलच्या questions सकट, तुम्ही कधी break घेतलाच नव्हता असं interviews मध्ये वाटेल, अशी तयारी आपण करू.",
+        "parent": "छान goal आहे! तुम्ही बऱ्याच गोष्टी सांभाळता, म्हणून आपण practice छोटी ठेवू आणि तुम्हाला पुढे नेणाऱ्या conversations वर focus करू."
+      },
+      "socializing": {
+        "student": "मस्त! English मधला confidence सगळीकडे दिसतो: मैत्री, classes, अगदी तुमच्या reels मध्ये सुद्धा. आपण रोजच्या conversations पासून सुरुवात करू.",
+        "workingProfessional": "छान! प्रत्येक sentence मनात rehearse न करता मोकळेपणाने बोलणं, हे आपण मिळून build करू शकतो.",
+        "freelancer": "Nice! आपण रोजच्या conversations ची practice करू, म्हणजे English काम न वाटता natural वाटेल.",
+        "businessOwner": "खूप छान. आपण सहज, रोजचा confidence build करू, जो प्रत्येक conversation मध्ये दिसतो.",
+        "lookingForWork": "छान निवड. आत्ता build केलेला confidence सगळीकडे उपयोगी पडतो, तुमच्या पुढच्या interview मध्ये सुद्धा. आपण रोजच्या गप्पांपासून सुरुवात करू.",
+        "homeMaker": "हे तर खूप छान आहे! तुमच्यासाठी महत्त्वाच्या रोजच्या conversations ची practice आपण तुमच्या pace ने करू.",
+        "careerBreak": "या वेळेचा छान उपयोग! दिवसाला एक छोटं session घेऊन आपण English बोलणं natural करू.",
+        "parent": "खूप छान! मुलं confidence लगेच टिपतात. तुम्ही त्यांच्याशी आणि इतर सगळ्यांशी वापरू शकाल अशा रोजच्या English ची आपण practice करू."
+      },
+      "travel": {
+        "student": "किती exciting! आपण airports, hostels आणि परदेशात मित्र बनवण्याची practice करू, म्हणजे काळजी करण्याऐवजी तुम्ही trip enjoy कराल.",
+        "workingProfessional": "Nice! Work trips असो वा सुट्ट्या, तुम्ही सहज बोलू शकलात की दोन्ही छान होतात. आपण check-ins, directions आणि small talk ची practice करू.",
+        "freelancer": "मस्त. Client visit असो वा workcation, आपण travel मधल्या रोजच्या conversations सोप्या करू.",
+        "businessOwner": "छान! Client visits पासून trade fairs पर्यंत, प्रवासात तुम्हाला कराव्या लागणाऱ्या conversations ची आपण practice करू.",
+        "lookingForWork": "छान! Travel सोपा करणाऱ्या रोजच्या English ची आपण practice करू: airports, hotels आणि मदत मागणं.",
+        "homeMaker": "किती छान! आपण जेवण order करणं, रस्ता विचारणं आणि लोकांशी गप्पा मारणं याची practice करू, म्हणजे तुम्ही आरामात travel करू शकाल.",
+        "careerBreak": "यासाठी perfect वेळ आहे! आपण तुम्हाला airports, hotels आणि नवीन लोकांसोबत comfortable करू, म्हणजे तुम्ही प्रत्येक trip enjoy कराल.",
+        "parent": "Family trips सगळ्यात भारी असतात! Check-in counter पासून hotel desk पर्यंत, तुम्हाला खरंच जे लागेल त्याची आपण practice करू."
+      },
+      "education": {
+        "student": "मस्त! English test सारखी वाटणं बंद झालं की class मध्ये बोलणं खूप सोपं होतं. आपण खरे moments practice करू: teacher ला उत्तर देणं, presentations आणि group work.",
+        "workingProfessional": "काम करत शिकायला जिद्द लागते. तुम्ही lectures मध्ये बोलू शकाल आणि confidence ने present करू शकाल, याची आपण खात्री करू.",
+        "freelancer": "छान निवड. Ideas वर मोकळेपणाने बोलता आलं की courses वेगाने पुढे जातात, आणि आपण नेमकी याचीच practice करू.",
+        "businessOwner": "Smart निर्णय. Business चालवत शिकणं मेहनतीचं काम आहे, म्हणून आपण ते छोटं ठेवू आणि class मध्ये बोलण्यावर focus करू.",
+        "lookingForWork": "चांगला विचार. Course आणि confident English हे पुढच्या interviews साठी दमदार combination आहे. आपण class discussions पासून सुरुवात करू.",
+        "homeMaker": "हे तर खूप छान आहे! पुन्हा शिकायला सुरुवात करायला धाडस लागतं. तुम्ही न कचरता class मध्ये बोलू शकाल, यासाठी आम्ही तुम्हाला मदत करू.",
+        "careerBreak": "तुमच्या break चा छान उपयोग. आपण तुम्हाला class मध्ये बोलण्यासाठी comfortable करू, म्हणजे course पहिल्या दिवसापासून सोपा वाटेल.",
+        "parent": "छान! तुमचे स्वतःचे classes असोत किंवा मुलांना शाळेत मदत, आपण स्पष्ट बोलण्याचा confidence build करू."
+      },
+      "others": {
+        "student": "समजलं! Class मध्ये आणि बाहेर तुम्ही रोज करता त्या conversations साठी आपण confidence build करू.",
+        "workingProfessional": "समजलं! आपण स्पष्ट, confident speaking वर focus करू, जे तुम्ही office मध्ये आणि बाहेरही वापरू शकाल.",
+        "freelancer": "समजलं! Clients सोबत आणि रोजच्या आयुष्यात उपयोगी पडणारं confident English आपण build करू.",
+        "businessOwner": "समजलं! Customers, partners आणि रोजच्या आयुष्यासाठी आपण confident English build करू.",
+        "lookingForWork": "समजलं! Interviews मध्ये आणि पुढेही उपयोगी पडणारा speaking confidence आपण build करू.",
+        "homeMaker": "समजलं! तुमच्या pace ने आपण रोजच्या speaking चा confidence build करू.",
+        "careerBreak": "समजलं! या वेळेचा उपयोग आपण English बोलणं natural करण्यासाठी करू.",
+        "parent": "समजलं! तुमच्या मुलांसोबत आणि इतर सगळ्यांसोबत वापरता येईल असा रोजचा confidence आपण build करू."
+      }
+    },
+    "painPointQuestion": "खरं सांगा. English बोलायची वेळ आली की काय होतं?",
+    "painPoint": {
+      "cantReplyFast": "समजतं, पण पटकन reply करता येत नाही",
+      "translateInHead": "मनात $lang ते English translate होतं",
+      "scaredOfMistakes": "लोकांसमोर चुका होण्याची भीती वाटते",
+      "runOutOfWords": "शब्दच सुचत नाहीत",
+      "accent": "माझा accent",
+      "soundPolished": "मला अजून polished बोलायचंय",
+      "other": "दुसरं काहीतरी"
+    },
+    "painPointMyLanguage": "माझी भाषा",
+    "painPointOtherPrompt": "थोडक्यात सांगा. त्यामुळे मला तुमची practice plan करायला मदत होईल.",
+    "painPointOtherHint": "उदा. मध्येच confidence जातो",
+    "painPointReply": {
+      "cantReplyFast": "समजणं आणि उत्तर देणं यातलं अंतर practice ने लवकर कमी होतं. आपण पटकन reply करण्याचं training करू.",
+      "translateInHead": "हे खूप common आहे! आपण step by step थेट English मध्ये विचार करायला शिकू.",
+      "scaredOfMistakes": "चुकांमधूनच आपण शिकतो. इथे फक्त तुम्ही आणि मी आहोत, कोणीही judge करणार नाही.",
+      "runOutOfWords": "तुमच्यासाठी महत्त्वाच्या प्रसंगी लागणारे words आपण build करू.",
+      "accent": "कोणत्याही accent पेक्षा स्पष्ट बोलणं जास्त महत्त्वाचं आहे. जिथे तुम्ही अडखळता त्या sounds वर आपण काम करू.",
+      "soundPolished": "मस्त. आपण तुमची fluency आणि range धारदार करू, म्हणजे तुम्ही natural वाटाल.",
+      "other": "सांगितल्याबद्दल thanks. Practice करताना मी हे लक्षात ठेवेन."
+    },
+    "levelQuestion": "तुमचा सध्याचा English level कोणता आहे असं तुम्ही म्हणाल?",
+    "testimonialsIntro": "तुम्ही योग्य हातात आहात, {{name}}! आम्ही Google Play चा Best AI App 2023 का जिंकलो ते पाहा, आणि तुमच्यासारख्या learners चे अनुभव ऐका.",
+    "notifPriming": "रोजच्या practice ने तुम्ही तुमचे goals लवकर achieve करू शकाल.",
+    "notifGranted": "त्यासाठी thanks! चला, मिळून English ला रोजची सवय बनवूया.",
+    "notifDenied": "काही हरकत नाही. तुम्ही reminders नंतर Profile settings मध्ये on करू शकता.",
+    "readIntro": "झालंच आहे! शेवटची step म्हणून, हे माझ्यासाठी मोठ्याने वाचा.",
+    "answerIntro": "झालंच आहे! शेवटची step म्हणून, माझ्या एका question चं उत्तर द्या.",
+    "hintIntro": "हे असं म्हणता येईल. हे मोठ्याने वाचा:",
+    "didNotSpeakAlot": "असं दिसतंय की तुम्ही फारसं बोलला नाहीत.",
+    "letsTrySomethingElse": "चला, दुसरं काहीतरी try करूया, चालेल?",
+    "wellDoneRead": "शाब्बास, {{name}}! तुम्ही हे एका दमात वाचलं.",
+    "wellDoneAnswered": "शाब्बास, {{name}}! तुम्ही पूर्ण sentences मध्ये उत्तर दिलं.",
+    "curiousHowWellYouSpoke": "तुम्ही किती छान बोललात हे जाणून घ्यायचंय? बघण्यासाठी tap करा!",
+    "seeDetailedReport": "Detailed report पाहा",
+    "subPurposeQuestion": "कोणत्या situations मध्ये तुम्हाला चांगलं बोलता यायला हवं?",
+    "enterReferralCode": "तुमच्याकडे असलेला referral code टाका",
+    "testimonialsIntroIos": "तुम्ही योग्य हातात आहात, {{name}}! तुमच्यासारख्या learners चे अनुभव ऐका.",
+    "helloBubble": "Hi, मी Sarah 👋",
+    "selectAnOption": "एक option निवडा",
+    "continueCta": "पुढे जा",
+    "skipForNow": "आत्ता Skip करा",
+    "phoneHint": "Phone number",
+    "goalOtherHint": "तुमचं goal इथे लिहा",
+    "seeMoreLanguages": "आणखी languages पाहा",
+    "selectAnotherLanguage": "दुसरी language निवडा",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "skip": "Skip",
+    "readItOutLoud": "मोठ्याने वाचा",
+    "modelAnswer": "Model answer",
+    "answerOutLoud": "मोठ्याने उत्तर द्या",
+    "micTipRead": "Mic वर tap करून वाचा",
+    "micTipAnswer": "Mic वर tap करून उत्तर द्या",
+    "micTipHint": "अडकलात? Model answer साठी bulb वर tap करा",
+    "progress": {
+      "letsGetStarted": "चला, सुरुवात करूया!",
+      "percentCompleted": "$percent% पूर्ण",
+      "niceToMeetYou": "भेटून छान वाटलं, $name!",
+      "gotIt": "समजलं!",
+      "thanksForTellingUs": "सांगितल्याबद्दल thanks!",
+      "thatHelps": "याने मदत होईल, thank you!",
+      "youreAllSet": "तुम्ही तयार आहात!",
+      "notAlone": "असं फक्त तुमच्यासोबत होत नाही.",
+      "almostThere": "थोडंच बाकी!",
+      "firstSpeechDone": "पहिलं speech पूर्ण!",
+      "goalCaption": "“$goal” – $cheer",
+      "goalCheer": {
+        "ielts": "छान निवड!",
+        "business": "जबरदस्त!",
+        "socializing": "मस्त!",
+        "travel": "किती exciting!",
+        "education": "जबरदस्त!",
+        "others": "समजलं!"
+      }
+    },
+    "report": {
+      "title": "तुमचा report\nतयार होत आहे…",
+      "tickPronunciation": "Pronunciation check करत आहोत",
+      "tickFluency": "Fluency आणि pauses check करत आहोत",
+      "tickGrammar": "Grammar check करत आहोत",
+      "tickGoal": "तुमच्या goal शी जुळवत आहोत: $goal",
+      "foot": "फक्त 5 seconds लागतात, हो, आम्ही इतके fast आहोत!",
+      "answersCaption": "तुमच्या उत्तरांवरून तयार केलं.",
+      "tapHint": "बदलण्यासाठी एकावर tap करा.",
+      "cta": "पुढे जा",
+      "sheetSituation": "तुमचं योग्य वर्णन कोणतं?",
+      "sheetGoal": "तुमचं main goal",
+      "sheetPain": "तुम्हाला काय अडवतं?",
+      "painShort": {
+        "cantReplyFast": "हळू replies",
+        "translateInHead": "मनात translate करणं",
+        "scaredOfMistakes": "चुकांची भीती",
+        "runOutOfWords": "शब्द न सुचणं",
+        "accent": "Accent",
+        "soundPolished": "Polished बोलणं",
+        "other": "दुसरं काहीतरी"
+      }
+    },
+    "level": {
+      "kicker": "तुमचा level",
+      "titleBeginner": "तुम्ही $level आहात",
+      "titleOther": "तुम्ही $level आहात",
+      "rungs": {
+        "a1": "Novice",
+        "a2": "Beginner",
+        "b1": "Intermediate",
+        "b2": "Advanced",
+        "c1": "Proficient",
+        "c2": "Native"
+      },
+      "hereTitle": "तुम्ही इथे आहात",
+      "hereBeginner": "“छोटी वाक्यं”",
+      "hereIntermediate": "“रोजच्या गप्पा”",
+      "hereAdvanced": "“Fluent आणि polished”",
+      "nextTitle": "पुढचा टप्पा",
+      "nextBeginner": "कमी pauses",
+      "nextIntermediate": "पटकन replies",
+      "nextAdvanced": "Natural, अचूक",
+      "wellHeading": "तुम्ही काय छान केलं",
+      "improveHeading": "काय सुधारायचं",
+      "wellReadWhole": "तुम्ही न थांबता पूर्ण passage वाचलं.",
+      "improveOne": "'$first' वर थोडं काम करायचं आहे. पुढच्या step मध्ये आपण ते सुधारू.",
+      "improveTwo": "'$first' आणि '$second' वर थोडं काम करायचं आहे. पुढच्या step मध्ये आपण ते सुधारू.",
+      "improveThree": "'$first', '$second' आणि '$third' वर थोडं काम करायचं आहे. पुढच्या step मध्ये आपण ते सुधारू.",
+      "cta": "पुढे जा"
+    },
+    "fix": {
+      "errorsKicker": "झटपट सुधारणा",
+      "errorsTitleOne": "एका word वर\nथोडं काम हवं",
+      "errorsTitleTwo": "दोन words वर\nथोडं काम हवं",
+      "errorsTitleThree": "तीन words वर\nथोडं काम हवं",
+      "errorsTitleMany": "$count words वर\nथोडं काम हवं",
+      "errorsSub": "तुमचा plan बनवण्याआधी हे सुधारूया.",
+      "passageLabel": "तुमच्या reading मधून",
+      "whatToFix": "काय सुधारायचं",
+      "practiseSound": "'$sound' sound ची practice करा",
+      "errorsCta": "चला, सुधारूया",
+      "practiceKicker": "Practice",
+      "practiceTitle": "चला, <em>'$word'</em> मधला '$sound' sound improve करूया",
+      "cue": "Word <b>मोठ्याने</b> वाचा",
+      "currentScore": "सध्याचा score",
+      "newScore": "नवा score",
+      "tapToSpeak": "Tap करून बोला",
+      "tryAgain": "परत try करा",
+      "analysing": "तपासत आहोत…",
+      "soundsClear": "स्पष्ट ऐकू आलं",
+      "skipWord": "हा word skip करा",
+      "continueCta": "पुढे जा",
+      "listen": "ऐका",
+      "exitTitle": "थांबा, तुम्ही जवळजवळ पोहोचलात!",
+      "exitBody": "Personalized learning unlock व्हायला फक्त काही क्षण बाकी आहेत. चला, पूर्ण करूया!",
+      "exitStay": "पुढे जा",
+      "exitLeave": "नंतर करा"
+    },
+    "win": {
+      "headerCaption": "छान काम!",
+      "firstLineCard": "बघा, $name! एकाच try मध्ये '$word' आधीच जास्त स्पष्ट वाटतोय.",
+      "firstLineNoCard": "छान, $name! तुम्ही आत्ताच real feedback सोबत English मोठ्याने बोललात.",
+      "secondLine": "दिवसाची 10 मिनिटं हेच करतात. तुमचा पहिला lesson तयार आहे आणि तुमची वाट पाहतोय.",
+      "gainCaption": "points, एकाच try मध्ये",
+      "before": "आधी",
+      "after": "नंतर",
+      "cta": "Plan सुरू करा"
+    },
+    "plan": {
+      "kicker": "तुमचा plan",
+      "learners": "13Mn+ learners या प्रवासात तुमच्यासोबत आहेत",
+      "body": "तुमच्या सध्याच्या level ($cefr) वर, बघा\nरोज 10 मिनिटांची practice काय करू शकते.",
+      "today": "आज",
+      "week1": "आठवडा 1",
+      "week4": "आठवडा 4",
+      "week8": "आठवडा 8",
+      "cta": "Plan सुरू करा",
+      "school": {
+        "title": "Class मध्ये confidence ने बोला",
+        "m1": "न थांबता class मध्ये स्वतःची ओळख करून द्या",
+        "m2": "Teacher ला पूर्ण sentences मध्ये उत्तर द्या",
+        "m3": "2 मिनिटांचं class presentation द्या"
+      },
+      "career": {
+        "title": "पुढच्या interview साठी पूर्ण तयार राहा",
+        "m1": "न थांबता स्वतःची ओळख करून द्या",
+        "m2": "'Tell me about yourself' चं उत्तर एका मिनिटात द्या",
+        "m3": "पूर्ण mock HR round handle करा"
+      },
+      "ielts": {
+        "title": "तुमच्या target band च्या जवळ पोहोचा",
+        "m1": "मोठे pauses न घेता Part 1 questions ची उत्तरं द्या",
+        "m2": "Part 2 cue card वर पूर्ण 2 मिनिटं बोला",
+        "m3": "पूर्ण speaking mock test द्या"
+      },
+      "travel": {
+        "title": "भाषेची काळजी न करता travel करा",
+        "m1": "Airport आणि hotel check-in सहज पार करा",
+        "m2": "जेवण order करा आणि locals ना रस्ता विचारा",
+        "m3": "Locals सोबत आरामात गप्पा मारा"
+      },
+      "personal": {
+        "title": "रोजच्या confidence ने English बोला",
+        "m1": "न थांबता तुमच्या दिवसाबद्दल बोला",
+        "m2": "5 मिनिटांचं conversation करा",
+        "m3": "Group मध्ये तुमचं मत स्पष्टपणे मांडा"
+      }
+    }
+  }
+}

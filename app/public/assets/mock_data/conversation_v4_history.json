@@ -1,0 +1,100 @@
+{
+  "status": "success",
+  "message": "Attempts listed",
+  "data": {
+    "conversations": [
+      {
+        "conversation_id": "conv-abc-1023",
+        "is_migrated": false,
+        "analysis_id": null,
+        "analysis_status": "completed",
+        "topic_title": "Let's know about you",
+        "created_at": "23 Mar, 4:12 PM",
+        "metadata": {
+          "topic_id": 101,
+          "topic_order": 1,
+          "topic_attempt_counter": 1,
+          "category_id": 1,
+          "category_order": 1,
+          "category_attempt_counter": 1
+        }
+      },
+      {
+        "conversation_id": "conv-abc-1019",
+        "is_migrated": false,
+        "analysis_id": null,
+        "analysis_status": "completed",
+        "topic_title": "Ordering at a café",
+        "created_at": "23 Mar, 4:12 PM",
+        "metadata": {
+          "topic_id": 206,
+          "topic_order": 1,
+          "topic_attempt_counter": 1,
+          "category_id": 1,
+          "category_order": 1,
+          "category_attempt_counter": 1
+        }
+      },
+      {
+        "conversation_id": "conv-def-5678",
+        "is_migrated": false,
+        "analysis_id": null,
+        "analysis_status": "completed",
+        "topic_title": "Talking about movies",
+        "created_at": "23 Mar, 4:12 PM",
+        "metadata": {
+          "topic_id": 205,
+          "topic_order": 1,
+          "topic_attempt_counter": 1,
+          "category_id": 1,
+          "category_order": 1,
+          "category_attempt_counter": 1
+        }
+      },
+      {
+        "conversation_id": "conv-abc-0991",
+        "is_migrated": false,
+        "analysis_id": null,
+        "analysis_status": "completed",
+        "topic_title": "Hobbies",
+        "created_at": "23 Mar, 4:12 PM",
+        "metadata": {
+          "topic_id": 204,
+          "topic_order": 1,
+          "topic_attempt_counter": 1,
+          "category_id": 1,
+          "category_order": 1,
+          "category_attempt_counter": 1
+        }
+      },
+      {
+        "conversation_id": "conv-abc-0977",
+        "is_migrated": false,
+        "analysis_id": null,
+        "analysis_status": "completed",
+        "topic_title": "Ordering at a café",
+        "created_at": "23 Mar, 4:12 PM",
+        "metadata": {
+          "topic_id": 206,
+          "topic_order": 1,
+          "topic_attempt_counter": 1,
+          "category_id": 1,
+          "category_order": 1,
+          "category_attempt_counter": 1
+        }
+      },
+      {
+        "conversation_id": "conv-abc-0954",
+        "is_migrated": true,
+        "analysis_id": null,
+        "analysis_status": "completed",
+        "topic_title": "Let's know about you",
+        "created_at": "23 Mar, 4:12 PM",
+        "metadata": null
+      }
+    ],
+    "offset": 0,
+    "limit": 20,
+    "has_more": false
+  }
+}

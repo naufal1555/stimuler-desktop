@@ -1,0 +1,137 @@
+{
+  "status": "success",
+  "message": "Topics returned successfully",
+  "data": {
+    "header_title": "Our Picks for You!",
+    "banner": {
+      "text": "Pick a topic and start chatting!",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/conversation%2Favatars%2Fsarah_pointing.png?alt=media&token=72829a57-e098-43bf-9392-4082756213bd"
+    },
+    "offset": 0,
+    "limit": 50,
+    "total_categories": 3,
+    "total_engagement_count": 666,
+    "categories": [
+      {
+        "category_id": 12,
+        "category_order": 0,
+        "title": "Introduction",
+        "attempt_status": "available",
+        "star_progress": {
+          "total_stars": 3,
+          "stars_gained": 3
+        },
+        "topics": [
+          {
+            "topic_id": 101,
+            "topic_order": 0,
+            "title": "Let's know about you",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/conversation%2Fintro%2Fconversation_intro.webp?alt=media&token=71f6a5de-884a-4332-b2a3-28cffc0a1043",
+            "image_border_color": "#A3FF9600",
+            "total_stars": 3,
+            "max_stars_achieved": 3,
+            "attempt_counter": 2,
+            "engagement_count": 35,
+            "flow_template": "firestore_topic_hRkpeUwIf7EJxt9AvvJD",
+            "attempt_status": "completed",
+            "open_mode": "history",
+            "last_conversation_id": "conv-abc-1023",
+            "is_migrated": false
+          }
+        ]
+      },
+      {
+        "category_id": 18,
+        "category_order": 1,
+        "title": "Everyday chat",
+        "attempt_status": "available",
+        "star_progress": {
+          "total_stars": 9,
+          "stars_gained": 2
+        },
+        "topics": [
+          {
+            "topic_id": 204,
+            "topic_order": 0,
+            "title": "Hobbies",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/conversation%2Fintro%2Fconversation_intro.webp?alt=media&token=71f6a5de-884a-4332-b2a3-28cffc0a1043",
+            "image_border_color": "#FFC0C0C0",
+            "total_stars": 3,
+            "max_stars_achieved": null,
+            "attempt_counter": 1,
+            "attempt_status": "available",
+            "open_mode": "new",
+            "last_conversation_id": null,
+            "is_migrated": false
+          },
+          {
+            "topic_id": 205,
+            "topic_order": 1,
+            "title": "Talking about movies",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/conversation%2Fintro%2Fconversation_intro.webp?alt=media&token=71f6a5de-884a-4332-b2a3-28cffc0a1043",
+            "image_border_color": "#B5F55726",
+            "total_stars": 3,
+            "max_stars_achieved": 0,
+            "attempt_counter": 1,
+            "attempt_status": "in_progress",
+            "open_mode": "resume",
+            "last_conversation_id": "conv-def-5678",
+            "is_migrated": false
+          },
+          {
+            "topic_id": 206,
+            "topic_order": 2,
+            "title": "Ordering at a café",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/conversation%2Fintro%2Fconversation_intro.webp?alt=media&token=71f6a5de-884a-4332-b2a3-28cffc0a1043",
+            "image_border_color": "#C9DADADA",
+            "total_stars": 3,
+            "max_stars_achieved": 2,
+            "attempt_counter": 3,
+            "attempt_status": "completed",
+            "open_mode": "new",
+            "last_conversation_id": null,
+            "is_migrated": false
+          }
+        ]
+      },
+      {
+        "category_id": 24,
+        "category_order": 2,
+        "title": "Workplace",
+        "attempt_status": "premium_locked",
+        "show_premium_paywall": true,
+        "topics": [
+          {
+            "topic_id": 310,
+            "topic_order": 0,
+            "title": "Office small talk",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/conversation%2Fintro%2Fconversation_intro.webp?alt=media&token=71f6a5de-884a-4332-b2a3-28cffc0a1043",
+            "image_border_color": "#FF6C4A18",
+            "total_stars": 3,
+            "max_stars_achieved": null,
+            "attempt_counter": 1,
+            "attempt_status": "premium_locked",
+            "open_mode": "new",
+            "last_conversation_id": null,
+            "is_migrated": false
+          },
+          {
+            "topic_id": 311,
+            "topic_order": 1,
+            "title": "Negotiating a deal",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/conversation%2Fintro%2Fconversation_intro.webp?alt=media&token=71f6a5de-884a-4332-b2a3-28cffc0a1043",
+            "image_border_color": "#FF6C4A18",
+            "total_stars": 3,
+            "max_stars_achieved": null,
+            "attempt_counter": 1,
+            "attempt_status": "premium_locked",
+            "open_mode": "new",
+            "last_conversation_id": null,
+            "is_migrated": false
+          }
+        ]
+      }
+    ],
+    "has_more": false
+  }
+}

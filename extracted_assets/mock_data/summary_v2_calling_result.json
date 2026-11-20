@@ -1,0 +1,140 @@
+{
+  "status": "completed",
+  "display_mode": "normal",
+  "entity": {
+    "id": "att_mock_1",
+    "attempt_type": "calling",
+    "analysis_id": "an_mock_1",
+    "metadata": {
+      "call_order": 12
+    }
+  },
+  "labels": {
+    "title": "Call with Sarah",
+    "feedback_heading": "Detailed feedback",
+    "cta_text": "See Detailed Feedback",
+    "rating": {
+      "heading": "Rate this Call",
+      "thanks": "Thanks for rating!"
+    }
+  },
+  "header": {
+    "avatar_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977-prod-2/o/conversation%2Favatars%2Fsarah_pointing.png?alt=media&token=72829a57-e098-43bf-9392-4082756213bd",
+    "stars": {
+      "current": 2,
+      "total": 3,
+      "breakdown": [
+        {
+          "key": "hint",
+          "label": "Speak for 2 minutes",
+          "earned": true
+        },
+        {
+          "key": "mistakes",
+          "label": "Use 5 new words",
+          "earned": true
+        },
+        {
+          "key": "drill",
+          "label": "Practice a tricky word",
+          "earned": false
+        }
+      ]
+    }
+  },
+  "stats": [
+    {
+      "key": "user_word_count",
+      "label": "Words\nSpoken",
+      "value": "124"
+    },
+    {
+      "key": "time_spent_ms",
+      "label": "Minutes\nSpent",
+      "value": "4:37"
+    },
+    {
+      "key": "turn_count",
+      "label": "Turns with\nSarah",
+      "value": "12"
+    }
+  ],
+  "analysis": {
+    "is_analysis_available": true,
+    "categories": [
+      {
+        "key": "pronunciation",
+        "title": "Pronunciation",
+        "score_display": {
+          "text": "82%",
+          "fill_fraction": 0.82
+        },
+        "card_cta_text": "See Now",
+        "body": {
+          "text": "Practice 3 words to improve score by 15%",
+          "highlights": [
+            {
+              "start_index": 37,
+              "end_index": 40,
+              "color": "#FBBF24"
+            }
+          ]
+        }
+      },
+      {
+        "key": "grammar",
+        "title": "Grammar",
+        "score_display": {
+          "text": "74%",
+          "fill_fraction": 0.74
+        },
+        "card_cta_text": "See Now",
+        "body": {
+          "text": "Watch your past-tense endings on the call",
+          "highlights": []
+        }
+      },
+      {
+        "key": "vocabulary",
+        "title": "Vocabulary",
+        "score_display": {
+          "text": "88%",
+          "fill_fraction": 0.88
+        },
+        "card_cta_text": null,
+        "body": {
+          "text": "Great range! see detailed feedback",
+          "highlights": []
+        }
+      },
+      {
+        "key": "fluency",
+        "title": "Fluency",
+        "score_display": {
+          "text": "79%",
+          "fill_fraction": 0.79
+        },
+        "card_cta_text": null,
+        "body": {
+          "text": "Fewer pauses than your last call",
+          "highlights": []
+        }
+      }
+    ],
+    "id": "an_mock_1"
+  },
+  "error_state": {
+    "title": "We couldn't score this call",
+    "description": "Here's what got in the way.",
+    "issues": [
+      {
+        "code": "no_speech",
+        "text": "We didn't hear anything on your side."
+      },
+      {
+        "code": "too_short",
+        "text": "The call ended before there was enough to grade."
+      }
+    ]
+  }
+}

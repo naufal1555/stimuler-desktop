@@ -1,0 +1,231 @@
+{
+  "status": "success",
+  "message": "Messages returned successfully",
+  "data": {
+    "conversation_id": "conv-abc-1023",
+    "topic_id": 101,
+    "stars": {
+      "current": 2,
+      "total": 3,
+      "breakdown": [
+        { "source": "hint", "label": "Explore a hint", "earned": true },
+        { "source": "mistakes", "label": "Explore feedback from Sarah", "earned": false },
+        { "source": "drill", "label": "Practice pronouncing a word", "earned": true }
+      ]
+    },
+    "progress_bar": {
+      "total_steps": 2,
+      "current_step": 2,
+      "next_step": 2
+    },
+    "messages": [
+      {
+        "message_id": "m-001",
+        "from": "bot",
+        "step_id": 1,
+        "step_type": "reserved",
+        "created_at": "2026-07-08T18:40:02Z",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loaded",
+        "mode": "conversation",
+        "content": {
+          "text": "Hi! I'm Sarah. Let's get to know each other — what did you do this weekend?",
+          "highlight_ranges": [],
+          "message_actions": [
+            { "action_type": "tts", "enabled": true },
+            { "action_type": "translate", "enabled": true }
+          ]
+        }
+      },
+      {
+        "message_id": "m-002",
+        "from": "user",
+        "step_id": 2,
+        "step_type": "dynamic",
+        "created_at": "2026-07-08T18:40:31Z",
+        "message_template": "user_speech",
+        "message_alignment": "right",
+        "message_state": "loaded",
+        "mode": "conversation",
+        "content": {
+          "text": "I went hiking with my friends near the hills.",
+          "message_actions": [
+            { "action_type": "show_mistakes", "enabled": true, "prompt_text": "View Mistakes", "translated_prompt_text": "गलतियाँ देखें" }
+          ],
+          "audio_url": "https://mock.stimuler.ai/conversation/user_1.wav",
+          "highlights": [
+            { "start_index": 14, "end_index": 18, "color": "#FFC24B" }
+          ],
+          "analysis": {
+            "state": "completed",
+            "overall_score": 78,
+            "is_perfect": false,
+            "mistakes": {
+              "status": "completed",
+              "grammar": {
+                "corrections": [
+                  {
+                    "original": {
+                      "text": "I went hiking with my friends near the hills.",
+                      "highlights": [
+                        { "start_index": 30, "end_index": 34, "color": "#FF9393" }
+                      ]
+                    },
+                    "corrected": {
+                      "text": "I went hiking with my friends up in the hills.",
+                      "highlights": [
+                        { "start_index": 30, "end_index": 35, "color": "#85FF9C" }
+                      ]
+                    },
+                    "reason_label": "Reason for error",
+                    "reason": "Use 'up in the hills' to describe hiking uphill."
+                  }
+                ]
+              },
+              "pronunciation": {
+                "user_transcript": {
+                  "text": "I went hiking with my friends near the hills.",
+                  "highlights": [
+                    { "start_index": 22, "end_index": 29, "color": "#F74557", "underline": true },
+                    { "start_index": 39, "end_index": 44, "color": "#F74557", "underline": true }
+                  ]
+                },
+                "user_audio_url": "https://cdn.stimuler.ai/mock/turn2.mp3",
+                "mispronounced_words": [
+                  { "word": "friends", "user_audio_position": { "from_ms": 1100, "to_ms": 1500 } },
+                  { "word": "hills", "user_audio_position": { "from_ms": 2200, "to_ms": 2600 } }
+                ]
+              },
+              "vocabulary": {
+                "error": {
+                  "text": "hiking with my friends",
+                  "highlights": [
+                    { "start_index": 0, "end_index": 6, "color": "#FF9393" }
+                  ]
+                },
+                "correction": {
+                  "text": "trekking with my friends",
+                  "highlights": [
+                    { "start_index": 0, "end_index": 8, "color": "#85FF9C" }
+                  ]
+                },
+                "suggestions_label": "Better Vocabulary suggestions",
+                "suggestions": [
+                  { "wrong_word": "hiking", "right_word": "trekking" },
+                  { "wrong_word": "near", "right_word": "close to" }
+                ]
+              },
+              "fluency": {
+                "improved_label": "Improved Version of Your Speech:",
+                "improved_speech": "I went trekking up in the hills with my friends."
+              }
+            }
+          }
+        }
+      },
+      {
+        "message_id": "m-003",
+        "from": "bot",
+        "step_id": 3,
+        "step_type": "dynamic",
+        "created_at": "2026-07-08T18:40:48Z",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loaded",
+        "mode": "conversation",
+        "content": {
+          "text": "That sounds refreshing! Which sounds more natural to you?",
+          "highlight_ranges": [],
+          "message_actions": [
+            { "action_type": "tts", "enabled": true },
+            { "action_type": "translate", "enabled": true }
+          ]
+        }
+      },
+      {
+        "message_id": "m-004",
+        "from": "user",
+        "step_id": 4,
+        "step_type": "option_select",
+        "created_at": "2026-07-08T18:41:05Z",
+        "message_template": "user_select_option",
+        "message_alignment": "right",
+        "message_state": "loaded",
+        "mode": "conversation",
+        "content": {
+          "prompt": "Pick the more natural phrasing:",
+          "options": [
+            { "id": "a", "label": "We hiked up the hills." },
+            { "id": "b", "label": "We did a hiking on hills." }
+          ],
+          "multi_select": false,
+          "selected_ids": ["a"],
+          "continue_label": "Continue"
+        }
+      },
+      {
+        "message_id": "m-005",
+        "from": "user",
+        "step_id": 5,
+        "step_type": "drill",
+        "created_at": "2026-07-08T18:41:29Z",
+        "message_template": "user_pronunciation_practice",
+        "message_alignment": "center",
+        "message_state": "loaded",
+        "mode": "practice",
+        "content": {
+          "practice_progress": { "index": 1, "total": 1, "word": "thorough" },
+          "word": "thorough",
+          "phonetic": "/ˈθʌrə/",
+          "current_state": "practiced",
+          "score": 84,
+          "sentence": "We had a thorough look around."
+        }
+      },
+      {
+        "message_id": "m-006",
+        "from": "user",
+        "step_id": 6,
+        "step_type": "dynamic",
+        "created_at": "2026-07-08T18:41:52Z",
+        "message_template": "user_speech",
+        "message_alignment": "right",
+        "message_state": "loaded",
+        "mode": "practice",
+        "content": {
+          "text": "Yes, we had a thorough look around the trail.",
+          "message_actions": [
+            { "action_type": "show_mistakes", "enabled": false }
+          ],
+          "audio_url": "https://mock.stimuler.ai/conversation/user_2.wav",
+          "highlights": [],
+          "analysis": {
+            "state": "completed",
+            "overall_score": 96,
+            "is_perfect": true
+          }
+        }
+      },
+      {
+        "message_id": "m-007",
+        "from": "bot",
+        "step_id": 7,
+        "step_type": "reserved",
+        "created_at": "2026-07-08T18:42:07Z",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loaded",
+        "mode": "practice",
+        "content": {
+          "text": "Great chatting with you! You did really well today.",
+          "highlight_ranges": [],
+          "message_actions": [
+            { "action_type": "tts", "enabled": true },
+            { "action_type": "translate", "enabled": true }
+          ]
+        }
+      }
+    ]
+  }
+}

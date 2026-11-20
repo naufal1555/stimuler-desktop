@@ -1,0 +1,1964 @@
+{
+  "day1McqExercise": {
+    "questionsRight": "questions సరిగా",
+    "q2AnswerExplanation": "Me\" సరైనది ఎందుకంటే అది extra time receive చేస్తోంది.\"",
+    "others": {
+      "q1AnswerExplanation": "I\" సరైనది ఎందుకంటే అది ordering action చేస్తున్న వ్యక్తి.\"",
+      "q7AnswerExplanation": "Them\" సరైనది ఎందుకంటే వారు dish receive చేస్తున్నారు.",
+      "q10AnswerExplanation": "Everyone\" సరైనది ఎందుకంటే అది table వద్ద ఉన్న అందరిని సూచిస్తుంది.",
+      "q9AnswerExplanation": "Themselves\" సరైనది ఎందుకంటే వారు బయటి సహాయం లేకుండా చేసినట్లు చూపిస్తుంది.",
+      "q2AnswerExplanation": "Me\" సరైనది ఎందుకంటే అది food receive చేస్తోంది.",
+      "q5AnswerExplanation": "Either\" సరైనది ఎందుకంటే రెండు choices లో ఏదైనా acceptable అని అర్థం.",
+      "q4AnswerExplanation": "Himself\" సరైనది ఎందుకంటే అతను సహాయం లేకుండా ఒంటరిగా cooking చేసాడు.",
+      "q3AnswerExplanation": "Our\" సరైనది ఎందుకంటే table మాది అని చూపిస్తుంది.\"",
+      "q8AnswerExplanation": "Ours\" సరైనది ఎందుకంటే table మాది అని చూపిస్తుంది.\"",
+      "q6AnswerExplanation": "We\" సరైనది ఎందుకంటే అది request చేసే వ్యక్తులను సూచిస్తుంది.\""
+    },
+    "q5AnswerExplanation": "Either\" సరైనది ఎందుకంటే రెండు choices లో ఏదైనా ఒకటి సరే అని అర్థం.\"",
+    "mistakeIn": "mistake in",
+    "q3AnswerExplanation": "Our\" సరైనది ఎందుకంటే team మాది అని చూపిస్తుంది.\"",
+    "possPronMeaning": "\"Possessive pronouns (his, her, your) ownership చూపించడానికి వాడతారు.\"",
+    "youAnswered": "మీరు answer చేసింది",
+    "q8AnswerExplanation": "Ours\" సరైనది ఎందుకంటే deadline మాది అని చూపిస్తుంది.\"",
+    "q6AnswerExplanation": "We\" సరైనది ఎందుకంటే అది propose చేసే వ్యక్తులను సూచిస్తుంది.\"",
+    "q1AnswerExplanation": "I\" సరైనది ఎందుకంటే అది action చేస్తున్న వ్యక్తి.\"",
+    "reflexivePronMeaning": "\"Reflexive pronouns (himself, herself, yourself) subject మరియు object ఒకటే అయినప్పుడు వాడతారు.\"",
+    "youMade": "మీరు చేసారు",
+    "q7AnswerExplanation": "Them\" సరైనది ఎందుకంటే వారు schedule receive చేస్తున్నారు.",
+    "q10AnswerExplanation": "Everyone\" సరైనది ఎందుకంటే అది office లోని అందరిని సూచిస్తుంది.",
+    "q9AnswerExplanation": "Ourselves\" సరైనది ఎందుకంటే మేము బయటి సహాయం లేకుండా చేసాము.",
+    "q4AnswerExplanation": "Herself\" సరైనది ఎందుకంటే ఆమె సహాయం లేకుండా ఒంటరిగా చేసింది.",
+    "objPronMeaning": "\"Object pronouns (him, her, you) ఎవరైనా action receive చేసినప్పుడు వాడతారు.\"",
+    "subjPronMeaning": "\"Subject pronouns (he, she, you) ఎవరైనా action చేస్తున్నప్పుడు వాడతారు.\"",
+    "indefPronMeaning": "\"Indefinite pronouns (anyone, everyone, someone) subject specific గా లేనప్పుడు వాడతారు.\""
+  },
+  "day3": {
+    "exercise2": {
+      "q3AnswerExplanation": "Action item అంటే ఎవరికైనా deadline తో assign చేయబడిన specific task.",
+      "q5OptionCRight": "Eva update అందిస్తోంది - project లో recent progress లేదా changes గురించి information.",
+      "q5OptionAWrong": "Eva specific tasks (action item) assign చేయడం లేదు.",
+      "q1OptionCRight": "అతను meeting topics యొక్క organized list (agenda) present చేస్తున్నాడు.",
+      "q5OptionARight": "ఆమె recent progress (update) గురించి report చేస్తోంది",
+      "q1OptionBWrong": "Joe idea లేదా suggestion (contribution) share చేయడం లేదు.",
+      "q2OptionAWrong": "Carlos topics యొక్క list (agenda) create చేయలేదు.",
+      "q5OptionBWrong": "Eva discuss చేయాల్సిన topics యొక్క list (agenda) present చేయడం లేదు",
+      "q3OptionCRight": "Sarah action item receive చేసింది - ఎవరికైనా deadline తో assign చేయబడిన specific task.",
+      "q1OptionARight": "Joe agenda share చేస్తున్నాడు - meeting లో discuss చేయాల్సిన topics యొక్క list.",
+      "q1OptionBRight": "అతను meeting topics (agenda) యొక్క list ని చూపిస్తున్నాడు.",
+      "q1AnswerExplanation": "Agenda అంటే meeting లో చర్చించాల్సిన topics యొక్క list",
+      "q4OptionBWrong": "వారు కేవలం information share చేయడం లేదు (updating).",
+      "q3OptionBRight": "ఆమెకు deadline తో concrete task ఇవ్వబడింది (action item).",
+      "q2OptionCWrong": "Carlos specific task (action item) assign చేయలేదు.",
+      "q4OptionBRight": "వారు కలిసి work చేయడానికి forces join చేస్తున్నారు (collaborating).",
+      "q3OptionARight": "ఆమెకు complete చేయాల్సిన specific task వచ్చింది (action item).",
+      "q3OptionBWrong": "Sarah కి idea లేదా suggestion (contribution) రాలేదు.",
+      "q4AnswerExplanation": "Collaborating అంటే common goal achieve చేయడానికి కలిసి work చేయడం.",
+      "q2OptionARight": "అతను project కి solution provide చేశాడు (contribution).",
+      "q2OptionCRight": "అతను ఉపయోగకరమైన ఆలోచన share చేశాడు (contribution).",
+      "q4OptionCRight": "వారు collaborate చేస్తున్నారు - ఉమ్మడి లక్ష్యం సాధించడానికి ఇతరులతో కలిసి పని చేస్తున్నారు.",
+      "q2AnswerExplanation": "Contribution అంటే చర్చలో share చేయబడిన విలువైన ఆలోచన లేదా input.",
+      "q5AnswerExplanation": "Update అంటే ఇటీవలి progress లేదా మార్పుల గురించిన సమాచారం.",
+      "q3OptionAWrong": "Sarah progress సమాచారం (update) అందుకోలేదు",
+      "q5OptionBRight": "ఆమె ఇటీవలి developments గురించిన సమాచారం share చేస్తోంది (update).",
+      "q4OptionARight": "వారు ఉమ్మడి లక్ష్యం వైపు కలిసి పని చేస్తున్నారు (collaborating).",
+      "q1OptionCWrong": "Joe offering చేయడం లేదు.",
+      "q2OptionBRight": "\"Carlos contribution చేశాడు - చర్చలో share చేయబడిన విలువైన ఆలోచన లేదా input.\"",
+      "q4OptionAWrong": "వారు కేవలం మాట్లాడటం లేదు."
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "He\" అనేది Harry స్థానంలో వాడే సరైన subject pronoun, ఎందుకంటే అతను action చేస్తున్న వ్యక్తి.\"",
+      "q4AnswerExplanation": "His\" అనేది సరైన possessive pronoun, ఇది విరిగిన wand Ron దే అని చూపిస్తుంది.\"",
+      "q2AnswerExplanation": "Herself\" అనేది సరైన reflexive object pronoun, ఎందుకంటే Professor McGonagall transforming action ని చేస్తూనే దాని effect ని కూడా receive చేస్తుంది.\"",
+      "q5AnswerExplanation": "Himself\" అనేది సరైన reflexive pronoun, Harry action చేస్తూనే దాని effect ని కూడా receive చేస్తున్నప్పుడు.\"",
+      "q3AnswerExplanation": "His\" అనేది సరైన possessive pronoun, mouth Harry దే అని చూపిస్తుంది.\""
+    },
+    "version12": {
+      "exercise2": {
+        "q2AnswerExplanation": "Can you clarify\" అనేది ఏదైనా అస్పష్టంగా ఉన్నప్పుడు వివరణ అడిగే పదబంధం. ఈ request structure లో \"\"clarify\"\" మాత్రమే సరిపోతుంది.\"",
+        "q5AnswerExplanation": "I have an idea\" తర్వాత, \"\"I suggest we...\"\" కొత్త proposal ని introduce చేస్తుంది. కొత్త ideas propose చేస్తున్నప్పుడు \"\"Agree\"\" మరియు \"\"clarify\"\" సరిపోవు.\"",
+        "q3AnswerExplanation": "I suggest we...\" ఒక specific action ని propose చేస్తుంది. \"\"Agree\"\" కి previous idea అవసరం; \"\"clarify\"\" explain చేస్తుంది, propose చేయదు.\"",
+        "q1AnswerExplanation": "I agree with pam\" అనేది ఎవరైనా idea కి support express చేయడం. ఇతర options ఈ structure కి సరిపోవు.\"",
+        "q4AnswerExplanation": "I agree with [person]\" అనేది మరొకరి opinion తో alignment చూపిస్తుంది. \"\"with Diana\"\" తో \"\"agree\"\" మాత్రమే పని చేస్తుంది.\""
+      }
+    }
+  },
+  "day9": {
+    "exercise2": {
+      "es": {
+        "q3AnswerExplanation": "Clarification\" అంటే workplace లో అపార్థాలను నివారించడానికి స్పష్టమైన వివరణ అడగడం.",
+        "q1AnswerExplanation": "Favor\" అంటే workplace లో ఎవరైనా వారి సాధారణ duties కు మించి మీకు సహాయం చేయమని అడగడం.",
+        "q4AnswerExplanation": "Assistance\" అంటే పనిలో ఎవరైనా task పూర్తి చేయడానికి లేదా సమస్యను పరిష్కరించడానికి ప్రత్యక్ష సహాయం చేయడం.",
+        "q2AnswerExplanation": "Resource\" అంటే office లో employees వారి పనులు చేయడానికి సహాయపడే ఏదైనా tool, material లేదా information.",
+        "q5AnswerExplanation": "Guidance\" అంటే professional setting లో skills మెరుగుపరచుకోవడానికి లేదా decision-making కోసం సలహా లేదా దిశానిర్देశం పొందడం."
+      },
+      "q5OptionBRight": "Lisa ఏ tasks అత్యంత ముఖ్యమైనవో నిర్ణయిస్తోంది (prioritizing).",
+      "q4OptionARight": "Alex burnout అనుభవిస్తున్నాడు - దీర్ఘకాలిక stress వల్ల వచ్చే అలసట.",
+      "ielts": {
+        "q1AnswerExplanation": "Sustainable అంటే resources ని క్షీణింపజేయకుండా కొనసాగించగల practices ని సూచిస్తుంది",
+        "q2AnswerExplanation": "Biodiversity అంటే ఒక habitat లో ఉన్న species ల వైవిధ్యాన్ని సూచిస్తుంది",
+        "q5AnswerExplanation": "Biodiversity hotspots\" అంటే అసాధారణంగా అధిక species diversity ఉన్న ప్రాంతాలు, తరచుగా అంతరించిపోయే ప్రమాదంలో ఉంటాయి\"",
+        "q4AnswerExplanation": "Conservation అంటే వనరులను క్షీణత నుండి రక్షించడం కోసం వాటిని కాపాడటం",
+        "q3AnswerExplanation": "Deforestation అంటే పెద్ద ఎత్తున అడవులను తొలగించడం"
+      },
+      "q2OptionCRight": "John ఒకరికి task ని ఇస్తున్నాడు (delegating).",
+      "q1OptionCWrong": "Organized అంటే అన్నింటినీ నిర్మాణాత్మక పద్ధతిలో అమర్చడం.",
+      "q4OptionCRight": "Alex burnout అనుభవిస్తున్నాడు - దీర్ఘకాలిక stress వల్ల కలిగే అలసట.",
+      "q4OptionAWrong": "Progress అంటే పనిలో లేదా career లో సానుకూల పురోగతి.",
+      "q3AnswerExplanation": "Initiative తీసుకోవడం అంటే ప్రేరణ లేకుండా సమస్యలను గుర్తించి పరిష్కరించడం.",
+      "q5OptionCRight": "Lisa prioritizing చేస్తోంది - ప్రాముఖ్యత క్రమంలో tasks ని నిర్వహించడం.",
+      "q5OptionAWrong": "Delegating అంటే ఇతరులకు tasks ని అప్పగించడం.",
+      "q3OptionCWrong": "Burnout అంటే దీర్ఘకాలిక stress వల్ల కలిగే అలసట.",
+      "q1OptionCRight": "Maria చాలా tasks వల్ల overwhelmed అనిపిస్తోంది.",
+      "q5OptionARight": "Lisa తన పనిని ప్రాముఖ్యత ప్రకారం organize చేస్తోంది (prioritizing).",
+      "q5OptionBWrong": "Initiative అంటే prompt లేకుండా చర్య తీసుకోవడం.",
+      "q3OptionCRight": "Sarah చర్య తీసుకోవడం ద్వారా positive engagement చూపించింది (initiative).",
+      "q2OptionBRight": "John delegate చేస్తున్నాడు - వేరొకరికి task assign చేస్తున్నాడు.",
+      "q1OptionARight": "Maria చాలా tasks వల్ల overwhelmed అనిపిస్తోంది.",
+      "q1AnswerExplanation": "Overwhelmed అంటే సౌకర్యంగా handle చేయలేనంత tasks ఉండటం.",
+      "q4OptionBWrong": "Delegation అంటే tasks ని ఇతరులకు assign చేయడం.",
+      "q3OptionBRight": "Sarah స్వయంగా problem ని proactively solve చేసింది (initiative).",
+      "q4OptionBRight": "Alex దీర్ఘకాలిక exhaustion తో బాధపడుతున్నాడు (burnout).",
+      "q3OptionBWrong": "Delegation అంటే ఇతరులకు tasks అప్పగించడం.",
+      "q4AnswerExplanation": "Burnout అంటే దీర్ఘకాలిక stress వల్ల కలిగే అలసట.",
+      "q1OptionAWrong": "Motivated అంటే పని పట్ల ఆసక్తి లేదా ఉత్సాహం అనుభవించడం.",
+      "q2OptionARight": "John ఇతరులకు పని అప్పగిస్తున్నాడు (delegating).",
+      "q2OptionAWrong": "Initiative తీసుకోవడం అంటే అడగకుండానే చర్య తీసుకోవడం.",
+      "q2OptionCWrong": "Prioritizing అంటే tasks ని ప్రాముఖ్యత క్రమంలో అమర్చడం.",
+      "q2AnswerExplanation": "Delegating అంటే tasks ని వేరొకరికి అప్పగించడం.",
+      "q3OptionARight": "Sarah initiative చూపించింది - prompt లేకుండా సమస్యను పరిష్కరించింది.",
+      "q5AnswerExplanation": "Prioritizing అంటే tasks ని ప్రాముఖ్యత క్రమంలో నిర్వహించడం."
+    },
+    "exercise3": {
+      "es": {
+        "q1AnswerExplanation": "\"Superlative Adjective Rule: 3+ syllables కోసం \"\"the most + adjective\"\" వాడండి (ఉదా., dangerous → the most dangerous) మూడు లేదా అంతకు మించిన వస్తువులను పోల్చేటప్పుడు (Middle-earth లోని అన్ని volcanoes).\"",
+        "q2AnswerExplanation": "\"Comparative Adjective Rule: చిన్న adjectives కోసం \"\"-er than\"\" వాడండి (ఉదా., sharp → sharper than) రెండు వస్తువులను compare చేసేటప్పుడు (Black Widow vs. Hawkeye).\"",
+        "q5AnswerExplanation": "\"Superlative Adjective Rule: చిన్న adjectives కోసం \"\"the + -est\"\" వాడండి (wise → the wisest) మూడు లేదా అంతకంటే ఎక్కువ వస్తువులను compare చేసేటప్పుడు (all Jedi).\"",
+        "q4AnswerExplanation": "\"Comparative Adjective Rule: చిన్న adjectives కోసం \"\"-er than\"\" వాడండి (strong → stronger than) రెండు relationships ని compare చేయడానికి (friendship with Rocket vs. others).\"",
+        "q3AnswerExplanation": "\"Descriptive Adjective Rule: ఒక వస్తువును (vibranium) comparison లేకుండా describe చేసేటప్పుడు base form వాడండి (ఉదా., unique).\""
+      }
+    }
+  },
+  "day3_2": {
+    "version12": {
+      "vocabularyExercise": "Vocabulary Exercise",
+      "readAloud": "Read Aloud",
+      "ieltsPart2": "IELTS Part 2",
+      "describeTheImage": "Image ని describe చేయండి",
+      "tryReadingThisSentence": "ఈ sentence చదవడానికి try చేయండి!",
+      "q5AnswerExplanation2_3": "\"Lisa కి appetizer అవసరం లేదు, అది starter dish, ఎందుకంటే ఆమె తినడం పూర్తి చేసింది.\"",
+      "letTestYourMeetingVocabulary": "మీ meeting vocabulary ని test చేద్దాం",
+      "practiceThisPoliteRequest": "ఈ polite request ని practice చేయండి!",
+      "haveFunWhileTestingYourImagination": "\"ఈ picture తో మీ imagination & sentence-framing skills ని test చేస్తూ fun చేయండి\"",
+      "task3": "Task 3",
+      "q4AnswerExplanation2_3": "Ordered\" అనేది food select చేసే action ని describe చేస్తుంది, taste ని కాదు.\"",
+      "task2": "Task 2",
+      "repeatAfterMe": "నా వెనుక repeat చేయండి",
+      "summarizeLecture": "Lecture ని summarize చేయండి",
+      "introductionSpeakingTest": "పరిచయం : Speaking Test",
+      "letJumpIntoRealLifeConversationToday": "\"ఈరోజు real-life conversation లోకి jump అవ్వదాం, మేము కొంత vocabulary కూడా practice చేస్తాం\"",
+      "q3AnswerExplanation": "Appetizers అంటే main meal కి ముందు వడ్డించే చిన్న dishes.",
+      "q3AnswerExplanation2_3": "\"Maria menu అడగలేదు, అది food options ని చూపిస్తుంది.\"",
+      "weGetBackReadingToday": "\"మేము ఈరోజు reading కి తిరిగి వస్తాము, ఈసారి కొంచెం advanced అయినప్పటికీ.\"",
+      "funWithVocabulary": "Vocabulary తో fun!",
+      "readingWithStressModerate": "Reading with stress: Moderate",
+      "q1AnswerExplanation2_2": "\"Sarah bill చూడటం లేదు, అది తిన్న తర్వాత ఎంత చెల్లించాలో చూపిస్తుంది.\"",
+      "q2AnswerExplanation2": "John order పెట్టాడు - server కి ఏ food మరియు drinks కావాలో చెప్పాడు.",
+      "readTheParagraphLoudlyStressingTheHighlightedWords": "Highlighted words ని stress చేస్తూ paragraph ని బిగ్గరగా చదవండి",
+      "q1AnswerExplanation2": "Sarah menu చదువుతోంది - restaurant లో అందుబాటులో ఉన్న food మరియు drink items జాబితా.",
+      "q1AnswerExplanation": "Menu అంటే restaurant లో అందుబాటులో ఉన్న food మరియు drink items జాబితా.",
+      "readingAtHighPaceAdvanced": "వేగంగా Reading: Advanced",
+      "funWithTongueTwister": "Tongue Twister తో సరదా",
+      "letPracticeSomeGrammar": "Grammar practice చేద్దాం",
+      "q1AnswerExplanation2_3": "\"Sarah appetizer వైపు చూడటం లేదు, ఇది ఒక చిన్న food dish.\"",
+      "pronunciationExercise": "Pronunciation Exercise",
+      "q5AnswerExplanation2": "\"Lisa bill అడగాలి - ఆమె తన food కోసం ఎంత pay చేయాలో చూపించే document.\"",
+      "practiceQuestions": "Practice Questions",
+      "task4": "Task 4",
+      "readThisSentenceOutLoud": "ఈ sentence ని బిగ్గరగా చదవండి!",
+      "q4AnswerExplanation": "Delicious అంటే చాలా రుచిగా ఉండే food.",
+      "task1": "Task 1",
+      "testYourPronounKnowledgeMagicalHarryPotterScenarios": "ఈ magical Harry Potter scenarios తో మీ pronoun knowledge ని test చేయండి!",
+      "speaking": "Speaking",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "\"మీ team తో work చేయడంలో మీరు enjoy చేసిన సమయం గురించి మాట్లాడండి. దానిని special గా చేసింది ఏమిటి?\"",
+      "q4AnswerExplanation2": "Carlos తన pasta ని delicious గా describe చేశాడు - అంటే ఆ food చాలా బాగా taste అవుతుందని అర్థం.",
+      "q5AnswerExplanation2_2": "\"Lisa కి menu అవసరం లేదు, ఎందుకంటే ఆమె eating పూర్తి చేసింది. Menu అంటే food options చూపించేది.\"",
+      "letStartYourRoadmap": "మీ roadmap ని start చేద్దాం",
+      "masteringPronouns": "Pronouns లో Mastering",
+      "q4AnswerExplanation2_2": "Ordered\" అంటే food select చేసే action ని describe చేస్తుంది, అది ఎలా taste అవుతుందో కాదు.\"",
+      "day1Revision": "Day 1 : Revision",
+      "q2AnswerExplanation2_3": "John appetizer కోసం specifically అడగలేదు.",
+      "q3AnswerExplanation2": "Maria appetizers అడిగింది - main meal కు ముందు వడ్డించే చిన్న dishes.",
+      "vocabularyLesson": "Vocabulary Lesson",
+      "q2AnswerExplanation": "Order place చేయడం అంటే మీకు ఏ food మరియు drinks కావాలో server కి చెప్పడం.",
+      "q5AnswerExplanation": "Bill restaurant లో మీ food కోసం ఎంత pay చేయాలో చూపిస్తుంది.",
+      "q2AnswerExplanation2_2": "\"John bill అడగలేదు, ఇది meal finish అయిన తర్వాత అడుగుతారు.\"",
+      "readWithEnthusiasm": "Enthusiasm తో చదవండి!",
+      "q3AnswerExplanation2_2": "\"Maria bill అడగలేదు, ఇది eating తర్వాత అడుగుతారు.\"",
+      "orderingFood": "Food order చేయడం"
+    }
+  },
+  "roadmapDaysLocalization": {
+    "workplace": {
+      "day3": {
+        "vocabularyLesson": "Vocabulary Lesson",
+        "wordQuiz": "Word Quiz",
+        "descriptiveSpeaking": "Descriptive Speaking",
+        "meetingVocabulary": "Meeting Vocabulary",
+        "pronounRevision": "Pronoun Revision",
+        "negotiatingDeadlines": "Negotiating Deadlines"
+      },
+      "day18": {
+        "summarizingMeetings": "Summarizing Meetings",
+        "wordQuiz": "Word Quiz",
+        "descriptiveSpeaking": "Descriptive Speaking"
+      },
+      "day8": {
+        "adjectivePractice": "Adjective Practice",
+        "wordQuiz": "Word Quiz",
+        "masteringAdjectives": "Adjectives లో నైపుణ్యం",
+        "descriptiveSpeaking": "వర్ణనాత్మక Speaking",
+        "roleplayRevision": "Roleplay పునరావృతం"
+      },
+      "day12": {
+        "questionAnswering": "Question-Answering",
+        "talkingToClients": "Clients తో మాట్లాడడం",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day5": {
+        "masteringVerbs": "Verbs లో నైపుణ్యం",
+        "teamMeetingReview": "Team Meeting Review",
+        "questionAnswering": "Question-Answering",
+        "grammarPractice": "Grammar Practice",
+        "verbBuilder": "Verb Builder"
+      },
+      "day9": {
+        "givingPresentation": "Presentation ఇవ్వడం",
+        "askingForHelp": "సహాయం అడగడం",
+        "tongueTwister": "Tongue Twister",
+        "grammarPractice": "Grammar Practice",
+        "adjectiveReview": "Adjectives Review"
+      },
+      "day7": {
+        "smallTalkPractice": "Small Talk Practice",
+        "tongueTwister": "Tongue Twister",
+        "vocabRevision": "Vocab Revision",
+        "teamMeeting": "Team Meeting",
+        "smallTalkWithColleagues": "Colleagues తో Small Talk",
+        "readAloud": "Read Aloud"
+      },
+      "day4": {
+        "meetingVocabularyPractice": "Meeting Vocabulary Practice",
+        "vocabularyRevision": "Vocabulary Revision",
+        "teamMeeting": "Team Meeting",
+        "negotiatingDeadlines": "Deadlines negotiate చేయడం",
+        "grammarPractice": "Grammar Practice",
+        "readingFast": "Reading Fast",
+        "workplaceMeetingRoleplay": "Workplace Meeting Roleplay",
+        "meetingPractice": "Meeting Practice",
+        "teamMeetingPractice": "Team Meeting Practice",
+        "restaurantRoleplay": "Restaurant Roleplay"
+      },
+      "day1": {
+        "grammarBuilder": "Grammar Builder",
+        "intro": "Introduction",
+        "readingExercise": "Reading Exercise"
+      },
+      "day10": {
+        "readAloud": "Read Aloud",
+        "howToAskForHelp": "సహాయం అడిగే విధానం",
+        "givingPresentation": "Presentation ఇవ్వడం",
+        "day9Revision": "Day 9: Revision"
+      },
+      "day16": {
+        "planningYourTasks": "మీ Tasks ప్లాన్ చేయడం",
+        "stressTest": "Stress Test",
+        "advancedReading": "Advanced Reading"
+      },
+      "day2": {
+        "masteringPronoun": "Pronouns లో నైపుణ్యం",
+        "tongueTwister": "Tongue Twister",
+        "pronounPractice": "Pronoun Practice",
+        "grammarLesson": "Grammar Lesson",
+        "sentenceStructurePractice": "Sentence Structure Practice",
+        "day1Revision": "Day 1: Revision"
+      },
+      "day20": {
+        "artciles": "Articles",
+        "grammarPractice": "Grammar Practice",
+        "poem": "Poem"
+      },
+      "day15": {
+        "wordQuiz": "Word Quiz",
+        "grammarPractice": "Grammar Practice",
+        "planningYourTasks": "మీ Tasks ని Planning చేయడం"
+      },
+      "day14": {
+        "sentenceStructure": "Sentence Structure",
+        "poem": "Poem",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day19": {
+        "tongueTwister": "Tongue Twister",
+        "summarizingMeetingsMinutes": "Meeting Minutes summarize చేయడం",
+        "questionAnswering": "Question-Answering"
+      },
+      "day11": {
+        "masteringAdverbs": "Adverbs మాస్టర్ చేయడం",
+        "grammarPractice": "Grammar Practice",
+        "readingPoemExercise": "Reading Poem Exercise"
+      },
+      "day17": {
+        "preposition": "Preposition",
+        "questionAnswering": "Question-Answering",
+        "tongueTwister": "Tongue Twister"
+      },
+      "day6": {
+        "smallTalkVocab": "Small Talk Vocabulary",
+        "vocabularyPractice": "Vocabulary Practice",
+        "teamMeeting": "Team Meeting",
+        "pacedReading": "Paced Reading",
+        "verbsReview": "Verbs Review",
+        "stressTest": "Stress Test"
+      },
+      "day13": {
+        "stressTest": "Stress Test",
+        "wordQuiz": "Word Quiz",
+        "talkingToClients": "Clients తో మాట్లాడడం"
+      }
+    },
+    "socialising": {
+      "day5": {
+        "orderingFood": "Food order చేయడం",
+        "roleplayMCQ": "Roleplay MCQ"
+      },
+      "day1": {
+        "grammarBuilder": "Grammar Builder",
+        "intro": "పరిచయం",
+        "readingExercise": "Reading Exercise"
+      },
+      "day4": {
+        "restaurantVocabulary": "Restaurant Vocabulary",
+        "orderingFood": "ఆహారం order చేయడం",
+        "restaurantVocabularyPractice": "Restaurant Vocabulary Practice"
+      },
+      "day2": {
+        "masteringPronoun": "Pronouns లో నైపుణ్యం",
+        "conversationPractice": "Conversation Practice",
+        "pronounciationReview": "Pronunciation Review",
+        "readingExercise": "Reading Exercise"
+      },
+      "day3": {
+        "pronounsVideoLesson": "Pronouns Video Lesson",
+        "restaurantVocabulary": "Restaurant Vocabulary",
+        "learnOrderingFood": "ఆహారం order చేయడం నేర్చుకోండి",
+        "pronounRevision": "Pronoun Revision"
+      }
+    }
+  },
+  "day4": {
+    "version8": {
+      "exercise2": {
+        "id": {
+          "q2OptionBRight": "\"వాక్యానికి Carlos ఏమి చేస్తాడో వర్ణించడానికి \"\"help\"\" వంటి verb అవసరం.\"",
+          "q3AnswerExplanation": "Good\" అనేది సరైన సమయాన్ని తార్కికంగా వర్ణించే ఏకైక adjective.\"",
+          "q2OptionBWrong": "Team\" అనేది noun, verb కాదు.",
+          "q5OptionCRight": "Summary\" అనేది అందించబడుతున్న document ను సముచితంగా వర్ణిస్తుంది.",
+          "q3OptionCWrong": "Calendar\" ఈ context లో grammatically లేదా logically సరిపోదు.",
+          "q1OptionCRight": "\"Designs పూర్తి చేసే action ను వర్ణించడానికి మీకు \"\"finish\"\" వంటి verb అవసరం.\"",
+          "q5OptionARight": "Summary\" అనేది results చూపించే document ను వర్ణించే ఏకైక noun.",
+          "q1OptionBWrong": "Deadline\" ఈ వాక్యంలో grammatically పని చేయదు.",
+          "q5OptionBWrong": "I can create a discussion\" ఈ context లో అర్థం కాదు.",
+          "q3OptionCRight": "Good\" సమయం అనుకూలంగా ఉందని సరిగ్గా వర్ణిస్తుంది.\"",
+          "q1OptionARight": "Finish\" అనేది task ని పూర్తి చేయడానికి వ్యాకరణపరంగా సరిపోయే ఏకైక verb.",
+          "q1OptionBRight": "\"Designs ని పూర్తి చేయడాన్ని వర్ణించడానికి మీకు \"\"finish\"\" వంటి verb అవసరం.\"",
+          "q1AnswerExplanation": "Finish\" అనేది task ని పూర్తి చేయడానికి వ్యాకరణపరంగా సరిపోయే ఏకైక verb.",
+          "q4OptionBWrong": "We'll be presentation\" వ్యాకరణపరంగా తప్పు.",
+          "q3OptionBRight": "\"సమయం యొక్క అనుకూలతను అంచనా వేయడానికి \"\"good\"\" వంటి adjective అవసరం.\"",
+          "q2OptionCWrong": "Schedule\" సహాయం అందించే context కి సరిపోదు.\"",
+          "q4OptionBRight": "Prepared\" సిద్ధంగా ఉన్న స్థితిని సరిగ్గా వర్ణిస్తుంది.\"",
+          "q3OptionARight": "Good\" అనేది అనుకూలమైన సమయాన్ని తార్కికంగా వర్ణించే ఏకైక adjective.",
+          "q4OptionCWrong": "We'll be feedback\" వ్యాకరణపరంగా లేదా contextually అర్థం కాదు.\"",
+          "q3OptionBWrong": "Minutes\" అనేది time పని చేస్తుందో లేదో వర్ణించడంలో అర్థం కాదు.",
+          "q4AnswerExplanation": "Prepared\" మాత్రమే readiness ని వ్యక్తపరిచే పదం.",
+          "q2OptionARight": "Help\" మాత్రమే assistance ని వర్ణించే సరైన verb.",
+          "q2OptionCRight": "Help\" graphics తో అవసరమైన assistance ని సరిగా వర్ణిస్తుంది.",
+          "q5OptionCWrong": "I can create a meeting\" అనేది materials prepare చేయడం గురించిన response గా సరిపోదు.",
+          "q4OptionCRight": "Prepared\" meeting కోసం readiness ని సరిగా సూచిస్తుంది.",
+          "q2AnswerExplanation": "Help\" మాత్రమే assistance ని వర్ణించే సరైన verb.",
+          "q5AnswerExplanation": "Summary\" మాత్రమే results చూపించే document ని వర్ణించే noun.",
+          "q5OptionBRight": "Summary\" results యొక్క concise overview ని సరిగా వర్ణిస్తుంది.",
+          "q4OptionARight": "Prepared\" మాత్రమే readiness ని వ్యక్తపరిచే పదం.",
+          "q1OptionCWrong": "Project\" ఒక noun, verb కాదు."
+        },
+        "es": {
+          "q1OptionARight": "Finish\" మాత్రమే task complete చేయడానికి grammatically సరిపోయే verb.",
+          "q1OptionBRight": "\"Designs complete చేయడాన్ని describe చేయడానికి మీకు \"\"finish\"\" లాంటి verb అవసరం.\"",
+          "q3OptionBRight": "\"Time యొక్క suitability evaluate చేయడానికి \"\"good\"\" లాంటి adjective అవసరం.\"",
+          "q2OptionBWrong": "Team\" ఒక noun, verb కాదు.",
+          "q4OptionBRight": "Prepared\" ready అయి ఉండే state ని correctly describe చేస్తుంది.",
+          "q3OptionBWrong": "Minutes\" time works అవుతుందా లేదా అని describe చేయడంలో sense చేయదు.",
+          "q2OptionARight": "Help\" assistance describe చేసే ఏకైక appropriate verb.",
+          "q3OptionCRight": "Good\" time suitable అని properly describe చేస్తుంది.",
+          "q5OptionCWrong": "I can create a meeting\" materials prepare చేయడం గురించిన response గా fit అవ్వదు.",
+          "q1AnswerExplanation": "Finish\" అనేది task ని పూర్తి చేయడానికి grammatically సరిపోయే ఏకైక verb.\"",
+          "q4OptionBWrong": "We'll be presentation\" grammatically తప్పు.",
+          "q2OptionCWrong": "Schedule\" assistance అందించే context కి సరిపోదు.",
+          "q2AnswerExplanation": "Help\" అనేది assistance ని వర్ణించే ఏకైక సరైన verb.",
+          "q3OptionARight": "Good\" అనేది suitable time ని వర్ణించే ఏకైక logical adjective.",
+          "q4OptionCWrong": "We'll be feedback\" grammatically లేదా contextually అర్థం కాదు.",
+          "q5AnswerExplanation": "Summary\" అనేది results చూపించే document ని వర్ణించే ఏకైక noun.",
+          "q4AnswerExplanation": "Prepared\" అనేది readiness ని వ్యక్తపరిచే ఏకైక word.",
+          "q5OptionBRight": "Summary\" results యొక్క concise overview ని సరిగ్గా వర్ణిస్తుంది.",
+          "q4OptionARight": "Prepared\" అనేది readiness ని వ్యక్తపరిచే ఏకైక word.",
+          "q2OptionCRight": "Help\" graphics తో అవసరమైన సహాయాన్ని సరిగ్గా వర్ణిస్తుంది.\"",
+          "q1OptionCWrong": "Project\" ఒక noun, verb కాదు.\"",
+          "q4OptionCRight": "Prepared\" meeting కోసం సిద్ధతను సరిగ్గా సూచిస్తుంది.\"",
+          "q3AnswerExplanation": "Good\" అనేది తగిన సమయాన్ని వర్ణించే ఏకైక adjective.",
+          "q5OptionCRight": "Summary\" అందించబడుతున్న document ను సరిగ్గా వర్ణిస్తుంది.",
+          "q3OptionCWrong": "Calendar\" ఈ context లో grammatically లేదా logically సరిపోదు.",
+          "q1OptionCRight": "\"Designs పూర్తి చేసే చర్యను వర్ణించడానికి మీకు \"\"finish\"\" వంటి verb అవసరం.\"",
+          "q5OptionARight": "Summary\" results చూపించే document ను వర్ణించే ఏకైక noun.",
+          "q1OptionBWrong": "Deadline\" ఈ sentence లో grammatically పని చేయదు.",
+          "q5OptionBWrong": "I can create a discussion\" ఈ context లో అర్థం కాదు.",
+          "q2OptionBRight": "\"వాక్యానికి Carlos ఏమి చేస్తాడో వర్ణించడానికి \"\"help\"\" వంటి verb అవసరం.\""
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q2AnswerExplanation": "Contribution\" అంటే discussion లో పంచుకునే విలువైన idea లేదా input.\"",
+          "q5AnswerExplanation": "Collaboration\" అంటే ఉమ్మడి లక్ష్యాన్ని సాధించడానికి కలిసి పని చేయడం.",
+          "q3AnswerExplanation": "Action item\" అంటే deadline తో ఎవరికైనా కేటాయించిన నిర్దిష్ట task.",
+          "q1AnswerExplanation": "Agenda\" అంటే meeting లో చర్చించాల్సిన topics జాబితా.",
+          "q4AnswerExplanation": "Update\" అంటే ఇటీవలి progress లేదా మార్పుల గురించిన సమాచారం."
+        }
+      }
+    },
+    "version10": {
+      "exercise2": {
+        "id": {
+          "q2OptionCWrong": "John నిర్దిష్టంగా appetizer అడగలేదు.",
+          "q2AnswerExplanation": "Order place చేయడం అంటే మీకు ఏ food మరియు drinks కావాలో server కి చెప్పడం.",
+          "q3OptionARight": "ఆమె wait చేస్తున్నప్పుడు తినడానికి చిన్న dishes అడిగింది (appetizers).",
+          "q4OptionCWrong": "Billed\" payment కి సంబంధించినది, food taste కి కాదు.",
+          "q5AnswerExplanation": "Bill అంటే restaurant లో మీ food కోసం ఎంత pay చేయాలో చూపించే document.",
+          "q4AnswerExplanation": "Delicious అంటే చాలా రుచిగా ఉండే food.",
+          "q5OptionBRight": "Lisa bill అడగాలి - తన food కోసం ఎంత pay చేయాలో చూపించే document.",
+          "q4OptionARight": "Carlos తన pasta ని delicious అని describe చేశాడు - అంటే food చాలా రుచిగా ఉంది.",
+          "q2OptionCRight": "అతను server కి తన food selection చెప్పాడు (order place చేశాడు).",
+          "q1OptionCWrong": "\"Sarah appetizer చూడటం లేదు, అది చిన్న food dish.\"",
+          "q4OptionCRight": "Carlos తన pasta ఎంత రుచిగా ఉందో describe చేస్తున్నాడు (delicious).",
+          "q3AnswerExplanation": "Appetizers అంటే main meal కి ముందు serve చేసే చిన్న dishes.",
+          "q5OptionCRight": "ఆమె తన meal కోసం pay చేయాలని అనుకుంటుంది (bill).",
+          "q3OptionCWrong": "\"Maria menu అడగలేదు, అది food options చూపించే list.\"",
+          "q1OptionCRight": "ఆమె అందుబాటులో ఉన్న పూర్తి food list ని చూస్తోంది (menu).",
+          "q5OptionBWrong": "\"Lisa కి menu అవసరం లేదు, ఎందుకంటే ఆమె తినడం పూర్తి చేసింది, menu food options చూపిస్తుంది.\"",
+          "q2OptionBRight": "John order పెట్టాడు - server కి ఏ food మరియు drinks కావాలో చెప్పాడు.",
+          "q1OptionARight": "Sarah menu చదువుతోంది - restaurant లో అందుబాటులో ఉన్న food మరియు drink items list.",
+          "q1OptionBRight": "ఆమె order చేసే ముందు food options చూస్తోంది (menu).",
+          "q3OptionBRight": "ఆమె తన main course కి ముందు తినడానికి చిన్న dishes అడిగింది (appetizers).",
+          "q2OptionBWrong": "\"John bill అడగలేదు, అది meal పూర్తి చేసిన తర్వాత అడుగుతారు.\"",
+          "q4OptionBRight": "Carlos తన pasta taste ని చాలా బాగుంది అని వర్ణించాడు (delicious).",
+          "q3OptionBWrong": "\"Maria bill అడగలేదు, అది తిన్న తర్వాత అడుగుతారు.\"",
+          "q5OptionARight": "ఆమెకు ఎంత pay చేయాలో తెలుసుకోవాలి (the bill).",
+          "q1OptionBWrong": "\"Sarah bill ని చూడటం లేదు, అది తినిన తర్వాత ఎంత చెల్లించాలో చూపిస్తుంది.\"",
+          "q2OptionARight": "అతను server కి తాను ఏ food కావాలో చెప్పాడు (order place చేశాడు).",
+          "q3OptionCRight": "Maria appetizers అడిగింది - main meal కి ముందు వడ్డించే చిన్న dishes.",
+          "q5OptionCWrong": "\"Lisa కి appetizer అవసరం లేదు, అది starter dish, ఎందుకంటే ఆమె తినడం పూర్తి చేసింది.\"",
+          "q1AnswerExplanation": "Menu అంటే restaurant లో అందుబాటులో ఉన్న food మరియు drink items జాబితా.",
+          "q4OptionBWrong": "Ordered\" అంటే food select చేసే action, అది ఎలా taste అవుతుందో కాదు.\""
+        }
+      }
+    },
+    "version12": {
+      "exercise3": {
+        "q4AnswerExplanation": "Bill (లేదా check) అంటే restaurant లో customers చెల్లించాల్సిన meal యొక్క total cost చూపించే document.",
+        "q2AnswerExplanation": "Ordering అంటే మీరు కొనుగోలు చేసి తినాలనుకునే food items ఏవో server కి చెప్పడం.",
+        "q3AnswerExplanation": "Delicious అంటే చాలా బాగా taste అయ్యే మరియు తినడంలో ఆనందం ఇచ్చే food ని వర్ణిస్తుంది.",
+        "q1AnswerExplanation": "\"Menu అంటే restaurant లో అందుబాటులో ఉన్న dishes జాబితా, సాధారణంగా booklet లేదా board పై చూపిస్తారు.\""
+      },
+      "exercise2": {
+        "es": {
+          "q4AnswerExplanation": "Delicious\" అనేది చాలా రుచిగా ఉండే ఆహారాన్ని వర్ణించే adjective.\"",
+          "q2AnswerExplanation": "Order\" అనేది restaurant లో ఆహారాన్ని ఎంచుకుని అడిగే verb.",
+          "q5AnswerExplanation": "Bill\" అనేది customer వారి భోజనానికి ఎంత చెల్లించాలో చూపించే document.",
+          "q3AnswerExplanation": "Appetizer\" అనేది main course కు ముందు వడ్డించే చిన్న dish.",
+          "q1AnswerExplanation": "Menu\" అనేది restaurant లో అందుబాటులో ఉన్న అన్ని ఆహారం మరియు పానీయాల జాబితాను చూపించే document."
+        }
+      }
+    },
+    "version13": {
+      "exercise2": {
+        "q2AnswerExplanation": "Agree\" అంటే అదే అభిప్రాయం కలిగి ఉండటం లేదా మరొకరు చేసిన suggestion ని అంగీకరించడం.",
+        "q3AnswerExplanation": "Clarify\" అంటే details ని confirm చేయడం ద్వారా ఒక statement లేదా పరిస్థితిని తక్కువ గందరగోళంగా మరియు మరింత అర్థమయ్యేలా చేయడం.",
+        "q1AnswerExplanation": "Suggestion\" అనేది ఇతరులు పరిగణించడానికి ముందుకు వచ్చిన ఆలోచన లేదా proposal."
+      },
+      "exercise3": {
+        "q2AnswerExplanation": "Clarify\" అనేది మరింత వివరణ అడగడానికి ఉపయోగిస్తారు. \"\"Agree\"\" ఇక్కడ అసంబద్ధం, మరియు clarity కోసం అడుగుతున్నప్పుడు \"\"suggest\"\" వర్తించదు.",
+        "q5AnswerExplanation": "Clarify\" అంటే ఏదైనా స్పష్టం చేయడం. \"\"Sure\"\" verb కాదు, మరియు \"\"told\"\" తప్పు tense. గందరగోళాన్ని తొలగించడాన్ని వ్యక్తపరచడానికి \"\"clarify\"\" మాత్రమే పని చేస్తుంది.",
+        "q4AnswerExplanation": "Couldn't agree\" అనేది failed consensus ని వ్యక్తపరుస్తుంది. \"\"Make\"\" కి object అవసరం, మరియు \"\"suggest\"\" disagreement ని వర్ణించదు. Shared viewpoints గురించి చర్చించేటప్పుడు \"\"agree\"\" సరిపోతుంది.\"",
+        "q3AnswerExplanation": "Let me suggest\" అనేది proposal ని పరిచయం చేస్తుంది. \"\"Do\"\" మరియు \"\"start\"\" logical గా సరిపోవు. Meeting ని postpone చేయడం వంటి ideas offer చేసేటప్పుడు \"\"suggest\"\" మాత్రమే పని చేస్తుంది.\"",
+        "q1AnswerExplanation": "Strongly agree with\" అనేది opinion కి strong support ని చూపిస్తుంది. \"\"Strongly\"\" మరియు \"\"with\"\" తో \"\"agree\"\" మాత్రమే పని చేస్తుంది; \"\"pause\"\" ungrammatical, మరియు \"\"clarify\"\" support చూపించదు.\""
+      }
+    }
+  },
+  "day2_2": {
+    "version14": {
+      "whenYouAskingForRequest": "మీరు request అడిగేటప్పుడు ఇలా చెప్పవచ్చు -",
+      "q6AnswerExplanation": "Sarah book Alex దానిదా అని అడుగుతున్నందున Yours సరైనది.",
+      "q2AnswerExplanation2": "Me\" అనేది invite చేయబడే action ని receive చేసే object pronoun.",
+      "q1AnswerExplanation2": "She\" అనేది action చేసే వ్యక్తిని చూపించే subject pronoun.",
+      "q1AnswerExplanation": "Joe singular male subject అయినందున మనం 'He' వాడుతాము, మరియు pronoun gender మరియు number తో match అవ్వాలి.",
+      "funWithTongueTwister": "Tongue Twister తో Fun",
+      "letPracticeSomeGrammar": "కొంత Grammar practice చేద్దాం",
+      "pronunciationExercise": "Pronunciation Exercise",
+      "grammarExercise": "Grammar Exercise",
+      "grammarLesson": "Grammar Lesson",
+      "task4": "Task 4",
+      "whenYouAskingRequestCouldWeFindTime": "\"మీరు request అడుగుతున్నప్పుడు మీరు చెప్పవచ్చు - Could we find a time after the meeting to talk about the idea?\"",
+      "socialIntroductions": "Social Introductions",
+      "q7AnswerExplanation": "Alex పట్టుకున్న specific book ని refer చేస్తున్నందున 'This' appropriate.",
+      "describeMemorableTripYouTook": "మీరు చేసిన memorable trip ని describe చేయండి. దాన్ని special గా చేసింది ఏమిటి?",
+      "q4AnswerExplanation": "\"Jon Snow తన దగ్గరున్న specific sword ని refer చేస్తున్నందున, singular మరియు close అయిన దానికి 'this' appropriate.\"",
+      "letReadTogether": "మనం కలిసి చదువుకుందాం",
+      "q4AnswerExplanation3": "She\" subject pronoun గా action చేసే వ్యక్తి కోసం ఉపయోగిస్తారు, మరియు \"\"it\"\" object pronoun గా food కోసం ఉపయోగిస్తారు.\"",
+      "speaking": "Speaking",
+      "talkAboutTimeYouEnjoyedWorkingWithYourTeam": "మీ team తో work చేయడంలో మీరు enjoy చేసిన సమయం గురించి మాట్లాడండి. దానిని special గా చేసింది ఏమిటి?",
+      "q2AnswerExplanation3": "Mine\" possessive pronoun గా noun ని repeat చేయకుండా ownership చూపుతుంది. \"\"Them\"\" object pronoun గా multiple items ని refer చేస్తుంది.",
+      "letStartYourRoadmap": "మీ roadmap ని start చేద్దాం",
+      "masteringPronouns": "Pronouns లో Mastering",
+      "q5AnswerExplanation3": "Myself\" reflexive pronoun గా \"\"I\"\" ని back refer చేస్తుంది, మరియు \"\"my\"\" possessive adjective గా noun కి ముందు వస్తుంది.",
+      "day1Revision": "Day 1 : Revision",
+      "q3AnswerExplanation2": "Their\" possessive pronoun గా house ని ఎవరు own చేస్తున్నారో చూపుతుంది.",
+      "pronounciation": "Pronunciation",
+      "q1AnswerExplanation3": "Her/him\" object pronouns గా ఉపయోగించబడతాయి ఎవరైనా action receive చేసినప్పుడు.\"",
+      "q2AnswerExplanation": "\"Daenerys (female) owner కాబట్టి, \"\"hers\"\" సరైన జవాబు.\"",
+      "q5AnswerExplanation": "\"'He' ఉపయోగించబడింది ఎందుకంటే Alex singular male subject, మరియు pronoun gender మరియు number తో match అవ్వాలి.\"",
+      "letTestYourSentenceStructure": "మీ sentence structure ని test చేద్దాం",
+      "letJumpIntoLearningPronunciations": "Pronunciations నేర్చుకోవడంలోకి jump చేద్దాం",
+      "politelyAnnounceThatYouAreLeaving": "\"మర్యాదగా మీరు వెళ్లిపోతున్నారని announce చేయండి - Sorry, I have to leave for another meeting.\"",
+      "readAloud": "Read Aloud",
+      "ieltsPart2": "IELTS Part 2",
+      "describeTheImage": "Image ని describe చేయండి",
+      "repeatAfterMe": "నా తర్వాత repeat చేయండి",
+      "q3AnswerExplanation3": "We\" subject pronoun (action చేసేవారు), \"\"us\"\" object pronoun (invitation receive చేసేవారు).\"",
+      "summarizeLecture": "Lecture ని సంక్షిప్తీకరించండి",
+      "introductionSpeakingTest": "పరిచయం : Speaking Test",
+      "letJumpIntoRealLifeConversationToday": "ఈరోజు real-life conversation లోకి దూకుదాం, vocabulary practice కూడా చేస్తాం",
+      "q3AnswerExplanation": "Pronoun 'herself' ఉపయోగించారు ఎందుకంటే subject 'She' మరియు sandwich తయారు చేసుకోవడం తనపై reflect అవుతుంది.",
+      "politelyAnnounceThatLeaving": "మీరు వెళ్లిపోతున్నారని మర్యాదగా తెలియజేయండి -",
+      "pronunciationReview": "Pronunciation Review",
+      "readOutLoud": "బిగ్గరగా చదవండి!"
+    }
+  },
+  "onBoarding": {
+    "helpYouPractice": "నమస్తే! నేను Sarah. మీతో స్నేహపూర్వక conversations ద్వారా మీకు English సాధన చేయడంలో మరియు మెరుగుపరచడంలో సహాయపడేందుకు ఇక్కడ ఉన్నాను.",
+    "togetherWeWillWork": "మనము కలసి, మీ speaking skills పై comfortable మరియు relaxed గా పని చేద్దాం .",
+    "whetherYouAreJustStarting": "మీరు ఇప్పుడే English ప్రారంభించినా లేదా ఇప్పటికే English తో సౌకర్యంగా ఉన్నా, మనము ఈ learning journey ని కలిసి చేద్దాము - మీ స్వంత వేగంతో.",
+    "whatShouldICallYou": "మిమ్మల్ని ఏమని పిలవాలి?",
+    "hiIAmPersonalEnglishSpeakingPartner": "హాయ్! నేను మీ Personal English Speaking Partner ని",
+    "callMeSarahWhatsYourName": "మీరు నన్ను Sarah అని పిలవచ్చు. మీ పేరు ఏమిటి?",
+    "thatsVeryCoolName": "ఆ పేరు చాలా బాగుంది! మనం కలిసి English practice చేయడం చాలా సరదాగా ఉండబోతోంది!",
+    "toEnsureYouGetLatestLessons": "Latest lessons మరియు personalised tips మీకు అందేలా చూడడానికి, మీ phone number ఇవ్వగలరా?",
+    "niceToMeetYouGetLatestLessons": "మిమ్మల్ని కలవడం సంతోషంగా ఉంది! మీకు latest lessons అందేలా, మీ phone number ఇవ్వగలరా?",
+    "whichAgeGroupAreYouIn": "మీరు ఏ age group లో ఉన్నారు?",
+    "ageGroup": {
+      "under18": "18 కంటే తక్కువ",
+      "age18to24": "18-24",
+      "age25to34": "25-34",
+      "age35to44": "35-44",
+      "age45plus": "45+"
+    },
+    "whatIsYourGender": "మీ gender ఏమిటి?",
+    "gender": {
+      "male": "Male",
+      "female": "Female",
+      "nonBinary": "Non-Binary"
+    },
+    "dailyPracticeHelpsAchieveGoals": "రోజూ practice చేయడం మీ goals ని త్వరగా achieve చేయడానికి సహాయపడుతుంది",
+    "whatBestDescribesYourSituation": "మీ current situation ని ఏది బాగా describe చేస్తుంది?",
+    "imGladWeMetWhatsYourGoal": "మిమ్మల్ని కలిసినందుకు సంతోషం. English నేర్చుకోవడానికి మీ main goal ఏమిటి?",
+    "mainGoal": {
+      "ielts": "English exam కి సిద్ధం కావడం",
+      "growInMyCareer": "నా career లో ఎదగడం",
+      "personalGrowth": "వ్యక్తిగత అభివృద్ధి",
+      "travelConfidently": "ఆత్మవిశ్వాసంతో ప్రయాణం",
+      "excelAtMySchool": "పాఠశాలలో రాణించడం",
+      "other": "ఇతర"
+    },
+    "typeYourGoalHint": "మీ goal ఇక్కడ type చేయండి",
+    "typeYourExamHint": "మీ exam ఇక్కడ type చేయండి",
+    "examType": {
+      "ielts": "IELTS",
+      "toefl": "TOEFL",
+      "pte": "PTE",
+      "toeic": "TOEIC",
+      "other": "ఇతరాలు"
+    },
+    "currentSituation": {
+      "student": "విద్యార్థి",
+      "workingProfessional": "ఉద్యోగి",
+      "freelancer": "ఫ్రీలాన్సర్",
+      "businessOwner": "వ్యాపార యజమాని",
+      "homeMaker": "గృహిణి",
+      "careerBreak": "career విరామంలో",
+      "lookingForWork": "ఉద్యోగ అన్వేషణలో",
+      "parent": "తల్లి/తండ్రి"
+    },
+    "amazingWhereDidHearAboutStimuler": "Thank you! మా గురించి మీరు ఎక్కడ విన్నారో నేను తెలుసుకోవచ్చా?",
+    "noProblemWhereDidYouHearAboutUs": "No problem! మా గురించి మీరు ఎక్కడ విన్నారో నేను తెలుసుకోవచ్చా?",
+    "iAmGladWeMet": "మనం కలిసినందుకు నాకు చాలా సంతోషంగా ఉంది!",
+    "enterReferralCode": "మీ దగ్గర ఉన్న referral code ని enter చేయండి",
+    "letsCreateAPlanForJustYou": "మీ లక్ష్యాలను వేగంగా సాధించడానికి మీ కోసమే ఒక ప్రణాళికను రూపొందిద్దాం! చెప్పండి, మీరు English ఎందుకు నేర్చుకుంటున్నారు?",
+    "thatsImpressiveMentoredIels": "అది ఆకట్టుకునేలా ఉంది! ప్రపంచవ్యాప్తంగా పది లక్షల మందికి పైగా అభ్యర్థులను వారి కలల band score సాధించడానికి నేను మార్గనిర్దేశం చేశాను",
+    "whatTypeOfSituationsDoYouWant": "మీరు ఎలాంటి పరిస్థితుల్లో మంచిగా ఉండాలనుకుంటున్నారు?",
+    "thatsImpressiveMentoredTravel": "అద్భుతం! వ్యాపార పర్యటన అయినా లేదా మీరు విదేశాల్లో పనిచేస్తున్నా, మేము అన్ని పరిస్థితులను cover చేస్తాము.",
+    "thatsImpressiveMentoredEducation": "సరే! మీకు తెలుసా, నేను పది లక్షల మందికి పైగా English లో అనర్గళంగా మరియు ఆత్మవిశ్వాసంతో మాట్లాడడంలో సహాయం చేశాను",
+    "greatMentoredOthers": "అది ఆకట్టుకునేలా ఉంది! నేను పది లక్షల మందికి పైగా English లో అనర్గళంగా మరియు ఆత్మవిశ్వాసంతో మాట్లాడడంలో సహాయం చేశాను",
+    "thatsImpressiveMentoredBusiness": "అది ఆకట్టుకునేలా ఉంది! నేను పది లక్షలకు పైగా working professionals కు వారి చేత real-world conversations practice చేయించడం ద్వారా వారి career ని మెరుగుపరచడంలో mentor గా సహాయం చేశాను",
+    "lookWhatLearnersHaveToSay": "ఈ successful learners ఏమి చెప్పాలనుకుంటున్నారో చూడు:",
+    "thesePeoplePracticedDaily": "ఈ వ్యక్తులు గొప్ప పురోగతిని సాధించడానికి రోజూ practice చేశారు ఇంకా నేను వారు track లో ఉండటానికి సహాయం చేసాను!",
+    "iWillRemindYouToo": "నేను మీకు కూడా గుర్తు చేస్తాను, తద్వారా మీరు practice ను miss అవ్వరు. మీ Notifications ను on చేయండి.",
+    "thanksForThatTogether": "దానికి thanks! మనం కలిసి English ను రోజువారీ నేర్చుకునే అలవాటుగా మార్చుకుందాం!",
+    "noIssuesIWill": "పర్లేదు! నేను ఇంకోమారేప్పుడైనా అడుగుతాను.",
+    "whatIsCurrentEnglishLevel": "మీ ప్రస్తుత English level ఏమని మీరు చెబుతారు?",
+    "perfectEvenWithJustAFewWords": "Perfect! కేవలం కొన్ని పదాలతో కూడా, మీరు ప్రారంభించడానికి సిద్ధంగా ఉన్నారు. నేను మిమ్మల్ని దశలవారీగా confident conversations కు మార్గనిర్దేశం చేస్తాను",
+    "awesomeAlreadyHalfwayThere": "Awesome! మీరు ఇప్పటికే సగం దూరం వెళ్ళారు. నాతో ఇంకొంచెం practice చేస్తే మీరు అద్భుతాలు చేస్తారు!",
+    "awesomeSkysTheLimit": "Awesome! మీకు ఆకాశమే హద్దు. మనం కఠినమైన challenges స్వీకరించి మరిన్ని ఉన్నత శిఖరాలను సాధిద్దాం.",
+    "almostDoneAnswerAQuestionBeginner": "మనం దాదాపు పూర్తి చేసాము! చివరి దశగా మీరు ఈ క్రింది passage ని చదవాలని నేను కోరుకుంటున్నాను.",
+    "almostDoneAnswerAQuestion": "మనం దాదాపు పూర్తి చేసాము! చివరి దశలో మీరు నా కోసం ఒక ప్రశ్నకు సమాధానం చెప్పాలని కోరుకుంటున్నాను.",
+    "dontKnowWhatToSpeak": "ఏమి మాట్లాడాలో తెలియడం లేదా? సమస్య లేదు, మీరు క్రింద ఉన్న hint ను చదవవచ్చు!",
+    "didNotSpeakAlot": "మీరు అంతగా మాట్లాడలేదు అనిపిస్తుంది",
+    "letsTrySomethingElse": "మరేదైనా try చేద్దాం, చేద్దామా?",
+    "greatReasonExperienceBestAiApp": "చాలా బాగుంది! ఇప్పుడు మేము Google ద్వారా Best AI App 2023 గెలుచుకోవడానికి కారణాన్ని మీరు అనుభూతి చెందు సమయం వచ్చింది.",
+    "reasonExperienceBestAiApp": "ఇప్పుడు మేము Google ద్వారా Best AI App 2023 గెలుచుకోవడానికి కారణాన్ని మీరు అనుభూతి చెందు సమయం వచ్చింది.",
+    "tapOnButtonBelow": "మీ mispronunciations, awkward pauses మరియు మా వైపు నుండి ఇతర suggestions చూడటానికి క్రింది button పైన tap చేయండి",
+    "curiousHowWellYou": "మీరు ఎంత బాగా మాట్లాడారో ఆసక్తిగా ఉందా? మీ performance చూడటానికి tap చేయండి!",
+    "purpose": {
+      "ielts": "IELTS",
+      "talkToColleaguesClients": "Colleagues/clients తో మాట్లాడటం",
+      "clearJobInterview": "Job interview clear చేయడం",
+      "everydayConvo": "రోజువారీ conversation",
+      "excelAtSchool": "నా school లో Excel",
+      "travel": "Travel",
+      "anyOtherGoal": "మరేదైనా లక్ష్యం",
+      "improveMyCareer": "నా career ని మెరుగుపరచండి"
+    },
+    "workplaceSubPurpose": {
+      "jobInterview": "Job Interview",
+      "teamMeeting": "Team Meetings",
+      "presentations": "Presentations",
+      "networking": "Networking",
+      "smallTalk": "Colleagues తో చిన్న సంభాషణ"
+    },
+    "HowDidUserHearAboutApp": {
+      "tiktok": "Tiktok",
+      "instagram": "Instagram Reel",
+      "googleAds": "Google Ads",
+      "friend": "Friends",
+      "facebook": "Facebook",
+      "youtube": "YouTube",
+      "haveAReferralCode": "Referral Code ఉందా?",
+      "other": {
+        "playStore": "Play Store లో ఇప్పుడే search చేశాను",
+        "appStore": "App Store లో ఇప్పుడే search చేశాను"
+      },
+      "twitterX": "Twitter/X"
+    },
+    "levelDescription": {
+      "beginner": "నాకు కొన్ని words తెలుసు, కానీ sentences తయారు చేయలేను",
+      "intermediate": "నేను సాధారణ విషయాల గురించి చిన్న వాక్యాలు చేయగలను.",
+      "advance": "నేను చిన్న చిన్న conversations చేసి ఇతరులను అర్థం చేసుకోగలను."
+    },
+    "reviewBoostedMyConfidence": "Sarah తో chat చేయడం వల్ల నా English మెరుగుపడింది మరియు test కోసం నా confidence పెరిగింది",
+    "thatsImpressiveMentoredJob": "అది impressive! నేను million కు మించిన వ్యక్తులకు వారి dream job దొరకడంలో సహాయపడ్డాను, వారి interviews లో excel చేయడంలో సహాయం చేయడం ద్వారా",
+    "reviewCommunityActive": "Stimuler PRO community members ఎల్లప్పుడూ active గా ఉండి నన్ను motivated గా ఉంచుతారు",
+    "reviewBoostedMyConfidenceIELTS": "Sarah తో chat చేయడం వల్ల నా English మెరుగుపడింది మరియు నా IELTS test కోసం confidence పెరిగింది",
+    "selectYourLanguagePreferance": "దయచేసి మీ భాష preference ని ఎంచుకోండి",
+    "thatsImpressiveMentoredSubPurpose": "అది impressive! నేను ఒక మిలియన్ కు మించిన working professionals లకు వారితో real-world conversations practice చేయించడం ద్వారా వారి career ని మెరుగుపరచడంలో mentor గా సహాయం చేశాను",
+    "reviewSarahFeedbackOnVocab": "Vocab పై Sara ఫీడ్‌బ్యాక్‌లు అద్భుతం… నా 8.0 band score కు నేను Stimulerకు రుణపడి ఉన్నాను.",
+    "seeDetailedResults": "వివరణాత్మక Results చూడండి",
+    "reviewSpendingTwentyMinutes": "రోజూ Sarah తో 20 నిమిషాలు గడపడం వల్ల నా fluency బాగా మెరుగుపడింది",
+    "reviewSarahFeedbackOnVocabIELTS": "Vocab పై Sara ఫీడ్‌బ్యాక్‌లు అద్భుతం… నా 8.0 band score కు నేను Stimulerకు రుణపడి ఉన్నాను.",
+    "reviewAppIsAGoldenEgg": "ఈ app ఒక golden egg. ఇది మీరు మెరుగ్గా మాట్లాడటానికి సహాయపడుతుంది. అద్భుతం, 10/5 ఇస్తాను",
+    "awesomeThousandsOfEnglishLearners": "Awesome! వేలాది మంది English learners నా దగ్గర beginners గా journey ప్రారంభించి, నేను వారిని fluent English speakers గా మార్చాను.",
+    "thatsImpressiveMentoredSocializing": "అద్భుతం! మేము సరదాగా మరియు ఆకర్షణీయమైన conversations చేయవచ్చు. ఇది మీకు రోజువారీ పనులకు communication లో నైపుణ్యం సాధించడంలో సహాయపడుతుంది",
+    "reviewBoostedConfidenceOffice": "Sarah తో chat చేయడం వల్ల నా English మెరుగుపడింది మరియు office లో నా confidence పెరిగింది",
+    "reviewAppIsAGoldenEggIELTS": "ఈ app IELTS కోసం ఒక golden egg. ఇది మీరు మెరుగ్గా మాట్లాడటానికి సహాయపడుతుంది. అద్భుతం, 10/5 ఇస్తాను",
+    "canIknowYourName": "నేను చాలా excited గా ఉన్నాను, మీ పేరు తెలుసుకోవచ్చా?",
+    "letsGetToKnowEachOther": "మనం ఒకరినొకరు తెలుసుకుందాం!",
+    "whatsYourNativeLanguage": "మీ native language ఏమిటి?",
+    "gotItWillUseTheLanguageToExplainEnglish": "అర్థమైంది! మేము app లో English explain చేయడానికి మీ language ని use చేస్తాము",
+    "wantToChangeAppLanguageTo": "మీ native language కి app language మార్చాలని అనుకుంటున్నారా",
+    "youWillLearnEnglishThrough": "మీరు $language ద్వారా English నేర్చుకుంటారు",
+    "weUseEnglishAsTheAppsLanguage": "ఈ app యొక్క languageగా Englishని వాడుతున్నాము.",
+    "awesomeCanIKnowYourName": "అద్భుతం! మీ పేరు ఏమిటి?",
+    "soWhatsYourNativeLanguage": "అయితే, మీ మాతృభాష ఏమిటి? ఇది మీకు మెరుగైన support అందించడంలో నాకు సహాయపడుతుంది.",
+    "ieltsModule": {
+      "academic": "Academic",
+      "general": "General",
+      "notSure": "నాకు ఖచ్చితంగా తెలియదు"
+    },
+    "examTime": {
+      "thisMonth": "నేను ఈ నెలలో IELTS రాస్తాను",
+      "nextMonth": "నేను వచ్చే నెలలో IELTS రాస్తాను",
+      "moreThanTwo": "సిద్ధం కావడానికి నాకు రెండు నెలలకు మించి సమయం ఉంది",
+      "after": "{month} తర్వాత"
+    },
+    "moveTheSliderToPickYourScore": "మీ score ఎంచుకోవడానికి slider ను జరపండి",
+    "bandScore": "Band Score",
+    "skill": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "speaking": "Speaking",
+      "listening": "Listening"
+    },
+    "journeyGraph": {
+      "yourJourney": "మీ ప్రయాణం",
+      "toAceIeltsStarts": "IELTS లో రాణించడానికి మొదలవుతుంది",
+      "curatingContent": "Content సిద్ధం చేస్తున్నాం",
+      "forYourIeltsJourney": "మీ IELTS ప్రయాణం కోసం",
+      "aPlanForYouToReach": "మీరు చేరుకోవడానికి ఒక plan",
+      "yourGoal4xFaster": "మీ goal ను 4x వేగంగా",
+      "planForYou": "మీ కోసం PLAN",
+      "practice20MinsPerDay": "రోజుకు 20 నిమిషాలు practice",
+      "oneMockTestPerDay": "రోజుకు ఒక Mock Test",
+      "ieltsConversationPerDay": "రోజుకు IELTS Conversation",
+      "weeklyReviews": "వారానికోసారి Reviews",
+      "youTookThe": "మీరు వేశారు",
+      "firstStep": "మొదటి అడుగు",
+      "inOneMonth": "1 నెలలో",
+      "inTwoMonths": "2 నెలల్లో",
+      "inMoreThanTwoMonths": "2+ నెలల్లో"
+    },
+    "hintPlayback": {
+      "youDidGreatFirstStep": "మీ మొదటి అడుగులో మీరు అద్భుతంగా చేశారు!",
+      "improvePronunciation": "Pronunciation మెరుగుపరుద్దాం"
+    }
+  },
+  "day4_2": {
+    "version13": {
+      "meetingVocabularyPractice": "Meeting Vocabulary Practice",
+      "summarizeLecture": "Lecture ని సంక్షిప్తీకరించండి",
+      "q3AnswerExplanation": "Dog\" ఒక noun, ఇది barking చేస్తున్న జంతువును పేర్కొంటుంది. Nouns వ్యక్తులు, స్థలాలు లేదా వస్తువులను గుర్తిస్తాయి, కాబట్టి \"\"dog\"\" ఈ వాక్యంలో subject.\"",
+      "teamMeetingPractice": "Team Meeting Practice",
+      "q3AnswerExplanation2_3": "Deserted\" అంటే వదిలివేయబడిన మరియు ఖాళీ, ప్రసిద్ధం కాదు.",
+      "readItOutLoud": "దాన్ని బిగ్గరగా చదవండి",
+      "q2AnswerExplanation2": "\"Bustling అంటే శక్తివంతమైన కార్యకలాపాలు, కదలిక మరియు శబ్దంతో నిండిన స్థలాన్ని వర్ణిస్తుంది.\"",
+      "q1AnswerExplanation2": "Heritage అంటే మునుపటి తరాలనుండి వచ్చిన సంప్రదాయాలు మరియు విలువైన సాంస్కృతిక అంశాలు.",
+      "q1AnswerExplanation": "Beautiful\" ఒక adjective, ఇది \"\"dress\"\" అనే noun ని వర్ణిస్తుంది. ఇతర ఎంపికలు \"\"beautifully\"\" (adverb) మరియు \"\"beauty\"\" (noun) dress ని సరిగ్గా వర్ణించవు.",
+      "orderingFoodVocabRevision": "Food ordering vocabulary revision",
+      "q1AnswerExplanation2_3": "Population\" అంటే ఒక ప్రాంతంలో నివసించే ప్రజలు, traditions కాదు.\"",
+      "yourTurnToPracticeThisWord": "మీ వంతు! ఈ word ని practice చేయండి!",
+      "mockTest1": "Mock Test 1",
+      "mockTest2": "Mock Test 2",
+      "grammarPractice": "Grammar Practice",
+      "task4": "Task 4",
+      "readingFast": "Reading: fast",
+      "letPracticeMore": "మరింత practice చేద్దాం!",
+      "yourTurnReadThisAloud": "మీ వంతు! దీన్ని బిగ్గరగా చదవండి!",
+      "q4AnswerExplanation": "Under\" అనేది preposition, ఇది cat మరియు bed మధ్య సంబంధాన్ని సరిగ్గా వివరిస్తుంది. ఇతర options \"\"below\"\" (ఇది మరింత spatially general) మరియు \"\"down\"\" (ఇది adverb) context కి సరిగ్గా సరిపోవు.",
+      "showMeWhatYouGot": "మీరు ఏమి చేయగలరో చూపించండి! ఈ వాక్యాన్ని బిగ్గరగా చదవండి!",
+      "task1": "Task 1",
+      "weGetBackToReadingToday": "\"మేము ఈరోజు reading కు తిరిగి వస్తాము, అయితే ఈసారి కొంచెం advanced గా.\"",
+      "speaking": "Speaking",
+      "q4AnswerExplanation2": "Authentic అంటే original మరియు traditional origins కు true గా ఉండటం.",
+      "describeTheImage": "Image ని వర్ణించండి",
+      "roleplayExercise": "Roleplay Exercise",
+      "itAgainTimeToPracticeYourConversational": "మీ conversational మరియు tongue-twisting skills ని practice చేయడానికి మళ్లీ సమయం వచ్చింది",
+      "letStartYourRoadmap": "మీ roadmap ని మొదలుపెట్టండి",
+      "ieltsPart2Lesson": "IELTS Part 2 Lesson",
+      "themeTravel": "Theme : Travel",
+      "workplaceMeetingRoleplay": "Workplace Meeting Roleplay",
+      "q4AnswerExplanation2_2": "Modified\" అంటే original నుండి మార్చబడినది, traditional కాదు.",
+      "letsPracticeSomeGrammar": "Grammar practice చేద్దాం",
+      "q2AnswerExplanation2_3": "Silent\" అంటే noise లేకుండా ప్రశాంతంగా ఉండటం, busy కి వ్యతిరేకం.",
+      "q3AnswerExplanation2": "Renowned అంటే excellence కోసం బాగా తెలిసిన మరియు గౌరవనీయమైన.",
+      "nowYouTryReadThisSentence": "ఇప్పుడు మీరు try చేయండి! ఈ sentence చదవండి!",
+      "q2AnswerExplanation": "Extremely\" అనేది \"\"fast\"\" adjective ని modify చేసే adverb. ఇతర options అయిన \"\"extreme\"\" (adjective) మరియు \"\"extremeness\"\" (noun) \"\"fast\"\" ని సరిగ్గా modify చేయవు.",
+      "nowItsTheTimeToPracticeYourThinkingSkills": "ఇప్పుడు మీ question-answering & on-the-spot thinking skills practice చేసే సమయం వచ్చింది.",
+      "haveFunWithThisTongueTwister": "ఈ tongue-twister తో fun చేయండి",
+      "q5AnswerExplanation": "They\" ఒక pronoun మరియు sentence లో subject గా వాడబడుతుంది. ఇతర options, \"\"Their\"\" (possessive pronoun) మరియు \"\"Them\"\" (object pronoun), subject position కి సరిపోవు.\"",
+      "q2AnswerExplanation2_2": "Declining\" అంటే దిగజారుట లేదా తగ్గుట, active కాదు.",
+      "q3AnswerExplanation2_2": "Deserted\" అంటే వదిలివేయబడిన మరియు ఖాళీ, famous కాదు.",
+      "lastOneReadThisSentenceAloud": "చివరిది! ఈ sentence ని బిగ్గరగా చదవండి!",
+      "orderingFood": "Food order చేయడం",
+      "vocabularyExercise": "Vocabulary Exercise",
+      "nowItYourMomentToShine": "ఇప్పుడు మీ moment to shine! ఈ sentence చదవడానికి try చేయండి!",
+      "readAloud": "Read Aloud",
+      "q1AnswerExplanation2_2": "Scenery\" అంటే సహజ landscape features, cultural traditions కాదు.",
+      "essentialVocabularyForDescribingYourCountry": "మీ Country, City మరియు Travel describe చేయడానికి Essential Vocabulary",
+      "task3": "Task 3",
+      "q4AnswerExplanation2_3": "Foreign\" అంటే వేరే దేశం నుండి వచ్చినది, ఎల్లప్పుడూ సాంప్రదాయకం కాదు.\"",
+      "task2": "Task 2",
+      "repeatAfterMe": "నా వెంట repeat చేయండి",
+      "lastOneYouveGotThis": "చివరిది—మీరు చేయగలరు! Final sentence ని బిగ్గరగా చదవండి!"
+    }
+  },
+  "day6": {
+    "version9": {
+      "exercise2": {
+        "es": {
+          "q1OptionCRight": "Maria చాలా tasks ఉండటంతో overwhelmed అనిపిస్తోంది.",
+          "q5OptionARight": "Lisa తన పనిని importance ప్రకారం organize చేస్తోంది (prioritizing).",
+          "q5OptionBWrong": "Initiative తీసుకోవడం అంటే prompt లేకుండా act చేయడం.",
+          "q3OptionCRight": "Sarah action తీసుకోవడం ద్వారా positive engagement చూపించింది (initiative).",
+          "q2OptionBRight": "John delegate చేస్తున్నాడు - వేరొకరికి task assign చేస్తున్నాడు.",
+          "q1OptionARight": "Maria చాలా tasks వల్ల overwhelmed అనుభవిస్తోంది.",
+          "q1AnswerExplanation": "Overwhelmed అంటే సౌకర్యంగా handle చేయలేనంత tasks ఉండటం",
+          "q4OptionBWrong": "Delegation అంటే ఇతరులకు tasks assign చేయడం.",
+          "q3OptionBRight": "Sarah proactively ఒక problem ని తానే solve చేసింది (initiative).",
+          "q4OptionBRight": "Alex దీర్ఘకాల exhaustion తో బాధపడుతున్నాడు (burnout).",
+          "q3OptionBWrong": "Delegation అంటే ఇతరులకు tasks assign చేయడం.",
+          "q4AnswerExplanation": "Burnout అంటే దీర్ఘకాల stress వల్ల వచ్చే exhaustion",
+          "q1OptionAWrong": "Motivated అంటే work పట్ల eager లేదా enthusiastic గా అనుభవించడం.",
+          "q2OptionARight": "John ఇతరులకు work assign చేస్తున్నాడు (delegating).",
+          "q2OptionAWrong": "Initiative తీసుకోవడం అంటే అడగకుండానే act చేయడం.",
+          "q2OptionCWrong": "Prioritizing అంటే tasks ని ప్రాముఖ్యత ఆధారంగా ranking చేయడం.",
+          "q2AnswerExplanation": "Delegating అంటే tasks ని వేరొకరికి assign చేయడం",
+          "q3OptionARight": "Sarah initiative చూపించింది - prompt చేయకుండానే problem ని solve చేసింది.",
+          "q5AnswerExplanation": "Prioritizing అంటే tasks ని ప్రాముఖ్యత క్రమంలో handle చేయడం",
+          "q5OptionBRight": "Lisa ఏ tasks అత్యంత ముఖ్యమైనవో నిర్ణయిస్తోంది (prioritizing).",
+          "q4OptionARight": "Alex burnout అనుభవిస్తున్నాడు - దీర్ఘకాల stress వల్ల వచ్చే అలసట.",
+          "q2OptionCRight": "John task ని వేరొకరికి ఇస్తున్నాడు (delegating).",
+          "q1OptionCWrong": "Organized అంటే అన్నింటినీ structured way లో arrange చేసి ఉంచడం.",
+          "q4OptionCRight": "Alex burnout అనుభవిస్తున్నాడు - దీర్ఘకాల stress వల్ల కలిగే అలసట.",
+          "q4OptionAWrong": "Progress అంటే work లేదా career లో positive advancement.",
+          "q3AnswerExplanation": "\"Initiative తీసుకోవడం అంటే prompt చేయకుండానే problems ని గుర్తించి solve చేయడం\"",
+          "q5OptionCRight": "\"Lisa prioritizing చేస్తోంది - tasks ని importance క్రమంలో handle చేస్తోంది\"",
+          "q5OptionAWrong": "\"Delegating అంటే tasks ని others కి assign చేయడం\"",
+          "q3OptionCWrong": "\"Burnout అంటే chronic stress వల్ల వచ్చే exhaustion\""
+        }
+      },
+      "exercise3": {
+        "es": {
+          "q3AnswerExplanation": "Did not\" అనేది helping verb, ఇది \"\"understand\"\" ని negative చేస్తుంది. ఇది Forrest గతంలో ఏదో అర్థం చేసుకోలేదని చెబుతుంది\"",
+          "q6AnswerExplanation": "Discovers\" అనేది action verb, ఇది Indiana Jones ఏమి చేస్తాడో చూపిస్తుంది. \"\"Should\"\" అనేది helping verb, ఇది ఏది సరైనదో లేదా proper అనేది చూపిస్తుంది\"",
+          "q1AnswerExplanation": "Brought\" అనేది action verb, scientists ఏమి చేశారో చూపిస్తుంది. \"\"Was\"\" అనేది linking verb, \"\"decision\"\" ని \"\"dangerous\"\" తో connect చేస్తుంది\"",
+          "q2AnswerExplanation": "Questioned\" మరియు \"\"swallowed\"\" రెండూ action verbs. ఒకటి mental action చూపిస్తుంది, మరొకటి physical action చూపిస్తుంది\"",
+          "q5AnswerExplanation": "Appears\" మరియు \"\"remains\"\" రెండూ present tense లో linking verbs. అవి subject \"\"factory\"\" ని descriptions \"\"magical\"\" మరియు \"\"full of surprises\"\" తో action చూపించకుండా connect చేస్తాయి\"",
+          "q4AnswerExplanation": "Was playing\" గతంలో ఆ exact moment లో జరుగుతున్న action ని చూపిస్తుంది. \"\"Was\"\" main verb \"\"playing\"\" కి help చేసి ongoing action ని చూపిస్తుంది\""
+        }
+      }
+    },
+    "version8": {
+      "exercise1": {
+        "id": {
+          "q3AnswerExplanation": "Team\" 't' sound తో మొదలవుతుంది, 'th' (theme లో వలె) లేదా 'c' (cream లో వలె) కాదు\"",
+          "q1AnswerExplanation": "\"English business vocabulary లో, \"\"presentation\"\" ని pre-SEN-ta-tion గా ఉచ్చరిస్తారు, రెండవ syllable పై stress తో\"",
+          "q2AnswerExplanation": "Action items\" అంటే పూర్తి చేయవలసిన tasks ని సూచిస్తుంది, అయితే \"\"action limits\"\" అనేది సాధారణ business term కాదు\""
+        }
+      },
+      "exercise3": {
+        "id": {
+          "q3AnswerExplanation": "Explain\" collaboration మరియు respect ని పెంపొందిస్తుంది. Details అడగడం వలన మీరు వేర్వేరు perspectives ని విలువైనవిగా చూస్తున్నారని తెలుస్తుంది మరియు open dialogue ద్వారా innovation కు స్థలం కల్పిస్తుంది\"",
+          "q1AnswerExplanation": "Start\" leadership మరియు initiative ని చూపిస్తుంది. మొదట volunteer అవడం positive tone set చేస్తుంది మరియు confidence ని demonstrate చేస్తుంది, team participation ని encourage చేస్తుంది\"",
+          "q2AnswerExplanation": "Know\" proactive planning ని demonstrate చేస్తుంది. Material availability గురించి అడగడం potential roadblocks ని early గా identify చేస్తుంది, foresight మరియు deadlines meet చేయాలని commitment ని చూపిస్తుంది\""
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q4AnswerExplanation": "Their\" అనేది \"\"everyone\"\" ని refer చేసే correct possessive pronoun. \"\"Contribution\"\" అంటే common fund లేదా cause కు ఇవ్వబడిన లేదా supply చేయబడిన దానిని అర్థం, ఇది project కు add చేయడం context కు fit అవుతుంది\"",
+          "q2AnswerExplanation": "\"ఈ sentence లో, \"\"me\"\" అనేది \"\"asked\"\" తర్వాత వచ్చే object pronoun. \"\"I\"\" అనేది subject pronoun మరియు ఇక్కడ incorrect అవుతుంది\"",
+          "q5AnswerExplanation": "Those\" అనేది meeting miss అయిన people ని refer చేయడానికి correctly ఉపయోగించిన demonstrative pronoun. \"\"Action items\"\" అనేవి completion కోసం assign చేయబడిన specific tasks, ఇది review అవ్వాల్సిన assignments context కు fit అవుతుంది\"",
+          "q3AnswerExplanation": "\"ఒక \"\"agenda\"\" అనేది meeting లో discuss చేయవలసిన topics list. \"\"Contribution\"\" అంటే ఇవ్వబడిన లేదా supply చేయబడిన దానిని refer చేస్తుంది, అయితే \"\"action item\"\" అనేది completion కోసం assign చేయబడిన specific task\"",
+          "q6AnswerExplanation": "\"సాంప్రదాయకంగా \"\"or/nor\"\" తో కలిపిన singular antecedents కోసం \"\"his or her\"\" వాడేవారు, కానీ ఆధునిక English లో singular \"\"their\"\" ని gender-neutral గా అంగీకరిస్తారు మరియు ఇది తక్కువ awkward గా ఉంటుంది, ముఖ్యంగా నిర్దిష్ట వ్యక్తుల గురించి మాట్లాడేటప్పుడు.\"",
+          "q1AnswerExplanation": "Collaborate\" అంటే ఒక సాధారణ లక్ష్యం వైపు కలిసి పని చేయడం, ఇది deadline ని చేరుకోవడం context కు సరిపోతుంది\""
+        }
+      }
+    }
+  },
+  "day11": {
+    "exercise2": {
+      "id": {
+        "q6AnswerExplanation": "Itinerary\" అంటే ఒక trip కోసం వివరణాత్మక plan లేదా schedule, ఇందులో activities, times మరియు places ఉంటాయి.\"",
+        "q3AnswerExplanation": "Gets\" అనేది singular subject \"\"beach club\"\" తో agree అయ్యే సరైన third-person singular form.\"",
+        "q1AnswerExplanation": "\"Modal verb \"\"need to\"\" తర్వాత base form \"\"plan\"\" అవసరం.\"",
+        "q4AnswerExplanation": "Budget\" అంటే ప్రత్యేకంగా spending కోసం కేటాయించిన planned amount of money ని సూచిస్తుంది.\"",
+        "q2AnswerExplanation": "Accommodation\" అంటే travelers బస చేసే hotels, villas లేదా hostels వంటి స్థలాలను సూచిస్తుంది.\"",
+        "q5AnswerExplanation": "Have\" అనేది plural subject \"\"my friends and I\"\" తో వాడే సరైన form.\""
+      },
+      "q1AnswerExplanation": "Delegate\" అనేది ఇతరులకు tasks assign చేయడం అని అర్థం వచ్చే సరైన verb, అయితే \"\"burnout\"\" మరియు \"\"overwhelm\"\" ఈ context లో verbs గా పని చేయవు.\"",
+      "q2AnswerExplanation": "Initiative\" ఈ sentence లో logical గా సరిపోతుంది, మరియు \"\"is\"\" అనేది subject ని దాని గురించిన information తో కలిపే linking verb గా పని చేస్తుంది.\"",
+      "q5AnswerExplanation": "Prioritizing\" అంటే పనులను ప్రాముఖ్యత ప్రకారం అమర్చడం, ఇది burnout ను నివారించడంలో తార్కికంగా సహాయపడుతుంది.\"",
+      "q4AnswerExplanation": "Plans\" అనేది subject చేసే పనిని చూపించే action verb, ఇది series లోని ఇతర action verbs (answers, solves) తో match అవుతుంది.\"",
+      "q6AnswerExplanation": "Is\" అనేది \"\"presentation\"\" ను దాని గురించిన సమాచారంతో కలిపే linking verb గా పనిచేస్తుంది, అదే విధంగా \"\"are\"\" అనేది \"\"clients\"\" ను వారి స్థితితో కలుపుతుంది.\"",
+      "q3AnswerExplanation": "Should\" అనేది \"\"complete\"\" కు అర్థం జోడించే helping verb, మరియు \"\"overwhelmed\"\" అంటే చాలా పని వల్ల stress అవ్వడం.\""
+    },
+    "exercise3": {
+      "q2AnswerExplanation": "Ask\" అనేది అవసరమైనప్పుడు సహాయం కోరే సిద్ధతను ప్రతిబింబిస్తుంది. మీకు సహాయం అవసరమని గుర్తించడం మరియు దానిని అడగడానికి సిద్ధంగా ఉండటం professionalism ను చూపిస్తుంది మరియు burnout ను నివారిస్తుంది, collaborative work environment కు దోహదపడుతుంది.\"",
+      "id": {
+        "q3AnswerExplanation": "Reservation\" వాడటం smart planning మరియు travel savvy ని ప్రతిబింబిస్తుంది, popular attractions లో spots secure చేయడం ద్వారా, మీ group key experiences ను miss చేయకుండా చూసుకోవడం.\"",
+        "q1AnswerExplanation": "Perfect\" వాడటం మీ friend యొక్క travel plans పట్ల genuine enthusiasm మరియు interest ను చూపిస్తుంది, excitement build చేయడంలో మరియు trip కోసం shared anticipation sense ను సృష్టించడంలో సహాయపడుతుంది.",
+        "q2AnswerExplanation": "Practical\" వాడటం social bonding మరియు cost-sharing ను balance చేయడం ద్వారా thoughtful decision-making ను చూపిస్తుంది, group travel planning లో ముఖ్యమైన skill ను highlight చేస్తుంది."
+      },
+      "q3AnswerExplanation": "Join\" అనేది workplace relationships build చేయడంలో commitment ను సూచిస్తుంది. Social invitations పై follow through చేయడం immediate work tasks కు మించి supportive network సృష్టించడంలో సహాయపడుతుంది, ఇది overall workplace satisfaction మరియు teamwork ను మెరుగుపరుస్తుంది.",
+      "q1AnswerExplanation": "Honest\" communication workplace relationships లో trust build చేస్తుంది. Workload గురించి genuine feelings share చేయడం support కోసం opportunity సృష్టిస్తుంది మరియు authenticity చూపిస్తుంది, ఇది collegial bonds ను బలపరుస్తుంది."
+    }
+  },
+  "day5": {
+    "version10": {
+      "exercise3": {
+        "es": {
+          "q1AnswerExplanation": "Start\" leadership మరియు initiative ని చూపిస్తుంది. మొదట volunteer చేయడం positive tone set చేస్తుంది మరియు confidence demonstrate చేస్తుంది, team participation ని encourage చేస్తుంది.\"",
+          "q4AnswerExplanation": "Help\" individual concerns కన్నా team success ని prioritize చేస్తుంది. సహాయం అందించడం accountability మరియు solution-focused thinking ని చూపిస్తుంది blame లేదా negativity బదులుగా.\"",
+          "q2AnswerExplanation": "Know\" proactive planning ని demonstrate చేస్తుంది. Material availability గురించి అడగడం potential roadblocks ని early గా identify చేస్తుంది, foresight మరియు deadlines meet చేయడంలో commitment ని చూపిస్తుంది.\"",
+          "q5AnswerExplanation": "Discuss\" act చేయడానికి ముందు understanding మీద focus చేస్తుంది. Client requests గురించి specifics అడగడం professionalism ని చూపిస్తుంది మరియు మరింత effective solutions మరియు stronger client relationships కు దారితీస్తుంది.\"",
+          "q3AnswerExplanation": "Explain\" collaboration మరియు respect ని foster చేస్తుంది. Details అడగడం మీరు different perspectives ని value చేస్తున్నారని చూపిస్తుంది మరియు open dialogue ద్వారా innovation కోసం space create చేస్తుంది.\""
+        }
+      },
+      "exercise2": {
+        "id": {
+          "q2AnswerExplanation": "Order\" అనేది restaurant లో food select చేసి request చేయడాన్ని describe చేసే verb.",
+          "q3AnswerExplanation": "Appetizer\" అనేది main course కు ముందు serve చేసే small dish ని refer చేస్తుంది.",
+          "q1AnswerExplanation": "Menu\" అనేది restaurant లో available అయిన అన్ని food మరియు drink options ని list చేసే document."
+        },
+        "es": {
+          "q2AnswerExplanation": "Is\" ఒక linking verb ఎందుకంటే ఇది subject \"\"Upside Down\"\" ని description \"\"a dark and dangerous dimension\"\" తో connect చేస్తుంది. Linking verbs action చూపవు కానీ subjects ని descriptions తో connect చేస్తాయి.\"",
+          "q5AnswerExplanation": "Can\" అనేది Tony యొక్క ability ని చూపించే helping verb. \"\"Can,\"\" \"\"will,\"\" మరియు \"\"should\"\" వంటి helping verbs main verbs ని modify చేసి ability, necessity, లేదా future actions express చేస్తాయి.\"",
+          "q3AnswerExplanation": "Can\" ఒక helping verb, ఇది ability ని చూపిస్తుంది. ఇది main verb \"\"defeat\"\" తో కలిసి Harry కి Voldemort ని overcome చేసే ability ఉందని చూపిస్తుంది. Helping verbs possibility, necessity లేదా time గురించి అర్థాన్ని జోడిస్తాయి.\"",
+          "q1AnswerExplanation": "Throws\" ఒక action verb ఎందుకంటే ఇది Thor చేసే physical action ని చూపిస్తుంది. Action verbs ఎవరైనా చేసేది express చేస్తాయి, అది physical అయినా mental అయినా.",
+          "q4AnswerExplanation": "Plays\" ఒక action verb, ఇది Jim ఏమి చేస్తాడో చూపిస్తుంది. Action verbs activities మరియు behaviors describe చేయడానికి అవసరం, అది work లో అయినా daily life లో అయినా."
+        }
+      }
+    }
+  },
+  "roadmapIntermediateStates": {
+    "letsReview": "మనం review చేద్దాం",
+    "ontoTheNextOne": "తదుపరిదానికి వెళ్దాం!",
+    "part2OfDay2": "Day 2 యొక్క Part 2 పూర్తయింది",
+    "part3OfDay3": "Day 3 యొక్క Part 3 పూర్తయింది",
+    "meetingRoleplay": "\"Meeting Roleplay పూర్తయింది✨\"",
+    "teamMeeting": "team meeting",
+    "restaurantRoleplayMastered": "Restaurant roleplay లో నైపుణ్యం సాధించారు!",
+    "part1OfDay4": "Day 4 లో Part 1 పూర్తయింది",
+    "weLearnt": "మేము నేర్చుకున్నాము!",
+    "again": "మళ్లీ!",
+    "sentenceStructureMastered": "Sentence Structure లో నైపుణ్యం సాధించారు!",
+    "youBelongTo": "మీరు Day 1 పూర్తి చేసిన వినియోగదారులలో టాప్ 10% లో ఉన్నారు!",
+    "youLearnt": "మీరు నేర్చుకున్నారు",
+    "youLearnedPronounciations": "మీరు Pronouns నేర్చుకున్నారు!",
+    "practicing": "2 పదాలను practice చేస్తున్నారు",
+    "day1Completed": "DAY 1 పూర్తయింది",
+    "letsReviewPronouns": "pronouns ని conversation గా review చేద్దాం",
+    "readingDone": "READING పూర్తయింది!",
+    "lets": "రండి",
+    "scoreImproved": "score 25% మెరుగుపడింది",
+    "letsRevise": "రండి revise చేద్దాం",
+    "yourLearningFrom": "roleplay నుండి మీ learning",
+    "oneLastLesson": "చివరి LESSON ఒకటి!",
+    "part2OfDay3": "Day 3 యొక్క Part 2 పూర్తయింది",
+    "restaurantRoleplayDone": "Restaurant Roleplay పూర్తయింది✨"
+  },
+  "day2McqExercise": {
+    "q1AnswerExplanation": "He\" ని వాడుతాము ఎందుకంటే Joe ఒక singular male subject, మరియు pronoun తప్పనిసరిగా gender మరియు number తో match అవ్వాలి.\"",
+    "q2AnswerExplanation": "Daenerys (ఒక female) owner కాబట్టి \"\"\"Hers\"\" సరైన జవాబు.\"",
+    "q5AnswerExplanation": "We\" అనేది ఈ వాక్యంలో verb \"\"like\"\" కు ముందు అవసరమైన సరైన subject pronoun.",
+    "q4AnswerExplanation": "\"Jon Snow తనకు దగ్గరగా ఉన్న specific sword ని సూచిస్తున్నందున, singular మరియు దగ్గరగా ఉన్న దానికి \"\"this\"\" సరైనది.\"",
+    "q3AnswerExplanation": "\"Pronoun 'herself' ఉపయోగించబడింది ఎందుకంటే వాక్యంలో subject \"\"She\"\", మరియు sandwich తయారు చేసే action ఆమెపై తిరిగి reflect అవుతుంది.\""
+  },
+  "mergedFilter": {
+    "job": {
+      "administrativeOfficialMatters": "Administrative & Official Matters",
+      "practiceSmallTalkInInterviews": "Interviews లో small talk practice చేయండి",
+      "negotiationProfessionalDiscussions": "Negotiation & Professional Discussions",
+      "talkOnDailyActivities": "రోజువారీ activities పై మాట్లాడండి",
+      "workplaceCommunicationCulture": "Workplace Communication & Culture",
+      "preparingYourselfForJobInterview": "Job interview కోసం మిమ్మల్ని సిద్ధం చేసుకోండి"
+    },
+    "ielts": {
+      "professionalLifeWorkplaceCommunication": "Professional Life & Workplace Communication",
+      "talkAboutYourPreferences": "మీ preferences గురించి మాట్లాడండి",
+      "demonstrateYourCriticalThinking": "మీ critical thinking ని ప్రదర్శించండి",
+      "expressOpinionsOnSocialLife": "సామాజిక జీవితంపై అభిప్రాయాలు వ్యక్తపరచండి",
+      "expressHowYouHandleDailyTasks": "రోజువారీ పనులను మీరు ఎలా నిర్వహిస్తారో వ్యక్తపరచండి"
+    },
+    "defaultFilter": {
+      "personalGrowthLeadership": "వ్యక్తిగత అభివృద్ధి & Leadership",
+      "casualConversations": "సాధారణ సంభాషణలు",
+      "professionalCommunication": "Professional Communication",
+      "talkOnYourPersonalInterests": "మీ వ్యక్తిగత ఆసక్తుల గురించి మాట్లాడండి",
+      "dailyTasksErrands": "రోజువారీ పనులు & Errands"
+    },
+    "business": {
+      "professionalCommunicationProjectManagement": "Professional Communication & Project Management",
+      "careerDevelopmentGrowth": "Career Development & Growth",
+      "teamCollaborationConflictResolution": "Team Collaboration & Conflict Resolution",
+      "personalTimeManagementWorkLifeBalance": "Personal Time Management & Work-Life Balance",
+      "dailyWorkplaceInteractions": "రోజువారీ workplace interactions",
+      "businessSocialSettings": "Business Social Settings"
+    }
+  },
+  "conversationFeedbacks": {
+    "userLeftMidway": {
+      "didNotKnowWhatToSay": "ఏమి చెప్పాలో తెలియలేదు",
+      "technicalIssues": "Technical issues",
+      "needMoreTimeToSpeak": "మాట్లాడటానికి మరింత సమయం కావాలి",
+      "micHeardWrongWords": "Mic తప్పుడు పదాలు వింటోంది",
+      "repetitive": "పునరావృతం"
+    },
+    "normal": {
+      "repetitive": "పునరావృతం",
+      "bugsOrTechnicalIssue": "Bugs / Technical సమస్య",
+      "chatRepetitive": "Chat పునరావృతం",
+      "poorResponsesFromSarah": "Sarah నుండి చెడు responses",
+      "chatTooBoring": "Chat చాలా బోరింగ్"
+    }
+  },
+  "chat_onboarding_v2_feature2": {
+    "moreThanTenThousandPeopleHaveBenefited": "\"ప్రతిరోజూ పది వేల మందికి మించిన వారు Stimuler app నుండి ప్రయోజనం పొందుతున్నారు. మీరు కూడా వారిలో ఒకరు అవ్వాలని నేను ఆశిస్తున్నాను. మొదలుపెట్టాలా?\"",
+    "helloIamYourSara": "నమస్తే! నేను మీ Sara! మీ English మెరుగుపరచడంలో సహాయపడతాను.",
+    "firstOfAllWhatIsYourName": "\"మొదట, మీ పేరు ఏమిటి?\"",
+    "letsImproveYourEnglishSkills": "కలిసి మీ English skills మెరుగుపరుచుకుందాం. మీరు సిద్ధంగా ఉన్నారా?"
+  },
+  "roadmap_models2": {
+    "aQuestionAppearsAnswerInRealTime": "ఒక ప్రశ్న కనిపిస్తుంది. తర్వాతి 60 సెకన్లలో, స్క్రిప్ట్ లేదా సిద్ధత లేకుండా, వెంటనే సమాధానం చెప్పండి.",
+    "aPictureAppearsSayWhatMakesSense": "ఒక చిత్రం కనిపిస్తుంది. మీకు అర్థమైనది ఏదైనా చెప్పండి.",
+    "practiceRealTimeQuestion": "ఎలాంటి script లేదా formal preparation లేకుండా real time question answers practice చేయండి",
+    "identifyTheCorrectSentence": "సరైన వాక్యాన్ని గుర్తించండి",
+    "repeatAfterMe": "నా వెంట చెప్పండి",
+    "timeForAGameSpeakAsManyWords": "\"Game time! ఇవ్వబడిన అక్షరంతో మొదలయ్యే words ఎన్ని చెప్పగలరో చూడండి! Ready to play...\"",
+    "tongueTwister": "Tongue Twister",
+    "AllOptionsMustBeDifferent": "అన్ని options వేరువేరుగా ఉండాలి",
+    "oneAndOnlyOneOptionMustBeRight": "ఒకే ఒక option మాత్రమే సరైనది ఉండాలి",
+    "youWillBeGivenAnImage": "మీకు ఒక image ఇవ్వబడుతుంది; ఒక నిమిషంలో వీలైనంత వివరంగా describe చేయండి!"
+  },
+  "customeFeedbackBottomsheet": {
+    "goodNewsYouCanNow": "Good news! మీరు ఇప్పుడు..."
+  },
+  "mcq_result2": {
+    "well_done2": "బాగా చేశారు!",
+    "your_focus_areas2": "మీ focus areas"
+  },
+  "day5_2": {
+    "version11": {
+      "q3AnswerExplanation2": "\"'Some' అనేది 'apples' వంటి plural countable nouns తో వాడే determiner. 'Any' సాధారణంగా questions లేదా negative sentences లో వాడతారు, మరియు 'much' uncountable nouns తో వాడతారు, కాబట్టి అవి ఈ context కి సరిపోవు.\"",
+      "q1AnswerExplanation3": "\"'Beautiful' అనేది 'dress' అనే noun ని describe చేసే adjective. ఇతర options, 'beautifully' (adverb) మరియు 'beauty' (noun), dress ని సరిగ్గా describe చేయవు.\"",
+      "q2AnswerExplanation": "\"Linking verb 'is' subject 'potion' ని adjective 'ready' తో connect చేస్తుంది, దాని state ని describe చేస్తుంది.\"",
+      "q5AnswerExplanation": "\"'Went' అనేది 'go' యొక్క past tense, completed action ని describe చేస్తుంది.\"",
+      "roleplayMocktest": "Roleplay Mocktest",
+      "q4AnswerExplanation4": "\"'Takes' అనేది 'take' verb యొక్క third person singular present tense లో correct form.\"",
+      "q3AnswerExplanation3": "\"'Dog' అనేది noun, barking action చేసే animal ని name చేస్తుంది. Nouns people, places, లేదా things ని identify చేస్తాయి, 'dog' ని ఈ sentence యొక్క subject గా చేస్తుంది.\"",
+      "ieltsRoleplayPracticeExercise": "IELTS Roleplay Practice Exercise",
+      "q3AnswerExplanation": "\"Auxiliary verb 'have' perfect tense form చేయడానికి సహాయపడుతుంది, homework finish చేసే action completed అని indicate చేస్తుంది.\"",
+      "fillInTheBlankResponses": "Fill in the Blank Responses",
+      "q1AnswerExplanation4": "Them' visitors ని refer చేసేటప్పుడు సరైన object pronoun.",
+      "q8AnswerExplanation": "Showed' అనేది 'show' యొక్క past tense, John market లో ఏమి చేశాడో సూచిస్తుంది.",
+      "q6AnswerExplanation": "Needed' అనేది 'need' యొక్క past tense, market కి వెళ్లడానికి కారణం సూచిస్తుంది.",
+      "q2AnswerExplanation2": "\"'Placed' అనేది 'place' యొక్క past tense, sentence లోని past action కి సరిపోతుంది. 'Placing' present participle, మరియు 'place' base form, రెండూ sentence context కి అవసరమైన past tense కి సరిపోవు.\"",
+      "after4DaysOfSpeakingLetsTakeAShortGrammarBreakHaveFun": "4 రోజుల speaking తర్వాత, చిన్న 'grammar break' తీసుకుందాం. Have fun!",
+      "q1AnswerExplanation2": "\"'But' అనేది conjunction, concert కి వెళ్లాలని అనిపించడం మరియు late work చేయాల్సి రావడం మధ్య contrast చూపిస్తుంది. 'And' contrast లేకుండా information add చేస్తుంది, మరియు 'so' cause-and-effect relationship చూపిస్తుంది, రెండూ context కి సరిపోవు.\"",
+      "q1AnswerExplanation": "Action verb 'runs' Ken bus catch చేయడానికి ఏమి చేశాడో వివరిస్తుంది.",
+      "q3AnswerExplanation4": "Staying' ఈ context లో verb 'recommend' తర్వాత సరైన gerund form.",
+      "q5AnswerExplanation4": "Several' 'festivals' వంటి countable nouns కోసం సరైన quantifier.",
+      "q5AnswerExplanation2": "\"'Has' అనేది auxiliary verb, past participle 'been' తో కలిసి present perfect tense form చేస్తుంది, past లో మొదలైన మరియు present వరకు కొనసాగే action ని సూచిస్తుంది. Subject 'She' కి singular auxiliary verb అవసరం కాబట్టి 'Have' తప్పు, మరియు 'is' ఈ context లో 'been' తో use చేయబడదు.\"",
+      "q7AnswerExplanation": "\"'Met' అనేది 'meet' యొక్క past tense, market లో జరిగిన event ని వివరిస్తుంది.\"",
+      "q2AnswerExplanation4": "\"'From' అనేది time period యొక్క starting point ని చూపించేటప్పుడు సరైన preposition.\"",
+      "q4AnswerExplanation": "\"Modal verb 'can' అనేది Buckbeak పై trust చూపిస్తే fly చేయగల ability ని సూచించడానికి ఉపయోగిస్తారు.\"",
+      "q4AnswerExplanation3": "\"'Under' అనేది cat మరియు bed మధ్య relationship ని సరిగా వివరించే preposition. ఇతర options, 'below' (ఇది మరింత spatially general) మరియు 'down' (ఇది adverb), context కి సరిగా fit కావు.\"",
+      "speakingImpromptu": "Speaking: Impromptu",
+      "q4AnswerExplanation2": "\"'Oops' అనేది mistake లేదా minor accident ని వ్యక్తపరిచే interjection, keys మర్చిపోవడం context కి fit అవుతుంది. 'Wow' surprise లేదా admiration ని వ్యక్తపరుస్తుంది, మరియు 'However' conjunction, రెండూ mistake చేయడం context కి fit కావు.\"",
+      "q2AnswerExplanation3": "\"'Extremely' అనేది adjective 'fast' ని modify చేసే adverb. ఇతర options, 'extreme' (adjective) మరియు 'extremeness' (noun), 'fast' ని సరిగా modify చేయవు.\"",
+      "q5AnswerExplanation3": "\"'They' అనేది sentence యొక్క subject గా ఉపయోగించే pronoun. ఇతర options, 'Their' (possessive pronoun) మరియు 'Them' (object pronoun), subject position కి fit కావు.\""
+    }
+  },
+  "day1_2": {
+    "version29": {
+      "task3": "Task 3",
+      "task2": "Task 2",
+      "summarizeLecture": "Lecture ని సంక్షిప్తీకరించండి",
+      "introductionSpeakingTest": "పరిచయం : Speaking Test",
+      "readTheParagraphWithProperPronunciation": "సరైన ఉచ్చారణతో paragraph చదవండి",
+      "firstExerciseForToday": "ఈ రోజు మొదటి Exercise",
+      "introduceYourself": "మిమ్మల్ని పరిచయం చేసుకోండి",
+      "youNailedYourFirstSelfIntroductionAtWorkplace": "మీరు workplace లో మీ మొదటి Self-Introduction ని అద్భుతంగా చేసారు!",
+      "selfIntroSuperstar": "Self Intro - Superstar!",
+      "andPracticed2Execises": "మరియు 2 exercises Practice చేసారు",
+      "letReadTogether": "మనం కలిసి చదవండి",
+      "letBuildYourGrammar": "మీ Grammar ని అభివృద్ధి చేసుకుందాం",
+      "practiceOnMistakes": "తప్పులపై Practice చేయండి",
+      "tongueTwister": "Tongue Twister",
+      "welcomeToPTEMockTest": "PTE Mock Test కు స్వాగతం!",
+      "continueLiteral": "Continue",
+      "howDoYouKnowPeopleHere": "మీరు ఇక్కడ వ్యక్తులను ఎలా తెలుసుకుంటారు?",
+      "task4": "Task 4",
+      "haveFunWithThisTongueTwister": "ఈ tongue-twister తో ఆనందించండి",
+      "grammar": "Grammar",
+      "speaking": "Speaking",
+      "readingExercise": "Reading Exercise",
+      "grammarDone": "Grammar పూర్తయింది!",
+      "readAloud": "Read Aloud",
+      "describeTheImage": "Image ని వర్ణించండి",
+      "introduction": "Introduction",
+      "letStartYourRoadmap": "మీ roadmap ని మొదలుపెట్టండి",
+      "ieltsPart1": "IELTS Part 1",
+      "whatIsAHobbyYouLoveDoing": "మీ free time లో మీరు ఇష్టపడే hobby ఏమిటి?",
+      "repeatAfterMe": "నా వెంట చెప్పండి",
+      "whatIsHobbyYouLoveDoing": "మీ free time లో మీరు ఇష్టపడే hobby ఏమిటి?",
+      "grammarBuilder": "Grammar builder",
+      "youLearntTo": "మీరు నేర్చుకున్నది"
+    }
+  },
+  "day2": {
+    "version14": {
+      "exercise2": {
+        "q2AnswerExplanation": "Share\" discussions లో కొత్త సమాచారాన్ని పరిచయం చేస్తుంది. \"\"Suggest\"\" కు proposal అవసరం; \"\"yell\"\" మర్యాదలేనిది; \"\"mix\"\" contextually తప్పు.\"",
+        "q5AnswerExplanation": "Suggest\" ideas ని impose చేయకుండా propose చేస్తుంది. \"\"Speak\"\" లో proposal intent లేదు; \"\"show\"\" visual presentation ని సూచిస్తుంది.\"",
+        "q4AnswerExplanation": "Sorry\" మర్యాదగా interruption ని పరిచయం చేస్తుంది. \"\"Okay\"\" others ని acknowledge చేస్తుంది; \"\"Listen\"\" departures కాకుండా కొత్త topics ని పరిచయం చేస్తుంది.\"",
+        "q3AnswerExplanation": "Could we\" మర్యాదగా, collaborative suggestions చేస్తుంది. \"\"May\"\" చాలా formal; \"\"Must\"\" suggestive కాకుండా commanding గా అనిపిస్తుంది.\"",
+        "q1AnswerExplanation": "Sorry\" conversation నుండి unexpected departure ని మర్యాదగా signal చేస్తుంది. \"\"Maybe\"\" uncertainty చూపిస్తుంది; \"\"Hello\"\" greetings కోసం మాత్రమే.\""
+      }
+    },
+    "exercise3": {
+      "q1AnswerExplanation": "I\" self-reference కోసం first-person singular pronoun.",
+      "q2AnswerExplanation": "They\" action perform చేసిన others ని refer చేయడానికి third-person plural subject pronoun.",
+      "q3AnswerExplanation": "My\" ownership చూపించే first-person possessive adjective."
+    }
+  },
+  "day10": {
+    "exercise2": {
+      "id": {
+        "q3AnswerExplanation": "Practical\" villa sensible, useful choice అని సూచిస్తుంది ఎందుకంటే ఇది advantages అందిస్తుంది (కలిసి ఉండటం మరియు costs share చేసుకోవడం).",
+        "q1AnswerExplanation": "Ideal\" అంటే ఏదైనా పరిస్థితికి పరిపూర్ణంగా సరిపోవడం - ఈ సందర్భంలో, Bali weekend beach trip కోసం పరిపూర్ణంగా ఉంది.\"",
+        "q2AnswerExplanation": "Combine\" అంటే వేర్వేరు విషయాలను కలిపి చేయడం, ప్రతిరోజూ beach మరియు cultural activities యొక్క సమతుల్య మిశ్రమాన్ని సూచిస్తుంది."
+      },
+      "q3AnswerExplanation": "Goals\" పని stress ని prioritization ద్వారా నిర్వహించడం గురించిన వాక్యాన్ని తార్కికంగా పూర్తి చేస్తుంది, ఇతర options పరిస్థితిని మరింత దిగజార్చుతాయి.",
+      "es": {
+        "q1AnswerExplanation": "Guidance\" అంటే expert సహాయం అడగడానికి వృత్తిపరమైన పదం, ఎవరైనా \"\"vacation\"\" లేదా \"\"sandwich\"\" అడగడం మీ పని సమస్యను పరిష్కరించడానికి పూర్తిగా అనుచితం మరియు సంబంధం లేనిది.",
+        "q5AnswerExplanation": "Assist\" అంటే వారికి తిరిగి సహాయం చేయడం, సానుకూల పని సంబంధాన్ని నిర్మించడం, ఎవరైనాను \"\"hypnotize\"\" లేదా \"\"sabotage\"\" చేయడం ఏ workplace context లోనైనా పూర్తిగా అనుచితం మరియు భయపెట్టేది.",
+        "q4AnswerExplanation": "Clarification\" అంటే గందరగోళ information ని బాగా అర్థం చేసుకోవాలని స్పష్టంగా అడగడం, compliance terms గురించి మీకు \"\"diamonds\"\" లేదా \"\"revenge\"\" కావాలని చెప్పడం వృత్తిపర వాతావరణంలో అసంబద్ధం మరియు పూర్తిగా అనుచితం.",
+        "q2AnswerExplanation": "Favor\" అంటే మీరు సహాయం అడుగుతున్నారని మర్యాదగా అంగీకరించడం, ఎవరైనా మీ \"\"laundry\"\" చేయమని లేదా \"\"tattoo\"\" ఇవ్వమని అడగడం workplace assistance కి పూర్తిగా అనుచితం మరియు సంబంధం లేనిది.",
+        "q3AnswerExplanation": "Resources\" అంటే specs అర్థం చేసుకోవడానికి మీరు ఉపయోగించగల సహాయకరమైన materials లేదా information, \"\"jokes\"\" అడగడం ఈ context లో వృత్తిపరం కాదు, client meeting కోసం సిద్ధమవుతున్నప్పుడు \"\"enemies\"\" గురించి అడగడం అర్థం లేదు."
+      },
+      "ielts": {
+        "q2AnswerExplanation": "Will\" ఈ వాస్తవిక context లో భవిష్యత్ పరిణామాన్ని వ్యక్తపరచడానికి సరైన modal verb",
+        "q3AnswerExplanation": "Have started\" గతంలో మొదలైన మరియు కొనసాగుతున్న లేదా ప్రస్తుత ప్రాధాన్యత కలిగిన actions కోసం సరైన present perfect form",
+        "q1AnswerExplanation": "Being cleared\" అనేది ongoing process ని వర్ణించడానికి సరైన passive continuous form\""
+      },
+      "q1AnswerExplanation": "Break\" మాత్రమే overwhelmed అయిన వ్యక్తికి సహాయపడే logical option, మిగిలిన options పరిస్థితిని మరింత దిగజార్చుతాయి",
+      "q2AnswerExplanation": "Thoughtful\" మాత్రమే team కి సహాయం చేయడానికి initiative తీసుకున్న వ్యక్తికి positive మరియు appropriate response, మిగిలిన options negative మరియు inappropriate"
+    },
+    "exercise3": {
+      "es": {
+        "q3AnswerExplanation": "Clarification\" contradictory information గురించిన confusion ని directly address చేస్తుంది. \"\"\"Guidance\"\" తదుపరి ఏమి చేయాలో advice కోసం ఉంటుంది, confusion fix చేయడానికి కాదు. \"\"\"Assistance\"\" అంటే మీకు task complete చేయడంలో help కావాలని అర్థం, కానీ మీ issue మొదట information అర్థం చేసుకోవడం",
+        "q1AnswerExplanation": "Guidance\" మీ skills improve చేయడానికి expert direction కోరుతున్నప్పుడు perfect. \"\"\"Favor\"\" outside help request చేయడానికి, learning కోసం కాదు. \"\"\"Clarification\"\" confusion explain చేస్తుంది మాత్రమే, మీకు కావాల్సిన expertise ఇవ్వదు",
+        "q4AnswerExplanation": "Assistance\" అంటే specific ongoing task తో direct, hands-on help. \"\"\"Clarification\"\" confusion points explain చేస్తుంది మాత్రమే, ongoing support ఇవ్వదు. \"\"\"Resources\"\" self-learning కోసం materials ఇస్తుంది, వారు అడుగుతున్న personal review కాదు",
+        "q2AnswerExplanation": "Favor\" ఎవరైనా regular duties వెలుపల quick, urgent help కోసం సరైనది. \"\"\"Resources\"\" అంటే మీరే fix చేసుకోవడానికి materials, ఈ emergency కోసం చాలా slow. \"\"\"Assistance\"\" formal support request ని సూచిస్తుంది, ఈ quick hallway interaction కాదు",
+        "q5AnswerExplanation": "Resources\" అంటే people independently learn చేయడంలో సహాయపడే materials. \"\"\"Clarification\"\" specific questions address చేస్తుంది మాత్రమే, comprehensive training ఇవ్వదు. \"\"\"Guidance\"\" personal direction ని సూచిస్తుంది, self-service learning materials కాదు"
+      }
+    }
+  },
+  "firebase_service": {
+    "enterThePassword": "Password enter చేయండి",
+    "password": "Password",
+    "emailAddress": "Email Address",
+    "confirm": "Confirm"
+  },
+  "withinConversation": {
+    "bugsOrTechnicalIssues": "Bugs లేదా Technical issues",
+    "iDidntKnowWhatToSpeak": "ఏమి మాట్లాడాలో తెలియలేదు",
+    "sarahsMessageWasBoring": "Sarah యొక్క message boring గా అనిపించింది",
+    "exploringOrFindingADifferentTopic": "వేరే topic explore చేయడం"
+  },
+  "roadmapTab": {
+    "premiumLessons": "Premium Lessons",
+    "suggestionsTitle": "మరిన్ని Mock Tests & Lessons",
+    "hey": "నమస్తే",
+    "suggestionsCta": "Recommendations ఉన్నాయా?",
+    "startYourLearningJourney": "మీ learning journey ని ప్రారంభించండి",
+    "start": "Start",
+    "comingSoon": "Coming Soon"
+  },
+  "pick_a_word_to_practice_screen": {
+    "toMakeSomethingBetterValuableGoodWay": "ఏదైనా మెరుగుపరచడానికి లేదా మరింత విలువైనదిగా మార్చడానికి మంచి మార్గం"
+  },
+  "roadmapIntermediateStates2": {
+    "continueLiteral2": "Continue"
+  },
+  "day8": {
+    "exercise2": {
+      "q2AnswerExplanation": "Is\" ఒక linking verb ఎందుకంటే ఇది subject \"\"Upside Down\"\" ని description \"\"a dark and dangerous dimension\"\" తో కలుపుతుంది. Linking verbs action చూపించవు కానీ subjects ని descriptions తో కలుపుతాయి.\"",
+      "q5AnswerExplanation": "Can\" ఒక helping verb ఇది Tony యొక్క ability ని చూపుతుంది. \"\"Can,\"\" \"\"will,\"\" మరియు \"\"should\"\" వంటి helping verbs main verbs ని modify చేసి ability, necessity లేదా future actions ని express చేస్తాయి.\"",
+      "q4AnswerExplanation": "Plays\" ఒక action verb ఇది Jim ఏమి చేస్తాడో చూపుతుంది. Action verbs work లేదా daily life లో activities మరియు behaviors ని describe చేయడానికి అవసరం.\"",
+      "q3AnswerExplanation": "Can\" ఒక helping verb ఇది ability ని చూపుతుంది. ఇది main verb \"\"defeat\"\" తో కలిసి Harry కి Voldemort ని overcome చేసే ability ఉందని చూపుతుంది. Helping verbs possibility, necessity లేదా time గురించి అర్థం జోడిస్తాయి.\"",
+      "q1AnswerExplanation": "Throws\" ఒక action verb ఎందుకంటే ఇది Thor చేసే physical action ని చూపుతుంది. Action verbs ఎవరైనా ఏమి చేస్తారో express చేస్తాయి, అది physical లేదా mental అయినా."
+    }
+  },
+  "feedback_recorders": {
+    "iWantTo": "నేను ..... కోరుకుంటున్నాను"
+  },
+  "roadmapReport": {
+    "sendLogs": "డయాగ్నస్టిక్ లాగ్‌లను పంపండి",
+    "sendLogsDetail": "ఇవి మీ యాప్ వినియోగ లాగ్‌లు. మీరు నివేదిస్తున్న సమస్యను పరిష్కరించడంలో ఇవి మాకు సహాయపడతాయి."
+  },
+  "indiaOnboarding": {
+    "whetherYouAreJustStarting": "మీరు ఇప్పుడే English ప్రారంభించినా లేదా ఇప్పటికే English తో సౌకర్యంగా ఉన్నా, మనము ఈ learning journey ని కలిసి చేద్దాము - మీ స్వంత వేగంతో.",
+    "whatShouldICallYou": "మిమ్మల్ని ఏమని పిలవాలి?",
+    "thatsImpressiveMentoredJob": "అది impressive! నేను million కు మించిన వ్యక్తులకు వారి dream job దొరకడంలో సహాయపడ్డాను, వారి interviews లో excel చేయడంలో సహాయం చేయడం ద్వారా",
+    "thatsImpressiveMentoredSocializing": "Great! Manam fun ga engaging ga matladukundam. Idi daily communication lo mimmalni master chestundi",
+    "thatsImpressiveMentoredSubPurpose": "Adi impressive! Nenu oka million ku minchina working professionals laku vaaritho real-world conversations practice cheyinchadam dwaara vaari career ni merugu parachadamlo mentor ga sahaayam chesanu",
+    "canIknowYourName": "నేను చాలా excited గా ఉన్నాను, మీ పేరు తెలుసుకోవచ్చా?",
+    "letsGetToKnowEachOther": "మనం ఒకరినొకరు తెలుసుకుందాం!",
+    "whatsYourNativeLanguage": "మీ native language ఏమిటి?",
+    "gotItWillUseTheLanguageToExplainEnglish": "అర్థమైంది! మేము app లో English explain చేయడానికి మీ language ని use చేస్తాము",
+    "youWillLearnEnglishThrough": "Meeru Telugu dwara English nerchukuntaru.",
+    "awesomeCanIKnowYourName": "అద్భుతం! మీ పేరు ఏమిటి?",
+    "selectYourLanguagePreferance": "దయచేసి మీ భాష preference ని ఎంచుకోండి",
+    "hiIAmPersonalEnglishSpeakingPartner": "హాయ్! నేను మీ Personal English Speaking Partner ని",
+    "callMeSarahWhatsYourName": "Meeru nannu Sarah ani pilavachchu. Mee peru enti?",
+    "thatsVeryCoolName": "Chala cool peru! Manam kalisi English practice chesi chala enjoy cheddam!",
+    "toEnsureYouGetLatestLessons": "Meeku latest lessons mariyu personalised tips andali ante, nenu mee phone number teesukovacha?",
+    "niceToMeetYouGetLatestLessons": "మిమ్మల్ని కలవడం సంతోషంగా ఉంది! మీకు latest lessons అందేలా, మీ phone number ఇవ్వగలరా?",
+    "whichAgeGroupAreYouIn": "Meeru ae age group lo unnaru?",
+    "ageGroup": {
+      "under18": "18 kante takkuva",
+      "age18to24": "18-24",
+      "age25to34": "25-34",
+      "age35to44": "35-44",
+      "age45plus": "45+"
+    },
+    "whatIsYourGender": "Mee gender emiti?",
+    "gender": {
+      "male": "Male",
+      "female": "Female",
+      "nonBinary": "Non-Binary"
+    },
+    "dailyPracticeHelpsAchieveGoals": "రోజూ practice చేయడం మీ goals ని త్వరగా achieve చేయడానికి సహాయపడుతుంది",
+    "whatBestDescribesYourSituation": "Mee current situation ni edi baaga describe chestundi?",
+    "imGladWeMetWhatsYourGoal": "మిమ్మల్ని కలిసినందుకు సంతోషం. English నేర్చుకోవడానికి మీ main goal ఏమిటి?",
+    "mainGoal": {
+      "ielts": "English exam కి సిద్ధం కావడం",
+      "growInMyCareer": "నా career లో ఎదగడం",
+      "personalGrowth": "వ్యక్తిగత అభివృద్ధి",
+      "travelConfidently": "ఆత్మవిశ్వాసంతో ప్రయాణం",
+      "excelAtMySchool": "పాఠశాలలో రాణించడం",
+      "other": "ఇతర"
+    },
+    "typeYourGoalHint": "మీ goal ఇక్కడ type చేయండి",
+    "typeYourExamHint": "మీ exam ఇక్కడ type చేయండి",
+    "examType": {
+      "ielts": "IELTS",
+      "toefl": "TOEFL",
+      "pte": "PTE",
+      "toeic": "TOEIC",
+      "other": "ఇతరాలు"
+    },
+    "ieltsModule": {
+      "academic": "Academic",
+      "general": "General",
+      "notSure": "నాకు ఖచ్చితంగా తెలియదు"
+    },
+    "examTime": {
+      "thisMonth": "నేను ఈ నెలలో IELTS రాస్తాను",
+      "nextMonth": "నేను వచ్చే నెలలో IELTS రాస్తాను",
+      "moreThanTwo": "సిద్ధం కావడానికి నాకు రెండు నెలలకు మించి సమయం ఉంది",
+      "after": "{month} తర్వాత"
+    },
+    "moveTheSliderToPickYourScore": "మీ score ఎంచుకోవడానికి slider ను జరపండి",
+    "bandScore": "Band Score",
+    "skill": {
+      "reading": "Reading",
+      "writing": "Writing",
+      "speaking": "Speaking",
+      "listening": "Listening"
+    },
+    "journeyGraph": {
+      "yourJourney": "మీ ప్రయాణం",
+      "toAceIeltsStarts": "IELTS లో రాణించడానికి మొదలవుతుంది",
+      "curatingContent": "Content సిద్ధం చేస్తున్నాం",
+      "forYourIeltsJourney": "మీ IELTS ప్రయాణం కోసం",
+      "aPlanForYouToReach": "మీరు చేరుకోవడానికి ఒక plan",
+      "yourGoal4xFaster": "మీ goal ను 4x వేగంగా",
+      "planForYou": "మీ కోసం PLAN",
+      "practice20MinsPerDay": "రోజుకు 20 నిమిషాలు practice",
+      "oneMockTestPerDay": "రోజుకు ఒక Mock Test",
+      "ieltsConversationPerDay": "రోజుకు IELTS Conversation",
+      "weeklyReviews": "వారానికోసారి Reviews",
+      "youTookThe": "మీరు వేశారు",
+      "firstStep": "మొదటి అడుగు",
+      "inOneMonth": "1 నెలలో",
+      "inTwoMonths": "2 నెలల్లో",
+      "inMoreThanTwoMonths": "2+ నెలల్లో"
+    },
+    "hintPlayback": {
+      "youDidGreatFirstStep": "మీ మొదటి అడుగులో మీరు అద్భుతంగా చేశారు!",
+      "improvePronunciation": "Pronunciation మెరుగుపరుద్దాం"
+    },
+    "currentSituation": {
+      "student": "Vidyarthi",
+      "workingProfessional": "Udyogi",
+      "freelancer": "Freelancer",
+      "businessOwner": "Vyaapaara yajamaani",
+      "homeMaker": "Gruhini",
+      "careerBreak": "Career viraamamlo",
+      "lookingForWork": "Udyoga anveshanalo"
+    },
+    "amazingWhereDidHearAboutStimuler": "Thank you! Meeru maa gurinchi ekkada vinnaru?",
+    "noProblemWhereDidYouHearAboutUs": "Parledu! Meeru maa gurinchi ekkada vinnaru?",
+    "iAmGladWeMet": "Manam kalisinanduku chala santhosham!",
+    "enterReferralCode": "మీ దగ్గర ఉన్న referral code ని enter చేయండి",
+    "letsCreateAPlanForJustYou": "Mee kosam oka plan cheddam, deenitho mee goals ni fast ga achieve cheyochu! Cheppandi, meeru English enduku nerchukuntunnaru?",
+    "thatsImpressiveMentoredIels": "Impressive! Nenu prapamcha vyaptanga 10 lakhala paina candidates ki vaari dream band score saadhinchadamlo guide chesanu",
+    "whatTypeOfSituationsDoYouWant": "Meeru elaanti paristhithullo manchiga undaalanukuntunnaru?",
+    "thatsImpressiveMentoredTravel": "Awesome! Business trip ayina, abroad lo pani ayina, anni situations manam cover cheddam.",
+    "thatsImpressiveMentoredEducation": "Ok! Meeku telusa, nenu 10 lakhala paina mandiki fluent ga confident ga English matladatam nerpinchanu",
+    "greatMentoredOthers": "Impressive! Nenu 10 lakhala paina mandiki fluent ga confident ga English matladatam nerpinchanu",
+    "thatsImpressiveMentoredBusiness": "Impressive! Nenu 10 lakhala paina working professionals ki real-world conversations practice chesi career improve cheyadamlo help chesanu",
+    "lookWhatLearnersHaveToSay": "Maa successful learners emi antunnaro chudandi:",
+    "thesePeoplePracticedDaily": "Veellu daily practice chesi great progress saadhincharu, nenu vaarini track lo unchanu!",
+    "iWillRemindYouToo": "Nenu meeku kuda remind chestanu, practice miss avvakudadu. Mee notifications on cheyandi.",
+    "thanksForThatTogether": "Thanks! Manam English ni roju alavaatu ga cheddam",
+    "noIssuesIWill": "Parledu! Nenu tarvata eppudaina adugutanu.",
+    "awesomeThousandsOfEnglishLearners": "Awesome! వేలాది మంది English learners నా దగ్గర beginners గా journey ప్రారంభించి, నేను వారిని fluent English speakers గా మార్చాను.",
+    "whatIsCurrentEnglishLevel": "Mee prastuta English level enti antaru?",
+    "reviewSarahFeedbackOnVocab": "Vocab పై Sara ఫీడ్‌బ్యాక్‌లు అద్భుతం… నా 8.0 band score కు నేను Stimulerకు రుణపడి ఉన్నాను.",
+    "reviewSarahFeedbackOnVocabIELTS": "Vocab పై Sara ఫీడ్‌బ్యాక్‌లు అద్భుతం… నా 8.0 band score కు నేను Stimulerకు రుణపడి ఉన్నాను.",
+    "reviewCommunityActive": "Stimuler PRO community members ఎల్లప్పుడూ active గా ఉండి నన్ను motivated గా ఉంచుతారు",
+    "reviewSpendingTwentyMinutes": "రోజూ Sarah తో 20 నిమిషాలు గడపడం వల్ల నా fluency బాగా మెరుగుపడింది",
+    "reviewBoostedMyConfidenceIELTS": "Sarah తో chat చేయడం వల్ల నా English మెరుగుపడింది మరియు నా IELTS test కోసం confidence పెరిగింది",
+    "reviewBoostedMyConfidence": "Sarah తో chat చేయడం వల్ల నా English మెరుగుపడింది మరియు test కోసం నా confidence పెరిగింది",
+    "reviewBoostedConfidenceOffice": "Sarah తో chat చేయడం వల్ల నా English మెరుగుపడింది మరియు office లో నా confidence పెరిగింది",
+    "reviewAppIsAGoldenEgg": "ఈ app ఒక golden egg. ఇది మీరు మెరుగ్గా మాట్లాడటానికి సహాయపడుతుంది. అద్భుతం, 10/5 ఇస్తాను",
+    "reviewAppIsAGoldenEggIELTS": "ఈ app IELTS కోసం ఒక golden egg. ఇది మీరు మెరుగ్గా మాట్లాడటానికి సహాయపడుతుంది. అద్భుతం, 10/5 ఇస్తాను",
+    "perfectEvenWithJustAFewWords": "Perfect! Konni words tho kuda meeru start cheyadaniki ready. Nenu mimmalni step by step confident conversations varaku teesukellutanu",
+    "awesomeAlreadyHalfwayThere": "Awesome! Meeru already sagam dooram vachcharu. Naatho konchem practice, meeru adbhutalu chestaru!",
+    "awesomeSkysTheLimit": "Awesome! Meeku sky ye limit. Manam tough challenges teesukuni kotha heights ki veldam.",
+    "almostDoneAnswerAQuestionBeginner": "Almost aipoyindi! Chivari step ga, kinda unna passage chadivi vinipinchandi",
+    "almostDoneAnswerAQuestion": "Almost aipoyindi! Chivari step ga, naaku oka question ki samadhanam cheppandi",
+    "dontKnowWhatToSpeak": "Emi matladalo teliyada? Parledu, kinda hint chadavandi!",
+    "didNotSpeakAlot": "Meeru ekkuva matladaledu anipistundi",
+    "letsTrySomethingElse": "Inkedaina try cheddam, sare naa?",
+    "greatReasonExperienceBestAiApp": "Chala baagundi! Ippudu Google Best AI App 2023 award maaku enduku vachchindo experience cheyalsina time!",
+    "reasonExperienceBestAiApp": "Ippudu Google Best AI App 2023 award maaku enduku vachchindo experience cheyalsina time!",
+    "tapOnButtonBelow": "మీ mispronunciations, awkward pauses మరియు మా వైపు నుండి ఇతర suggestions చూడటానికి క్రింది button పైన tap చేయండి",
+    "curiousHowWellYou": "Meeru enta baaga matladaro telusukovala? Mee performance chudataniki tap cheyandi!",
+    "purpose": {
+      "ielts": "IELTS",
+      "talkToColleaguesClients": "Colleagues/clients తో మాట్లాడటం",
+      "clearJobInterview": "Job interview clear చేయడం",
+      "everydayConvo": "Daily matladadaniki",
+      "excelAtSchool": "School lo munduku vellataniki",
+      "travel": "Travel",
+      "anyOtherGoal": "Inkoka goal",
+      "improveMyCareer": "Career improve cheyadaniki"
+    },
+    "workplaceSubPurpose": {
+      "jobInterview": "Job Interview",
+      "teamMeeting": "Team Meetings",
+      "presentations": "Presentations",
+      "networking": "Networking",
+      "smallTalk": "Colleagues tho chinna sambhaashana"
+    },
+    "HowDidUserHearAboutApp": {
+      "tiktok": "Tiktok",
+      "instagram": "Instagram Reel",
+      "googleAds": "Google Ads",
+      "friend": "Friends",
+      "facebook": "Facebook",
+      "youtube": "YouTube",
+      "haveAReferralCode": "Referral Code ఉందా?",
+      "other": {
+        "playStore": "Play Store లో ఇప్పుడే search చేశాను",
+        "appStore": "App Store లో ఇప్పుడే search చేశాను"
+      },
+      "twitterX": "Twitter/X"
+    },
+    "levelDescription": {
+      "beginner": "Naaku konni words telusu, kaani sentences cheyalenu.",
+      "intermediate": "Simple vishayaala meeda chinna sentences cheyagalanu.",
+      "advance": "Chinna conversations cheyagalanu, itharulu cheppedi ardham chesukogalanu."
+    },
+    "itsOkayWeWillTryThisLater": "Parvaledu, deenni tarvata try cheddam",
+    "readItOutLoud": "Deenini gattiga chadavandi:",
+    "selectAnOption": "Oka option enchukondi",
+    "toast": {
+      "wellDone": "Bhale !",
+      "youFinishedYourFirstPhrase": "Meeru mee modati English phrase chadivesaru",
+      "noWorriesWeNotedIt": "Parvaledu, memu note chesukunnam !",
+      "weWillPracticeTheseLater": "Ilanti phrases tarvata practice cheddam, munduku vellam"
+    },
+    "label": {
+      "great": "Bhale!",
+      "coolName": "Emi peru!",
+      "letsCreateAPlan": "Mee kosam plan cheddam!",
+      "letsGetToKnowYou": "Mimmalni telusukundam!",
+      "ontoTheLastStep": "Chivari step matrame",
+      "impressive": "“$goal” - Impressive!"
+    },
+    "speechMeter": {
+      "yourSpeechLevel": "Mee<br>speech<br>level",
+      "hereIsWhereYouStand": "Meeru ela chadivaro nenu vinnanu. Meeru ippudu ikkada unnaru.",
+      "youPlacedYourselfAt": "Meeru mimmalni $level lo pettukunnaru. Pressure lo daani kanna koncham kindaki vachcharu. Aa gap ye motham game.",
+      "andThisIsWhereWeAreTakingYou": "Mariyu manam ikkadaki veltunnam. $target, raboye 8 nelallo.",
+      "letsTakeYouTo": "Mimmalni<br>teesukeldam<br><em>$target</em> varaku"
+    },
+    "pronunciation": {
+      "firstLetsFixYourPronunciation": "Mundu mee<br><em>pronunciation</em> sari cheddam.",
+      "twoWordsNeedWork": "Mee reading lo rendu words meeda pani cheyali.",
+      "readTheWordOutLoud": "Word ni <b>gattiga chadavandi</b>",
+      "letsPracticeThisWord": "Ee word ni practice cheddam",
+      "speakTheWordClearly": "Word ni clear ga cheppandi…",
+      "thatSoundedClear": "Nice. Chala clear ga vinipinchindi.",
+      "speakOutTheWord": "Ee word cheppandi: ",
+      "letsImproveSoundPronunciation": "<sound>'$sound'</sound> pronunciation ni improve cheddam",
+      "letsTryThisSentence": "Ee sentence ni try cheddam",
+      "readTheSentenceOutLoud": "Sentence ni gattiga chadavandi",
+      "tryToReadTheEntireSentence": "Mottham sentence chadavadaniki try cheyandi",
+      "wellDoneYouSoundedLikeANative": "Bhale 🎉 Meeru native laga matladaru!",
+      "youLearntToPronounceTheWords": "$words words pronounce cheyadam nerchukunnaru",
+      "youLearntToPronounceTheSounds": "$sounds sounds pronounce cheyadam nerchukunnaru",
+      "andTheSound": "mariyu '$sound'",
+      "firstStepRich": "✅ English nerchukovadaniki <highlight>modati adugu</highlight> vesaru !"
+    },
+    "offer": {
+      "youveUnlockedAnOffer": "MEERU OKA<br>OFFER<br>UNLOCK CHESARU",
+      "welcomeOffer": "WELCOME OFFER",
+      "limitedTimeOffer": "Limited Time<br>ee roju <em>50%</em> offer",
+      "whatIndianUsersSay": "30 Lakh+ Indian users emi antunnaro!",
+      "oneTimeWelcomeOffer": "ONE TIME WELCOME 50% OFFER",
+      "perMonthPaidForAWholeYear": "Nelaki $price matrame, samvatsaram antha"
+    },
+    "testimonialQuotes": [
+      "Every week I could see my mistakes going down little by little.",
+      "The real and instant feedback made all the difference for me.",
+      "I just rehearse the real format, not just something generalised.",
+      "Leveling up your words does level up your confidence.",
+      "Daily habit beats hesitation every time.",
+      "It really helps you find your voice.",
+      "Nobody's listening or judging when I talk to it.",
+      "So honestly, consistent practice does change everything.",
+      "Now I'm usually the one starting the conversation."
+    ],
+    "paywallTitle": {
+      "ielts": "<em>IELTS crack cheyandi</em><br>English practice tho",
+      "improveMyCareer": "<em>Career penchukondi</em><br>English practice tho",
+      "everydayConvo": "<em>Fluent ga matladandi</em><br>full confidence tho",
+      "travel": "<em>Prapamcham chudandi</em><br>English practice tho",
+      "excelAtSchool": "<em>School lo munduku vellandi</em><br>English practice tho",
+      "anyOtherGoal": "<em>Mee goals cherukondi</em><br>English practice tho"
+    }
+  },
+  "errors": {
+    "title": "ఏదో తప్పు జరిగింది",
+    "generic": "ఏదో అడ్డంకి వచ్చింది. దయచేసి మళ్ళీ try చేయండి.",
+    "network": "Server కి connect కాలేకపోయాం. మీ internet connection check చేసి మళ్ళీ try చేయండి.",
+    "serviceUnavailable": "మా servers లో ప్రస్తుతం చిన్న సమస్య ఉంది. కాసేపటి తర్వాత మళ్ళీ try చేయండి.",
+    "outdatedApp": "ఈ screen load అవ్వడానికి update అవసరం. దయచేసి app ని update చేయండి.",
+    "retry": "Retry చేయండి",
+    "goBack": "వెనక్కి వెళ్ళండి",
+    "openSettings": "Settings తెరవండి",
+    "micPermission": "దయచేసి microphone permission enable చేయండి",
+    "goalSavePending": "మీ goal ఇంకా save అవుతోంది. మీరు మళ్ళీ online కి రాగానే అది update అవుతుంది."
+  },
+  "conversationV4": {
+    "ui": {
+      "exitTitle": "మీరు ఖచ్చితంగా ఈ session ని\nend చేయాలనుకుంటున్నారా?",
+      "endSession": "Session End చేయండి",
+      "exhaustedTitle": "మీ free attempts అన్నీ అయిపోయాయి",
+      "exhaustedSubtitle": "Unlimited conversations కోసం Pro కి upgrade చేయండి",
+      "upgradeToPro": "Pro కి Upgrade చేయండి",
+      "introLockedTitle": "Introduction తర్వాత తదుపరి conversation topics unlock అవుతాయి",
+      "gotIt": "అర్థమైంది",
+      "startIntroduction": "Introduction మొదలుపెట్టండి",
+      "noConversationsYet": "ఇంకా ఏ conversations లేవు",
+      "loadingOlderConversations": "పాత conversations load అవుతున్నాయి…",
+      "translationFailed": "Translation కాలేదు. దయచేసి మళ్ళీ try చేయండి.",
+      "analyzingResponse": "మీ response ని analyse చేస్తున్నాం…",
+      "analysisLoadFailed": "Analysis load కాలేదు. దయచేసి మళ్ళీ try చేయండి.",
+      "analysisUnscoredTitle": "దీన్ని మేము analyse చేయలేకపోయాం",
+      "reasonForError": "Error కి కారణం",
+      "tabGrammar": "Grammar",
+      "tabPronunciation": "Pronunciation",
+      "tabVocabulary": "Vocabulary",
+      "tabFluency": "Fluency",
+      "hintLoadFailed": "Hint load కాలేదు. Retry పై tap చేయండి.",
+      "viewMistakes": "Mistakes చూడండి",
+      "viewResultsAndEnd": "Results చూసి End చేయండి",
+      "translateNeedsNativeLanguage": "Translations పొందడానికి Settings లో English కాకుండా వేరే native language ఎంచుకోండి."
+    },
+    "failure": {
+      "sessionExpired": "మీ session expire అయింది. దయచేసి మళ్ళీ sign in చేయండి.",
+      "purchaseFailed": "ఈ purchase ని మేము పూర్తి చేయలేకపోయాం. మీ నుండి ఎలాంటి charge తీసుకోలేదు — దయచేసి మళ్ళీ try చేయండి.",
+      "fatalTitle": "Conversation ముగిసింది",
+      "fatal": "Conversation అనుకోకుండా ముగిసింది. దయచేసి మళ్ళీ try చేయండి.",
+      "topicsTitle": "Topics load కాలేదు",
+      "historyTitle": "మీ conversations load కాలేదు",
+      "chatTitle": "ఈ conversation load కాలేదు",
+      "resultPrep": "మీ result ని మేము సిద్ధం చేయలేకపోయాం.",
+      "asrFailed": "మీరు చెప్పింది నాకు స్పష్టంగా వినపడలేదు.",
+      "analysisFailed": "నేను దాన్ని analyse చేయలేకపోయాను — మళ్ళీ try చేద్దాం.",
+      "ttsFailed": "Audio play కాలేదు.",
+      "errorCodeLabel": "Error code",
+      "tryAgain": "మళ్ళీ try చేయండి",
+      "backHome": "Home కి తిరిగి వెళ్ళండి",
+      "close": "Close చేయండి",
+      "replay": "మళ్ళీ వినడానికి tap చేయండి",
+      "tapToRetry": "Retry చేయడానికి tap చేయండి"
+    },
+    "connection": {
+      "initiating": "Conversation ప్రారంభమవుతోంది…",
+      "connecting": "Connect అవుతోంది…",
+      "reconnecting": "మళ్ళీ connect అవుతోంది…",
+      "disconnected": "Disconnected",
+      "error": "Connection error",
+      "retry": "Retry చేయండి"
+    },
+    "drill": {
+      "listening": "వింటున్నాం…",
+      "scoring": "మీ pronunciation ని score చేస్తున్నాం…",
+      "needsPractice": "Practice అవసరం!",
+      "wellDone": "చాలా బాగుంది 👏",
+      "listen": "వినండి…",
+      "getReady": "సిద్ధంగా ఉండండి…",
+      "learntToPronounce": "మీరు “$word” pronunciation నేర్చుకున్నారు."
+    },
+    "topics": {
+      "loadMoreFailed": "మరిన్ని topics load కాలేదు. మీ connection check చేయండి.",
+      "refreshFailed": "మీ topics refresh కాలేదు — పాత data చూపిస్తున్నాం.",
+      "pickATopic": "ఒక topic ఎంచుకుని మాట్లాడటం మొదలుపెట్టండి!"
+    },
+    "chat": {
+      "translateThisLine": "ఈ line ని translate చేయండి",
+      "closeConversation": "Conversation మూసివేయండి",
+      "challengesStars": "Challenges: $total లో $stars stars",
+      "allChallengesCompleted": "అన్ని Challenges పూర్తయ్యాయి!",
+      "youGotThis": "మీరు చేయగలరు",
+      "oneChallengeToGo": "! ఇంకా 1 challenge మాత్రమే",
+      "challengesToGo": "! ఇంకా $count challenges మాత్రమే",
+      "starEarned": "మీకు ఒక star వచ్చింది!",
+      "perfectResponse": "Perfect response",
+      "continueLabel": "కొనసాగించండి",
+      "selectAtLeast": "కనీసం $count ఎంచుకోండి",
+      "removeCount": "$count తీసివేయండి",
+      "conversationMode": "Conversation Mode",
+      "practiceMode": "Practice Mode",
+      "discardRecording": "Recording తీసివేయండి",
+      "submitRecording": "Recording పంపండి"
+    },
+    "hint": {
+      "tapToSeeHint": "Hint చూడటానికి tap చేయండి",
+      "youCanSpeakLikeThis": "మీరు ఇలా మాట్లాడవచ్చు",
+      "gettingHint": "Hint తెస్తున్నాం…"
+    },
+    "translation": {
+      "sarahResponseEnglish": "Sarah ఇచ్చిన response ( English )",
+      "translating": "Translate అవుతోంది",
+      "translated": "Translate అయింది",
+      "translatingIn": "$language లోకి translate అవుతోంది",
+      "translatedIn": "$language లోకి translate అయింది"
+    },
+    "mistakes": {
+      "noGrammarNotes": "ఈసారి grammar notes లేవు.",
+      "noPronunciationNotes": "ఈసారి pronunciation notes లేవు.",
+      "noVocabularyNotes": "ఈసారి vocabulary notes లేవు.",
+      "noFluencyNotes": "ఈసారి fluency notes లేవు.",
+      "recordingExpired": "ఆ recording play కాలేదు. అది expire అయి ఉండవచ్చు.",
+      "pronunciationPlayFailed": "Pronunciation play కాలేదు. దయచేసి మళ్ళీ try చేయండి.",
+      "topMispronouncedWords": "ఎక్కువగా తప్పుగా పలికిన words",
+      "betterVocabulary": "మెరుగైన Vocabulary suggestions",
+      "improvedVersion": "మీ మాటల మెరుగైన Version:",
+      "lockedGrammarHeadline": "Natural గా వినిపించే\ngrammar ని practice చేయండి",
+      "lockedGrammarSubtitle": "ప్రతి message తర్వాత\npersonalised feedback పొందండి.",
+      "lockedPronunciationHeadline": "మరింత natural గా\nమాట్లాడండి.",
+      "lockedPronunciationSubtitle": "ప్రతి message తర్వాత\nమీ pronunciation మెరుగుపరచుకోండి.",
+      "lockedVocabularyHeadline": "ఎక్కువ చెప్పండి.\nమెరుగ్గా చెప్పండి.",
+      "lockedVocabularySubtitle": "ప్రతి conversation తో\nమీ vocabulary పెంచుకోండి.",
+      "lockedFluencyHeadline": "సరిచేయండి. Practice చేయండి.\nగుర్తుంచుకోండి.",
+      "lockedFluencySubtitle": "మీ కోసం తయారైన feedback\nతో practice చేయండి."
+    },
+    "paywall": {
+      "unlock": "Unlock చేయండి",
+      "atPercentOff": "@ $discount% OFF",
+      "percentOff": "$discount% off",
+      "onPremiumPass": "Premium pass పై"
+    }
+  },
+  "analysis": {
+    "recordedBeforePro": "మీరు upgrade చేయక ముందు ఈ speech record అయింది, అందుకే దీనికి feedback లేదు. ఇప్పటి నుండి మీరు record చేసే ప్రతి కొత్త speech కి పూర్తి feedback వస్తుంది."
+  },
+  "buddyStreak": {
+    "startTitle": "Buddy streak మొదలుపెట్టండి",
+    "startBody": "ఒకరినొకరు motivate చేసుకుంటూ కలిసి పెద్ద streaks చేయండి",
+    "inviteCta": "Buddy ని invite చేయండి",
+    "maybeLater": "తర్వాత",
+    "yourCode": "మీ BUDDY CODE",
+    "codeCopied": "Code copy అయింది",
+    "shareCta": "Invite link share చేయండి",
+    "shareMessage": "Stimuler లో కలిసి streak కొనసాగిద్దాం. నా buddy అవ్వడానికి tap చేయండి: $link",
+    "or": "లేదా",
+    "haveCode": "నా దగ్గర code ఉంది",
+    "codeMissingTitle": "మీ code load కాలేదు",
+    "codeMissingBody": "మీ internet connection check చేసి మళ్ళీ try చేయండి.",
+    "retry": "మళ్ళీ try చేయండి",
+    "enterTitle": "Code ఎంటర్ చేయండి",
+    "enterBody": "మీ friend screen పై కనిపిస్తున్న code ఎంటర్ చేయండి",
+    "join": "Join చేయండి",
+    "paste": "Clipboard నుండి paste చేయండి",
+    "pairedTitle": "$name మరియు మీరు buddy streak మొదలుపెట్టారు",
+    "pairedTitleNoName": "మీరు buddy streak మొదలుపెట్టారు",
+    "requestSentTitle": "$name కి request పంపించాం",
+    "requestSentTitleNoName": "Request పంపించాం",
+    "requestSentBody": "వారు accept చేయగానే మీ buddy streak మొదలవుతుంది.",
+    "requestTitle": "$name మీ buddy అవ్వాలనుకుంటున్నారు",
+    "requestTitleNoName": "మీకు ఒక buddy request ఉంది",
+    "requestBody": "Accept చేసి కలిసి streak మొదలుపెట్టండి, రెండు fires వెలుగుతూ ఉంచండి.",
+    "accept": "Accept చేయండి",
+    "decline": "వద్దు",
+    "requestsTitle": "$count buddy requests ఉన్నాయి",
+    "requestsTitleOne": "1 buddy request ఉంది",
+    "requestsBody": "వారు మీ buddy code వాడారు.",
+    "acceptAll": "అన్నీ accept చేయండి",
+    "later": "తర్వాత",
+    "startedManyTitle": "మీ buddy streaks మొదలయ్యాయి",
+    "someone": "ఎవరో",
+    "couldNotLoad": "లోడ్ కాలేదు",
+    "practiceNow": "ఇప్పుడే practice చేయండి",
+    "hookBody": "ఇద్దరూ రావాలి, లేదంటే స్ట్రీక్ రీసెట్ అవుతుంది.",
+    "leftTitle": "$name మిగిలి ఉన్నారు",
+    "leftTitleNoName": "మీ buddy మిగిలి ఉన్నారు",
+    "leftBody": "ఈరోజు పాఠం పూర్తి చేసి స్ట్రీక్ కొనసాగించమని $name కి మేము గుర్తు చేస్తాం.",
+    "leftBodyNoName": "ఈరోజు పాఠం పూర్తి చేసి స్ట్రీక్ కొనసాగించమని మీ buddy కి మేము గుర్తు చేస్తాం.",
+    "continueCta": "కొనసాగించండి",
+    "togetherTitle": "$count రోజులు కలిసి",
+    "togetherTitleOne": "1 రోజు కలిసి",
+    "daysWith": "$name తో $count రోజులు",
+    "dayWithOne": "$name తో 1 రోజు",
+    "togetherBody": "ఈరోజు మీరిద్దరూ వచ్చారు. రేపు కూడా ఇలాగే.",
+    "firesTitle": "మీ బడ్డీ స్ట్రీక్‌లు",
+    "firesBody": "స్ట్రీక్ కొనసాగించమని స్నేహితులకు మేము గుర్తు చేస్తాం",
+    "streaksTitle": "Buddy Streaks",
+    "streakTitle": "Buddy Streak",
+    "invitePlus": "+ ఆహ్వానించండి",
+    "emptyTitle": "Buddy తో streak",
+    "emptyBody": "మీరిద్దరూ practice చేయండి, మీరిద్దరూ కొనసాగించండి.",
+    "thisWeek": "ఈ వారం",
+    "you": "మీరు",
+    "roadmapDay": "రోడ్‌మ్యాప్ రోజు",
+    "conversations": "సంభాషణలు",
+    "calls": "కాల్స్",
+    "daysTogether": "కలిసి ఉన్న రోజులు",
+    "sentRequests": "పంపిన అభ్యర్థనలు",
+    "pendingRequest": "పెండింగ్ request",
+    "pendingRequests": "పెండింగ్ requests",
+    "pending": "పెండింగ్",
+    "removeCta": "స్నేహితుడిని తొలగించు",
+    "removeTitle": "$name ని తొలగించాలా?",
+    "removeTitleNoName": "ఈ స్నేహితుడిని తొలగించాలా?",
+    "removeBody": "మీ ఇద్దరి ఉమ్మడి స్ట్రీక్ ముగుస్తుంది.",
+    "removeConfirm": "తొలగించు",
+    "removeEnds": "మీ ఇద్దరి $count రోజుల ఉమ్మడి స్ట్రీక్ ముగుస్తుంది.",
+    "removeKeep": "స్ట్రీక్ కొనసాగించండి",
+    "removeNamed": "$name ని తొలగించు",
+    "cancel": "రద్దు చేయి",
+    "removeFailed": "మీ స్నేహితుడిని తొలగించలేకపోయాం. మళ్లీ ప్రయత్నించండి.",
+    "errors": {
+      "invalidTitle": "ఆ code పని చేయలేదు",
+      "invalidBody": "మీ buddy తో code check చేసి మళ్ళీ try చేయండి.",
+      "checkTitle": "Code check చేయండి",
+      "checkBody": "Code లో 8 letters మరియు numbers ఉంటాయి. మళ్ళీ enter చేయండి.",
+      "ownTitle": "ఇది మీ సొంత code",
+      "ownBody": "మీ buddy ని వారి code అడగండి.",
+      "alreadyTitle": "మీరు ఇప్పటికే buddies",
+      "alreadyBody": "వారు మీ buddy streaks లో కనిపిస్తారు.",
+      "limitTitle": "Buddy limit పూర్తయింది",
+      "limitBody": "మీకు లేదా మీ buddy కి ఇప్పటికే గరిష్ఠ buddies ఉన్నారు.",
+      "disabledTitle": "Buddy streaks ఇంకా అందుబాటులో లేవు",
+      "disabledBody": "మీరు join చేయగలిగినప్పుడు చెబుతాం.",
+      "genericTitle": "ఏదో తప్పు జరిగింది",
+      "genericBody": "మీ internet connection check చేసి మళ్ళీ try చేయండి."
+    }
+  },
+  "indiaOnboardingV16": {
+    "helloSarah": "హాయ్! నేను Sarah, మీ personal English speaking partner ని.",
+    "whatShouldICallYou": "మనం ఒకరినొకరు తెలుసుకుందాం! మిమ్మల్ని ఏమని పిలవాలి?",
+    "enterYourName": "మీ పేరు enter చేయండి",
+    "nativeLanguageQuestion": "మిమ్మల్ని కలవడం చాలా సంతోషం, {{name}}! మీ native language ఏమిటి?",
+    "heardFromQuestion": "ఒక చిన్న ప్రశ్న, {{name}}. మీరు మా గురించి ఎక్కడ విన్నారు?",
+    "ageGenderQuestion": "మీ గురించి ఇంకా తెలుసుకుందాం! మీ వయస్సు, gender ఏమిటి?",
+    "ageLabel": "వయస్సు",
+    "genderLabel": "Gender",
+    "preferNotToSay": "చెప్పదలచుకోలేదు",
+    "done": "Done",
+    "phoneQuestion": "ధన్యవాదాలు, {{name}}! మీకు latest lessons అందేలా, మీ phone number ఇవ్వగలరా?",
+    "phoneSkipped": "పర్వాలేదు! Profile settings లో ఎప్పుడైనా దాన్ని add చేయవచ్చు.",
+    "situationQuestion": "ప్రస్తుతం మీకు ఏది బాగా సరిపోతుంది?",
+    "situation": {
+      "student": "విద్యార్థి",
+      "workingProfessional": "ఉద్యోగి",
+      "freelancer": "స్వయం ఉపాధి / ఫ్రీలాన్సర్",
+      "businessOwner": "వ్యాపార యజమాని",
+      "lookingForWork": "ఉద్యోగ అన్వేషణలో",
+      "homeMaker": "గృహిణి",
+      "careerBreak": "career విరామంలో",
+      "parent": "తల్లి/తండ్రి"
+    },
+    "goalQuestion": "మనం కలిసినందుకు సంతోషంగా ఉంది, {{name}}. English నేర్చుకోవడంలో మీ main goal ఏమిటి?",
+    "goalReply": {
+      "ielts": {
+        "student": "చాలా బాగుంది! చాలా మంది students భయపడే part Speaking, కానీ అత్యంత వేగంగా మెరుగుపరచుకోగలిగేది కూడా అదే. మనం test లోని మూడు parts నీ practice చేద్దాం.",
+        "workingProfessional": "తెలివైన నిర్ణయం! విదేశాల్లో పని కోసమైనా, PR కోసమైనా, మీ job కి సరిపడే practice తో మీ speaking band ని పెంచుదాం.",
+        "freelancer": "మంచి plan. మీ client పనులకు ఇబ్బంది లేకుండా, రోజూ చిన్న sessions లో ప్రతి IELTS speaking part ని practice చేద్దాం.",
+        "businessOwner": "చాలా బాగుంది! Examiners చూసే fluency, range ని రోజుకు 10 నిమిషాల్లోనే పెంచుకుందాం.",
+        "lookingForWork": "మంచి అడుగు. మంచి band ఎన్నో అవకాశాలను తెరుస్తుంది. Speaking test మీకు అలవాటుగా అనిపించేవరకు practice చేద్దాం.",
+        "homeMaker": "ఇది పెద్ద goal, చాలా మంచి goal కూడా. Speaking test ని మీ వేగంలో, step by step practice చేద్దాం.",
+        "careerBreak": "సమయాన్ని బాగా ఉపయోగిస్తున్నారు! రోజూ క్రమంగా practice చేసి, speaking లో మిమ్మల్ని exam కి సిద్ధం చేద్దాం.",
+        "parent": "అద్భుతం! Family సమయానికి ఇబ్బంది లేకుండా, చిన్న sessions లో IELTS speaking practice చేద్దాం."
+      },
+      "business": {
+        "student": "ముందే మొదలుపెట్టడం తెలివైన పని! Placements లో clear గా మాట్లాడేవారికే అవకాశాలు ఎక్కువ. Introductions, HR questions, group discussions ని practice చేద్దాం.",
+        "workingProfessional": "చాలా బాగుంది. ప్రతి meeting, review, promotion చర్చలో clear English కనిపిస్తుంది. మీరు office లో నిజంగా చేసే conversations నే practice చేద్దాం.",
+        "freelancer": "చాలా బాగుంది! Clear గా వివరించేవారినే clients నమ్ముతారు. Pitching, negotiation, client calls ని practice చేద్దాం.",
+        "businessOwner": "అద్భుతం. Confident English తో clients ని గెలుచుకోవచ్చు, మీ team ని నడిపించవచ్చు. Pitches, meetings, negotiations ని practice చేద్దాం.",
+        "lookingForWork": "మీరు ఇది చేయగలరు! Confident English తో interview తీరే మారిపోతుంది. మీరు ఎక్కువగా వినే అవకాశం ఉన్న questions ని practice చేద్దాం.",
+        "homeMaker": "ఇది చాలా exciting! Career ని మళ్ళీ మొదలుపెట్టడం పెద్ద అడుగు. మీరు confident గా అడుగుపెట్టేలా interviews, introductions ని practice చేద్దాం.",
+        "careerBreak": "మళ్ళీ స్వాగతం! Gap గురించిన questions తో సహా, అసలు break తీసుకోనట్టే interviews లో మాట్లాడేలా మీకు సహాయం చేస్తాం.",
+        "parent": "మంచి goal! మీరు చాలా బాధ్యతలు balance చేస్తున్నారు, అందుకే practice ని చిన్నగా, మిమ్మల్ని ముందుకు తీసుకెళ్ళే conversations పై focus చేసేలా ఉంచుతాం."
+      },
+      "socializing": {
+        "student": "చాలా బాగుంది! English లో confidence అన్నింటిలో కనిపిస్తుంది: friendships, classes, మీ reels లో కూడా. రోజువారీ conversations తో మొదలుపెడదాం.",
+        "workingProfessional": "చాలా బాగుంది! ప్రతి sentence ని మనసులో rehearse చేసుకోకుండా స్వేచ్ఛగా మాట్లాడటం, మనం కలిసి నేర్చుకోవచ్చు.",
+        "freelancer": "బాగుంది! English ఒక పనిలా కాకుండా natural గా అనిపించేలా, రోజువారీ conversations ని practice చేద్దాం.",
+        "businessOwner": "అద్భుతం. ప్రతి conversation లో కనిపించే, సహజమైన రోజువారీ confidence ని పెంచుకుందాం.",
+        "lookingForWork": "మంచి ఎంపిక. ఇప్పుడు పెంచుకునే confidence మీ next interview తో సహా అన్ని చోట్లా ఉపయోగపడుతుంది. రోజువారీ మాటలతో మొదలుపెడదాం.",
+        "homeMaker": "చాలా బాగుంది! మీకు ముఖ్యమైన రోజువారీ conversations ని మీ సొంత వేగంలో practice చేద్దాం.",
+        "careerBreak": "ఈ సమయాన్ని ఉపయోగించుకోవడానికి గొప్ప మార్గం! రోజుకు ఒక చిన్న session తో, English మాట్లాడటం natural గా అనిపించేలా చేద్దాం.",
+        "parent": "అద్భుతం! పిల్లలు మన confidence ని గమనిస్తారు. వాళ్ళతో, ఇంకా అందరితో మాట్లాడగలిగే రోజువారీ English ని practice చేద్దాం."
+      },
+      "travel": {
+        "student": "ఎంత exciting! మీరు trip లో కంగారు పడకుండా enjoy చేసేలా, airports, hostels, విదేశాల్లో friends చేసుకోవడం practice చేద్దాం.",
+        "workingProfessional": "బాగుంది! హాయిగా మాట్లాడగలిగితే work trips, holidays రెండూ ఇంకా బాగుంటాయి. Check-ins, directions, small talk ని practice చేద్దాం.",
+        "freelancer": "చాలా బాగుంది. Client visit అయినా, workcation అయినా, రోజువారీ travel conversations ని సులభం చేద్దాం.",
+        "businessOwner": "చాలా బాగుంది! Client visits నుండి trade fairs వరకు, ప్రయాణంలో మీరు చేసే conversations ని practice చేద్దాం.",
+        "lookingForWork": "చాలా బాగుంది! ప్రయాణాన్ని సులభం చేసే రోజువారీ English ని practice చేద్దాం: airports, hotels, సహాయం అడగడం.",
+        "homeMaker": "ఎంత అద్భుతం! మీరు హాయిగా ప్రయాణించేలా, food order చేయడం, దారి అడగడం, మనుషులతో మాట్లాడటం practice చేద్దాం.",
+        "careerBreak": "దీనికి ఇదే సరైన సమయం! మీరు ప్రతి trip ని enjoy చేసేలా, airports, hotels, కొత్త మనుషులతో comfortable గా ఉండేలా చేద్దాం.",
+        "parent": "Family trips అంటే ఎంతో సరదా! Check-in counter నుండి hotel desk వరకు, మీకు నిజంగా ఎదురయ్యే సందర్భాలను practice చేద్దాం."
+      },
+      "education": {
+        "student": "చాలా బాగుంది! English ఒక test లా అనిపించడం ఆగిపోతే, class లో మాట్లాడటం చాలా సులభమవుతుంది. నిజమైన సందర్భాలను practice చేద్దాం: teacher కి జవాబివ్వడం, presentations, group work.",
+        "workingProfessional": "ఉద్యోగం చేస్తూ చదవడానికి చాలా పట్టుదల కావాలి. Lectures లో మీరు ధైర్యంగా మాట్లాడేలా, confident గా present చేసేలా చూస్తాం.",
+        "freelancer": "మంచి ఎంపిక. Ideas ని పైకి చర్చించగలిగితే courses వేగంగా ముందుకెళ్తాయి, అందుకే సరిగ్గా అదే practice చేద్దాం.",
+        "businessOwner": "తెలివైన నిర్ణయం. Business నడుపుతూ నేర్చుకోవడం కష్టమైన పని, అందుకే దీన్ని చిన్నగా, class లో మాట్లాడటంపై focus చేసేలా ఉంచుతాం.",
+        "lookingForWork": "మంచి ఆలోచన. ఒక course తో పాటు confident English ఉంటే, తర్వాతి interviews కి అది బలమైన combination. Class discussions తో మొదలుపెడదాం.",
+        "homeMaker": "ఇది అద్భుతం! మళ్ళీ చదువుకోవడానికి ధైర్యం కావాలి. సందేహపడకుండా class లో మీరు మాట్లాడేలా సహాయం చేస్తాం.",
+        "careerBreak": "మీ break ని ఉపయోగించుకోవడానికి గొప్ప మార్గం. మొదటి రోజు నుండే course సులభంగా అనిపించేలా, class లో comfortable గా మాట్లాడేలా చేద్దాం.",
+        "parent": "చాలా బాగుంది! మీ సొంత classes అయినా, మీ పిల్లలకు school లో సహాయం చేయడం అయినా, clear గా మాట్లాడే confidence ని పెంచుకుందాం."
+      },
+      "others": {
+        "student": "అర్థమైంది! Class లోనూ, బయటా మీరు రోజూ చేసే conversations కోసం confidence పెంచుకుందాం.",
+        "workingProfessional": "అర్థమైంది! Office లోనూ, బయటా ఉపయోగపడే clear, confident speaking పై focus చేద్దాం.",
+        "freelancer": "అర్థమైంది! Clients తోనూ, రోజువారీ జీవితంలోనూ ఉపయోగపడే confident English ని పెంచుకుందాం.",
+        "businessOwner": "అర్థమైంది! Customers, partners, రోజువారీ జీవితం కోసం confident English ని పెంచుకుందాం.",
+        "lookingForWork": "అర్థమైంది! Interviews లోనూ, ఆ తర్వాతా ఉపయోగపడే speaking confidence ని పెంచుకుందాం.",
+        "homeMaker": "అర్థమైంది! మీ సొంత వేగంలో రోజువారీ speaking confidence ని పెంచుకుందాం.",
+        "careerBreak": "అర్థమైంది! ఈ సమయంలో English మాట్లాడటం natural గా అనిపించేలా చేద్దాం.",
+        "parent": "అర్థమైంది! మీ పిల్లలతో, ఇంకా అందరితో ఉపయోగపడే రోజువారీ confidence ని పెంచుకుందాం."
+      }
+    },
+    "painPointQuestion": "నిజం చెప్పండి. English మాట్లాడాల్సి వచ్చినప్పుడు ఏం జరుగుతుంది?",
+    "painPoint": {
+      "cantReplyFast": "అర్థమవుతుంది, కానీ వెంటనే reply ఇవ్వలేను",
+      "translateInHead": "మనసులో $lang నుండి translate చేస్తాను",
+      "scaredOfMistakes": "అందరి ముందు mistakes చేస్తానని భయం",
+      "runOutOfWords": "మాటలు దొరకవు",
+      "accent": "నా accent",
+      "soundPolished": "ఇంకా polished గా మాట్లాడాలి",
+      "other": "ఇంకేదైనా"
+    },
+    "painPointMyLanguage": "నా భాష",
+    "painPointOtherPrompt": "కొన్ని మాటల్లో చెప్పండి. మీ practice ని plan చేయడానికి ఇది నాకు సహాయపడుతుంది.",
+    "painPointOtherHint": "ఉదా. మధ్యలో confidence పోతుంది",
+    "painPointReply": {
+      "cantReplyFast": "అర్థం చేసుకోవడానికీ, జవాబివ్వడానికీ మధ్య ఉన్న gap, practice తో త్వరగా తగ్గిపోతుంది. Quick replies కోసం train అవుదాం.",
+      "translateInHead": "ఇది చాలా common! ఒక్కో అడుగుతో, మీరు నేరుగా English లోనే ఆలోచించేలా సహాయం చేస్తాం.",
+      "scaredOfMistakes": "Mistakes తోనే మనం నేర్చుకుంటాం. ఇక్కడ మీరు, నేను మాత్రమే, ఎలాంటి judgement ఉండదు.",
+      "runOutOfWords": "మీకు ముఖ్యమైన సందర్భాలకు కావాల్సిన words ని కలిసి పెంచుకుందాం.",
+      "accent": "ఏ accent కన్నా clear గా మాట్లాడటమే ముఖ్యం. మిమ్మల్ని ఇబ్బంది పెట్టే sounds పై పని చేద్దాం.",
+      "soundPolished": "చాలా బాగుంది. మీరు natural గా వినిపించేలా మీ fluency, range ని మెరుగుపరుద్దాం.",
+      "other": "చెప్పినందుకు ధన్యవాదాలు. మనం practice చేసేటప్పుడు దాన్ని గుర్తుంచుకుంటాను."
+    },
+    "levelQuestion": "మీ ప్రస్తుత English level ఏమిటని మీరు అనుకుంటున్నారు?",
+    "testimonialsIntro": "మీరు సరైన చోటుకి వచ్చారు, {{name}}! మాకు Google Play Best AI App 2023 award ఎందుకు వచ్చిందో తెలుసుకోండి, మీలాంటి learners ఏమంటున్నారో వినండి.",
+    "notifPriming": "రోజూ practice చేయడం మీ goals ని త్వరగా achieve చేయడానికి సహాయపడుతుంది.",
+    "notifGranted": "ధన్యవాదాలు! మనం కలిసి English నేర్చుకోవడాన్ని రోజువారీ అలవాటుగా మార్చుకుందాం.",
+    "notifDenied": "పర్వాలేదు. Reminders ని తర్వాత Profile settings లో on చేసుకోవచ్చు.",
+    "readIntro": "దాదాపు అయిపోయింది! చివరి step గా, దీన్ని నాకు గట్టిగా చదివి వినిపించండి.",
+    "answerIntro": "దాదాపు అయిపోయింది! చివరి step గా, నా ఒక question కి జవాబు చెప్పండి.",
+    "hintIntro": "ఇలా చెప్పొచ్చు. దీన్ని గట్టిగా చదవండి:",
+    "didNotSpeakAlot": "మీరు ఎక్కువగా మాట్లాడలేదు అనిపిస్తోంది.",
+    "letsTrySomethingElse": "ఇంకేదైనా try చేద్దామా?",
+    "wellDoneRead": "బాగా చేశారు, {{name}}! మీరు ఆగకుండా ఒకేసారి చదివేశారు.",
+    "wellDoneAnswered": "బాగా చేశారు, {{name}}! మీరు పూర్తి sentences లో జవాబిచ్చారు.",
+    "curiousHowWellYouSpoke": "మీరు ఎంత బాగా మాట్లాడారో తెలుసుకోవాలనుందా? మీ performance చూడటానికి tap చేయండి!",
+    "seeDetailedReport": "పూర్తి report చూడండి",
+    "subPurposeQuestion": "మీరు ఎలాంటి సందర్భాల్లో బాగా మాట్లాడాలనుకుంటున్నారు?",
+    "enterReferralCode": "మీ దగ్గర ఉన్న referral code ని enter చేయండి",
+    "testimonialsIntroIos": "మీరు సరైన చోటుకి వచ్చారు, {{name}}! మీలాంటి learners ఏమంటున్నారో వినండి.",
+    "helloBubble": "హాయ్, నేను Sarah 👋",
+    "selectAnOption": "ఒక option ఎంచుకోండి",
+    "continueCta": "Continue",
+    "skipForNow": "ఇప్పుడు వద్దు",
+    "phoneHint": "Phone number",
+    "goalOtherHint": "మీ goal ఇక్కడ type చేయండి",
+    "seeMoreLanguages": "మరిన్ని భాషలు చూడండి",
+    "selectAnotherLanguage": "వేరే భాష ఎంచుకోండి",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "skip": "Skip",
+    "readItOutLoud": "గట్టిగా చదవండి",
+    "modelAnswer": "Model answer",
+    "answerOutLoud": "గట్టిగా జవాబివ్వండి",
+    "micTipRead": "Mic tap చేసి చదవండి",
+    "micTipAnswer": "Mic tap చేసి జవాబివ్వండి",
+    "micTipHint": "ఆగిపోయారా? Model answer కోసం bulb ని tap చేయండి",
+    "progress": {
+      "letsGetStarted": "మొదలుపెడదాం!",
+      "percentCompleted": "$percent% పూర్తయింది",
+      "niceToMeetYou": "మిమ్మల్ని కలవడం ఆనందం, $name!",
+      "gotIt": "అర్థమైంది!",
+      "thanksForTellingUs": "చెప్పినందుకు ధన్యవాదాలు!",
+      "thatHelps": "ఇది ఉపయోగపడుతుంది, ధన్యవాదాలు!",
+      "youreAllSet": "అంతా సిద్ధం!",
+      "notAlone": "ఇందులో మీరు ఒంటరి కాదు.",
+      "almostThere": "దాదాపు అయిపోయింది!",
+      "firstSpeechDone": "మొదటి speech పూర్తయింది!",
+      "goalCaption": "“$goal” – $cheer",
+      "goalCheer": {
+        "ielts": "మంచి ఎంపిక!",
+        "business": "Impressive!",
+        "socializing": "చాలా బాగుంది!",
+        "travel": "ఎంత exciting!",
+        "education": "Impressive!",
+        "others": "అర్థమైంది!"
+      }
+    },
+    "report": {
+      "title": "మీ report ని\nసిద్ధం చేస్తున్నాం…",
+      "tickPronunciation": "Pronunciation check చేస్తున్నాం",
+      "tickFluency": "Fluency, pauses check చేస్తున్నాం",
+      "tickGrammar": "Grammar check చేస్తున్నాం",
+      "tickGoal": "మీ goal తో సరిపోలుస్తున్నాం: $goal",
+      "foot": "సుమారు 5 seconds పడుతుంది, అవును, మేము అంత fast!",
+      "answersCaption": "మీ జవాబుల ఆధారంగా రూపొందించాం.",
+      "tapHint": "మార్చడానికి tap చేయండి.",
+      "cta": "Continue",
+      "sheetSituation": "మీకు ఏది బాగా సరిపోతుంది?",
+      "sheetGoal": "మీ main goal",
+      "sheetPain": "మిమ్మల్ని ఏది అడ్డుకుంటోంది?",
+      "painShort": {
+        "cantReplyFast": "ఆలస్యంగా reply",
+        "translateInHead": "మనసులో translate",
+        "scaredOfMistakes": "Mistakes అంటే భయం",
+        "runOutOfWords": "మాటలు దొరకవు",
+        "accent": "Accent",
+        "soundPolished": "Polished గా మాట్లాడటం",
+        "other": "ఇంకేదైనా"
+      }
+    },
+    "level": {
+      "kicker": "మీ level",
+      "titleBeginner": "మీరు $level స్థాయిలో ఉన్నారు",
+      "titleOther": "మీరు $level స్థాయిలో ఉన్నారు",
+      "rungs": {
+        "a1": "Novice",
+        "a2": "Beginner",
+        "b1": "Intermediate",
+        "b2": "Advanced",
+        "c1": "Proficient",
+        "c2": "Native"
+      },
+      "hereTitle": "మీరు ఇక్కడ ఉన్నారు",
+      "hereBeginner": "“చిన్న sentences”",
+      "hereIntermediate": "“రోజువారీ మాటలు”",
+      "hereAdvanced": "“Fluent, polished గా”",
+      "nextTitle": "తర్వాతి step",
+      "nextBeginner": "తక్కువ pauses",
+      "nextIntermediate": "వేగమైన replies",
+      "nextAdvanced": "Natural, కచ్చితంగా",
+      "wellHeading": "మీరు బాగా చేసినవి",
+      "improveHeading": "మెరుగుపరచాల్సినవి",
+      "wellReadWhole": "మీరు passage మొత్తం ఆగకుండా చదివారు.",
+      "improveOne": "'$first' కొంచెం మెరుగుపడాలి. తర్వాత దాన్ని సరిచేద్దాం.",
+      "improveTwo": "'$first', '$second' కొంచెం మెరుగుపడాలి. తర్వాత వాటిని సరిచేద్దాం.",
+      "improveThree": "'$first', '$second', '$third' కొంచెం మెరుగుపడాలి. తర్వాత వాటిని సరిచేద్దాం.",
+      "cta": "Continue"
+    },
+    "fix": {
+      "errorsKicker": "Quick fix",
+      "errorsTitleOne": "ఒక word కొంచెం\nమెరుగుపడాలి",
+      "errorsTitleTwo": "రెండు words కొంచెం\nమెరుగుపడాలి",
+      "errorsTitleThree": "మూడు words కొంచెం\nమెరుగుపడాలి",
+      "errorsTitleMany": "$count words కొంచెం\nమెరుగుపడాలి",
+      "errorsSub": "మీ plan తయారు చేసే ముందు వాటిని సరిచేద్దాం.",
+      "passageLabel": "మీ reading నుండి",
+      "whatToFix": "ఏం సరిచేయాలి",
+      "practiseSound": "'$sound' sound ని practice చేయండి",
+      "errorsCta": "సరిచేద్దాం",
+      "practiceKicker": "Practice",
+      "practiceTitle": "<em>'$word'</em> లో '$sound' sound ని మెరుగుపరుద్దాం",
+      "cue": "Word ని <b>గట్టిగా</b> చదవండి",
+      "currentScore": "ప్రస్తుత score",
+      "newScore": "కొత్త score",
+      "tapToSpeak": "మాట్లాడండి",
+      "tryAgain": "మళ్ళీ try",
+      "analysing": "Analysing…",
+      "soundsClear": "Clear గా ఉంది",
+      "skipWord": "ఈ word skip చేయండి",
+      "continueCta": "Continue",
+      "listen": "వినండి",
+      "exitTitle": "ఆగండి, మీరు దాదాపు పూర్తి చేశారు!",
+      "exitBody": "Personalized learning unlock చేయడానికి మీరు కొన్ని క్షణాల దూరంలోనే ఉన్నారు. పూర్తి చేద్దాం!",
+      "exitStay": "Continue",
+      "exitLeave": "తర్వాత చేస్తా"
+    },
+    "win": {
+      "headerCaption": "బాగా చేశారు!",
+      "firstLineCard": "చూడండి, $name! ఒక్క try లోనే '$word' మరింత clear గా వినిపిస్తోంది.",
+      "firstLineNoCard": "అద్భుతం, $name! మీరు ఇప్పుడే real feedback తో English గట్టిగా మాట్లాడారు.",
+      "secondLine": "రోజుకు 10 నిమిషాలు ఇచ్చే ఫలితం ఇదే. మీ మొదటి lesson సిద్ధంగా ఉంది, మీ కోసం ఎదురుచూస్తోంది.",
+      "gainCaption": "ఒక్క try లోనే points",
+      "before": "ముందు",
+      "after": "తర్వాత",
+      "cta": "Plan మొదలుపెట్టండి"
+    },
+    "plan": {
+      "kicker": "మీ plan",
+      "learners": "13Mn+ learners ఈ journey లో మీతో పాటు ఉన్నారు",
+      "body": "మీ ప్రస్తుత level ($cefr) తో, రోజూ\n10 నిమిషాల practice ఏం చేయగలదో చూడండి.",
+      "today": "ఈరోజు",
+      "week1": "1వ వారం",
+      "week4": "4వ వారం",
+      "week8": "8వ వారం",
+      "cta": "Plan మొదలుపెట్టండి",
+      "school": {
+        "title": "Class లో confident గా మాట్లాడండి",
+        "m1": "Class లో ఆగకుండా మిమ్మల్ని పరిచయం చేసుకోండి",
+        "m2": "మీ teacher కి పూర్తి sentences లో జవాబివ్వండి",
+        "m3": "2 నిమిషాల class presentation ఇవ్వండి"
+      },
+      "career": {
+        "title": "మీ next interview కి సిద్ధంగా వెళ్ళండి",
+        "m1": "ఆగకుండా మిమ్మల్ని పరిచయం చేసుకోండి",
+        "m2": "'Tell me about yourself' కి ఒక్క నిమిషంలో జవాబివ్వండి",
+        "m3": "పూర్తి mock HR round ని ఎదుర్కోండి"
+      },
+      "ielts": {
+        "title": "మీ target band కి దగ్గరవ్వండి",
+        "m1": "Part 1 questions కి ఎక్కువ pauses లేకుండా జవాబివ్వండి",
+        "m2": "Part 2 cue card పై పూర్తి 2 నిమిషాలు మాట్లాడండి",
+        "m3": "పూర్తి speaking mock test చేయండి"
+      },
+      "travel": {
+        "title": "భాష గురించి చింత లేకుండా ప్రయాణించండి",
+        "m1": "Airport, hotel check-in సులభంగా పూర్తి చేయండి",
+        "m2": "Food order చేయండి, స్థానికులను దారి అడగండి",
+        "m3": "స్థానికులతో హాయిగా మాట్లాడండి"
+      },
+      "personal": {
+        "title": "రోజూ confident గా English మాట్లాడండి",
+        "m1": "ఆగకుండా మీ రోజు గురించి మాట్లాడండి",
+        "m2": "5 నిమిషాల conversation చేయండి",
+        "m3": "Group లో మీ అభిప్రాయాన్ని clear గా చెప్పండి"
+      }
+    }
+  }
+}

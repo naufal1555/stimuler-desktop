@@ -1,0 +1,1129 @@
+{
+  "_comment": "Intro flow transcribed from Intro-v2.mp4 (2026-09-03), exercising the server-driven effects (docs/conversation_v4/INTRO-EFFECTS.md): agenda tour on bot_2, clap & collect on opt_interests and opt_gender (gender icons fly but are hidden via show_icon:false), assembly loader on bot_6 (loaded lands at 1.5s, under the 5970ms floor). Select via ConversationWsMockDataSource.introScript.",
+  "intro": [
+    {
+      "delay_ms": 200,
+      "frame": {
+        "event": "CONNECTION_ESTABLISHED",
+        "connection_id": "conn_mock_intro"
+      }
+    },
+    {
+      "delay_ms": 150,
+      "frame": {
+        "event": "SESSION_READY",
+        "conversation_id": "conv_mock_intro",
+        "topic_id": "topic_intro",
+        "initial_state": {
+          "messages": [],
+          "current_step_id": 1,
+          "mode": "conversation",
+          "progress_bar": {
+            "total_steps": 4,
+            "current_step": 0,
+            "next_step": 1
+          },
+          "stars": {
+            "current": 0,
+            "total": 3,
+            "breakdown": [
+              {
+                "source": "hint",
+                "label": "Answer every question",
+                "earned": false
+              },
+              {
+                "source": "mistakes",
+                "label": "Say your first words",
+                "earned": false
+              },
+              {
+                "source": "drill",
+                "label": "Practice pronouncing a word",
+                "earned": false
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "delay_ms": 300,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "bot_1",
+        "from": "bot",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loading",
+        "requires_user_action": false,
+        "content": {}
+      }
+    },
+    {
+      "delay_ms": 500,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "bot_1",
+        "from": "bot",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loaded",
+        "requires_user_action": false,
+        "content": {
+          "text": "Hi! I'm Sarah 👋",
+          "message_actions": [
+            {
+              "action_type": "tts",
+              "enabled": true
+            },
+            {
+              "action_type": "translate",
+              "enabled": true
+            }
+          ],
+          "highlight_ranges": null
+        }
+      }
+    },
+    {
+      "delay_ms": 300,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "bot_2",
+        "from": "bot",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loading",
+        "requires_user_action": false,
+        "content": {}
+      }
+    },
+    {
+      "delay_ms": 500,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "bot_2",
+        "from": "bot",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loaded",
+        "requires_user_action": false,
+        "effects": [
+          {
+            "effect_type": "agenda_tour",
+            "effect_id": "agenda",
+            "meta": {
+              "pace_with_tts": true,
+              "steps": [
+                {
+                  "slot_index": 0,
+                  "label": "Answer every question",
+                  "description": "Reply to each of Sarah's questions to keep the chat going.",
+                  "translated_description": null
+                },
+                {
+                  "slot_index": 1,
+                  "label": "Say your first words",
+                  "description": "Tap the mic and speak — any words count.",
+                  "translated_description": null
+                },
+                {
+                  "slot_index": 2,
+                  "label": "Practice pronouncing a word",
+                  "description": "At the end, drill a word Sarah picks for you.",
+                  "translated_description": null
+                }
+              ]
+            }
+          }
+        ],
+        "content": {
+          "text": "See these 3 stars up top? ⭐ That's today's plan. Let me walk you through.",
+          "message_actions": [
+            {
+              "action_type": "tts",
+              "enabled": true
+            },
+            {
+              "action_type": "translate",
+              "enabled": true
+            }
+          ],
+          "highlight_ranges": null
+        }
+      }
+    },
+    {
+      "delay_ms": 300,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "bot_3",
+        "from": "bot",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loading",
+        "requires_user_action": false,
+        "content": {}
+      }
+    },
+    {
+      "delay_ms": 500,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "bot_3",
+        "from": "bot",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loaded",
+        "requires_user_action": false,
+        "content": {
+          "text": "If you don't understand what I am saying use the translate button",
+          "message_actions": [
+            {
+              "action_type": "tts",
+              "enabled": true
+            },
+            {
+              "action_type": "translate",
+              "enabled": true
+            }
+          ],
+          "highlight_ranges": null,
+          "tooltips": [
+            {
+              "tooltip_id": "translate_intro",
+              "target": "translate",
+              "text": "Tap to Translate",
+              "dismiss": "auto"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "delay_ms": 300,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "bot_4",
+        "from": "bot",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loading",
+        "requires_user_action": false,
+        "content": {}
+      }
+    },
+    {
+      "delay_ms": 500,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "bot_4",
+        "from": "bot",
+        "message_template": "bot_speech",
+        "message_alignment": "left",
+        "message_state": "loaded",
+        "requires_user_action": false,
+        "content": {
+          "text": "To begin, choose 3 topics of your interest",
+          "message_actions": [
+            {
+              "action_type": "tts",
+              "enabled": true
+            },
+            {
+              "action_type": "translate",
+              "enabled": true
+            }
+          ],
+          "highlight_ranges": null
+        }
+      }
+    },
+    {
+      "delay_ms": 300,
+      "frame": {
+        "event": "MESSAGE",
+        "message_id": "opt_interests",
+        "from": "user",
+        "message_template": "user_select_option",
+        "message_alignment": "right",
+        "message_state": "loaded",
+        "requires_user_action": true,
+        "effects": [
+          {
+            "effect_type": "clap_and_collect",
+            "effect_id": "interests",
+            "meta": {
+              "target": "progress_bar",
+              "haptic": "tap1",
+              "max_concurrent": 1
+            }
+          }
+        ],
+        "content": {
+          "prompt": "Select an option",
+          "min_select": 1,
+          "max_select": 3,
+          "multi_select": true,
+          "selected_ids": [],
+          "continue_label": "Continue",
+          "options": [
+            {
+              "id": "pets",
+              "label": "Pets",
+              "icon": "🐶"
+            },
+            {
+              "id": "football",
+              "label": "Football",
+              "icon": "⚽"
+            },
+            {
+              "id": "cricket",
+              "label": "Cricket",
+              "icon": "🏏"
+            },
+            {
+              "id": "movies",
+              "label": "Movies & shows",
+              "icon": "🍿"
+            },
+            {
+              "id": "gaming",
+              "label": "Gaming",
+              "icon": "🕹️"
+            },
+            {
+              "id": "career",
+              "label": "Career",
+              "icon": "💼"
+            },
+            {
+              "id": "books",
+              "label": "Books",
+              "icon": "📖"
+            },
+            {
+              "id": "fitness",
+              "label": "Fitness",
+              "icon": "🏋️"
+            },
+            {
+              "id": "gardening",
+              "label": "Gardening",
+              "icon": "🌿"
+            },
+            {
+              "id": "cars",
+              "label": "Cars & Bikes",
+              "icon": "🚗"
+            },
+            {
+              "id": "shopping",
+              "label": "Shopping",
+              "icon": "🛒"
+            },
+            {
+              "id": "love",
+              "label": "Love & relationships",
+              "icon": "❤️"
+            },
+            {
+              "id": "food",
+              "label": "Food & cooking",
+              "icon": "🍔"
+            },
+            {
+              "id": "ai",
+              "label": "AI & tech",
+              "icon": "🤖"
+            },
+            {
+              "id": "speaking",
+              "label": "Public speaking",
+              "icon": "🗣️"
+            },
+            {
+              "id": "fashion",
+              "label": "Fashion",
+              "icon": "💃"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "steps": [
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "frames": [
+        {
+          "delay_ms": 200,
+          "frame": {
+            "event": "CONVERSATION_STATE",
+            "mode": "conversation",
+            "stars": {
+              "current": 0,
+              "total": 3,
+              "breakdown": [
+                {
+                  "source": "hint",
+                  "label": "Answer every question",
+                  "earned": false
+                },
+                {
+                  "source": "mistakes",
+                  "label": "Say your first words",
+                  "earned": false
+                },
+                {
+                  "source": "drill",
+                  "label": "Practice pronouncing a word",
+                  "earned": false
+                }
+              ]
+            },
+            "progress_bar": {
+              "total_steps": 4,
+              "current_step": 1,
+              "next_step": 2
+            },
+            "practice_skipped": false
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_5",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_5",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "To personalize your chats, can you tell us your gender?",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null
+            }
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "opt_gender",
+            "from": "user",
+            "message_template": "user_select_option",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": true,
+            "effects": [
+              {
+                "effect_type": "clap_and_collect",
+                "effect_id": "gender",
+                "meta": {
+                  "target": "progress_bar",
+                  "haptic": "tap1",
+                  "max_concurrent": 1
+                }
+              }
+            ],
+            "content": {
+              "prompt": "Select an option",
+              "min_select": 1,
+              "max_select": 1,
+              "multi_select": false,
+              "selected_ids": [],
+              "continue_label": "Continue",
+              "options": [
+                {
+                  "id": "male",
+                  "label": "Male",
+                  "icon": "🙋‍♂️",
+                  "show_icon": false
+                },
+                {
+                  "id": "female",
+                  "label": "Female",
+                  "icon": "🙋‍♀️",
+                  "show_icon": false
+                },
+                {
+                  "id": "others",
+                  "label": "Others",
+                  "icon": "🙋",
+                  "show_icon": false
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "frames": [
+        {
+          "delay_ms": 200,
+          "frame": {
+            "event": "CONVERSATION_STATE",
+            "mode": "conversation",
+            "stars": {
+              "current": 1,
+              "total": 3,
+              "breakdown": [
+                {
+                  "source": "hint",
+                  "label": "Answer every question",
+                  "earned": true
+                },
+                {
+                  "source": "mistakes",
+                  "label": "Say your first words",
+                  "earned": false
+                },
+                {
+                  "source": "drill",
+                  "label": "Practice pronouncing a word",
+                  "earned": false
+                }
+              ]
+            },
+            "progress_bar": {
+              "total_steps": 4,
+              "current_step": 2,
+              "next_step": 3
+            },
+            "practice_skipped": false
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_6",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_6",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "That's everything I wanted to know 😊",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null
+            }
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_7",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "effects": [
+              {
+                "effect_type": "assembly_loader",
+                "effect_id": "starter",
+                "meta": {
+                  "status_lines": [
+                    "Checking everything you told me…",
+                    "You like Pets, Fitness and Books 🐶 🏋️ 📖",
+                    "Putting your first question together…"
+                  ],
+                  "min_display_ms": 5970
+                }
+              }
+            ],
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 1500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_7",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "It's great to see a business owner like you who loves pets! What's something interesting happening in your day today?",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null,
+              "available_taps": [
+                {
+                  "tap_type": "hint",
+                  "enabled": true,
+                  "state": "initial",
+                  "tap_actions": [],
+                  "meta": {
+                    "prompt_text": "Tap to see hint",
+                    "hint_text": "My dog's vet appointment is today."
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "delay_ms": 250,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "initial",
+            "requires_user_action": true,
+            "content": {
+              "recording": {
+                "max_audio_ms": 60000,
+                "min_audio_ms": 3000
+              },
+              "tooltips": [
+                {
+                  "tooltip_id": "mic_record_intro",
+                  "target": "mic_record",
+                  "text": "Tap to Speak",
+                  "dismiss": "on_tap"
+                },
+                {
+                  "tooltip_id": "mic_submit_intro",
+                  "target": "mic_submit",
+                  "text": "Tap to Submit",
+                  "dismiss": "on_tap"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "START_RECORDING",
+      "frames": [
+        {
+          "delay_ms": 80,
+          "frame": {
+            "event": "RECORDING_STARTED",
+            "message_id": "user_1",
+            "message_template": "user_speech"
+          }
+        },
+        {
+          "delay_ms": 400,
+          "frame": {
+            "event": "AUDIO_RECEIVED",
+            "message_id": "user_1",
+            "message_template": "user_speech",
+            "bytes_received": 32000,
+            "chunks_received": 10
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "frames": [
+        {
+          "delay_ms": 150,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 600,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_1",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "My dog's vet appointment is today.",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                }
+              ],
+              "analysis": {
+                "state": "completed",
+                "overall_score": 80,
+                "is_perfect": false
+              }
+            }
+          }
+        },
+        {
+          "delay_ms": 200,
+          "frame": {
+            "event": "CONVERSATION_STATE",
+            "mode": "conversation",
+            "stars": {
+              "current": 2,
+              "total": 3,
+              "breakdown": [
+                {
+                  "source": "hint",
+                  "label": "Answer every question",
+                  "earned": true
+                },
+                {
+                  "source": "mistakes",
+                  "label": "Say your first words",
+                  "earned": true
+                },
+                {
+                  "source": "drill",
+                  "label": "Practice pronouncing a word",
+                  "earned": false
+                }
+              ]
+            },
+            "progress_bar": {
+              "total_steps": 4,
+              "current_step": 3,
+              "next_step": 4
+            },
+            "practice_skipped": false
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_8",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_8",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "I hope it goes well! What kind of dog do you have?",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null,
+              "available_taps": [
+                {
+                  "tap_type": "hint",
+                  "enabled": true,
+                  "state": "initial",
+                  "tap_actions": [],
+                  "meta": {
+                    "prompt_text": "Tap to see hint",
+                    "hint_text": "I have a golden retriever, a very playful companion."
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "delay_ms": 250,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_2",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "initial",
+            "requires_user_action": true,
+            "content": {
+              "recording": {
+                "max_audio_ms": 60000,
+                "min_audio_ms": 3000
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "START_RECORDING",
+      "frames": [
+        {
+          "delay_ms": 80,
+          "frame": {
+            "event": "RECORDING_STARTED",
+            "message_id": "user_2",
+            "message_template": "user_speech"
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "frames": [
+        {
+          "delay_ms": 150,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_2",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 600,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_2",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "I have a golden retriever.",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                }
+              ],
+              "analysis": {
+                "state": "completed",
+                "overall_score": 76,
+                "is_perfect": false
+              }
+            }
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_9",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_9",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "Golden Retrievers are so friendly and cute! Why do you want to learn English—work, study, travel, or friends?",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null,
+              "available_taps": [
+                {
+                  "tap_type": "hint",
+                  "enabled": true,
+                  "state": "initial",
+                  "tap_actions": [],
+                  "meta": {
+                    "prompt_text": "Tap to see hint",
+                    "hint_text": "I want to learn English for work and travel adventures!"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "delay_ms": 250,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_3",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "initial",
+            "requires_user_action": true,
+            "content": {
+              "recording": {
+                "max_audio_ms": 60000,
+                "min_audio_ms": 3000
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "START_RECORDING",
+      "frames": [
+        {
+          "delay_ms": 80,
+          "frame": {
+            "event": "RECORDING_STARTED",
+            "message_id": "user_3",
+            "message_template": "user_speech"
+          }
+        }
+      ]
+    },
+    {
+      "on_event": "SUBMIT_RESPONSE",
+      "frames": [
+        {
+          "delay_ms": 150,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_3",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 600,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "user_3",
+            "from": "user",
+            "message_template": "user_speech",
+            "message_alignment": "right",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "I want to learn English for work.",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                }
+              ],
+              "analysis": {
+                "state": "completed",
+                "overall_score": 82,
+                "is_perfect": false
+              }
+            }
+          }
+        },
+        {
+          "delay_ms": 200,
+          "frame": {
+            "event": "CONVERSATION_STATE",
+            "mode": "conversation",
+            "stars": {
+              "current": 2,
+              "total": 3,
+              "breakdown": [
+                {
+                  "source": "hint",
+                  "label": "Answer every question",
+                  "earned": true
+                },
+                {
+                  "source": "mistakes",
+                  "label": "Say your first words",
+                  "earned": true
+                },
+                {
+                  "source": "drill",
+                  "label": "Practice pronouncing a word",
+                  "earned": false
+                }
+              ]
+            },
+            "progress_bar": {
+              "total_steps": 4,
+              "current_step": 4,
+              "next_step": 4
+            },
+            "practice_skipped": false
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_10",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_10",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "Great, we have come to the end of our session today",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null
+            }
+          }
+        },
+        {
+          "delay_ms": 300,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_11",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loading",
+            "requires_user_action": false,
+            "content": {}
+          }
+        },
+        {
+          "delay_ms": 500,
+          "frame": {
+            "event": "MESSAGE",
+            "message_id": "bot_11",
+            "from": "bot",
+            "message_template": "bot_speech",
+            "message_alignment": "left",
+            "message_state": "loaded",
+            "requires_user_action": false,
+            "content": {
+              "text": "Well done! We completed today's conversation",
+              "message_actions": [
+                {
+                  "action_type": "tts",
+                  "enabled": true
+                },
+                {
+                  "action_type": "translate",
+                  "enabled": true
+                }
+              ],
+              "highlight_ranges": null
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "responders": {}
+}

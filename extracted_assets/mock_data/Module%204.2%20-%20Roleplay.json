@@ -1,0 +1,1119 @@
+{
+  "status": "success",
+  "message": "Modules returned successfully",
+  "data": {
+    "module_id": 17,
+    "landing_subunit_nav_id": "sta_149_1",
+    "units": [
+      {
+        "id": 1,
+        "unit_template": "virtual_generalized_v1",
+        "title": "Virtual Unit Title",
+        "unit_order": 1,
+        "subunits": [
+          {
+            "subunit_id": 149,
+            "subunit_template": "lesson-final-challenge",
+            "original_subunit_order": 1,
+            "final_subunit_order": 1,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "lesson",
+            "meta": {
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fsara_and_clipboard.png?alt=media&token=0db3b52c-86d3-42e8-913b-87b9fd31e6dc",
+                "type": "url"
+              },
+              "title": "Final Challenge",
+              "cta_text": "Complete final challenge",
+              "sentence": {
+                "text": "Let's test your skills in less than 2 minutes",
+                "highlight_ranges": []
+              },
+              "background_animation_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fbrown_confetti.gif?alt=media&token=d3f839d1-21d9-4756-9e75-08fe005edcee",
+              "is_included_in_progress_bar": false
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": false,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 148,
+                "progress_bar": null,
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_148_2",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": false,
+                "final_subunit_order": 2
+              }
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_149_1",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          },
+          {
+            "subunit_id": 148,
+            "subunit_template": "exercise-fill-blank-single-dialogue",
+            "original_subunit_order": 2,
+            "final_subunit_order": 2,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "states": [
+                {
+                  "state": "initial",
+                  "cta_text": "Select",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Choose the correct response"
+                },
+                {
+                  "state": "selected",
+                  "cta_text": "Submit",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Submit your answer"
+                },
+                {
+                  "state": "correct",
+                  "cta_text": "Continue",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Perfect!"
+                },
+                {
+                  "state": "incorrect",
+                  "cta_text": "Continue",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Not quite"
+                }
+              ],
+              "stimulus": {
+                "options": [
+                  {
+                    "key": "fine",
+                    "label": "its'"
+                  },
+                  {
+                    "key": "bad",
+                    "label": "it"
+                  },
+                  {
+                    "key": "tired",
+                    "label": "it's"
+                  }
+                ],
+                "statements": [
+                  {
+                    "text": [
+                      "Hey Alex, I hope you are doing well!"
+                    ],
+                    "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F05%2F5.2%2Fex-fillBlankSingle-Dialogue-Emma.png?alt=media&token=ae7273b0-f9a3-45fa-aaa5-4a73ed7f7bdc"
+                  },
+                  {
+                    "text": [
+                      "Oh, hi Emma! _______ so good to see you."
+                    ],
+                    "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F05%2F5.2%2Fex-fillBlankSingle-Dialogue-Alex.jpg?alt=media&token=9a39a095-99ac-4f0a-8fb2-7197137111ec"
+                  }
+                ],
+                "question_type": "fill_blank_single",
+                "correct_answer": "tired"
+              },
+              "theme_palette_id": "default_light",
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": true,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 150,
+                "progress_bar": {
+                  "next_step": 2,
+                  "total_steps": 7,
+                  "current_step": 1
+                },
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_150_3",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": false,
+                "final_subunit_order": 3
+              }
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_148_2",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          },
+          {
+            "subunit_id": 150,
+            "subunit_template": "exercise-scripted-without-media",
+            "original_subunit_order": 3,
+            "final_subunit_order": 3,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "helper": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "audio_url": "",
+                "button_text": "Play Audio"
+              },
+              "script": {
+                "english": "Oh, hi Emma! It's so good to see you.",
+                "translation": "¡Hola Emma! ¡Qué bueno verte!"
+              },
+              "states": [
+                {
+                  "state": "initial",
+                  "title": "Speak the sentence",
+                  "show_skip": false,
+                  "show_score": false
+                },
+                {
+                  "state": "retry",
+                  "title": "Let's try again",
+                  "show_skip": true,
+                  "show_score": true,
+                  "show_retry_cta": true
+                },
+                {
+                  "state": "next",
+                  "title": "Great! Ready for next?",
+                  "show_skip": false,
+                  "show_score": true
+                }
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": true,
+            "next": {
+              "failure": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 151,
+                "progress_bar": {
+                  "next_step": 2,
+                  "total_steps": 10,
+                  "current_step": 1
+                },
+                "fetch_dynamic": true,
+                "subunit_nav_id": "sta_151_4",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": true,
+                "final_subunit_order": 4
+              },
+              "success": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 152,
+                "progress_bar": {
+                  "next_step": 2,
+                  "total_steps": 10,
+                  "current_step": 1
+                },
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_152_5",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": true,
+                "final_subunit_order": 5
+              }
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_150_3",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          },
+          {
+            "subunit_id": 151,
+            "subunit_template": "exercise-scripted-without-media",
+            "original_subunit_order": 4,
+            "final_subunit_order": 4,
+            "is_dynamic": true,
+            "dynamic_type": "enrichment",
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "helper": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "audio_url": "",
+                "button_text": "Play Audio"
+              },
+              "script": {
+                "english": "Oh, hi Emma! It's so good to see you.",
+                "translation": "¡Hola Emma! ¡Qué bueno verte!"
+              },
+              "states": [
+                {
+                  "state": "initial",
+                  "title": "Speak the sentence",
+                  "show_skip": false,
+                  "show_score": true
+                },
+                {
+                  "state": "retry",
+                  "title": "Let's try again",
+                  "show_skip": true,
+                  "show_score": true
+                },
+                {
+                  "state": "next",
+                  "title": "Great! Ready for next?",
+                  "show_skip": false,
+                  "show_score": true
+                }
+              ],
+              "content_strategies": [
+                27
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": true,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 152,
+                "progress_bar": {
+                  "next_step": 3,
+                  "total_steps": 7,
+                  "current_step": 2
+                },
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_152_5",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": true,
+                "final_subunit_order": 5
+              }
+            },
+            "self": {
+              "status": "not_ready",
+              "fetch_dynamic": true
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [
+                27
+              ],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_151_4",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          },
+          {
+            "subunit_id": 152,
+            "subunit_template": "exercise-fill-blank-single-dialogue",
+            "original_subunit_order": 5,
+            "final_subunit_order": 5,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "states": [
+                {
+                  "state": "initial",
+                  "cta_text": "Select",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Choose the correct response"
+                },
+                {
+                  "state": "selected",
+                  "cta_text": "Submit",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Submit your answer"
+                },
+                {
+                  "state": "correct",
+                  "cta_text": "Continue",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Perfect!"
+                },
+                {
+                  "state": "incorrect",
+                  "cta_text": "Continue",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Not quite"
+                }
+              ],
+              "stimulus": {
+                "options": [
+                  {
+                    "key": "fine",
+                    "label": "are"
+                  },
+                  {
+                    "key": "bad",
+                    "label": "is"
+                  },
+                  {
+                    "key": "tired",
+                    "label": "about"
+                  }
+                ],
+                "statements": [
+                  {
+                    "text": [
+                      "So, how are you doing?"
+                    ],
+                    "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F05%2F5.2%2Fex-fillBlankSingle-Dialogue-Emma.png?alt=media&token=ae7273b0-f9a3-45fa-aaa5-4a73ed7f7bdc"
+                  },
+                  {
+                    "text": [
+                      "I'm doing okay, could be better. How _______ you?"
+                    ],
+                    "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F05%2F5.2%2Fex-fillBlankSingle-Dialogue-Alex.jpg?alt=media&token=9a39a095-99ac-4f0a-8fb2-7197137111ec"
+                  }
+                ],
+                "question_type": "fill_blank_single",
+                "correct_answer": "tired"
+              },
+              "theme_palette_id": "default_light",
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": true,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 153,
+                "progress_bar": {
+                  "next_step": 4,
+                  "total_steps": 7,
+                  "current_step": 3
+                },
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_153_6",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": false,
+                "final_subunit_order": 6
+              }
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_152_5",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          },
+          {
+            "subunit_id": 153,
+            "subunit_template": "exercise-scripted-without-media",
+            "original_subunit_order": 6,
+            "final_subunit_order": 6,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "helper": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "audio_url": "",
+                "button_text": "Play Audio"
+              },
+              "script": {
+                "english": "I'm doing okay, could be better. How about you?",
+                "translation": "Estoy bien, podría estar mejor. ¿Y tú?"
+              },
+              "states": [
+                {
+                  "state": "initial",
+                  "title": "Speak the sentence",
+                  "show_skip": false,
+                  "show_score": false
+                },
+                {
+                  "state": "retry",
+                  "title": "Let's try again",
+                  "show_skip": true,
+                  "show_score": true,
+                  "show_retry_cta": true
+                },
+                {
+                  "state": "next",
+                  "title": "Great! Ready for next?",
+                  "show_skip": false,
+                  "show_score": true
+                }
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": true,
+            "next": {
+              "failure": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 154,
+                "progress_bar": {
+                  "next_step": 4,
+                  "total_steps": 7,
+                  "current_step": 4
+                },
+                "fetch_dynamic": true,
+                "subunit_nav_id": "sta_154_7",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": true,
+                "final_subunit_order": 7
+              },
+              "success": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 155,
+                "progress_bar": {
+                  "next_step": 5,
+                  "total_steps": 7,
+                  "current_step": 4
+                },
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_155_8",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": true,
+                "final_subunit_order": 8
+              }
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_153_6",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          },
+          {
+            "subunit_id": 154,
+            "subunit_template": "exercise-scripted-without-media",
+            "original_subunit_order": 7,
+            "final_subunit_order": 7,
+            "is_dynamic": true,
+            "dynamic_type": "enrichment",
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "helper": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "audio_url": "",
+                "button_text": "Play Audio"
+              },
+              "script": {
+                "english": "I'm doing okay, could be better. How about you?",
+                "translation": "Estoy bien, podría estar mejor. ¿Y tú?"
+              },
+              "states": [
+                {
+                  "state": "initial",
+                  "title": "Speak the sentence",
+                  "show_skip": false,
+                  "show_score": true
+                },
+                {
+                  "state": "retry",
+                  "title": "Let's try again",
+                  "show_skip": true,
+                  "show_score": true
+                },
+                {
+                  "state": "next",
+                  "title": "Great! Ready for next?",
+                  "show_skip": false,
+                  "show_score": true
+                }
+              ],
+              "content_strategies": [
+                34
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": true,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 155,
+                "progress_bar": {
+                  "next_step": 5,
+                  "total_steps": 7,
+                  "current_step": 4
+                },
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_155_8",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": true,
+                "final_subunit_order": 8
+              }
+            },
+            "self": {
+              "status": "not_ready",
+              "fetch_dynamic": true
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [
+                34
+              ],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_154_7",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          },
+          {
+            "subunit_id": 155,
+            "subunit_template": "exercise-fill-blank-single-dialogue",
+            "original_subunit_order": 8,
+            "final_subunit_order": 8,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "states": [
+                {
+                  "state": "initial",
+                  "cta_text": "Select",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Choose the correct response"
+                },
+                {
+                  "state": "selected",
+                  "cta_text": "Submit",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Submit your answer"
+                },
+                {
+                  "state": "correct",
+                  "cta_text": "Continue",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Perfect!"
+                },
+                {
+                  "state": "incorrect",
+                  "cta_text": "Continue",
+                  "title_icon": {
+                    "url": "",
+                    "type": "url"
+                  },
+                  "title_text": "Not quite"
+                }
+              ],
+              "stimulus": {
+                "options": [
+                  {
+                    "key": "fine",
+                    "label": "heading"
+                  },
+                  {
+                    "key": "bad",
+                    "label": "headed"
+                  },
+                  {
+                    "key": "tired",
+                    "label": "head"
+                  }
+                ],
+                "statements": [
+                  {
+                    "text": [
+                      "That's great to hear!"
+                    ],
+                    "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F05%2F5.2%2Fex-fillBlankSingle-Dialogue-Emma.png?alt=media&token=ae7273b0-f9a3-45fa-aaa5-4a73ed7f7bdc"
+                  },
+                  {
+                    "text": [
+                      "I actually have to _______ out for a meeting right now."
+                    ],
+                    "image_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/roadmap_meta%2Fimage%2F2026%2F05%2F5.2%2Fex-fillBlankSingle-Dialogue-Alex.jpg?alt=media&token=9a39a095-99ac-4f0a-8fb2-7197137111ec"
+                  }
+                ],
+                "question_type": "fill_blank_single",
+                "correct_answer": "tired"
+              },
+              "theme_palette_id": "default_light",
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": true,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 156,
+                "progress_bar": {
+                  "next_step": 6,
+                  "total_steps": 7,
+                  "current_step": 5
+                },
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_156_9",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": false,
+                "final_subunit_order": 9
+              }
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_155_8",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          },
+          {
+            "subunit_id": 156,
+            "subunit_template": "exercise-scripted-without-media",
+            "original_subunit_order": 9,
+            "final_subunit_order": 9,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "helper": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "audio_url": "",
+                "button_text": "Play Audio"
+              },
+              "script": {
+                "english": "I actually have to head out for a meeting right now.",
+                "translation": "De hecho, tengo que salir a una reunión ahora mismo."
+              },
+              "states": [
+                {
+                  "state": "initial",
+                  "title": "Speak the sentence",
+                  "show_skip": false,
+                  "show_score": false
+                },
+                {
+                  "state": "retry",
+                  "title": "Let's try again",
+                  "show_skip": true,
+                  "show_score": true,
+                  "show_retry_cta": true
+                },
+                {
+                  "state": "next",
+                  "title": "Great! Ready for next?",
+                  "show_skip": false,
+                  "show_score": true
+                }
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": true,
+            "next": {
+              "failure": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 157,
+                "progress_bar": {
+                  "next_step": 6,
+                  "total_steps": 7,
+                  "current_step": 6
+                },
+                "fetch_dynamic": true,
+                "subunit_nav_id": "sta_157_10",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": true,
+                "final_subunit_order": 10
+              },
+              "success": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 159,
+                "progress_bar": {
+                  "next_step": 7,
+                  "total_steps": 7,
+                  "current_step": 6
+                },
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_159_11",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": true,
+                "final_subunit_order": 11
+              }
+            },
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": [
+                47
+              ]
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_156_9",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          },
+          {
+            "subunit_id": 157,
+            "subunit_template": "exercise-scripted-without-media",
+            "original_subunit_order": 10,
+            "final_subunit_order": 10,
+            "is_dynamic": true,
+            "dynamic_type": "enrichment",
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "exercise",
+            "meta": {
+              "helper": {
+                "icon": {
+                  "url": "",
+                  "type": "url"
+                },
+                "audio_url": "",
+                "button_text": "Play Audio"
+              },
+              "script": {
+                "english": "I actually have to head out for a meeting right now.",
+                "translation": "De hecho, tengo que salir a una reunión ahora mismo."
+              },
+              "states": [
+                {
+                  "state": "initial",
+                  "title": "Speak the sentence",
+                  "show_skip": false,
+                  "show_score": true
+                },
+                {
+                  "state": "retry",
+                  "title": "Let's try again",
+                  "show_skip": true,
+                  "show_score": true
+                },
+                {
+                  "state": "next",
+                  "title": "Great! Ready for next?",
+                  "show_skip": false,
+                  "show_score": true
+                }
+              ],
+              "content_strategies": [
+                29
+              ],
+              "is_included_in_progress_bar": true
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": true,
+            "next": {
+              "always": {
+                "known": true,
+                "fetch_next": false,
+                "subunit_id": 159,
+                "progress_bar": {
+                  "next_step": 7,
+                  "total_steps": 7,
+                  "current_step": 6
+                },
+                "fetch_dynamic": false,
+                "subunit_nav_id": "sta_159_11",
+                "transition_data": null,
+                "fetch_next_config": null,
+                "wait_for_analysis": true,
+                "final_subunit_order": 11
+              }
+            },
+            "self": {
+              "status": "not_ready",
+              "fetch_dynamic": true
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [
+                29
+              ],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": false,
+            "subunit_nav_id": "sta_157_10",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          },
+          {
+            "subunit_id": 159,
+            "subunit_template": "lesson-module-progress-bookend",
+            "original_subunit_order": 11,
+            "final_subunit_order": 11,
+            "is_dynamic": false,
+            "dynamic_type": null,
+            "base_lang_id": 1,
+            "lang_id": 1,
+            "fallback": true,
+            "type": "lesson",
+            "meta": {
+              "final_state": {
+                "heading": "Onto the next one!",
+                "progress": {
+                  "subtext": "Day 5",
+                  "numerator": 3,
+                  "denominator": 3
+                },
+                "subheading": "Part 3 of Day 5 is ready"
+              },
+              "initial_state": {
+                "heading": "Roleplay Done!",
+                "cta_text": "Let's Review",
+                "progress": {
+                  "subtext": "Day 5",
+                  "numerator": 2,
+                  "denominator": 3
+                },
+                "subheading": "Part 2 of Day 5 is complete",
+                "description": {
+                  "text": "Now, let's review how you did and practice on your mistakes.",
+                  "highlight_ranges": [
+                    {
+                      "color": "#FFEBCD",
+                      "label": "score improved  considerably with practice",
+                      "range": [
+                        5,
+                        42
+                      ]
+                    }
+                  ]
+                }
+              },
+              "background_animation_url": "https://firebasestorage.googleapis.com/v0/b/stimuler-53977.appspot.com/o/test_audios%2Fbrown_confetti.gif?alt=media&token=d3f839d1-21d9-4756-9e75-08fe005edcee",
+              "is_included_in_progress_bar": false
+            },
+            "transition_data": null,
+            "progress_bar": null,
+            "to_capture_response": false,
+            "next": null,
+            "self": {
+              "status": "ready",
+              "fetch_dynamic": false
+            },
+            "attempt_counter": 1,
+            "subunit_attempt_id": null,
+            "attempt_status": "not_attempted",
+            "participates_in": {
+              "subunit": [],
+              "module": [],
+              "chapter": [],
+              "course": []
+            },
+            "staged_content_id": null,
+            "isLast": true,
+            "subunit_nav_id": "sta_159_11",
+            "score": null,
+            "response": null,
+            "attempted_next": null
+          }
+        ]
+      }
+    ]
+  }
+}
