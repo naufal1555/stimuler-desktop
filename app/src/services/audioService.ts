@@ -1,3 +1,9 @@
+export interface RecordingOptions {
+  onAudioLevel?: (level: number) => void
+  onFrequencyData?: (bands: number[]) => void
+  bandsCount?: number
+}
+
 class AudioService {
   private mediaRecorder: MediaRecorder | null = null
   private audioChunks: Blob[] = []
@@ -5,10 +11,25 @@ class AudioService {
   private audioContext: AudioContext | null = null
   private analyser: AnalyserNode | null = null
   private micStream: MediaStream | null = null
+  private animFrameId: number | null = null
 
-  async startRecording(onAudioLevel?: (level: number) => void): Promise<void> {
+  async startRecording(
+    listenerOrOptions?: ((level: number) => void) | RecordingOptions
+  ): Promise<void> {
     this.stopPlayback()
     this.audioChunks = []
+
+    let onAudioLevel: ((level: number) => void) | undefined
+    let onFrequencyData: ((bands: number[]) => void) | undefined
+    let bandsCount = 24
+
+    if (typeof listenerOrOptions === 'function') {
+      onAudioLevel = listenerOrOptions
+    } else if (listenerOrOptions) {
+      onAudioLevel = listenerOrOptions.onAudioLevel
+      onFrequencyData = listenerOrOptions.onFrequencyData
+      bandsCount = listenerOrOptions.bandsCount || 24
+    }
 
     this.micStream = await navigator.mediaDevices.getUserMedia({
       audio: {
@@ -31,28 +52,45 @@ class AudioService {
       }
     }
 
-    // Audio level analyser for waveform visualization
-    if (onAudioLevel) {
+    // High-resolution real-time audio frequency visualizer via AnalyserNode
+    if (onAudioLevel || onFrequencyData) {
       try {
         const AudioContextClass = window.AudioContext || (window as any).webkitAudioContext
         this.audioContext = new AudioContextClass()
         const source = this.audioContext.createMediaStreamSource(this.micStream)
         this.analyser = this.audioContext.createAnalyser()
-        this.analyser.fftSize = 64
+        this.analyser.fftSize = 128
+        this.analyser.smoothingTimeConstant = 0.65
         source.connect(this.analyser)
 
         const dataArray = new Uint8Array(this.analyser.frequencyBinCount)
+
         const checkLevel = () => {
           if (!this.analyser || !this.mediaRecorder || this.mediaRecorder.state !== 'recording') return
           this.analyser.getByteFrequencyData(dataArray)
-          let sum = 0
-          for (let i = 0; i < dataArray.length; i++) {
-            sum += dataArray[i]
+
+          if (onAudioLevel) {
+            let sum = 0
+            for (let i = 0; i < dataArray.length; i++) {
+              sum += dataArray[i]
+            }
+            const avg = sum / dataArray.length
+            const normalized = Math.min(100, Math.round((avg / 255) * 100 * 1.5))
+            onAudioLevel(normalized)
           }
-          const avg = sum / dataArray.length
-          const normalized = Math.min(100, Math.round((avg / 255) * 100 * 1.5))
-          onAudioLevel(normalized)
-          requestAnimationFrame(checkLevel)
+
+          if (onFrequencyData) {
+            // Group FFT bins into bands representing speech frequencies (80Hz - 4kHz)
+            const step = Math.max(1, Math.floor(dataArray.length / bandsCount))
+            const bands: number[] = []
+            for (let b = 0; b < bandsCount; b++) {
+              const val = dataArray[Math.min(dataArray.length - 1, b * step)]
+              bands.push(Math.min(100, Math.round((val / 255) * 100)))
+            }
+            onFrequencyData(bands)
+          }
+
+          this.animFrameId = requestAnimationFrame(checkLevel)
         }
         checkLevel()
       } catch (err) {
@@ -101,8 +139,17 @@ class AudioService {
         onEnded()
       }
     }
-    this.currentAudio.play().catch((e) => console.warn('Audio playback prevented:', e))
+    this.currentAudio.play().catch((err) => {
+      console.warn('Audio playback error:', err)
+    })
     return this.currentAudio
+  }
+
+  playSFX(sfxName: string): void {
+    const sfxPath = `/assets/onboarding_chat/sfx/${sfxName}`
+    const sound = new Audio(sfxPath)
+    sound.volume = 0.7
+    sound.play().catch(() => {})
   }
 
   stopPlayback(): void {
@@ -113,23 +160,21 @@ class AudioService {
     }
   }
 
-  playSFX(sfxName: string): void {
-    const sfxPath = `/assets/audio/${sfxName}`
-    const sound = new Audio(sfxPath)
-    sound.volume = 0.6
-    sound.play().catch(() => {})
-  }
-
   private cleanup(): void {
+    if (this.animFrameId) {
+      cancelAnimationFrame(this.animFrameId)
+      this.animFrameId = null
+    }
     if (this.micStream) {
       this.micStream.getTracks().forEach((track) => track.stop())
       this.micStream = null
     }
     if (this.audioContext && this.audioContext.state !== 'closed') {
-      this.audioContext.close()
+      this.audioContext.close().catch(() => {})
       this.audioContext = null
     }
     this.analyser = null
+    this.mediaRecorder = null
   }
 }
 

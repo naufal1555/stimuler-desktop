@@ -27,6 +27,9 @@ export const App: React.FC = () => {
   const [activeMistakes, setActiveMistakes] = useState<TurnAnalysis | null>(null)
   const [sessionMessages, setSessionMessages] = useState<ConversationMessage[]>([])
   const [sessionResult, setSessionResult] = useState<SessionResult | null>(null)
+  const [viewMode, setViewMode] = useState<'desktop' | 'mobile'>(() => {
+    return (localStorage.getItem('stimuler_view_mode') as 'desktop' | 'mobile') || 'desktop'
+  })
   
   // First-run user onboarding check
   const [userProfile, setUserProfile] = useState<{ name: string; goal: string; baselineBand: number } | null>(() => {
@@ -92,6 +95,53 @@ export const App: React.FC = () => {
     setCurrentView('topics')
   }
 
+  const handleToggleViewMode = (mode: 'desktop' | 'mobile') => {
+    setViewMode(mode)
+    localStorage.setItem('stimuler_view_mode', mode)
+  }
+
+  const renderViewContent = () => (
+    <>
+      {currentView === 'topics' && (
+        <TopicCatalog
+          categories={categories}
+          onSelectTopic={handleSelectTopic}
+        />
+      )}
+
+      {currentView === 'chat' && activeTopic && (
+        <ChatRoom
+          topic={activeTopic}
+          onBack={() => setCurrentView('topics')}
+          onFinishSession={handleFinishSession}
+          onOpenMistakes={(analysis) => setActiveMistakes(analysis)}
+          onOpenSettings={() => setCurrentView('settings')}
+          apiKey={settings.geminiApiKey}
+        />
+      )}
+
+      {currentView === 'analysis' && sessionResult && (
+        <AnalysisResult
+          result={sessionResult}
+          messages={sessionMessages}
+          onBackToTopics={() => setCurrentView('topics')}
+          onPracticeDrill={() => setCurrentView('drills')}
+        />
+      )}
+
+      {currentView === 'roadmap' && <RoadmapView />}
+
+      {currentView === 'drills' && <PronunciationDrill />}
+
+      {currentView === 'settings' && (
+        <SettingsModal
+          settings={settings}
+          onSave={handleSaveSettings}
+        />
+      )}
+    </>
+  )
+
   // If new user, show Onboarding placement test
   if (!userProfile) {
     return <OnboardingFlow onComplete={handleCompleteOnboarding} />
@@ -108,46 +158,32 @@ export const App: React.FC = () => {
           }
         }}
         streakCount={settings.streakCount}
+        viewMode={viewMode}
+        onToggleViewMode={handleToggleViewMode}
       />
 
       {/* Main Workspace Area */}
-      <main className="flex-1 flex flex-col h-full overflow-hidden relative">
-        {currentView === 'topics' && (
-          <TopicCatalog
-            categories={categories}
-            onSelectTopic={handleSelectTopic}
-          />
-        )}
+      <main className={`flex-1 flex flex-col h-full overflow-hidden relative transition-colors duration-200 ${
+        viewMode === 'mobile' ? 'bg-[#ECE8F7] items-center justify-center p-3' : 'bg-[#F7F6FF]'
+      }`}>
+        {viewMode === 'mobile' ? (
+          <div className="relative w-[400px] h-[94vh] max-h-[860px] bg-[#12111A] rounded-[48px] p-3 shadow-2xl border-4 border-[#2E2A4A] flex flex-col overflow-hidden animate-in zoom-in-95 duration-200">
+            {/* Phone Top Speaker & Camera / Dynamic Island */}
+            <div className="w-24 h-4 bg-black rounded-full mx-auto mb-2 shrink-0 flex items-center justify-center gap-2">
+              <div className="w-2 h-2 rounded-full bg-[#1C1A2E]" />
+              <div className="w-2.5 h-2.5 rounded-full bg-[#181628]" />
+            </div>
 
-        {currentView === 'chat' && activeTopic && (
-          <ChatRoom
-            topic={activeTopic}
-            onBack={() => setCurrentView('topics')}
-            onFinishSession={handleFinishSession}
-            onOpenMistakes={(analysis) => setActiveMistakes(analysis)}
-            onOpenSettings={() => setCurrentView('settings')}
-            apiKey={settings.geminiApiKey}
-          />
-        )}
+            {/* Mobile Viewport Screen */}
+            <div className="flex-1 rounded-[36px] overflow-hidden bg-[#F7F6FF] flex flex-col relative shadow-inner">
+              {renderViewContent()}
+            </div>
 
-        {currentView === 'analysis' && sessionResult && (
-          <AnalysisResult
-            result={sessionResult}
-            messages={sessionMessages}
-            onBackToTopics={() => setCurrentView('topics')}
-            onPracticeDrill={() => setCurrentView('drills')}
-          />
-        )}
-
-        {currentView === 'roadmap' && <RoadmapView />}
-
-        {currentView === 'drills' && <PronunciationDrill />}
-
-        {currentView === 'settings' && (
-          <SettingsModal
-            settings={settings}
-            onSave={handleSaveSettings}
-          />
+            {/* Phone Home Bar */}
+            <div className="w-28 h-1 bg-white/40 rounded-full mx-auto mt-2 shrink-0" />
+          </div>
+        ) : (
+          renderViewContent()
         )}
       </main>
 

@@ -54,6 +54,7 @@ const DEFAULT_DRILLS: DrillWord[] = [
 export const PronunciationDrill: React.FC = () => {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [isRecording, setIsRecording] = useState(false)
+  const [frequencyBands, setFrequencyBands] = useState<number[]>(Array(16).fill(12))
   const [drillScore, setDrillScore] = useState<number | null>(null)
   const [drillFeedback, setDrillFeedback] = useState<string | null>(null)
   const [isEvaluating, setIsEvaluating] = useState(false)
@@ -75,7 +76,10 @@ export const PronunciationDrill: React.FC = () => {
       setDrillFeedback(null)
       setIsRecording(true)
       audioService.playSFX('tone.mp3')
-      await audioService.startRecording()
+      await audioService.startRecording({
+        onFrequencyData: (bands) => setFrequencyBands(bands),
+        bandsCount: 16
+      })
     } catch (e) {
       alert('Microphone permission required')
       setIsRecording(false)
@@ -183,6 +187,19 @@ export const PronunciationDrill: React.FC = () => {
             {drillFeedback && (
               <p className="text-xs text-[#6B7280]">{drillFeedback}</p>
             )}
+          </div>
+        )}
+
+        {/* Real-time Frequency Waveform during Recording */}
+        {isRecording && (
+          <div className="flex items-center justify-center gap-1.5 h-7 mb-4 max-w-xs mx-auto px-4 py-1 bg-[#F0EDFC] rounded-full border border-[#E8E5F8]">
+            {frequencyBands.map((val, idx) => (
+              <div
+                key={idx}
+                className="w-1.5 bg-gradient-to-t from-[#5A45FF] to-[#8C7DFF] rounded-full transition-all duration-75 ease-out"
+                style={{ height: `${Math.max(15, val)}%` }}
+              />
+            ))}
           </div>
         )}
 

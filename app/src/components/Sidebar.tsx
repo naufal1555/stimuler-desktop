@@ -7,7 +7,9 @@ import {
   BarChart3, 
   Settings, 
   Volume2,
-  Compass
+  Compass,
+  Monitor,
+  Smartphone
 } from 'lucide-react'
 import { LottiePlayer } from './LottiePlayer'
 
@@ -15,12 +17,16 @@ interface SidebarProps {
   currentView: AppView
   onSelectView: (view: AppView) => void
   streakCount: number
+  viewMode: 'desktop' | 'mobile'
+  onToggleViewMode: (mode: 'desktop' | 'mobile') => void
 }
 
 export const Sidebar: React.FC<SidebarProps> = ({
   currentView,
   onSelectView,
-  streakCount
+  streakCount,
+  viewMode,
+  onToggleViewMode
 }) => {
   const menuItems = [
     { id: 'topics', label: 'Explore Topics', icon: MessageSquare },
@@ -68,6 +74,41 @@ export const Sidebar: React.FC<SidebarProps> = ({
 
       {/* Bottom Widgets */}
       <div className="space-y-3 pt-4 border-t border-[#F0EDFC]">
+        {/* View Mode Switcher (Desktop vs Mobile Frame) */}
+        <div>
+          <div className="text-[11px] font-bold text-[#6B7280] uppercase tracking-wider mb-1.5 px-1">
+            Display Mode
+          </div>
+          <div className="bg-[#F0EDFC] p-1 rounded-xl flex items-center gap-1 border border-[#E8E5F8]">
+            <button
+              type="button"
+              onClick={() => onToggleViewMode('desktop')}
+              className={`flex-1 flex items-center justify-center gap-1.5 py-1.5 px-2 rounded-lg text-xs font-semibold transition-all ${
+                viewMode === 'desktop'
+                  ? 'bg-white text-[#5A45FF] shadow-xs'
+                  : 'text-[#6B7280] hover:text-[#1E1B4B]'
+              }`}
+              title="Expand to Full Desktop View"
+            >
+              <Monitor className="w-3.5 h-3.5" />
+              <span>Desktop</span>
+            </button>
+            <button
+              type="button"
+              onClick={() => onToggleViewMode('mobile')}
+              className={`flex-1 flex items-center justify-center gap-1.5 py-1.5 px-2 rounded-lg text-xs font-semibold transition-all ${
+                viewMode === 'mobile'
+                  ? 'bg-white text-[#5A45FF] shadow-xs'
+                  : 'text-[#6B7280] hover:text-[#1E1B4B]'
+              }`}
+              title="Emulate Mobile Phone Device View"
+            >
+              <Smartphone className="w-3.5 h-3.5" />
+              <span>Mobile</span>
+            </button>
+          </div>
+        </div>
+
         {/* Streak Counter Widget with Extracted Lottie Flame */}
         <div className="bg-gradient-to-r from-[#FFF5EA] to-[#FFEEDB] border border-[#FDE0C5] p-3 rounded-2xl flex items-center gap-2.5">
           <div className="w-10 h-10 shrink-0">

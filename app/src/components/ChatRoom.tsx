@@ -37,6 +37,7 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
   const [isRecording, setIsRecording] = useState(false)
   const [recordingSeconds, setRecordingSeconds] = useState(0)
   const [audioLevel, setAudioLevel] = useState(0)
+  const [frequencyBands, setFrequencyBands] = useState<number[]>(Array(24).fill(12))
   const [isProcessing, setIsProcessing] = useState(false)
   const [activeHint, setActiveHint] = useState<string | null>(null)
   const [activeTranslationId, setActiveTranslationId] = useState<string | null>(null)
@@ -139,8 +140,10 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
       setRecordingSeconds(0)
       setIsRecording(true)
 
-      await audioService.startRecording((level) => {
-        setAudioLevel(level)
+      await audioService.startRecording({
+        onAudioLevel: (level) => setAudioLevel(level),
+        onFrequencyData: (bands) => setFrequencyBands(bands),
+        bandsCount: 24
       })
 
       timerRef.current = setInterval(() => {
@@ -541,13 +544,13 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
             {isRecording ? (
               <>
                 <span className="w-3 h-3 rounded-full bg-[#F35252] animate-ping shrink-0" />
-                <div className="flex-1 flex items-center gap-1 h-6">
-                  {[...Array(20)].map((_, i) => (
+                <div className="flex-1 flex items-center justify-center gap-1 h-8 px-2">
+                  {frequencyBands.map((bandLevel, i) => (
                     <div
                       key={i}
-                      className="flex-1 bg-[#5A45FF] rounded-full transition-all duration-75"
+                      className="flex-1 max-w-[6px] bg-gradient-to-t from-[#5A45FF] via-[#7B68FF] to-[#A599FF] rounded-full transition-all duration-75 ease-out shadow-sm"
                       style={{
-                        height: `${Math.max(15, Math.min(100, audioLevel * (0.5 + Math.random())))}%`
+                        height: `${Math.max(12, Math.min(100, bandLevel))}%`
                       }}
                     />
                   ))}
