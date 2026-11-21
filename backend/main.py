@@ -1,4 +1,5 @@
 import os
+import time
 import logging
 from contextlib import asynccontextmanager
 from pathlib import Path
@@ -26,10 +27,52 @@ from api.routers import (
 
 PORT = int(os.environ.get("STIMULER_PORT", 8765))
 
+def prune_audio_cache(cache_dir: Path, max_age_hours: float = 2.0, max_size_mb: float = 150.0) -> None:
+    """Safely prunes stale temporary audio recordings to protect user disk space."""
+    try:
+        now = time.time()
+        max_age_seconds = max_age_hours * 3600
+        audio_files = [
+            f for f in cache_dir.iterdir()
+            if f.is_file() and f.name != ".gitkeep" and f.suffix.lower() in (".webm", ".mp3", ".wav")
+        ]
+
+        pruned_count = 0
+        for f in audio_files:
+            try:
+                if (now - f.stat().st_mtime) > max_age_seconds:
+                    f.unlink(missing_ok=True)
+                    pruned_count += 1
+            except Exception:
+                pass
+
+        # Check total directory size and prune oldest if necessary (LRU)
+        remaining = [
+            f for f in cache_dir.iterdir()
+            if f.is_file() and f.name != ".gitkeep" and f.suffix.lower() in (".webm", ".mp3", ".wav")
+        ]
+        total_size_mb = sum(f.stat().st_size for f in remaining) / (1024 * 1024)
+        if total_size_mb > max_size_mb:
+            remaining.sort(key=lambda x: x.stat().st_mtime)
+            while total_size_mb > max_size_mb and remaining:
+                oldest = remaining.pop(0)
+                sz = oldest.stat().st_size / (1024 * 1024)
+                oldest.unlink(missing_ok=True)
+                total_size_mb -= sz
+                pruned_count += 1
+
+        if pruned_count > 0:
+            logger.info("Audio cache maintenance: pruned %d stale audio recordings.", pruned_count)
+    except Exception as e:
+        logger.warning("Audio cache pruning non-fatal error: %s", e)
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info("Initializing Stimuler Hexagonal Backend on port %s...", PORT)
-    # Pre-warming Faster-Whisper model on background startup
+    # 1. Clean audio cache on startup
+    prune_audio_cache(container.audio_cache_dir)
+
+    # 2. Pre-warming Faster-Whisper model on background startup
     try:
         logger.info("Pre-warming Whisper STT model ('small.en')...")
         _ = container.whisper_adapter.model

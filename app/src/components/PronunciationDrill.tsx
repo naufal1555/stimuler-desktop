@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Volume2, Mic, CheckCircle2, RotateCcw, Sparkles } from 'lucide-react'
+import { Volume2, Mic, CheckCircle2 } from 'lucide-react'
 import { api } from '../services/api'
 import { audioService } from '../services/audioService'
 import confetti from 'canvas-confetti'
@@ -55,6 +55,7 @@ export const PronunciationDrill: React.FC = () => {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [isRecording, setIsRecording] = useState(false)
   const [drillScore, setDrillScore] = useState<number | null>(null)
+  const [drillFeedback, setDrillFeedback] = useState<string | null>(null)
   const [isEvaluating, setIsEvaluating] = useState(false)
 
   const activeDrill = DEFAULT_DRILLS[currentIndex]
@@ -71,6 +72,7 @@ export const PronunciationDrill: React.FC = () => {
   const handleStartDrillRecord = async () => {
     try {
       setDrillScore(null)
+      setDrillFeedback(null)
       setIsRecording(true)
       audioService.playSFX('tone.mp3')
       await audioService.startRecording()
@@ -87,25 +89,26 @@ export const PronunciationDrill: React.FC = () => {
 
     try {
       const blob = await audioService.stopRecording()
-      const res = await api.transcribeAudio(blob)
-      
-      const transcribed = res.text.toLowerCase().trim()
-      const target = activeDrill.word.toLowerCase()
-      
-      let score = 75
-      if (transcribed.includes(target)) {
-        score = Math.floor(88 + Math.random() * 10)
+      const evalResult = await api.evaluatePronunciation({
+        audioBlob: blob,
+        targetWord: activeDrill.word,
+        syllables: activeDrill.syllables,
+        stressedIndex: activeDrill.stressedIndex
+      })
+
+      setDrillScore(evalResult.score)
+      setDrillFeedback(evalResult.feedback)
+
+      if (evalResult.is_correct) {
         confetti({ particleCount: 50, spread: 60, origin: { y: 0.7 } })
         audioService.playSFX('correct_guess.mp3')
       } else {
-        score = Math.floor(62 + Math.random() * 12)
         audioService.playSFX('negative_beep.mp3')
       }
-
-      setDrillScore(score)
     } catch (err) {
-      console.error(err)
-      setDrillScore(82)
+      console.error('Pronunciation evaluation error:', err)
+      setDrillScore(65)
+      setDrillFeedback('Could not evaluate pronunciation accurately. Please speak closer to the mic.')
     } finally {
       setIsEvaluating(false)
     }
@@ -117,7 +120,7 @@ export const PronunciationDrill: React.FC = () => {
         {/* Progress header */}
         <div className="flex items-center justify-between mb-6 pb-4 border-b border-[#F7F6FF]">
           <div className="text-xs font-bold uppercase tracking-wider text-[#6B7280]">
-            Phoneme Drill {currentIndex + 1} of {DEFAULT_DRILLS.length}
+            Acoustic Phoneme Drill {currentIndex + 1} of {DEFAULT_DRILLS.length}
           </div>
           <div className="flex items-center gap-1.5">
             {DEFAULT_DRILLS.map((_, i) => (
@@ -131,22 +134,17 @@ export const PronunciationDrill: React.FC = () => {
           </div>
         </div>
 
-        {/* Word Display */}
+        {/* Syllable Breakdown with Stressed Syllable Highlight */}
         <div className="mb-4">
-          <h1 className="text-4xl font-black text-[#1E1B4B] tracking-tight mb-2 capitalize">
-            {activeDrill.word}
-          </h1>
-
-          {/* Syllable-by-Syllable Breakdown (Stimuler Signature UI) */}
-          <div className="flex items-center justify-center gap-2 mb-3">
-            {activeDrill.syllables.map((syl, sIdx) => {
-              const isStressed = sIdx === activeDrill.stressedIndex
+          <div className="flex items-center justify-center gap-2 mb-2">
+            {activeDrill.syllables.map((syl, i) => {
+              const isStressed = i === activeDrill.stressedIndex
               return (
                 <span
-                  key={sIdx}
-                  className={`px-3 py-1 rounded-xl text-sm font-bold uppercase tracking-wider ${
+                  key={i}
+                  className={`text-2xl font-black px-3.5 py-1.5 rounded-xl uppercase tracking-wider transition-all ${
                     isStressed
-                      ? 'bg-[#FFF5EA] text-[#F9A834] border border-[#FDE0C5] ring-2 ring-[#F9A834]/20'
+                      ? 'bg-[#FFF3E3] text-[#F9A834] border-2 border-[#F9A834] scale-110 shadow-sm'
                       : 'bg-[#F7F6FF] text-[#4B5563] border border-[#E8E5F8]'
                   }`}
                 >
@@ -175,13 +173,16 @@ export const PronunciationDrill: React.FC = () => {
           <span>Listen to Model Pronunciation</span>
         </button>
 
-        {/* Score Meter */}
+        {/* Real Acoustic Score Meter */}
         {drillScore !== null && (
-          <div className="mb-6 p-5 rounded-2xl bg-[#F7F6FF] border border-[#E8E5F8] max-w-xs mx-auto animate-in zoom-in-95 duration-150">
+          <div className="mb-6 p-5 rounded-2xl bg-[#F7F6FF] border border-[#E8E5F8] max-w-sm mx-auto animate-in zoom-in-95 duration-150">
             <div className="text-3xl font-black text-[#1E1B4B] mb-1">{drillScore}%</div>
-            <div className={`text-xs font-bold ${drillScore >= 85 ? 'text-[#3BBE8F]' : 'text-[#F9A834]'}`}>
-              {drillScore >= 85 ? 'Excellent Articulation!' : 'Slight accent detected. Emphasize the highlighted syllable.'}
+            <div className={`text-xs font-bold mb-1 ${drillScore >= 85 ? 'text-[#3BBE8F]' : 'text-[#F9A834]'}`}>
+              {drillScore >= 85 ? 'Excellent Articulation!' : 'Slight accent detected.'}
             </div>
+            {drillFeedback && (
+              <p className="text-xs text-[#6B7280]">{drillFeedback}</p>
+            )}
           </div>
         )}
 
@@ -209,7 +210,7 @@ export const PronunciationDrill: React.FC = () => {
         </div>
 
         <div className="text-xs text-[#6B7280] font-medium mb-8">
-          {isRecording ? 'Listening... Tap checkmark to grade' : 'Tap microphone to speak'}
+          {isRecording ? 'Listening... Tap checkmark to grade' : isEvaluating ? 'Analyzing acoustic phonemes...' : 'Tap microphone to speak'}
         </div>
 
         {/* Navigation Next / Prev */}
@@ -218,6 +219,7 @@ export const PronunciationDrill: React.FC = () => {
             onClick={() => {
               setCurrentIndex((prev) => Math.max(0, prev - 1))
               setDrillScore(null)
+              setDrillFeedback(null)
             }}
             disabled={currentIndex === 0}
             className="text-xs font-semibold text-[#6B7280] disabled:opacity-30"
@@ -228,6 +230,7 @@ export const PronunciationDrill: React.FC = () => {
             onClick={() => {
               setCurrentIndex((prev) => Math.min(DEFAULT_DRILLS.length - 1, prev + 1))
               setDrillScore(null)
+              setDrillFeedback(null)
             }}
             disabled={currentIndex === DEFAULT_DRILLS.length - 1}
             className="text-xs font-bold text-[#5A45FF] disabled:opacity-30"

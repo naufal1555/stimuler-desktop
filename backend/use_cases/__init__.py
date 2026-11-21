@@ -4,6 +4,7 @@ from .synthesize_voice import SynthesizeVoiceUseCase
 from .translate_text import TranslateTextUseCase
 from .catalog_queries import CatalogQueriesUseCase
 from .settings_use_case import SettingsUseCase
+from .evaluate_pronunciation import EvaluatePronunciationUseCase
 
 __all__ = [
     "TranscribeSpeechUseCase",
@@ -11,5 +12,6 @@ __all__ = [
     "SynthesizeVoiceUseCase",
     "TranslateTextUseCase",
     "CatalogQueriesUseCase",
-    "SettingsUseCase"
+    "SettingsUseCase",
+    "EvaluatePronunciationUseCase"
 ]

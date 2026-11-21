@@ -42,8 +42,32 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
   const [activeTranslationId, setActiveTranslationId] = useState<string | null>(null)
   const [translations, setTranslations] = useState<Record<string, string>>({})
   const [stars, setStars] = useState({ current: 0, total: 3 })
+  const [toast, setToast] = useState<{ type: 'error' | 'warning' | 'info'; text: string } | null>(null)
+  const [isBackendConnected, setIsBackendConnected] = useState(true)
   const chatEndRef = useRef<HTMLDivElement>(null)
   const timerRef = useRef<any>(null)
+
+  const showToast = (type: 'error' | 'warning' | 'info', text: string) => {
+    setToast({ type, text })
+    setTimeout(() => {
+      setToast((current) => (current?.text === text ? null : current))
+    }, 5000)
+  }
+
+  // Periodic heartbeat monitor
+  useEffect(() => {
+    let isMounted = true
+    const checkConnection = async () => {
+      const ok = await api.checkHealth()
+      if (isMounted) setIsBackendConnected(ok)
+    }
+    checkConnection()
+    const interval = setInterval(checkConnection, 10000)
+    return () => {
+      isMounted = false
+      clearInterval(interval)
+    }
+  }, [])
 
   // Initialize conversation with Sarah's opening greeting
   useEffect(() => {
@@ -151,7 +175,7 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
       const rawText = (transcribeRes.text || '').trim()
 
       if (!rawText || rawText.startsWith('(') || rawText.length === 0) {
-        alert(rawText || 'Suara tidak terdeteksi jelas. Mohon berbicara lebih dekat ke mikrofon dan coba lagi.')
+        showToast('warning', rawText || 'Suara tidak terdeteksi jelas. Mohon berbicara lebih dekat ke mikrofon dan coba lagi.')
         setIsProcessing(false)
         return
       }
@@ -261,7 +285,7 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
       }
     } catch (err) {
       console.error('Submission error:', err)
-      alert('Speech processing failed. Please check backend connection.')
+      showToast('error', 'Koneksi ke AI Backend terputus atau respon lambat. Mohon coba rekam kembali.')
     } finally {
       setIsProcessing(false)
     }
@@ -295,8 +319,8 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
           <div>
             <h2 className="font-bold text-base text-[#1E1B4B] leading-tight">{topic.title}</h2>
             <div className="text-xs text-[#6B7280] font-medium flex items-center gap-1.5">
-              <span className="w-2 h-2 rounded-full bg-[#3BBE8F]" />
-              <span>Conversation with Sarah</span>
+              <span className={`w-2 h-2 rounded-full ${isBackendConnected ? 'bg-[#3BBE8F]' : 'bg-[#F59E0B] animate-pulse'}`} />
+              <span>{isBackendConnected ? 'Conversation with Sarah' : 'Reconnecting to AI Backend...'}</span>
             </div>
           </div>
         </div>
@@ -317,6 +341,28 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
           </button>
         </div>
       </header>
+
+      {/* Floating Toast Notification */}
+      {toast && (
+        <div className={`px-6 py-2.5 flex items-center justify-between text-xs transition-all shadow-sm shrink-0 ${
+          toast.type === 'error'
+            ? 'bg-[#FEF2F2] border-b border-[#FCA5A5] text-[#991B1B]'
+            : toast.type === 'warning'
+            ? 'bg-[#FFFBEB] border-b border-[#FDE68A] text-[#92400E]'
+            : 'bg-[#EFF6FF] border-b border-[#BFDBFE] text-[#1E40AF]'
+        }`}>
+          <div className="flex items-center gap-2">
+            <AlertCircle className="w-4 h-4 shrink-0" />
+            <span className="font-medium">{toast.text}</span>
+          </div>
+          <button
+            onClick={() => setToast(null)}
+            className="text-xs font-bold uppercase tracking-wider opacity-70 hover:opacity-100"
+          >
+            Dismiss
+          </button>
+        </div>
+      )}
 
       {/* AI Engine Status Banner */}
       {!apiKey && (

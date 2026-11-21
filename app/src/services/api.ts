@@ -42,7 +42,7 @@ export const api = {
     }
   },
 
-  async transcribeAudio(audioBlob: Blob): Promise<{ text: string; duration: number; wpm: number; audio_url: string }> {
+  async transcribeAudio(audioBlob: Blob): Promise<{ text: string; duration: number; wpm: number; audio_url: string; words?: any[] }> {
     const formData = new FormData()
     formData.append('file', audioBlob, 'speech.wav')
     const res = await fetch(`${BASE_URL}/api/transcribe`, {
@@ -74,6 +74,38 @@ export const api = {
     return json.data
   },
 
+  async evaluatePronunciation(params: {
+    audioBlob: Blob
+    targetWord: string
+    syllables?: string[]
+    stressedIndex?: number
+  }): Promise<{
+    target_word: string
+    transcribed_word: string
+    score: number
+    is_correct: boolean
+    accuracy_level: string
+    confidence: number
+    syllables: Array<{ syllable: string; score: number; is_stressed: boolean }>
+    feedback: string
+  }> {
+    const formData = new FormData()
+    formData.append('file', params.audioBlob, 'drill.wav')
+    formData.append('target_word', params.targetWord)
+    if (params.syllables) {
+      formData.append('syllables', JSON.stringify(params.syllables))
+    }
+    formData.append('stressed_index', String(params.stressedIndex ?? 0))
+
+    const res = await fetch(`${BASE_URL}/api/pronunciation/evaluate`, {
+      method: 'POST',
+      body: formData
+    })
+    if (!res.ok) throw new Error('Pronunciation evaluation failed')
+    const json = await res.json()
+    return json.data
+  },
+
   async getTTS(text: string): Promise<{ audio_url: string }> {
     const res = await fetch(`${BASE_URL}/api/tts`, {
       method: 'POST',
@@ -99,5 +131,14 @@ export const api = {
       console.warn('Translation call failed:', e)
     }
     return text
+  },
+
+  async checkHealth(): Promise<boolean> {
+    try {
+      const res = await fetch(`${BASE_URL}/api/health`, { method: 'GET' })
+      return res.ok
+    } catch {
+      return false
+    }
   }
 }

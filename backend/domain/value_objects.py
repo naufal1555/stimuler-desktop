@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from typing import Optional, List
+from typing import Optional, List, Dict, Any
 
 @dataclass(frozen=True)
 class GrammarCorrection:
@@ -40,3 +40,20 @@ class TranscriptionResult:
     words: List[WordTiming] = field(default_factory=list)
     status: str = "success"
     warning_message: Optional[str] = None
+
+@dataclass(frozen=True)
+class SyllableScore:
+    syllable: str
+    score: int
+    is_stressed: bool
+
+@dataclass(frozen=True)
+class PronunciationAssessment:
+    target_word: str
+    transcribed_word: str
+    score: int
+    is_correct: bool
+    accuracy_level: str
+    confidence: float
+    syllable_scores: List[SyllableScore] = field(default_factory=list)
+    feedback: str = ""

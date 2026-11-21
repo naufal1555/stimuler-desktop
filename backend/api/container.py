@@ -14,6 +14,7 @@ from use_cases.synthesize_voice import SynthesizeVoiceUseCase
 from use_cases.translate_text import TranslateTextUseCase
 from use_cases.catalog_queries import CatalogQueriesUseCase
 from use_cases.settings_use_case import SettingsUseCase
+from use_cases.evaluate_pronunciation import EvaluatePronunciationUseCase
 
 class Container:
     """
@@ -49,6 +50,7 @@ class Container:
         self.translate_text_uc = TranslateTextUseCase(translator=self.google_translate)
         self.catalog_queries_uc = CatalogQueriesUseCase(mock_data_dir=self.mock_data_dir)
         self.settings_uc = SettingsUseCase(user_repo=self.repo)
+        self.evaluate_pronunciation_uc = EvaluatePronunciationUseCase()
 
 # Global container instance
 container = Container()
