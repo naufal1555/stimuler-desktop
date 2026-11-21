@@ -16,44 +16,44 @@ export const TopicCatalog: React.FC<TopicCatalogProps> = ({
   const activeCategory = categories[selectedCategoryIndex] || categories[0]
 
   return (
-    <div className="flex-1 flex flex-col h-full overflow-y-auto p-8 max-w-6xl mx-auto">
+    <div className="flex-1 flex flex-col h-full overflow-y-auto p-4 sm:p-8 max-w-6xl mx-auto w-full">
       {/* Hero Welcome Banner */}
-      <div className="relative overflow-hidden rounded-3xl bg-gradient-to-r from-[#5A45FF] to-[#7B69FF] text-white p-8 mb-8 shadow-lg shadow-[#5A45FF]/15">
+      <div className="relative overflow-hidden rounded-2xl sm:rounded-3xl bg-gradient-to-r from-[#5A45FF] to-[#7B69FF] text-white p-5 sm:p-8 mb-4 sm:mb-8 shadow-lg shadow-[#5A45FF]/15 shrink-0">
         <div className="relative z-10 max-w-xl">
-          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/20 text-xs font-semibold mb-3 backdrop-blur-sm">
+          <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 sm:px-3 sm:py-1 rounded-full bg-white/20 text-[11px] sm:text-xs font-semibold mb-2 sm:mb-3 backdrop-blur-sm">
             <Sparkles className="w-3.5 h-3.5" />
             <span>AI English Fluency Practice</span>
           </div>
-          <h1 className="text-3xl font-extrabold tracking-tight mb-2">
+          <h1 className="text-xl sm:text-3xl font-extrabold tracking-tight mb-1.5 sm:mb-2 leading-tight">
             Practice Real Conversations with Sarah
           </h1>
-          <p className="text-white/80 text-sm leading-relaxed mb-4">
+          <p className="text-white/80 text-xs sm:text-sm leading-relaxed mb-2 sm:mb-4">
             Speak naturally for 60 seconds, receive instant IELTS Band scores, and get native-level feedback on grammar and pronunciation.
           </p>
         </div>
 
         {/* Decorative circle */}
-        <div className="absolute right-0 top-0 bottom-0 w-80 pointer-events-none flex items-center justify-center opacity-20">
-          <div className="w-96 h-96 rounded-full border-[32px] border-white/20 transform translate-x-1/3" />
+        <div className="absolute right-0 top-0 bottom-0 w-60 sm:w-80 pointer-events-none flex items-center justify-center opacity-20">
+          <div className="w-72 sm:w-96 h-72 sm:h-96 rounded-full border-[24px] sm:border-[32px] border-white/20 transform translate-x-1/3" />
         </div>
       </div>
 
       {/* Category Filter Tabs */}
-      <div className="flex items-center gap-2 mb-6 overflow-x-auto pb-2 scrollbar-none">
+      <div className="flex items-center gap-2 mb-4 sm:mb-6 overflow-x-auto pb-1.5 scrollbar-none shrink-0">
         {categories.map((cat, idx) => {
           const isSelected = selectedCategoryIndex === idx
           return (
             <button
               key={cat.category_id}
               onClick={() => setSelectedCategoryIndex(idx)}
-              className={`px-5 py-2.5 rounded-full text-sm font-semibold transition-all shrink-0 flex items-center gap-2 ${
+              className={`px-4 sm:px-5 py-2 sm:py-2.5 rounded-full text-xs sm:text-sm font-semibold transition-all shrink-0 flex items-center gap-1.5 sm:gap-2 ${
                 isSelected
                   ? 'bg-[#1E1B4B] text-white shadow-sm'
                   : 'bg-white text-[#4B5563] hover:bg-[#EFEFFD] border border-[#E8E5F8]'
               }`}
             >
               <span>{cat.title}</span>
-              <span className={`text-xs px-2 py-0.5 rounded-full ${isSelected ? 'bg-white/20 text-white' : 'bg-[#F7F6FF] text-[#6B7280]'}`}>
+              <span className={`text-[10px] sm:text-xs px-1.5 sm:px-2 py-0.5 rounded-full ${isSelected ? 'bg-white/20 text-white' : 'bg-[#F7F6FF] text-[#6B7280]'}`}>
                 {cat.topics.length}
               </span>
             </button>
@@ -63,7 +63,7 @@ export const TopicCatalog: React.FC<TopicCatalogProps> = ({
 
       {/* Topic Grid */}
       {activeCategory && (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 sm:gap-5 pb-6">
           {activeCategory.topics.map((topic) => {
             const isCompleted = topic.attempt_status === 'completed'
             return (

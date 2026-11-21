@@ -24,16 +24,16 @@ export const RoadmapView: React.FC = () => {
   const course = courses[0]
 
   return (
-    <div className="flex-1 flex flex-col h-full overflow-y-auto bg-[#F7F6FF] p-8 max-w-5xl mx-auto">
-      <div className="mb-8">
-        <h1 className="text-3xl font-extrabold text-[#1E1B4B] mb-2">Fluency Roadmap</h1>
-        <p className="text-sm text-[#6B7280]">
+    <div className="flex-1 flex flex-col h-full overflow-y-auto bg-[#F7F6FF] p-4 sm:p-8 max-w-5xl mx-auto w-full">
+      <div className="mb-6 sm:mb-8">
+        <h1 className="text-xl sm:text-3xl font-extrabold text-[#1E1B4B] mb-1.5 sm:mb-2">Fluency Roadmap</h1>
+        <p className="text-xs sm:text-sm text-[#6B7280]">
           Step-by-step English curriculum: Video lessons, grammar drills, pronunciation challenges, and roleplays.
         </p>
       </div>
 
       {course?.chapters?.map((chapter: any, chIdx: number) => (
-        <div key={chapter.chapter_id} className="mb-8 bg-white rounded-3xl p-6 border border-[#E8E5F8] shadow-sm">
+        <div key={chapter.chapter_id} className="mb-6 sm:mb-8 bg-white rounded-2xl sm:rounded-3xl p-4 sm:p-6 border border-[#E8E5F8] shadow-sm">
           {/* Chapter Header */}
           <div className="flex items-center justify-between mb-5 pb-3 border-b border-[#F7F6FF]">
             <div>

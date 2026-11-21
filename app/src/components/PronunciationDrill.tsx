@@ -119,8 +119,8 @@ export const PronunciationDrill: React.FC = () => {
   }
 
   return (
-    <div className="flex-1 flex flex-col h-full overflow-y-auto bg-[#F7F6FF] p-8 max-w-2xl mx-auto justify-center items-center">
-      <div className="w-full bg-white rounded-3xl p-8 border border-[#E8E5F8] shadow-xl text-center relative overflow-hidden">
+    <div className="flex-1 flex flex-col h-full overflow-y-auto bg-[#F7F6FF] p-4 sm:p-8 max-w-2xl mx-auto justify-center items-center w-full">
+      <div className="w-full bg-white rounded-2xl sm:rounded-3xl p-5 sm:p-8 border border-[#E8E5F8] shadow-xl text-center relative overflow-hidden">
         {/* Progress header */}
         <div className="flex items-center justify-between mb-6 pb-4 border-b border-[#F7F6FF]">
           <div className="text-xs font-bold uppercase tracking-wider text-[#6B7280]">

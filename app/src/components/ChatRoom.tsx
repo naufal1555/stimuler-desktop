@@ -311,35 +311,36 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
   return (
     <div className="flex-1 flex flex-col h-full bg-[#F7F6FF] relative">
       {/* Top Navigation & Status Bar */}
-      <header className="h-16 px-6 bg-white border-b border-[#E8E5F8] flex items-center justify-between shrink-0">
-        <div className="flex items-center gap-4">
+      <header className="h-14 sm:h-16 px-3.5 sm:px-6 bg-white border-b border-[#E8E5F8] flex items-center justify-between shrink-0">
+        <div className="flex items-center gap-2 sm:gap-4 min-w-0">
           <button
             onClick={onBack}
-            className="p-2 rounded-xl text-[#6B7280] hover:bg-[#F7F6FF] hover:text-[#1E1B4B] transition-colors"
+            className="p-1.5 sm:p-2 rounded-xl text-[#6B7280] hover:bg-[#F7F6FF] hover:text-[#1E1B4B] transition-colors shrink-0"
           >
             <ArrowLeft className="w-5 h-5" />
           </button>
-          <div>
-            <h2 className="font-bold text-base text-[#1E1B4B] leading-tight">{topic.title}</h2>
-            <div className="text-xs text-[#6B7280] font-medium flex items-center gap-1.5">
-              <span className={`w-2 h-2 rounded-full ${isBackendConnected ? 'bg-[#3BBE8F]' : 'bg-[#F59E0B] animate-pulse'}`} />
-              <span>{isBackendConnected ? 'Conversation with Sarah' : 'Reconnecting to AI Backend...'}</span>
+          <div className="min-w-0">
+            <h2 className="font-bold text-sm sm:text-base text-[#1E1B4B] leading-tight truncate max-w-[130px] sm:max-w-xs">{topic.title}</h2>
+            <div className="text-[11px] sm:text-xs text-[#6B7280] font-medium flex items-center gap-1.5 truncate">
+              <span className={`w-2 h-2 rounded-full shrink-0 ${isBackendConnected ? 'bg-[#3BBE8F]' : 'bg-[#F59E0B] animate-pulse'}`} />
+              <span className="truncate">{isBackendConnected ? 'Sarah AI Coach' : 'Reconnecting...'}</span>
             </div>
           </div>
         </div>
 
         {/* Stars Counter & Finish Action */}
-        <div className="flex items-center gap-4">
-          <div className="flex items-center gap-1.5 px-3 py-1 bg-[#FFF9E6] border border-[#FFE8A3] rounded-full text-xs font-bold text-[#F9A834]">
+        <div className="flex items-center gap-2 sm:gap-4 shrink-0">
+          <div className="hidden sm:flex items-center gap-1.5 px-3 py-1 bg-[#FFF9E6] border border-[#FFE8A3] rounded-full text-xs font-bold text-[#F9A834]">
             <Sparkles className="w-3.5 h-3.5 fill-[#F9A834]" />
             <span>{stars.current}/{stars.total} Stars</span>
           </div>
 
           <button
             onClick={() => onFinishSession(messages)}
-            className="px-4 py-2 bg-[#5A45FF] hover:bg-[#4B36F0] text-white text-xs font-semibold rounded-xl shadow-sm transition-all flex items-center gap-1.5"
+            className="px-3 sm:px-4 py-1.5 sm:py-2 bg-[#5A45FF] hover:bg-[#4B36F0] text-white text-xs font-semibold rounded-xl shadow-sm transition-all flex items-center gap-1"
           >
-            <span>Finish & View Analysis</span>
+            <span className="hidden sm:inline">Finish & View Analysis</span>
+            <span className="sm:hidden">Finish</span>
             <ChevronRight className="w-3.5 h-3.5" />
           </button>
         </div>
@@ -387,17 +388,17 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
       )}
 
       {/* Chat Messages Feed */}
-      <div className="flex-1 overflow-y-auto p-6 space-y-6 max-w-4xl w-full mx-auto">
+      <div className="flex-1 overflow-y-auto p-3.5 sm:p-6 space-y-4 sm:space-y-6 max-w-4xl w-full mx-auto">
         {messages.map((msg) => {
           const isBot = msg.from === 'bot'
           return (
             <div
               key={msg.message_id}
-              className={`flex items-start gap-3.5 ${isBot ? 'justify-start' : 'justify-end'}`}
+              className={`flex items-start gap-2.5 sm:gap-3.5 ${isBot ? 'justify-start' : 'justify-end'}`}
             >
               {/* Sarah Avatar */}
               {isBot && (
-                <div className="w-10 h-10 rounded-2xl bg-white overflow-hidden shrink-0 shadow-sm border border-[#E8E5F8]">
+                <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-xl sm:rounded-2xl bg-white overflow-hidden shrink-0 shadow-sm border border-[#E8E5F8]">
                   <img
                     src="/assets/images/avatar_sarah_still.webp"
                     alt="Sarah"
@@ -410,7 +411,7 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
               )}
 
               {/* Message Content Bubble */}
-              <div className={`max-w-lg rounded-2xl p-4 shadow-sm ${
+              <div className={`max-w-[88%] sm:max-w-lg rounded-2xl p-3 sm:p-4 shadow-sm ${
                 isBot 
                   ? 'bg-white border border-[#E8E5F8] text-[#1E1B4B]' 
                   : 'bg-[#5A45FF] text-white'

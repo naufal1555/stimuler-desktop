@@ -32,28 +32,28 @@ export const AnalysisResult: React.FC<AnalysisResultProps> = ({
   const userRecordings = messages.filter((m) => m.from === 'user')
 
   return (
-    <div className="flex-1 flex flex-col h-full overflow-y-auto bg-[#F7F6FF] p-8 max-w-5xl mx-auto">
+    <div className="flex-1 flex flex-col h-full overflow-y-auto bg-[#F7F6FF] p-4 sm:p-8 max-w-5xl mx-auto w-full">
       {/* Top Header */}
-      <div className="flex items-center justify-between mb-6">
+      <div className="flex items-center justify-between mb-4 sm:mb-6">
         <button
           onClick={onBackToTopics}
-          className="flex items-center gap-2 text-sm font-semibold text-[#6B7280] hover:text-[#1E1B4B] transition-colors"
+          className="flex items-center gap-1.5 sm:gap-2 text-xs sm:text-sm font-semibold text-[#6B7280] hover:text-[#1E1B4B] transition-colors"
         >
           <ArrowLeft className="w-4 h-4" />
-          <span>Back to Topics</span>
+          <span>Back</span>
         </button>
 
         <button
           onClick={onPracticeDrill}
-          className="px-4 py-2 bg-[#5A45FF] hover:bg-[#4B36F0] text-white text-xs font-bold rounded-xl shadow-sm transition-all flex items-center gap-2"
+          className="px-3 sm:px-4 py-1.5 sm:py-2 bg-[#5A45FF] hover:bg-[#4B36F0] text-white text-xs font-bold rounded-xl shadow-sm transition-all flex items-center gap-1.5"
         >
           <RotateCcw className="w-3.5 h-3.5" />
-          <span>Practice Error Words Now</span>
+          <span>Practice Errors</span>
         </button>
       </div>
 
       {/* IELTS Band Hero Card with Extracted Lottie */}
-      <div className="bg-gradient-to-tr from-[#1E1B4B] to-[#3B3294] text-white rounded-3xl p-8 mb-6 shadow-xl relative overflow-hidden">
+      <div className="bg-gradient-to-tr from-[#1E1B4B] to-[#3B3294] text-white rounded-2xl sm:rounded-3xl p-5 sm:p-8 mb-6 shadow-xl relative overflow-hidden">
         {/* Background Confetti Lottie */}
         <div className="absolute inset-0 pointer-events-none opacity-20">
           <LottiePlayer src="/assets/lottie/star_conv_background_confetti.json" className="w-full h-full object-cover" />

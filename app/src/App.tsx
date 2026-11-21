@@ -9,6 +9,7 @@ import { RoadmapView } from './components/RoadmapView'
 import { PronunciationDrill } from './components/PronunciationDrill'
 import { SettingsModal } from './components/SettingsModal'
 import { OnboardingFlow } from './components/OnboardingFlow'
+import { IPhone18ProFrame } from './components/IPhone18ProFrame'
 import { api } from './services/api'
 
 const DEFAULT_SETTINGS: UserSettings = {
@@ -164,24 +165,12 @@ export const App: React.FC = () => {
 
       {/* Main Workspace Area */}
       <main className={`flex-1 flex flex-col h-full overflow-hidden relative transition-colors duration-200 ${
-        viewMode === 'mobile' ? 'bg-[#ECE8F7] items-center justify-center p-3' : 'bg-[#F7F6FF]'
+        viewMode === 'mobile' ? 'bg-[#EAE7F6] items-center justify-center p-2 sm:p-4 overflow-y-auto' : 'bg-[#F7F6FF]'
       }`}>
         {viewMode === 'mobile' ? (
-          <div className="relative w-[400px] h-[94vh] max-h-[860px] bg-[#12111A] rounded-[48px] p-3 shadow-2xl border-4 border-[#2E2A4A] flex flex-col overflow-hidden animate-in zoom-in-95 duration-200">
-            {/* Phone Top Speaker & Camera / Dynamic Island */}
-            <div className="w-24 h-4 bg-black rounded-full mx-auto mb-2 shrink-0 flex items-center justify-center gap-2">
-              <div className="w-2 h-2 rounded-full bg-[#1C1A2E]" />
-              <div className="w-2.5 h-2.5 rounded-full bg-[#181628]" />
-            </div>
-
-            {/* Mobile Viewport Screen */}
-            <div className="flex-1 rounded-[36px] overflow-hidden bg-[#F7F6FF] flex flex-col relative shadow-inner">
-              {renderViewContent()}
-            </div>
-
-            {/* Phone Home Bar */}
-            <div className="w-28 h-1 bg-white/40 rounded-full mx-auto mt-2 shrink-0" />
-          </div>
+          <IPhone18ProFrame>
+            {renderViewContent()}
+          </IPhone18ProFrame>
         ) : (
           renderViewContent()
         )}
