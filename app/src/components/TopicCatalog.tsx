@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { TopicCategory, Topic } from '../types'
-import { Star, MessageCircle, Sparkles, CheckCircle2 } from 'lucide-react'
+import { Star, MessageCircle, Sparkles, CheckCircle2, Plus, X } from 'lucide-react'
 
 interface TopicCatalogProps {
   categories: TopicCategory[]
@@ -12,8 +12,39 @@ export const TopicCatalog: React.FC<TopicCatalogProps> = ({
   onSelectTopic
 }) => {
   const [selectedCategoryIndex, setSelectedCategoryIndex] = useState(0)
+  const [showCustomModal, setShowCustomModal] = useState(false)
+  const [customTitle, setCustomTitle] = useState('')
+  const [customContext, setCustomContext] = useState('')
+  const [customRole, setCustomRole] = useState('Job Interviewer')
 
   const activeCategory = categories[selectedCategoryIndex] || categories[0]
+
+  const handleCreateCustomTopic = (e: React.FormEvent) => {
+    e.preventDefault()
+    if (!customTitle.trim()) return
+
+    const customTopic: Topic = {
+      topic_id: `custom_${Date.now()}`,
+      topic_order: 999,
+      title: customTitle.trim(),
+      image_url: '',
+      image_border_color: '#5A45FF',
+      total_stars: 3,
+      max_stars_achieved: null,
+      attempt_counter: 1,
+      attempt_status: 'available',
+      open_mode: 'new',
+      meta: {
+        context: customContext.trim() || `Context: Professional discussion on ${customTitle.trim()}`,
+        role: customRole
+      }
+    }
+
+    setShowCustomModal(false)
+    setCustomTitle('')
+    setCustomContext('')
+    onSelectTopic(customTopic)
+  }
 
   return (
     <div className="flex-1 flex flex-col h-full overflow-y-auto p-4 sm:p-8 max-w-6xl mx-auto w-full">
@@ -38,7 +69,7 @@ export const TopicCatalog: React.FC<TopicCatalogProps> = ({
         </div>
       </div>
 
-      {/* Category Filter Tabs */}
+      {/* Category Filter Tabs with Custom Scenario Trigger */}
       <div className="flex items-center gap-2 mb-4 sm:mb-6 overflow-x-auto pb-1.5 scrollbar-none shrink-0">
         {categories.map((cat, idx) => {
           const isSelected = selectedCategoryIndex === idx
@@ -59,6 +90,16 @@ export const TopicCatalog: React.FC<TopicCatalogProps> = ({
             </button>
           )
         })}
+
+        {/* Custom Scenario Button */}
+        <button
+          onClick={() => setShowCustomModal(true)}
+          className="px-4 py-2 sm:py-2.5 rounded-full text-xs sm:text-sm font-bold bg-[#5A45FF] text-white hover:bg-[#4B36F0] shadow-sm shrink-0 flex items-center gap-1.5 transition-all ml-auto"
+          title="Create your own roleplay scenario"
+        >
+          <Plus className="w-4 h-4" />
+          <span>Custom Scenario</span>
+        </button>
       </div>
 
       {/* Topic Grid */}
@@ -113,6 +154,88 @@ export const TopicCatalog: React.FC<TopicCatalogProps> = ({
               </div>
             )
           })}
+        </div>
+      )}
+
+      {/* Custom Scenario Modal */}
+      {showCustomModal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-xs p-4 animate-in fade-in">
+          <div className="bg-white rounded-3xl p-6 sm:p-8 max-w-md w-full shadow-2xl border border-[#E8E5F8] animate-in zoom-in-95">
+            <div className="flex items-center justify-between mb-5 pb-3 border-b border-[#F0EDFC]">
+              <div>
+                <h3 className="font-extrabold text-lg text-[#1E1B4B]">Create Custom Scenario</h3>
+                <p className="text-xs text-[#6B7280]">Tailor Sarah's role and conversation context</p>
+              </div>
+              <button
+                onClick={() => setShowCustomModal(false)}
+                className="p-1.5 rounded-xl text-[#6B7280] hover:bg-[#F7F6FF] hover:text-[#1E1B4B]"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            <form onSubmit={handleCreateCustomTopic} className="space-y-4">
+              <div>
+                <label className="block text-xs font-bold uppercase tracking-wider text-[#1E1B4B] mb-1.5">
+                  Scenario Title
+                </label>
+                <input
+                  type="text"
+                  required
+                  placeholder="e.g. Google Software Engineer Interview"
+                  value={customTitle}
+                  onChange={(e) => setCustomTitle(e.target.value)}
+                  className="w-full px-4 py-2.5 rounded-xl border border-[#E8E5F8] text-sm text-[#1E1B4B] focus:outline-none focus:border-[#5A45FF]"
+                />
+              </div>
+
+              <div>
+                <label className="block text-xs font-bold uppercase tracking-wider text-[#1E1B4B] mb-1.5">
+                  Sarah's Persona / Role
+                </label>
+                <select
+                  value={customRole}
+                  onChange={(e) => setCustomRole(e.target.value)}
+                  className="w-full px-4 py-2.5 rounded-xl border border-[#E8E5F8] text-sm text-[#1E1B4B] focus:outline-none focus:border-[#5A45FF]"
+                >
+                  <option value="Job Interviewer">Job Interviewer (Technical / Behavioral)</option>
+                  <option value="Colleague / Manager">Colleague / Manager (Workplace Sync)</option>
+                  <option value="Debate Partner">Debate Partner (Intellectual Discourse)</option>
+                  <option value="Friend">Casual Friend (Everyday English)</option>
+                  <option value="Customer / Client">Customer / Client (Business Negotiation)</option>
+                </select>
+              </div>
+
+              <div>
+                <label className="block text-xs font-bold uppercase tracking-wider text-[#1E1B4B] mb-1.5">
+                  Context & Focus Instructions
+                </label>
+                <textarea
+                  rows={3}
+                  placeholder="e.g. Ask me about system design trade-offs, my leadership experience, and evaluate my grammar and conciseness strictly."
+                  value={customContext}
+                  onChange={(e) => setCustomContext(e.target.value)}
+                  className="w-full px-4 py-2.5 rounded-xl border border-[#E8E5F8] text-sm text-[#1E1B4B] focus:outline-none focus:border-[#5A45FF] resize-none"
+                />
+              </div>
+
+              <div className="pt-2 flex gap-3">
+                <button
+                  type="button"
+                  onClick={() => setShowCustomModal(false)}
+                  className="flex-1 py-2.5 rounded-xl border border-[#E8E5F8] text-sm font-semibold text-[#4B5563] hover:bg-[#F7F6FF]"
+                >
+                  Cancel
+                </button>
+                <button
+                  type="submit"
+                  className="flex-1 py-2.5 rounded-xl bg-[#5A45FF] hover:bg-[#4B36F0] text-white text-sm font-bold shadow-md shadow-[#5A45FF]/20"
+                >
+                  Start Speaking
+                </button>
+              </div>
+            </form>
+          </div>
         </div>
       )}
     </div>

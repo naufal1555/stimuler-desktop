@@ -23,6 +23,7 @@ interface ChatRoomProps {
   onOpenMistakes: (analysis: TurnAnalysis) => void
   onOpenSettings?: () => void
   apiKey?: string
+  selectedAudioDeviceId?: string
 }
 
 export const ChatRoom: React.FC<ChatRoomProps> = ({
@@ -31,13 +32,15 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
   onFinishSession,
   onOpenMistakes,
   onOpenSettings,
-  apiKey
+  apiKey,
+  selectedAudioDeviceId
 }) => {
   const [messages, setMessages] = useState<ConversationMessage[]>([])
   const [isRecording, setIsRecording] = useState(false)
   const [recordingSeconds, setRecordingSeconds] = useState(0)
   const [audioLevel, setAudioLevel] = useState(0)
   const [frequencyBands, setFrequencyBands] = useState<number[]>(Array(24).fill(12))
+  const [activeWordPronounce, setActiveWordPronounce] = useState<{ word: string; prob: number } | null>(null)
   const [isProcessing, setIsProcessing] = useState(false)
   const [activeHint, setActiveHint] = useState<string | null>(null)
   const [activeTranslationId, setActiveTranslationId] = useState<string | null>(null)
@@ -74,7 +77,10 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
   useEffect(() => {
     const initSarahGreeting = async () => {
       setIsProcessing(true)
-      const greetingText = `Hi! I'm Sarah. Let's talk about "${topic.title}". What are your thoughts or experiences with this?`
+      let greetingText = `Hi! I'm Sarah. Let's talk about "${topic.title}". What are your thoughts or experiences with this?`
+      if (topic.meta?.context) {
+        greetingText = `Hi! I'm Sarah. I'm ready for our scenario: "${topic.title}". ${topic.meta.context}. Whenever you're ready, let's begin!`
+      }
       
       let audioUrl: string | undefined = undefined
       try {
@@ -143,7 +149,8 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
       await audioService.startRecording({
         onAudioLevel: (level) => setAudioLevel(level),
         onFrequencyData: (bands) => setFrequencyBands(bands),
-        bandsCount: 24
+        bandsCount: 24,
+        deviceId: selectedAudioDeviceId
       })
 
       timerRef.current = setInterval(() => {
@@ -238,6 +245,7 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
         content: {
           text: userText,
           audio_url: transcribeRes.audio_url,
+          words: transcribeRes.words || [],
           analysis: userTurnAnalysis,
           message_actions: [
             {
@@ -416,10 +424,64 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
                   ? 'bg-white border border-[#E8E5F8] text-[#1E1B4B]' 
                   : 'bg-[#5A45FF] text-white'
               }`}>
-                {/* Text Content */}
-                <p className="text-sm leading-relaxed mb-3 font-medium">
-                  {msg.content.text}
-                </p>
+                {/* Text Content with Word-by-Word Pronunciation Heatmap */}
+                {!isBot && msg.content.words && msg.content.words.length > 0 ? (
+                  <div className="text-sm leading-relaxed mb-3 font-medium flex flex-wrap gap-1 items-center">
+                    {msg.content.words.map((w, wIdx) => {
+                      const prob = w.probability ?? 1
+                      const isMispronounced = prob < 0.65
+                      const isUncertain = prob >= 0.65 && prob < 0.85
+
+                      let badgeStyle = 'hover:bg-white/20 text-white'
+                      if (isMispronounced) {
+                        badgeStyle = 'bg-[#FF5252]/40 text-[#FFE5E5] ring-1 ring-[#FF8A80] font-bold shadow-xs'
+                      } else if (isUncertain) {
+                        badgeStyle = 'bg-[#FFD54F]/30 text-[#FFFDE7] ring-1 ring-[#FFE082]/60 font-medium'
+                      } else {
+                        badgeStyle = 'hover:bg-white/15 text-white'
+                      }
+
+                      return (
+                        <button
+                          key={wIdx}
+                          type="button"
+                          onClick={() => {
+                            const clean = w.word.replace(/[^\w]/g, '')
+                            setActiveWordPronounce({ word: clean, prob: Math.round(prob * 100) })
+                            api.getTTS(clean).then((res) => {
+                              if (res.audio_url) audioService.playAudio(res.audio_url)
+                            })
+                          }}
+                          className={`px-1.5 py-0.5 rounded-md transition-all text-left text-sm ${badgeStyle}`}
+                          title={`Accuracy: ${Math.round(prob * 100)}% • Click to hear Sarah`}
+                        >
+                          {w.word}
+                        </button>
+                      )
+                    })}
+                  </div>
+                ) : (
+                  <p className="text-sm leading-relaxed mb-3 font-medium">
+                    {msg.content.text}
+                  </p>
+                )}
+
+                {/* Click-to-Listen Model Audio Toast */}
+                {!isBot && activeWordPronounce && (
+                  <div className="mb-2 px-2.5 py-1.5 rounded-lg bg-black/25 backdrop-blur-xs text-[11px] flex items-center justify-between text-white/95">
+                    <span className="flex items-center gap-1.5">
+                      <Volume2 className="w-3.5 h-3.5 text-[#FFE082]" />
+                      <span>Model pronunciation: <strong>"{activeWordPronounce.word}"</strong> ({activeWordPronounce.prob}% accuracy)</span>
+                    </span>
+                    <button
+                      type="button"
+                      onClick={() => setActiveWordPronounce(null)}
+                      className="text-white/60 hover:text-white ml-2 text-xs"
+                    >
+                      &times;
+                    </button>
+                  </div>
+                )}
 
                 {/* Translation Box if Active */}
                 {activeTranslationId === msg.message_id && translations[msg.message_id] && (

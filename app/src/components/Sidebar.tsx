@@ -9,7 +9,8 @@ import {
   Volume2,
   Compass,
   Monitor,
-  Smartphone
+  Smartphone,
+  Cpu
 } from 'lucide-react'
 import { LottiePlayer } from './LottiePlayer'
 
@@ -19,6 +20,7 @@ interface SidebarProps {
   streakCount: number
   viewMode: 'desktop' | 'mobile'
   onToggleViewMode: (mode: 'desktop' | 'mobile') => void
+  hasGemini?: boolean
 }
 
 export const Sidebar: React.FC<SidebarProps> = ({
@@ -26,7 +28,8 @@ export const Sidebar: React.FC<SidebarProps> = ({
   onSelectView,
   streakCount,
   viewMode,
-  onToggleViewMode
+  onToggleViewMode,
+  hasGemini = false
 }) => {
   const menuItems = [
     { id: 'topics', label: 'Explore Topics', icon: MessageSquare },
@@ -120,13 +123,17 @@ export const Sidebar: React.FC<SidebarProps> = ({
           </div>
         </div>
 
-        {/* Audio Engine Status */}
-        <div className="flex items-center justify-between px-3 py-2 text-xs text-[#6B7280] bg-[#F7F6FF] rounded-xl border border-[#E8E5F8]">
-          <span className="flex items-center gap-2">
-            <Volume2 className="w-4 h-4 text-[#5A45FF]" />
-            <span>Sarah Neural Voice</span>
+        {/* AI & Audio Engine Status */}
+        <div 
+          onClick={() => onSelectView('settings')}
+          className="flex items-center justify-between px-3 py-2 text-xs text-[#6B7280] bg-[#F7F6FF] hover:bg-[#EFEFFD] rounded-xl border border-[#E8E5F8] cursor-pointer transition-colors"
+          title="Click to configure AI Engine & Audio settings"
+        >
+          <span className="flex items-center gap-2 truncate">
+            <Cpu className="w-4 h-4 text-[#5A45FF] shrink-0" />
+            <span className="truncate">{hasGemini ? 'Gemini Flash (Cloud)' : 'Hybrid Offline (Local)'}</span>
           </span>
-          <span className="w-2 h-2 rounded-full bg-[#3BBE8F]" title="Ready" />
+          <span className={`w-2 h-2 rounded-full shrink-0 ${hasGemini ? 'bg-[#3BBE8F]' : 'bg-[#5A45FF]'}`} />
         </div>
 
         {/* Settings Button */}

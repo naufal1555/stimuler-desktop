@@ -2,6 +2,7 @@ export interface RecordingOptions {
   onAudioLevel?: (level: number) => void
   onFrequencyData?: (bands: number[]) => void
   bandsCount?: number
+  deviceId?: string
 }
 
 class AudioService {
@@ -12,6 +13,23 @@ class AudioService {
   private analyser: AnalyserNode | null = null
   private micStream: MediaStream | null = null
   private animFrameId: number | null = null
+  private playbackListeners: Set<(isPlaying: boolean) => void> = new Set()
+
+  subscribePlayback(listener: (isPlaying: boolean) => void): () => void {
+    this.playbackListeners.add(listener)
+    listener(this.isPlaying())
+    return () => {
+      this.playbackListeners.delete(listener)
+    }
+  }
+
+  private notifyPlayback(isPlaying: boolean): void {
+    this.playbackListeners.forEach((fn) => fn(isPlaying))
+  }
+
+  isPlaying(): boolean {
+    return !!this.currentAudio && !this.currentAudio.paused && !this.currentAudio.ended
+  }
 
   async startRecording(
     listenerOrOptions?: ((level: number) => void) | RecordingOptions
@@ -22,6 +40,7 @@ class AudioService {
     let onAudioLevel: ((level: number) => void) | undefined
     let onFrequencyData: ((bands: number[]) => void) | undefined
     let bandsCount = 24
+    let deviceId: string | undefined
 
     if (typeof listenerOrOptions === 'function') {
       onAudioLevel = listenerOrOptions
@@ -29,16 +48,22 @@ class AudioService {
       onAudioLevel = listenerOrOptions.onAudioLevel
       onFrequencyData = listenerOrOptions.onFrequencyData
       bandsCount = listenerOrOptions.bandsCount || 24
+      deviceId = listenerOrOptions.deviceId
+    }
+
+    const audioConstraints: MediaTrackConstraints = {
+      channelCount: 1,
+      sampleRate: 16000,
+      echoCancellation: true,
+      noiseSuppression: true,
+      autoGainControl: true
+    }
+    if (deviceId) {
+      audioConstraints.deviceId = { exact: deviceId }
     }
 
     this.micStream = await navigator.mediaDevices.getUserMedia({
-      audio: {
-        channelCount: 1,
-        sampleRate: 16000,
-        echoCancellation: true,
-        noiseSuppression: true,
-        autoGainControl: true
-      }
+      audio: audioConstraints
     })
 
     const options = MediaRecorder.isTypeSupported('audio/webm;codecs=opus')
@@ -133,14 +158,21 @@ class AudioService {
   playAudio(url: string, onEnded?: () => void): HTMLAudioElement {
     this.stopPlayback()
     this.currentAudio = new Audio(url)
-    if (onEnded) {
-      this.currentAudio.onended = () => {
-        this.currentAudio = null
+    this.notifyPlayback(true)
+    this.currentAudio.onended = () => {
+      this.currentAudio = null
+      this.notifyPlayback(false)
+      if (onEnded) {
         onEnded()
       }
     }
+    this.currentAudio.onerror = () => {
+      this.currentAudio = null
+      this.notifyPlayback(false)
+    }
     this.currentAudio.play().catch((err) => {
       console.warn('Audio playback error:', err)
+      this.notifyPlayback(false)
     })
     return this.currentAudio
   }
@@ -157,6 +189,7 @@ class AudioService {
       this.currentAudio.pause()
       this.currentAudio.currentTime = 0
       this.currentAudio = null
+      this.notifyPlayback(false)
     }
   }
 

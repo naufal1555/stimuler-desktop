@@ -118,6 +118,7 @@ export const App: React.FC = () => {
           onOpenMistakes={(analysis) => setActiveMistakes(analysis)}
           onOpenSettings={() => setCurrentView('settings')}
           apiKey={settings.geminiApiKey}
+          selectedAudioDeviceId={settings.selectedAudioDeviceId}
         />
       )}
 
@@ -161,6 +162,7 @@ export const App: React.FC = () => {
         streakCount={settings.streakCount}
         viewMode={viewMode}
         onToggleViewMode={handleToggleViewMode}
+        hasGemini={!!settings.geminiApiKey}
       />
 
       {/* Main Workspace Area */}

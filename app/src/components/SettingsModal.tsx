@@ -1,6 +1,6 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { UserSettings } from '../types'
-import { Key, Cpu, Globe, Clock, Save, Check } from 'lucide-react'
+import { Key, Cpu, Globe, Clock, Save, Check, Mic } from 'lucide-react'
 
 interface SettingsModalProps {
   settings: UserSettings
@@ -13,6 +13,18 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({
 }) => {
   const [form, setForm] = useState<UserSettings>(settings)
   const [savedAlert, setSavedAlert] = useState(false)
+  const [audioDevices, setAudioDevices] = useState<MediaDeviceInfo[]>([])
+
+  useEffect(() => {
+    if (navigator.mediaDevices?.enumerateDevices) {
+      navigator.mediaDevices.enumerateDevices().then((devices) => {
+        const inputs = devices.filter((d) => d.kind === 'audioinput')
+        setAudioDevices(inputs)
+      }).catch((err) => {
+        console.warn('Microphone enumeration error:', err)
+      })
+    }
+  }, [])
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
@@ -108,6 +120,29 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({
               <option value="id">Bahasa Indonesia (Indonesian)</option>
               <option value="en">English</option>
             </select>
+          </div>
+
+          {/* Microphone Input Device Selection */}
+          <div>
+            <label className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-[#1E1B4B] mb-2">
+              <Mic className="w-4 h-4 text-[#5A45FF]" />
+              <span>Microphone Input Device</span>
+            </label>
+            <select
+              value={form.selectedAudioDeviceId || ''}
+              onChange={(e) => setForm({ ...form, selectedAudioDeviceId: e.target.value })}
+              className="w-full px-4 py-2.5 rounded-xl border border-[#E8E5F8] text-sm text-[#1E1B4B] focus:outline-none focus:border-[#5A45FF]"
+            >
+              <option value="">Default System Microphone</option>
+              {audioDevices.map((dev, i) => (
+                <option key={dev.deviceId || i} value={dev.deviceId}>
+                  {dev.label || `Microphone ${i + 1}`}
+                </option>
+              ))}
+            </select>
+            <p className="text-xs text-[#6B7280] mt-1.5">
+              Select your preferred headset, USB microphone, or built-in audio input device.
+            </p>
           </div>
 
           {/* Daily Goal */}

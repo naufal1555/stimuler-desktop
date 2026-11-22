@@ -1,7 +1,14 @@
 export type AppView = 'topics' | 'chat' | 'analysis' | 'roadmap' | 'drills' | 'settings'
 
+export interface WordTiming {
+  word: string
+  start: number
+  end: number
+  probability: number
+}
+
 export interface Topic {
-  topic_id: number
+  topic_id: number | string
   topic_order: number
   title: string
   image_url: string
@@ -12,6 +19,11 @@ export interface Topic {
   attempt_status: 'available' | 'in_progress' | 'completed' | 'premium_locked'
   open_mode: 'new' | 'resume' | 'history'
   last_conversation_id?: string | null
+  meta?: {
+    context?: string
+    role?: string
+    difficulty?: string
+  }
 }
 
 export interface TopicCategory {
@@ -128,6 +140,7 @@ export interface ConversationMessage {
       }
     }>
     analysis?: TurnAnalysis
+    words?: WordTiming[]
     options?: Array<{ id: string; label: string }>
     multi_select?: boolean
     selected_ids?: string[]
@@ -192,4 +205,5 @@ export interface UserSettings {
   nativeLanguage: 'id' | 'en'
   dailyGoalMinutes: number
   streakCount: number
+  selectedAudioDeviceId?: string
 }

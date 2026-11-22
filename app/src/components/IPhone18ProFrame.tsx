@@ -1,4 +1,5 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
+import { audioService } from '../services/audioService'
 
 interface IPhone18ProFrameProps {
   children: React.ReactNode
@@ -9,6 +10,14 @@ export const IPhone18ProFrame: React.FC<IPhone18ProFrameProps> = ({
   children,
   isRecording = false
 }) => {
+  const [isSpeaking, setIsSpeaking] = useState(false)
+
+  useEffect(() => {
+    const unsubscribe = audioService.subscribePlayback((playing) => {
+      setIsSpeaking(playing)
+    })
+    return () => unsubscribe()
+  }, [])
   return (
     <div className="relative flex flex-col items-center justify-center">
       {/* Device Info Tag */}
@@ -61,25 +70,37 @@ export const IPhone18ProFrame: React.FC<IPhone18ProFrameProps> = ({
                 <span className="text-[13px] font-bold text-[#1E1B4B] tracking-tight">9:41</span>
               </div>
 
-              {/* Center: Interactive Dynamic Island */}
-              <div className="group pointer-events-auto h-[28px] px-2.5 bg-black rounded-full flex items-center justify-between shadow-md shadow-black/40 transition-all duration-300 ease-out hover:w-[136px] w-[112px] cursor-pointer">
+              {/* Center: Interactive Dynamic Island Live Activity */}
+              <div className={`group pointer-events-auto h-[28px] px-2.5 bg-black rounded-full flex items-center justify-between shadow-md shadow-black/40 transition-all duration-300 ease-out cursor-pointer ${
+                isSpeaking ? 'w-[148px] ring-1 ring-[#5A45FF]/40' : isRecording ? 'w-[136px] ring-1 ring-[#F35252]/40' : 'w-[112px] hover:w-[132px]'
+              }`}>
                 {/* Front Camera Aperture */}
-                <div className="w-2.5 h-2.5 rounded-full bg-[#0D1525] ring-1 ring-[#1E293B]/70 flex items-center justify-center relative">
+                <div className="w-2.5 h-2.5 rounded-full bg-[#0D1525] ring-1 ring-[#1E293B]/70 flex items-center justify-center relative shrink-0">
                   <div className="w-1 h-1 rounded-full bg-[#182A48]" />
                 </div>
 
-                {/* Privacy Mic/Audio Indicator */}
+                {/* Live Activity State Displays */}
                 {isRecording ? (
-                  <div className="flex items-center gap-1 animate-pulse">
+                  <div className="flex items-center gap-1.5 animate-pulse">
                     <span className="w-2 h-2 rounded-full bg-[#F35252]" />
-                    <span className="text-[9px] font-bold text-[#F35252] font-mono pr-0.5">REC</span>
+                    <span className="text-[10px] font-bold text-[#F35252] font-mono tracking-wider">REC</span>
+                  </div>
+                ) : isSpeaking ? (
+                  <div className="flex items-center gap-1.5 px-1">
+                    <div className="flex items-center gap-[2.5px] h-3">
+                      <div className="w-[2px] h-2.5 bg-[#3BBE8F] rounded-full animate-bounce [animation-delay:0ms]" />
+                      <div className="w-[2px] h-3.5 bg-[#5A45FF] rounded-full animate-bounce [animation-delay:150ms]" />
+                      <div className="w-[2px] h-2 bg-[#3BBE8F] rounded-full animate-bounce [animation-delay:300ms]" />
+                      <div className="w-[2px] h-3 bg-[#A599FF] rounded-full animate-bounce [animation-delay:450ms]" />
+                    </div>
+                    <span className="text-[9px] font-semibold text-white/90">Sarah</span>
                   </div>
                 ) : (
                   <span className="w-1.5 h-1.5 rounded-full bg-[#3BBE8F]/60 opacity-0 group-hover:opacity-100 transition-opacity" />
                 )}
 
                 {/* FaceID Sensor Slot */}
-                <div className="w-2 h-2 rounded-full bg-[#08080C]" />
+                <div className="w-2 h-2 rounded-full bg-[#08080C] shrink-0" />
               </div>
 
               {/* Right: Cellular, Wi-Fi, and Battery Status Icons */}
