@@ -2,11 +2,46 @@
 
 [![CI Pipeline](https://github.com/naufal1555/stimuler-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/naufal1555/stimuler-desktop/actions/workflows/ci.yml)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Release: v2.0](https://img.shields.io/badge/Release-v2.0--Enhanced-blueviolet)
+![UI: iPhone 18 Pro Max Frame](https://img.shields.io/badge/UI-iPhone%2018%20Pro%20Max%20Dual--View-black)
 ![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13-blue)
 ![Electron](https://img.shields.io/badge/Electron-35.0-47848F)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688)
 
 A high-performance PC desktop replica of **Stimuler** (AI English Speaking & Fluency Coach), engineered with **Hexagonal Architecture (Ports & Adapters / Clean Architecture)**, native microphone streaming, low-latency Speech-to-Text, acoustic phoneme scoring, and multi-turn conversational AI coaching.
+
+---
+
+## What's New in v2.0 (Advanced UI/UX & AI Pedagogy)
+
+Stimuler Desktop v2.0 introduces deep reverse-engineered pedagogical tools and an authentic flagship mobile mockup simulator:
+
+- **Flagship Dual-View Switcher (iPhone 18 Pro Max Frame vs Desktop Expanded):**
+  - Toggle seamlessly between a full-width desktop workstation and an authentic **iPhone 18 Pro Max (Natural Titanium)** 19.5:9 OLED device frame.
+  - Interactive **Dynamic Island Live Activities**:
+    - **Speech Waveform:** Dynamically expands with jumping audio bars while Sarah speaks.
+    - **Recording Countdown:** Displays a pulsing red `REC` indicator with live timer during user speech.
+  - Tactile Action Button, volume rockers, power key, laser-etched speaker slit, and iOS home bar.
+
+- **Word-by-Word Acoustic Pronunciation Heatmap:**
+  - Token-level acoustic confidence mapping powered by Faster-Whisper:
+    - **Green (`>= 85%`):** Accurate, fluent native-level articulation.
+    - **Amber (`65% - 85%`):** Slight hesitation or minor phoneme imperfection.
+    - **Coral/Red (`< 65%`):** Mispronounced or phonetic anomaly.
+  - **Click-to-Listen:** Click any spoken word to hear Sarah's model pronunciation instantly with acoustic accuracy scores.
+
+- **Custom Scenario & Roleplay Generator:**
+  - Create unlimited roleplay situations beyond static catalogs (e.g. *Google Technical Interview*, *Salary Negotiation*, *Academic Thesis Defense*).
+  - Dynamically primes Sarah's persona, evaluation criteria, and conversational tone.
+
+- **Audio Input Device Selector:**
+  - Enumerate and choose physical microphone devices (headset, external USB mic, or laptop mic) directly in Settings via `navigator.mediaDevices.enumerateDevices()`.
+
+- **Comprehensive Session Report Exporter:**
+  - One-click export to formatted Markdown (`.md`) or Print to PDF containing IELTS Band breakdown, full transcript, grammar fixes, and pronunciation drills.
+
+- **Real-Time 24-Band FFT Audio Frequency Visualizer:**
+  - Web Audio API `AudioContext` and `AnalyserNode` generating fluid jumping equalizer bars during microphone recording.
 
 ---
 
@@ -99,7 +134,7 @@ stimuler-desktop/
 ├── app/                        # Frontend Desktop Client (React 18 + Vite + TS + Electron)
 │   ├── electron/               # Electron main & preload scripts
 │   ├── src/
-│   │   ├── components/         # ChatRoom, TopicCatalog, MistakesDrawer, PronunciationDrill
+│   │   ├── components/         # ChatRoom, TopicCatalog, IPhone18ProFrame, MistakesDrawer, Drills
 │   │   ├── services/           # API client and Web Audio recording services
 │   │   └── types/              # TypeScript interface definitions
 │   └── package.json
