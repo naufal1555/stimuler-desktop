@@ -41,6 +41,7 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
   const [audioLevel, setAudioLevel] = useState(0)
   const [frequencyBands, setFrequencyBands] = useState<number[]>(Array(24).fill(12))
   const [activeWordPronounce, setActiveWordPronounce] = useState<{ word: string; prob: number } | null>(null)
+  const [voiceSpeed, setVoiceSpeed] = useState<number>(1.0)
   const [isProcessing, setIsProcessing] = useState(false)
   const [activeHint, setActiveHint] = useState<string | null>(null)
   const [activeTranslationId, setActiveTranslationId] = useState<string | null>(null)
@@ -336,8 +337,22 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
           </div>
         </div>
 
-        {/* Stars Counter & Finish Action */}
-        <div className="flex items-center gap-2 sm:gap-4 shrink-0">
+        {/* Stars Counter, Speed Control & Finish Action */}
+        <div className="flex items-center gap-2 sm:gap-3 shrink-0">
+          {/* Speed Toggle Button */}
+          <button
+            type="button"
+            onClick={() => {
+              const next = voiceSpeed === 1.0 ? 0.75 : voiceSpeed === 0.75 ? 1.25 : 1.0
+              setVoiceSpeed(next)
+              audioService.setPlaybackSpeed(next)
+            }}
+            className="px-2 py-1 bg-[#F0EDFC] hover:bg-[#E2DEF4] text-[#5A45FF] rounded-lg text-xs font-bold border border-[#E8E5F8] transition-colors"
+            title="Cycle Sarah's audio playback speed (0.75x, 1.0x, 1.25x)"
+          >
+            {voiceSpeed}x
+          </button>
+
           <div className="hidden sm:flex items-center gap-1.5 px-3 py-1 bg-[#FFF9E6] border border-[#FFE8A3] rounded-full text-xs font-bold text-[#F9A834]">
             <Sparkles className="w-3.5 h-3.5 fill-[#F9A834]" />
             <span>{stars.current}/{stars.total} Stars</span>

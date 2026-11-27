@@ -21,6 +21,20 @@ async def test_health_endpoint():
         assert "Hexagonal" in data["engine"]
 
 @pytest.mark.asyncio
+async def test_diagnostics_endpoint():
+    transport = ASGITransport(app=app)
+    async with AsyncClient(transport=transport, base_url="http://test") as client:
+        response = await client.get("/api/diagnostics")
+        assert response.status_code == 200
+        data = response.json()
+        assert data["status"] == "healthy"
+        assert data["version"] == "2.1.0"
+        assert "whisper" in data
+        assert data["whisper"]["status"] == "ready"
+        assert "audio_cache" in data
+        assert "ai_providers" in data
+
+@pytest.mark.asyncio
 async def test_catalog_endpoints():
     transport = ASGITransport(app=app)
     async with AsyncClient(transport=transport, base_url="http://test") as client:

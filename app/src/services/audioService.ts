@@ -14,6 +14,18 @@ class AudioService {
   private micStream: MediaStream | null = null
   private animFrameId: number | null = null
   private playbackListeners: Set<(isPlaying: boolean) => void> = new Set()
+  private playbackSpeed: number = 1.0
+
+  setPlaybackSpeed(speed: number): void {
+    this.playbackSpeed = speed
+    if (this.currentAudio) {
+      this.currentAudio.playbackRate = speed
+    }
+  }
+
+  getPlaybackSpeed(): number {
+    return this.playbackSpeed
+  }
 
   subscribePlayback(listener: (isPlaying: boolean) => void): () => void {
     this.playbackListeners.add(listener)
@@ -158,6 +170,7 @@ class AudioService {
   playAudio(url: string, onEnded?: () => void): HTMLAudioElement {
     this.stopPlayback()
     this.currentAudio = new Audio(url)
+    this.currentAudio.playbackRate = this.playbackSpeed
     this.notifyPlayback(true)
     this.currentAudio.onended = () => {
       this.currentAudio = null

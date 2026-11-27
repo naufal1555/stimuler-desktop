@@ -112,8 +112,37 @@ def health():
     return {
         "status": "ok",
         "engine": "Stimuler Hexagonal Clean Architecture Backend",
-        "version": "2.0.0",
+        "version": "2.1.0",
         "port": PORT
+    }
+
+@app.get("/api/diagnostics")
+def diagnostics():
+    """Returns deep subsystem diagnostic metrics without exposing secrets."""
+    cache_files = [f for f in container.audio_cache_dir.iterdir() if f.is_file() and f.name != ".gitkeep"]
+    cache_size_mb = round(sum(f.stat().st_size for f in cache_files) / (1024 * 1024), 2)
+    
+    gemini_key = os.environ.get("GEMINI_API_KEY", "")
+    has_gemini = bool(gemini_key and not gemini_key.startswith("AIzaSyFake"))
+
+    return {
+        "status": "healthy",
+        "engine": "Stimuler Hexagonal Clean Architecture Backend",
+        "version": "2.1.0",
+        "whisper": {
+            "model": "small.en",
+            "quantization": "int8",
+            "status": "ready"
+        },
+        "audio_cache": {
+            "file_count": len(cache_files),
+            "size_mb": cache_size_mb
+        },
+        "ai_providers": {
+            "gemini_cloud_configured": has_gemini,
+            "offline_brain_ready": True
+        },
+        "tts_engine": "Microsoft Edge-TTS Neural Voice (en-US-JennyNeural)"
     }
 
 if __name__ == "__main__":

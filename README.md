@@ -2,8 +2,8 @@
 
 [![CI Pipeline](https://github.com/naufal1555/stimuler-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/naufal1555/stimuler-desktop/actions/workflows/ci.yml)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Release: v2.0](https://img.shields.io/badge/Release-v2.0--Enhanced-blueviolet)
-![UI: iPhone 18 Pro Max Frame](https://img.shields.io/badge/UI-iPhone%2018%20Pro%20Max%20Dual--View-black)
+![Release: v2.1](https://img.shields.io/badge/Release-v2.1--Enhanced-blueviolet)
+![UI: iPhone 18 Pro Max Frame](https://img.shields.io/badge/UI-iPhone%2018%20Pro%20Max%20Finishes-black)
 ![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13-blue)
 ![Electron](https://img.shields.io/badge/Electron-35.0-47848F)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688)
@@ -12,9 +12,27 @@ A high-performance PC desktop replica of **Stimuler** (AI English Speaking & Flu
 
 ---
 
-## What's New in v2.0 (Advanced UI/UX & AI Pedagogy)
+## What's New in v2.1 (Shadowing Mode, Voice Speed & Diagnostics)
 
-Stimuler Desktop v2.0 introduces deep reverse-engineered pedagogical tools and an authentic flagship mobile mockup simulator:
+Stimuler Desktop v2.1 brings pedagogical shadowing drills, voice speed controls, deep engine diagnostics, and multi-finish hardware styling:
+
+- **Sentence Shadowing Mode (Pronunciation Drill):**
+  - Switch between isolated word phonemes and full-sentence shadowing drills with native audio modeling.
+  - Real-time Speech-to-Text token alignment with color-coded accuracy indicators and Words-Per-Minute (WPM) cadence scoring.
+
+- **Dynamic Voice Playback Speed Controller:**
+  - Fine-tune Sarah's speech playback rate on the fly (`0.75x` for careful listening, `1.0x` for natural rhythm, `1.25x` for brisk native cadence) directly in the conversation header without pitch distortion.
+
+- **iPhone 18 Pro Max Titanium Finish Selector:**
+  - Cycle dynamically between **Natural Titanium**, **Space Black**, and **Desert Titanium** finishes with reactive chassis gradients and hardware button highlights.
+  - Interactive **Dynamic Island Live Activities** displaying real-time speaker waveforms and recording states.
+
+- **Subsystem Diagnostics Endpoint (`/api/diagnostics`):**
+  - Comprehensive health auditing covering Whisper model quantization status, audio cache footprint, and AI provider connectivity.
+
+---
+
+## Features & Core Capabilities (v2.0 Highlights)
 
 - **Flagship Dual-View Switcher (iPhone 18 Pro Max Frame vs Desktop Expanded):**
   - Toggle seamlessly between a full-width desktop workstation and an authentic **iPhone 18 Pro Max (Natural Titanium)** 19.5:9 OLED device frame.

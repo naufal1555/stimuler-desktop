@@ -11,6 +11,31 @@ export const IPhone18ProFrame: React.FC<IPhone18ProFrameProps> = ({
   isRecording = false
 }) => {
   const [isSpeaking, setIsSpeaking] = useState(false)
+  const [finish, setFinish] = useState<'natural' | 'space_black' | 'desert_titanium'>('natural')
+
+  const finishConfig = {
+    natural: {
+      label: 'Natural Titanium',
+      borderGrad: 'from-[#3D3C42] via-[#212025] to-[#3D3C42]',
+      buttonGrad: 'from-[#2B2A30] to-[#484650]'
+    },
+    space_black: {
+      label: 'Space Black',
+      borderGrad: 'from-[#1C1B20] via-[#0D0C10] to-[#1C1B20]',
+      buttonGrad: 'from-[#17161A] to-[#2E2D33]'
+    },
+    desert_titanium: {
+      label: 'Desert Titanium',
+      borderGrad: 'from-[#463B31] via-[#241E19] to-[#463B31]',
+      buttonGrad: 'from-[#322A22] to-[#5A4D40]'
+    }
+  }
+
+  const currentFinish = finishConfig[finish]
+
+  const handleCycleFinish = () => {
+    setFinish((prev) => (prev === 'natural' ? 'space_black' : prev === 'space_black' ? 'desert_titanium' : 'natural'))
+  }
 
   useEffect(() => {
     const unsubscribe = audioService.subscribePlayback((playing) => {
@@ -20,36 +45,44 @@ export const IPhone18ProFrame: React.FC<IPhone18ProFrameProps> = ({
   }, [])
   return (
     <div className="relative flex flex-col items-center justify-center">
-      {/* Device Info Tag */}
+      {/* Device Info Tag with Interactive Finish Switcher */}
       <div className="mb-3.5 flex items-center gap-2 px-3 py-1 bg-white/70 backdrop-blur-md rounded-full border border-[#E2DEF4] shadow-xs text-[11px] font-semibold text-[#4B4869]">
         <span className="w-2 h-2 rounded-full bg-[#3BBE8F]" />
         <span>iPhone 18 Pro Max</span>
         <span className="text-[#8E8AAB]">|</span>
-        <span className="text-[#6D6890]">Natural Titanium</span>
+        <button
+          type="button"
+          onClick={handleCycleFinish}
+          className="text-[#5A45FF] hover:underline cursor-pointer flex items-center gap-1 font-bold"
+          title="Click to cycle titanium finish"
+        >
+          <span>{currentFinish.label}</span>
+          <span className="text-[10px] opacity-70">↺</span>
+        </button>
         <span className="text-[#8E8AAB]">|</span>
         <span className="text-[#6D6890]">19.5 : 9 OLED</span>
       </div>
 
       {/* Main iPhone 18 Pro Hardware Chassis */}
-      <div className="relative w-[408px] h-[93vh] max-h-[880px] min-h-[720px] rounded-[55px] p-[3.5px] bg-gradient-to-b from-[#3D3C42] via-[#212025] to-[#3D3C42] shadow-[0_25px_70px_-15px_rgba(20,18,35,0.6),0_0_0_1px_rgba(255,255,255,0.12),inset_0_1px_1px_rgba(255,255,255,0.3)] transition-all duration-300">
+      <div className={`relative w-[408px] h-[93vh] max-h-[880px] min-h-[720px] rounded-[55px] p-[3.5px] bg-gradient-to-b ${currentFinish.borderGrad} shadow-[0_25px_70px_-15px_rgba(20,18,35,0.6),0_0_0_1px_rgba(255,255,255,0.12),inset_0_1px_1px_rgba(255,255,255,0.3)] transition-all duration-300`}>
         
         {/* Left Hardware Buttons (Action Button & Volume Keys) */}
         <div 
-          className="absolute top-28 -left-[4.5px] w-[4px] h-8 rounded-l-[3px] bg-gradient-to-r from-[#2B2A30] to-[#484650] shadow-xs cursor-pointer active:translate-x-[1px]" 
+          className={`absolute top-28 -left-[4.5px] w-[4px] h-8 rounded-l-[3px] bg-gradient-to-r ${currentFinish.buttonGrad} shadow-xs cursor-pointer active:translate-x-[1px]`} 
           title="Action Button"
         />
         <div 
-          className="absolute top-40 -left-[4.5px] w-[4px] h-12 rounded-l-[3px] bg-gradient-to-r from-[#2B2A30] to-[#484650] shadow-xs cursor-pointer active:translate-x-[1px]" 
+          className={`absolute top-40 -left-[4.5px] w-[4px] h-12 rounded-l-[3px] bg-gradient-to-r ${currentFinish.buttonGrad} shadow-xs cursor-pointer active:translate-x-[1px]`} 
           title="Volume Up"
         />
         <div 
-          className="absolute top-56 -left-[4.5px] w-[4px] h-12 rounded-l-[3px] bg-gradient-to-r from-[#2B2A30] to-[#484650] shadow-xs cursor-pointer active:translate-x-[1px]" 
+          className={`absolute top-56 -left-[4.5px] w-[4px] h-12 rounded-l-[3px] bg-gradient-to-r ${currentFinish.buttonGrad} shadow-xs cursor-pointer active:translate-x-[1px]`} 
           title="Volume Down"
         />
 
         {/* Right Hardware Button (Power / Siri Lock Button) */}
         <div 
-          className="absolute top-42 -right-[4.5px] w-[4px] h-16 rounded-r-[3px] bg-gradient-to-l from-[#2B2A30] to-[#484650] shadow-xs cursor-pointer active:-translate-x-[1px]" 
+          className={`absolute top-42 -right-[4.5px] w-[4px] h-16 rounded-r-[3px] bg-gradient-to-l ${currentFinish.buttonGrad} shadow-xs cursor-pointer active:-translate-x-[1px]`} 
           title="Power / Lock Key"
         />
 

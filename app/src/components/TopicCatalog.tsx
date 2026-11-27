@@ -47,7 +47,7 @@ export const TopicCatalog: React.FC<TopicCatalogProps> = ({
   }
 
   return (
-    <div className="flex-1 flex flex-col h-full overflow-y-auto p-4 sm:p-8 max-w-6xl mx-auto w-full">
+    <div className="flex-1 flex flex-col h-full overflow-y-auto overflow-x-hidden p-3.5 sm:p-8 max-w-6xl mx-auto w-full">
       {/* Hero Welcome Banner */}
       <div className="relative overflow-hidden rounded-2xl sm:rounded-3xl bg-gradient-to-r from-[#5A45FF] to-[#7B69FF] text-white p-5 sm:p-8 mb-4 sm:mb-8 shadow-lg shadow-[#5A45FF]/15 shrink-0">
         <div className="relative z-10 max-w-xl">
@@ -94,7 +94,7 @@ export const TopicCatalog: React.FC<TopicCatalogProps> = ({
         {/* Custom Scenario Button */}
         <button
           onClick={() => setShowCustomModal(true)}
-          className="px-4 py-2 sm:py-2.5 rounded-full text-xs sm:text-sm font-bold bg-[#5A45FF] text-white hover:bg-[#4B36F0] shadow-sm shrink-0 flex items-center gap-1.5 transition-all ml-auto"
+          className="px-3.5 py-2 sm:px-4 sm:py-2.5 rounded-full text-xs sm:text-sm font-bold bg-[#5A45FF] text-white hover:bg-[#4B36F0] shadow-sm shrink-0 flex items-center gap-1.5 transition-all"
           title="Create your own roleplay scenario"
         >
           <Plus className="w-4 h-4" />
