@@ -34,6 +34,11 @@ async def test_diagnostics_endpoint():
         assert "audio_cache" in data
         assert "ai_providers" in data
 
+        # Clear cache test
+        clear_res = await client.post("/api/diagnostics/cache/clear")
+        assert clear_res.status_code == 200
+        assert clear_res.json()["status"] == "success"
+
 @pytest.mark.asyncio
 async def test_catalog_endpoints():
     transport = ASGITransport(app=app)

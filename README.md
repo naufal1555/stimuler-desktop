@@ -27,8 +27,11 @@ Stimuler Desktop v2.1 brings pedagogical shadowing drills, voice speed controls,
   - Cycle dynamically between **Natural Titanium**, **Space Black**, and **Desert Titanium** finishes with reactive chassis gradients and hardware button highlights.
   - Interactive **Dynamic Island Live Activities** displaying real-time speaker waveforms and recording states.
 
-- **Subsystem Diagnostics Endpoint (`/api/diagnostics`):**
-  - Comprehensive health auditing covering Whisper model quantization status, audio cache footprint, and AI provider connectivity.
+- **Hands-Free Desktop Spacebar Speech Hotkey:**
+  - Instantly toggle speaking with `Space` in the desktop conversation room, featuring real-time state feedback and audio cues.
+
+- **Subsystem Diagnostics & Cache Management (`/api/diagnostics`):**
+  - Comprehensive health auditing covering Whisper model quantization status, audio cache footprint, and AI provider connectivity with on-demand cache cleanup (`/api/diagnostics/cache/clear`).
 
 ---
 

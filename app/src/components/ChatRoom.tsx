@@ -140,6 +140,31 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
     chatEndRef.current?.scrollIntoView({ behavior: 'smooth' })
   }, [messages, isProcessing])
 
+  // Hands-free Spacebar shortcut to toggle speaking
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (
+        e.target instanceof HTMLInputElement ||
+        e.target instanceof HTMLTextAreaElement ||
+        e.isComposing
+      ) {
+        return
+      }
+
+      if (e.code === 'Space') {
+        e.preventDefault()
+        if (isRecording) {
+          handleStopAndSubmit()
+        } else if (!isProcessing) {
+          handleStartRecording()
+        }
+      }
+    }
+
+    window.addEventListener('keydown', handleKeyDown)
+    return () => window.removeEventListener('keydown', handleKeyDown)
+  }, [isRecording, isProcessing, selectedAudioDeviceId, topic, messages])
+
   // Start Mic Recording
   const handleStartRecording = async () => {
     try {
@@ -638,8 +663,10 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
                 </span>
               </>
             ) : (
-              <div className="text-xs text-[#6B7280] font-medium text-center w-full">
-                Tap the microphone button to start your 60-second speech
+              <div className="text-xs text-[#6B7280] font-medium text-center w-full flex items-center justify-center gap-1.5">
+                <span>Tap microphone or press</span>
+                <kbd className="px-1.5 py-0.5 text-[10px] font-mono bg-[#EDEAF8] border border-[#D9D4F0] rounded text-[#4B4869] shadow-xs">Space</kbd>
+                <span>to speak</span>
               </div>
             )}
           </div>
@@ -650,7 +677,7 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
               onClick={handleStartRecording}
               disabled={isProcessing}
               className="w-14 h-14 rounded-2xl bg-[#5A45FF] hover:bg-[#4B36F0] disabled:opacity-50 text-white flex items-center justify-center shadow-lg shadow-[#5A45FF]/30 transition-all active:scale-95 shrink-0"
-              title="Tap to Speak"
+              title="Tap or Press Space to Speak"
             >
               <Mic className="w-6 h-6" />
             </button>
@@ -658,7 +685,7 @@ export const ChatRoom: React.FC<ChatRoomProps> = ({
             <button
               onClick={handleStopAndSubmit}
               className="w-14 h-14 rounded-2xl bg-[#F35252] text-white flex items-center justify-center shadow-lg shadow-[#F35252]/30 active:scale-95 shrink-0 relative overflow-hidden"
-              title="Tap to Submit"
+              title="Tap or Press Space to Submit"
             >
               <div className="absolute inset-0 pointer-events-none opacity-80 scale-125">
                 <LottiePlayer src="/assets/lottie/mic_button_indonesia.json" className="w-full h-full" />

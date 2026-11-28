@@ -145,6 +145,19 @@ def diagnostics():
         "tts_engine": "Microsoft Edge-TTS Neural Voice (en-US-JennyNeural)"
     }
 
+@app.post("/api/diagnostics/cache/clear")
+def clear_audio_cache():
+    """Cleans temporary audio files from the audio cache directory while preserving .gitkeep."""
+    removed = 0
+    for f in container.audio_cache_dir.iterdir():
+        if f.is_file() and f.name != ".gitkeep":
+            try:
+                f.unlink()
+                removed += 1
+            except Exception as e:
+                logger.warning("Could not delete cache file %s: %s", f.name, e)
+    return {"status": "success", "files_removed": removed}
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="127.0.0.1", port=PORT, reload=False)
